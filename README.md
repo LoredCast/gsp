@@ -1,12 +1,24 @@
 # gsp: GegenStandpunkt source collection
 
-This repository contains German-language GegenStandpunkt articles collected into thematic Markdown files, alongside a separate correspondence folder. This README is the entry point to the whole collection: the file-level sitemap below links to complete indexes of **1,965 articles** and **8,385 subsection headings**, preserving the source files' existing categories and order.
+## Arbeitsstand
+
+Dieses Repository dient dazu, die Theorie des GegenStandpunkt (GSP) korrekt herauszuarbeiten und ebenso ihre Probleme, Inkonsistenzen und die Bereiche, die sie nicht erklären oder erfassen kann. Neben den Primärtexten in `sources/` gibt es drei Arbeitsordner:
+
+- **[theorie/](theorie/)**: [GSP-Theorie.md](theorie/GSP-Theorie.md), eine Rekonstruktion der Theorie aus den Zeitschriftenartikeln, nach Themen geordnet und mit wörtlichen, geprüften Zitaten belegt, dazu ihre Prüfungen und Korrekturen.
+- **[angriffspunkte/](angriffspunkte/)**: die bisher erarbeiteten Probleme und offenen Fragen, je eine Datei mit These, GSP-Fundstellen, stärkster Gegenrede, Stand und Suchansätzen; dazu verworfene Einwände und noch offene Forschungsfelder.
+- **[korrespondenz/](korrespondenz/)**: der Briefwechsel mit dem GSP-Verlag, alle Antwortentwürfe und ihre Bewertungen.
+
+Zitate in Arbeitsdateien lassen sich mit `node scripts/check-quotes.mjs <dateien>` gegen `sources/` prüfen.
+
+## The source collection
+
+This repository contains German-language GegenStandpunkt articles collected into thematic Markdown files, alongside the working folders described above. This README is the entry point to the whole collection: the file-level sitemap below links to complete indexes of **1,965 articles** and **8,385 subsection headings**, preserving the source files' existing categories and order.
 
 ## Navigation
 
 - [Source-material sitemap](#source-material-sitemap): all source files, category descriptions and article counts.
 - [Repository layout](#repository-layout): where the materials and generated indexes live.
-- [Correspondence](#correspondence): the separate letters and replies in `comms/`.
+- [Arbeitsstand](#arbeitsstand): the theory write-up, the open problems and the correspondence.
 - [Reading and searching](#reading-and-searching): how to navigate the large Markdown files.
 - [Coverage and limitations](#coverage-and-limitations): what the collection and sitemap do, and do not, cover.
 - [Regenerating the sitemap](#regenerating-the-sitemap): keep the documentation in sync with the materials.
@@ -76,27 +88,21 @@ gsp/
 │   ├── 16-wissenschaft-bildung-kultur-medien.md
 │   ├── 17-verschiedenes.md
 │   └── 18-chronologisches-register.md
-├── comms/
-│   ├── leserbriefe-ausgangsbriefe(2).md
-│   ├── gs-leserbriefe-antwort(1).txt
-│   └── antwort-an-stefan-v10(1).md
+├── theorie/        # Theorieschrift und ihre Prüfungen
+│   ├── GSP-Theorie.md
+│   └── pruefungen/
+├── angriffspunkte/  # Probleme, Inkonsistenzen, offene Fragen
+├── korrespondenz/   # Briefwechsel, Entwürfe, Bewertungen
+│   ├── entwuerfe/
+│   └── bewertungen/
 ├── docs/
 │   └── sitemap/  # complete article and subsection indexes
 └── scripts/
-    └── build-sitemap.mjs
+    ├── build-sitemap.mjs
+    └── check-quotes.mjs
 ```
 
-The original `sources/` and `comms/` files are the materials; `docs/sitemap/` is generated navigation, not an additional article collection. The generator reads the materials without rewriting them.
-
-## Correspondence
-
-The `comms/` folder is separate from the published-article collection and is not included in the 1,965-article total. Its existing filenames are preserved.
-
-| File | Content |
-| --- | --- |
-| [leserbriefe-ausgangsbriefe(2).md](comms/leserbriefe-ausgangsbriefe%282%29.md) | Introductory note and three outgoing letters concerning “Kritik – wie geht das?”, the derivation of capitalist competition, and the Iran article. |
-| [gs-leserbriefe-antwort(1).txt](comms/gs-leserbriefe-antwort%281%29.txt) | The response to those letters, stored as plain text. |
-| [antwort-an-stefan-v10(1).md](comms/antwort-an-stefan-v10%281%29.md) | A follow-up response discussing corrections and remaining questions. |
+The `sources/` files are the materials; `docs/sitemap/` is generated navigation, not an additional article collection. The generator reads the materials without rewriting them. The working folders `theorie/`, `angriffspunkte/` and `korrespondenz/` are not part of the 1,965-article total; each has its own README.
 
 ## Reading and searching
 
