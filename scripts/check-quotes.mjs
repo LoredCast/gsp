@@ -6,8 +6,8 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-// Alle Anführungszeichen gleich behandeln, weil verschachtelte Zitate „…“ zu ‚…‘ werden.
-const normalize = text => text.replace(/\*/g, '').replace(/[„“”"‚‘’']/g, '"').replace(/\s+/g, ' ').trim();
+// Alle Anführungszeichen gleich behandeln, weil verschachtelte Zitate „…“ zu ‚…‘ werden. Leerzeichen vor Satzzeichen entfallen, weil die Sammlungen nach Hervorhebungen oft „*Wort* ,“ schreiben.
+const normalize = text => text.replace(/\*/g, '').replace(/[„“”"‚‘’']/g, '"').replace(/\s+/g, ' ').replace(/ ([,.;:!?)])/g, '$1').trim();
 const walk = dir => fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
   const full = path.join(dir, entry.name);
   return entry.isDirectory() ? walk(full) : /\.(md|txt)$/.test(entry.name) ? [full] : [];

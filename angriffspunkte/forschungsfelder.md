@@ -4,11 +4,11 @@ Bereiche, in denen noch nicht geprüft ist, ob der GSP etwas erklären kann, ode
 
 ## Dünn belegte Themen
 
-Aus dem [Review der ersten Fassung](../theorie/pruefungen/2026-10-11-review-manuel.md) und dem Vorwort der [Theorieschrift](../theorie/GSP-Theorie.md). Einiges ist seitdem ergänzt (Israel 14.7, Staatsräson 10.6, Antideutsche 18.7, Klima 18.8, Quote 18.9, Praxis 18.10), anderes bleibt dünn:
+Aus dem [Review der ersten Fassung](../theorie/pruefungen/2026-10-11-review-manuel.md) und dem Vorwort der [Theorieschrift](../theorie/GSP-Theorie.md). Einiges ist seitdem ergänzt (Israel 14.7, Staatsräson 10.6, Antideutsche 18.7, Klima 18.8, Quote 18.9, Praxis 18.10), anderes bleibt dünn. Die [Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md) bestätigt, dass diese Themen nicht fehlen, aber teils nur knapp entfaltet sind:
 
-- **Psychologie des bürgerlichen Individuums:** Selbstbewusstsein, Ehre, Anerkennung, Liebe, Glück. Nur Bruchstücke aus Antworten auf Zuschriften; das Buch liegt nicht vor. Einstieg: [03](03-psychologie-fortwirkung-und-entschluss.md).
-- **Identitätspolitik, Feminismus:** kaum Material in den Sammlungen.
-- **Wissenschaftskritik:** Soziologie, Politologie, Philosophie, Rechtswissenschaft.
+- **Psychologie des bürgerlichen Individuums:** Selbstbewusstsein, Ehre, Anerkennung, Liebe, Glück. Nur Bruchstücke aus Antworten auf Zuschriften; das Buch liegt nicht vor. 15.4 zitiert selbst, dass die Psychologieschrift ihren Gegenstand in zwölf Paragraphen entwickelt; diese Systematik ist nicht nachgebildet ([Review 3](../theorie/pruefungen/2026-10-12-review-3.md), Abschnitt 4). Einstieg: [03](03-psychologie-fortwirkung-und-entschluss.md).
+- **Identitätspolitik, Feminismus, Lage der Frau:** kaum Material in den Sammlungen, im Wesentlichen ein Artikel (GS 4-19, Theorieschrift 8.7). Der Querverweis in 18.9 zeigte bis zur Fassung vom 11.10. auf 15.4, wo nur einzelne Zitate stehen; er zeigt jetzt auf 8.7. Die Frauenfrage ist trotzdem kein eigener Argumentationsgang.
+- **Wissenschaftskritik:** Popper, VWL, Geschichtswissenschaft und Habermas kommen vor, aber ohne eigene Begründungsgänge für Philosophie, Soziologie, Politologie, Rechtswissenschaft und Psychologie (Review 3, Abschnitt 4). Zu Popper siehe [13](13-erfahrung-und-pruefung-von-theorien.md).
   `rg -n -i "Soziologie|Politologie|Rechtswissenschaft|Philosophie" sources/16-wissenschaft-bildung-kultur-medien.md`
 - **Eigenes Praxisverständnis:** Agitation, Überzeugungsarbeit, Kritik an Aktionismus. Verbindung zu [02](02-alternativen-und-motivschluss.md).
 

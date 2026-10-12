@@ -4,9 +4,9 @@ Eine Rekonstruktion aus Zeitschriftenartikeln, nach Themen geordnet. Dritte, üb
 
 ## Zum Verfahren
 
-**Quellenbasis.** Grundlage sind ausschließlich die 18 thematischen Artikelsammlungen im Projektordner: Texte aus der Zeitschrift GegenStandpunkt von 1992 bis 2026. Die Bücher des Verlags (etwa „Die Psychologie des bürgerlichen Individuums“ oder „Das Proletariat“) liegen nicht vor; sie kommen nur vor, soweit die Zeitschrift sie abdruckt, bespricht oder in Antworten auf Zuschriften erläutert. Wo ein Thema in der Zeitschrift nur am Rand behandelt wird, ist das auch hier dünn, zum Beispiel die Psychologie des bürgerlichen Individuums (15.4).
+**Quellenbasis.** Grundlage sind ausschließlich die 18 thematischen Artikelsammlungen im Projektordner: Texte aus der Zeitschrift GegenStandpunkt von 1992 bis 2026. Die Bücher des Verlags (etwa „Die Psychologie des bürgerlichen Individuums“ oder „Das Proletariat“) liegen nicht vor; sie kommen nur vor, soweit die Zeitschrift sie abdruckt, bespricht oder in Antworten auf Zuschriften erläutert. Wo ein Thema in der Zeitschrift nur am Rand behandelt wird, ist das auch hier dünn, zum Beispiel die Psychologie des bürgerlichen Individuums (15.4) oder die Lage der Frau, für die im Wesentlichen ein einziger Artikel vorliegt (GS 4-19, in 8.7).
 
-**Gattungen.** Zitiert werden 1487 Stellen aus 407 Texten. Die meisten (1234 Zitate) stammen aus Artikeln der Redaktion. Außerdem stammen Zitate aus diesen Gattungen, die jeweils in der Quellenangabe ausgewiesen sind:
+**Gattungen.** Zitiert werden 1503 Stellen aus 408 Texten. Die meisten (1250 Zitate) stammen aus Artikeln der Redaktion. Außerdem stammen Zitate aus diesen Gattungen, die jeweils in der Quellenangabe ausgewiesen sind:
 
 - 150 aus der Reihe „Chronik – kein Kommentar!“. Das sind kürzere Texte der Redaktion zu aktuellen Anlässen. Sie werden benutzt, wo sie ein Argument knapp und vollständig formulieren.
 - 23 aus der Reihe „Was Deutschland bewegt“.
@@ -20,12 +20,12 @@ Bei Leserbriefen und Rezensionen wurde geprüft, dass jedes Zitat aus dem Teil d
 
 | Zeitraum | Zitate |
 |---|---|
-| 1990–1999 | 479 |
-| 2000–2009 | 369 |
-| 2010–2019 | 383 |
+| 1990–1999 | 485 |
+| 2000–2009 | 372 |
+| 2010–2019 | 390 |
 | 2020–2026 | 256 |
 
-Die aktuelle systematische Darstellung der politischen Ökonomie ist die Artikelserie „Die Konkurrenz der Kapitalisten“ (GS 3-17 bis 1-25); aus ihr stammen 103 Zitate. Wo frühere und spätere Formulierungen verschieden akzentuieren oder sich zu widersprechen scheinen, sagt der Text das und zeigt, wie sie zusammengehen. Beispiele sind die Charaktermasken in 3.5 (1996 und 2025) sowie Kreditschöpfung und Geldschöpfung in 4.6 und 7.8, aufgelöst durch die Antwort der Redaktion in GS 2-10. Zeitgebundene Diagnosen, etwa zu Russland in den 1990er Jahren (13.5) oder zu Japan (13.4), sind als solche gekennzeichnet.
+Die aktuelle systematische Darstellung der politischen Ökonomie ist die Artikelserie „Die Konkurrenz der Kapitalisten“ (GS 3-17 bis 1-25); aus ihr stammen 106 Zitate. Wo frühere und spätere Formulierungen verschieden akzentuieren oder sich zu widersprechen scheinen, sagt der Text das und zeigt, wie sie zusammengehen. Beispiele sind die Charaktermasken in 3.5 (1996 und 2025) sowie Kreditschöpfung und Geldschöpfung in 4.6 und 7.8, aufgelöst durch die Antwort der Redaktion in GS 2-10. Zeitgebundene Diagnosen, etwa zu Russland in den 1990er Jahren (13.5) oder zu Japan (13.4), sind als solche gekennzeichnet.
 
 **Was die Zitate leisten.** Ein Zitat belegt, dass und wo der GegenStandpunkt ein Argument so vorträgt. Es beweist nicht, dass das Argument stimmt. Das muss das Argument selbst leisten, und dafür verweist jede Quellenangabe auf die vollständige Ableitung im Original. Die verbindende Prosa ist Rekonstruktion und kein Zitat.
 
@@ -244,7 +244,7 @@ Weil das abstrakte Moment jeder Arbeit, das, was sie den Menschen kostet, zum Ma
 
 > „Nur durch ein Mehr an Arbeitsmühe kann der wertmäßige Reichtum, die mit den produzierten Waren produzierte Zugriffsmacht auf fremdes Eigentum, wachsen – und darauf kommt es an; denn in dieser Verfügungsmacht, und nicht in der Masse nützlicher Produkte, besteht kapitalistischer Reichtum.“ — ebd.
 
-„Abstrakt“ heißt diese Arbeit nicht wegen einer Sinnvergessenheit, sondern weil es auf eine möglichst große Masse rentabler Arbeit ankommt. Hinter der Formbestimmung steht die im Geld vergegenständlichte Privatmacht des Eigentums mit ihrem rechtlich abgesicherten Kommando über die gesellschaftliche Arbeit. Arbeit produziert Wert, weil sie von kapitalistischen Arbeitgebern ausschließlich dafür veranstaltet wird, ihnen mehr Eigentum zu schaffen, als sie für Lohn verausgaben. Wer Wert vom Mehrwert und abstrakte Arbeit von der Mehrarbeit trennt, dem erscheint die Arbeit als bloßer Irrsinn.
+„Abstrakt“ heißt diese Arbeit nicht wegen einer Sinnvergessenheit, sondern weil es auf eine möglichst große Masse rentabler Arbeit ankommt. Hinter der Formbestimmung steht die im Geld vergegenständlichte Privatmacht des Eigentums mit ihrem rechtlich abgesicherten Kommando über die gesellschaftliche Arbeit. Wert produziert Arbeit unter den Eigentums- und Tauschverhältnissen, die vorher erklärt sind: Dort zählt ihr Produkt als Ware, als Zugriffsmacht auf fremdes Eigentum. Dieser ökonomischen Qualität wegen veranstalten kapitalistische Arbeitgeber die Arbeit, und zwar ausschließlich dafür, sich mehr Eigentum zu schaffen, als sie für Lohn verausgaben. Darin liegt der Sinn der wertschaffenden Arbeit. Wer Wert vom Mehrwert und abstrakte Arbeit von der Mehrarbeit trennt, dem erscheint die Arbeit als bloßer Irrsinn.
 
 > „Wirkliches Maß des gesellschaftlichen Reichtums dieser Gesellschaft ist ein Maximum an rentabel ausgenutzter Arbeitsmühe. Denn bei allem Produzieren geht es um das aus dem Produzierten erlöste Geld: um Eigentum schlechthin in der ihm gemäßen „schlagkräftigen“ Gestalt des allgemeinen, global gültigen Tauschwerts; und zwar um immer mehr und möglichst viel.“ — „Robert Kurz: ‚Schwarzbuch Kapitalismus …‘“, GS 3-00 (2000), Abschnitt „Modernisierung und Massenarmut: Wie Sinnvergessenheit kapitalistisches Elend schafft“
 
@@ -460,7 +460,13 @@ Kapital entsteht aus der Differenz zwischen der Arbeitszeit, in der der Arbeiter
 
 > „Das Gesetz, von dem hier die Rede ist, lautet: Es muß möglichst produktiv gearbeitet werden. Allerdings nicht deswegen, weil es zuwenig gibt und die Arbeit zuviel vom Leben okkupiert, also zu beschwerlich ist.“ — ebd.
 
-Mehr Produkte pro Stunde sind nicht mehr Wert; je schneller eine Ware produziert wird, desto weniger ist sie wert. Für das Kapital ist Produktivität trotzdem das Mittel, weil es an der Arbeit nur die Differenz zwischen bezahlter Arbeit und Ertrag interessiert: Sie senkt die Lohnstückkosten und vergrößert den Anteil der unbezahlten Arbeit. Das Maß der Produktivität sind die Lohnstückkosten.
+Den Ertrag der Arbeit steigert das Kapital in zwei sich ergänzenden Verfahren: bei gegebener Organisation der Arbeit durch ihre Verlängerung, und durch eine veränderte Organisation, vor allem durch Arbeitsmittel, die die Arbeit produktiver machen. Beim zweiten Verfahren sind zwei Ebenen zu unterscheiden. Gesellschaftlich gilt: Mehr Produkte pro Stunde sind nicht mehr Wert; je schneller und leichter eine Ware produziert wird, desto weniger ist sie wert. Für den einzelnen Kapitalisten ist Produktivität trotzdem das Mittel, weil ihn an der Arbeit nur die Differenz zwischen bezahlter Arbeit und Ertrag interessiert, und die vergrößert er, indem er seine Lohnstückkosten senkt. Solange er zum vorgefundenen Marktpreis verkauft, verdient er an jeder Ware mehr; zugleich kann er den Marktpreis unterbieten, ohne am Gewinn pro Stück einzubüßen. Damit setzt er seinen Konkurrenten neue, schärfere Erfolgsbedingungen, und deshalb geht es ihm nicht um gesteigerte Produktivität überhaupt, sondern um einen beständig zu erneuernden Vorsprung. Von der Arbeit, die er immer produktiver macht, fällt ihm die Wertschöpfung in steigender Proportion zu. Das Maß der Produktivität sind die Lohnstückkosten.
+
+> „Das Steigern des Wirkungsgrads der Arbeit, das in zwei sich ergänzenden Verfahren zur Produktion von Mehrwert stattfindet, hat in dieser Form der Bezahlung von Arbeitskraft das adäquate Instrument“ — ebd.
+
+> „Insofern ist jede Verlängerung der Arbeitszeit das taugliche Mittel für die gesteigerte Verwertung seines Kapitals, weil diese Maßnahme die Umschlagsgeschwindigkeit erhöht.“ — ebd.
+
+> „Der relative Mehrwert entsteht, indem der Ertrag der Arbeit durch die Veränderung ihrer Organisation gesteigert wird, insbesondere durch die Einführung von Arbeitsmitteln, die die Arbeit produktiver machen.“ — ebd.
 
 > „Je schneller und leichter eine Ware produziert wird, um so weniger ist sie wert, um so weniger Reichtum in seiner gesellschaftlich gültigen Form des damit zu erlösenden Geldes stellt sie dar.“ — „Neue Sitten in den Tarifverhandlungen der Metall- und Elektroindustrie …“, GS 1-04 (2004), Abschnitt „4. Wozu „die Konkurrenz“ ihre Veranstalter „zwingt“: Noch ein paar Wahrheiten über das …“
 
@@ -473,6 +479,12 @@ Mehr Produkte pro Stunde sind nicht mehr Wert; je schneller eine Ware produziert
 > „Für sie zählt Arbeit daher nur in genau einer Hinsicht als Quelle von Wert: von mehr Wert, realisiert im Verkaufserlös, als sie in die Arbeit hineingesteckt haben, die ihnen die verkäufliche Ware liefert.“ — ebd.
 
 > „Gerade weil es den „Arbeitgebern“ um ihren Anteil am produzierten Wert geht, können sie von der Arbeit, die sie immer produktiver machen, deren Wertschöpfung also in steigender Proportion ihnen zufällt, gar nicht genug kriegen…“ — „Leserbrief Fragen zu BIP, Wachstum, Arbeitszeit und Produktivität“, GS 4-16 (2016), Antwort der Redaktion auf Leserbrief, Abschnitt „Antwort der Redaktion“ › „Zu 2.“
+
+> „Mit der Erhöhung des Gewinnanteils, der dank gesenkter Stückkosten in seinen Produkten steckt, macht sich der Kapitalist in doppelter Weise frei von der Schranke, die der gegebene Marktpreis dem vorweggenommenen, daher unbedingt benötigten Wachstum seines Gewinns setzt: Er kann an jeder Ware mehr verdienen, und er hat sich die Freiheit verschafft, ohne Einbußen am Gewinn pro verkaufter Einheit seinen Verkaufspreis unter den vorgefundenen Marktpreis zu senken und damit auf diese Bedingung seines Geschäftserfolgs selbst einzuwirken“ — „Die Konkurrenz der Kapitalisten Kapitel III: Steigerung des Wachstums: Die Produktivität des Kapitalismus“, GS 1-19 (2019), Abschnitt „§ 13 Senkung der Stückkosten“ › „3. Vom Marktpreis, der die Rate des Profits bestimmt, zum Kalkül mit der Profitrate, das den …“
+
+> „In dem Maß, wie es dem kapitalistischen Produzenten gelingt, den Markt zum Mittel für die Steigerung seiner Gewinne zu machen, setzt er neue, schärfere Erfolgsbedingungen für seine Konkurrenten.“ — ebd., Abschnitt „§ 14 Der Markt: Werk und Bewährungsprobe des kapitalistischen Fortschritts“ › „2. Konkurrenz um eine Eigenschaft namens ‚Konkurrenzfähigkeit‘“
+
+> „Gesteigerte Kapitalproduktivität genügt ihm nicht; ihm muss es um den – beständig zu erneuernden – Vorsprung bei der Steigerung von Rate und Masse des Gewinns gehen.“ — ebd.
 
 Der Fortschritt der Automatisierung besteht nicht darin, dass für Arbeiter weniger Arbeitsaufwand anfällt, sondern dass für Unternehmer der Geldaufwand für Arbeit sinkt. Durch den kapitalistisch zweckmäßigen Einsatz der Maschinerie wird Arbeit erspart, dem Arbeiter aber nichts.
 
@@ -1002,9 +1014,19 @@ Der Lohn bezahlt die Arbeitskraft im abstraktesten Sinn, die Freiheit des Untern
 
 ### 5.3 Der Wert der Arbeitskraft
 
-Dass der Arbeiter den Wert seiner Ware erhält, heißt, dass er keinen Anteil am produzierten Reichtum hat und nur nach Maßgabe dessen bezahlt wird, was für die Ablieferung rentabler Arbeit unabdingbar ist. Weil die Ware Arbeitskraft nicht für den Verkauf produziert wird und ihr Angebot nicht zurückgefahren werden kann, verfällt ihr Preis schrankenlos; den Wert seiner Ware muss der Arbeiter erst durch Zusammenschluss und Arbeitseinstellung erkämpfen.
+Dass der Arbeiter den Wert seiner Ware erhält, heißt, dass er keinen Anteil am produzierten Reichtum hat und nur nach Maßgabe dessen bezahlt wird, was für die Ablieferung rentabler Arbeit unabdingbar ist. Auch das ist ihm nicht sicher. Die Kapitalisten zahlen nicht genau den Wert der Ware Arbeitskraft, sondern testen beständig, ob die Arbeitskräfte ihren Dienst nicht auch für weniger Geld tun. Und anders als bei sonstigen Waren regelt bei Überangebot nichts den Preis wieder nach oben: Die Arbeitskraft wird nicht für den rentablen Verkauf produziert, ihre „Produktion“ kann bei ungünstiger Marktlage nicht zurückgefahren werden, bis das Angebot knapp genug ist. Ein Überangebot an Lohnarbeitern führt deshalb zum dauerhaften und schrankenlosen Verfall ihres Preises. Wo brauchbare Arbeitskräfte knapp sind, konkurrieren die Kapitalisten zwar mit der Lohnhöhe um sie; die daraus entwickelte Differenzierung der Löhne nach Leistung und Qualifikation ist aber das Mittel, den Wert der Arbeitskraft abzusenken und den meisten Arbeitern nicht zu bezahlen. Den Wert seiner Ware, also elementare Rücksichten auf die Reproduktion seiner Arbeitskraft, muss der Arbeiter erst erkämpfen, indem er sich mit seinesgleichen zusammenschließt, die Arbeit einstellt und dem Unternehmen durch den angedrohten oder zugefügten Schaden höhere Löhne abnötigt.
 
 > „Im Grund und Maß ihrer Bezahlung aber ist das Gegenteil ausgedrückt: Sie leben, um für die Bereicherung anderer zu arbeiten.“ — „Wie man „Das Kapital“ nicht schon wieder neu lesen sollte“, GS 2-08 (2008), Abschnitt „Kritik des Systems, aber keine Feindschaft gegen Kapitalisten“ › „– Die Ausbeutung“
+
+> „Weil die Kapitalisten sich mit dem Kauf dieser interessanten Ware die Verfügung über unbezahlte Mehrarbeit aneignen, denken sie gar nicht daran, ihren Arbeitskräften genau den Wert ihrer Ware zu entgelten; stattdessen veranstalten sie einen beständigen Test darauf, ob diese ihren Dienst nicht auch für weniger Geld tun, ja vielleicht bei schlechterer Bezahlung noch mehr zu arbeiten und noch zuverlässiger anzutreten genötigt sind.“ — ebd.
+
+> „Immerhin kommt diese Ware nicht zum Zweck ihres rentablen Verkaufs auf die Welt, kann ihre „Produktion“ bei ungünstiger Marktlage also auch nicht zurückgefahren oder eingestellt werden, bis das Angebot ausreichend verknappt ist und der Bedarf wieder „kostendeckende“ Verkaufspreise erlaubt. Ein Überangebot von aufs Geldverdienen angewiesenen Lohnarbeitern führt zum dauerhaften und schrankenlosen Verfall der Preise, die für sie gezahlt werden.“ — ebd.
+
+> „Bei spärlichem Angebot, das der frühkapitalistische Arbeitskräftemarkt an für die Manufaktur, der Vorstufe der Industrie, brauchbaren, mit handwerklichem Geschick ausgestatteten Arbeitern bereithielt, konkurrierten Kapitalisten um die Meister des jeweiligen Faches – mit der Lohnhöhe.“ — „Die Behauptungen des Karl Marx, die Lohnarbeit betreffend …“, GS 2-92 (1992)
+
+> „In der Differenzierung der Arbeitslöhne ist es – mit den später zur Blüte gebrachten „Argumenten“ von Leistung und Qualifikation – beschlossene Sache, den Wert der Arbeitskraft erstens abzusenken und zweitens den meisten Arbeitern nicht zu bezahlen.“ — ebd.
+
+> „Um dem Käufer den Wert seiner Ware – die notwendigen Produktionskosten des lebendigen Individuums – in Rechnung stellen zu können, muss sich der Besitzer der Ware Arbeitskraft daher mit Seinesgleichen zusammenrotten, die Arbeit einstellen und durch den wirtschaftlichen Schaden, den er der Gewinnrechnung androht oder zufügt, dem Unternehmen höhere Löhne abnötigen.“ — „Wie man „Das Kapital“ nicht schon wieder neu lesen sollte“, GS 2-08 (2008), Abschnitt „Kritik des Systems, aber keine Feindschaft gegen Kapitalisten“ › „– Die Ausbeutung“
 
 > „Um den schäbigen Wert seiner Ware, um elementare Rücksichten auf die Reproduktionsnotwendigkeiten seiner Arbeitskraft, muss der Lohnarbeiter laufend streiten; nur unter der Bedingung des Klassenkampfs gibt es überhaupt ein Wertgesetz auf diesem Markt.“ — ebd.
 
@@ -1600,9 +1622,11 @@ Die Grundrechte machen die Lebensumstände der Individuen zu Rechtsgütern, also
 
 > „Die Bürger sollen sozusagen ein sich selbst zügelndes Monster gut finden, weil es sich zügelt.“ — ebd.
 
-Der Schein, das Recht stehe über dem Staat, kommt unter die Räder, sobald ein Handlungsbedarf vorliegt: Dann führt die Grenzüberschreitung nicht zur Kritik der Organe, sondern zu einer Kritik des Rechts. Der Rechtsstaat ändert sein Recht, statt sein Vorhaben aufzugeben; Recht ist, was der Staat tut. Die Verfassung ist Mittel der Politik.
+Dabei sind zwei Seiten zu unterscheiden. Die Bindung ans Recht gilt den Organen und Amtsinhabern: Der Rechtsstaat misst seine Exekutive und seine Gerichte an seinem Recht und lässt das auf dem Rechtsweg überprüfen. Die rechtsetzende Staatsgewalt selbst bindet das Recht nicht. Stellt sie einen Handlungsbedarf fest, dem das geltende Recht im Weg steht, dann prüft sie ihre rechtlichen Instrumente auf Zweckmäßigkeit und richtet sie entsprechend ein. Überschreiten die Organe die Grenzen des Rechts, führt das nicht zu ihrer Kritik, sondern zu einer Kritik des bestehenden Rechts; der Staat ändert sein Recht, statt sein Vorhaben aufzugeben. Dabei kommt der Schein unter die Räder, das Recht stehe über dem Staat. In diesem Sinn, als Aussage über die Gewalt, die das Recht setzt, und nicht über die Befugnisse des einzelnen Amtsträgers, gilt: Recht ist, was der Staat tut. Die Verfassung ist Mittel der Politik.
 
-> „Der Schein, daß das Recht über dem Staat steht und Staat und Gesellschaft gleichermaßen an eherne Prinzipien bindet, kommt dabei nämlich ziemlich unter die Räder. Bemerkenswert sachgerecht hält die deutsche Demokratie die logische Reihenfolge von Zweck und Mittel ein.“ — „Deutschland im Herbst 92“, GS 4-92 (1992), Abschnitt „Rechtsstaatlichkeit auf den Punkt gebracht: Entfesselung der staatlichen Gewalt“
+> „Der Rechtsstaat, der alles, was in seiner Gesellschaft geschieht […], an seinem Recht mißt und nur an ihm messen läßt, unterwirft auch seine eigenen ausführenden Organe und selbst die von ihm eingerichteten Agenturen der Rechtsprechung, die Gerichte, diesem Maßstab.“ — „Deutschland im Herbst 92“, GS 4-92 (1992), Abschnitt „Rechtsstaatlichkeit auf den Punkt gebracht: Entfesselung der staatlichen Gewalt“
+
+> „Der Schein, daß das Recht über dem Staat steht und Staat und Gesellschaft gleichermaßen an eherne Prinzipien bindet, kommt dabei nämlich ziemlich unter die Räder. Bemerkenswert sachgerecht hält die deutsche Demokratie die logische Reihenfolge von Zweck und Mittel ein. Sie stellt ihren Handlungsbedarf fest, um danach die Zweckmäßigkeit der vorhandenen rechtlichen Instrumente zu begutachten. Entsprechend richtet sie diese Instrumente ein.“ — ebd.
 
 > „Überschreiten die staatlichen Organe bei der Verfolgung ihres Auftrags die Grenzen des Rechts, so führt das nicht zur Kritik seiner ausführenden Organe, sondern zu einer Kritik des bestehenden Rechts.“ — ebd.
 
@@ -2012,7 +2036,7 @@ Das Geheimnis kapitalistischen Wirtschaftens liegt nicht in der Versorgung des V
 
 > „In einer anständig funktionierenden Demokratie ist Elend dazu da, dass die Staatsgewalt es im Griff hat: An dem Kriterium profiliert sich der zuständige Minister als kommender Präsidentschaftskandidat, blamiert ihn die Opposition, und das Publikum bekommt eine Entscheidungshilfe für sein Wahlverhalten.“ — „Aufruhr in Frankreichs Vorstädten: Freche Paupers – starker Staat“, GS 4-05 (2005), Chronik
 
-### 8.7 Familie
+### 8.7 Familie und die Lage der Frau
 
 Das Leben außerhalb der Arbeit ist funktionale Reproduktion für die Arbeit. Die Familie organisiert mit unzureichender Zeit, Kraft und Geld ein Privatleben, das die Leute instand setzt, am nächsten Tag wieder anzutreten; die private Zweisamkeit wird mit der unmöglichen Aufgabe belastet, die Bilanz des lohnabhängigen Lebens ins Positive zu wenden. Der Staat knüpft an den privaten Wunsch nach Partner und Kindern sein Interesse an einer „Keimzelle der Gesellschaft“ und gibt sich darin als letzter Zweck des gesellschaftlichen Lebens zu erkennen.
 
@@ -2027,6 +2051,16 @@ Das Leben außerhalb der Arbeit ist funktionale Reproduktion für die Arbeit. Di
 > „Die Sphäre des privaten Glücks genießt öffentliche Wertschätzung ausdrücklich als Keimzelle des Staates: Sie soll ihm gefälligst wieder mehr neue Staatsbürger liefern.“ — „Eine Familienministerin macht Bevölkerungspolitik: Der Staat kauft sich Kinder“, GS 4-06 (2006), Chronik
 
 > „gibt sich die Staatsmacht als letzter Zweck des gesellschaftlichen Lebens zu erkennen und erklärt die Menschen zum Material ihrer Selbstbehauptung und Größe.“ — ebd., Abschnitt „Mehr Volk für den Staat“
+
+Aus diesen Verhältnissen erklärt der GegenStandpunkt auch die Schlechterstellung der Frau trotz rechtlicher Gleichstellung. Die Hierarchie der Berufe und Einkommen steht fest, bevor das Geschlecht eine Rolle spielt; Frauen werden wie Männer in diese Konkurrenz gestellt, landen aber mehrheitlich auf ihren unteren Plätzen, weil sie billiger zu haben und erpressbarer sind. Der Grund ist nicht die Biologie, sondern die bürgerliche Familie: Ein Lohn reicht nicht für mehrere, Erwerbsarbeit und Hausarbeit sind mit dem vorhandenen Geld und der verbleibenden Zeit allein kaum zu vereinbaren, und so reproduziert sich die Arbeitsteilung von Hauptverdiener und hauptsächlich für die Familie zuständiger, dazuverdienender Frau. Diese Arbeitsteilung, für die sie mit Löhnen und Arbeitszeiten selbst sorgen, nutzen die Unternehmen aus. Die Doppelbelastung der Frau beweist, dass das lohnabhängige Geldverdienen für beide Geschlechter kein Mittel für ein gutes Leben ist.
+
+> „Frauen werden wie Männer in diese Konkurrenz gestellt, die mit ihrem Geschlecht nichts zu tun hat. In ihr sind sie dann aber mehrheitlich auf die unteren Plätze der Berufshierarchie abonniert. Und das aus keinem anderen Grund, als dass sie billig zu haben, noch erpressbarer sind als Männer und dass Unternehmen diesen Umstand als Chance für ihr Geschäft nutzen.“ — „Die Frau im Kapitalismus“, GS 4-19 (2019), Abschnitt „I. Die fortdauernde Schlechterstellung in Karriere und Arbeitswelt“ › „Der „Gender-Pay-Gap“ – und sein gesellschaftlicher Grund“
+
+> „Weil eine Entscheidung für die Konzentration auf Beruf oder Familie nötig ist, reproduziert sich trotz aller Emanzipation die altmodische Rolle des Ernährers, wenigstens des Hauptverdieners, die in der Regel nach wie vor der Mann ausfüllt, sowie die Rolle der überwiegend für die Familie zuständigen Frau, die heute freilich auch arbeitet.“ — ebd.
+
+> „Ihre viel beklagte Doppelbelastung ist ein Beweis dafür, dass das lohnabhängige Geldverdienen für beide Geschlechter nach seiner Anforderung an Zeit und Kraft wie nach seinem Geldertrag kein Mittel für ein gutes Leben ist.“ — ebd.
+
+> „Wenn Unternehmen die Bezahlung und die Karrierewege ihrer Angestellten nach dem Geschlecht differenzieren, beziehen sie sich also nicht wirklich auf die Biologie, sondern auf die Institution der bürgerlichen Familie, für deren Notwendigkeit und Beschaffenheit sie mit den Löhnen, die sie zahlen, und den Arbeitszeiten, die sie fordern, selbst sorgen.“ — ebd.
 
 ---
 
@@ -3498,7 +3532,7 @@ Erziehung ist kein Argumentieren, sondern ein Programm, den Willen des Kindes im
 
 ### 16.2 Wissenschaft als Geist vom Geist der Politik
 
-Die Wirtschaftswissenschaft gibt Konkurrenten Tipps, die schon deshalb nicht funktionieren können, weil sie an alle gehen; ihre Erklärungen sind Tautologien („Markt ist, wenn alle kaufen“). Die Gesellschaftswissenschaft liefert keine Einsichten in Zweck und Wirken der Verhältnisse, sondern nimmt das Abwägen staatlicher Handlungsalternativen vorweg. Die Geschichtswissenschaft adelt die gegenwärtigen Verhältnisse und stiftet Sinn für die nationale Wertegemeinschaft.
+Die Wirtschaftswissenschaft gibt den Kapitalisten Tipps für ihre Konkurrenzkämpfe, die als objektive Richtlinien auftreten. Als solche können sie nicht halten, was sie versprechen, weil sie an alle Konkurrenten gehen und allen zum Erfolg verhelfen wollen, der Erfolg in der Konkurrenz aber im Vorsprung vor den anderen besteht (3.3). Bestenfalls systematisieren sie den Verstand der Geschäftemacher selbst; ihre Erklärungen sind Tautologien („Markt ist, wenn alle kaufen“). Die Gesellschaftswissenschaft liefert keine Einsichten in Zweck und Wirken der Verhältnisse, sondern nimmt das Abwägen staatlicher Handlungsalternativen vorweg. Die Geschichtswissenschaft adelt die gegenwärtigen Verhältnisse und stiftet Sinn für die nationale Wertegemeinschaft.
 
 > „Den Kapitalisten geben sie Tipps für ihre Konkurrenzkämpfe, die wie objektiv haltbare Richtlinien daherkommen, als solche aber schon deswegen nicht funktionieren können, weil sie stets an alle Konkurrenten gehen und auch denen zum Erfolg verhelfen wollen; bestenfalls systematisieren sie den berechnenden Menschenverstand der engagierten Geschäftemacher selbst.“ — „Nachtrag zur „Konkurrenz der Kapitalisten“ und Vorblick auf die „Lohnarbeit“: Zum ‚notwendig falschen Bewusstsein‘ der ‚Charaktermasken‘ der kapitalistischen Produktionsweise“, GS 3-25 (2025), Abschnitt „Inwiefern falsch“
 
@@ -3722,7 +3756,7 @@ Klimaschutz ist deckungsgleich mit Energiepolitik; mit der Übersetzung von Klim
 
 > „Auf schlagende Weise macht die Regierung bei dieser Gelegenheit die Wahrheit der Klimapolitik deutlich: Sie ist Kalkulationsgröße der strategischen Aufstellung Deutschlands als politischer und ökonomischer Macht.“ — „Wirtschaftskrieg …“, GS 2-22 (2022), Abschnitt „Die Waffe wird scharf gemacht: Ersatz für russische Energielieferungen“
 
-Der Klimawandel ist kein Menschheitsproblem, sondern Werk der weltumspannenden Profitproduktion.
+Der GegenStandpunkt weist die Deutung des Klimawandels als „Menschheitsproblem“ zurück, als von „der Menschheit“ verursachtes und gemeinsam zu verwaltendes Problem. Er bestimmt seine Ursache in der weltumspannenden Profitproduktion unter staatlicher Ägide; die Folgen treffen als weitere Facette ihrer Armut die Lohnabhängigen.
 
 > „Wenn unter der Ägide der Staatsmacht, die die Produktivität der kapitalistischen Rentabilitätsrechnungen für ihre Zwecke so überaus schätzt, die Unternehmer mit ihrer weltumspannenden Profitproduktion es dahin gebracht haben, den ganzen Globus aufzuheizen, ist die ganze Sache eben doch kein „Menschheitsproblem“, sondern bleibt der ganze Scheißdreck eine weitere Facette proletarischer Armut.“ — „16 Jahre Merkel: Eine alternative Bilanz (2) …“, GS 1-22 (2022), Abschnitt „Und die Antwort des deutschen Proletariats? – Bettelei um Berücksichtigung!“
 
@@ -3974,7 +4008,7 @@ Die Klimabewegung erfährt von der Politik eine Absage nach der anderen und weig
 
 ### 18.9 Gleichstellung: Frauen an die Kommandohöhen
 
-Die Frauenquote für Aufsichtsräte wird als Fortschritt der Emanzipation gefeiert. Was die Frauen dort tun, spielt dabei keine Rolle: Sie organisieren Herrschaft und Ausbeutung, im Gegensatz zur Mehrheit der Frauen und Männer. Die Begeisterung für die Quote erklärt das Geschlecht zur sozialen Identität und lässt dahinter den Herrschaftscharakter der Führungsaufgaben verschwinden. Zur Lage der Frau im Kapitalismus selbst siehe 15.4.
+Die Frauenquote für Aufsichtsräte wird als Fortschritt der Emanzipation gefeiert. Was die Frauen dort tun, spielt dabei keine Rolle: Sie organisieren Herrschaft und Ausbeutung, im Gegensatz zur Mehrheit der Frauen und Männer. Die Begeisterung für die Quote erklärt das Geschlecht zur sozialen Identität und lässt dahinter den Herrschaftscharakter der Führungsaufgaben verschwinden. Zur Lage der Frau im Kapitalismus selbst siehe 8.7.
 
 > „Dabei spielt das, was die neuen Frauen da im Dienste des großen Kapitals künftig machen sollen, jenseits der abstrakten Bestimmung, sie sollten eben vermehrt „führen“, keine Rolle.“ — „Frauen in die Aufsichtsräte Manuela Schwesig gendert den Kapitalismus: Die Klassengesellschaft wird weiblicher“, GS 2-15 (2015), Chronik
 
@@ -3997,5 +4031,3 @@ Die Kritik wendet sich mit Argumenten an die Leute, die mitmachen, um sie von ih
 > „Unsere Sache ist es aber gar nicht, eine theoretisch garnierte Absage an die Dummheit der Leute loszuwerden und sie als Untertanen zu beschimpfen, sondern zu erläutern, welche Fehler man begeht, wenn man sich am selbstbewussten Mitmachen in diesem Laden abarbeitet, und wo man dabei landet. Wir wollen uns auch nicht über die Insassen der bürgerlichen Klassengesellschaft erheben – was gänzlich verfehlt wäre, weil ja auch wir in der leben und solche Fehler am besten von uns selbst kennen.“ — „Zuschrift zu ‚Die Psychologie des bürgerlichen Individuums‘“, GS 4-21 (2021), Antwort der Redaktion auf Leserbrief, Abschnitt „Lieber Leser,“
 
 > „Denn Stellung zu beziehen, sich auf eine Seite zu schlagen, den Guten die Stange zu halten und den Bösen eine Verurteilung hinterher zu rufen – das gilt in ihren Kreisen als politische Praxis und als der praktische Nährwert aller Theorie.“ — „Wer ist der Antideutscheste im Land? „Konkret im Krieg““, GS 2-02 (2002), Abschnitt „Der gemeinsame Boden des Redaktionskriegs: Moralische Dienstanweisungen an „die Linke““
-
----

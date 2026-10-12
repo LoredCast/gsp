@@ -2,7 +2,7 @@
 
 Probleme, Inkonsistenzen und Bereiche, die der GegenStandpunkt nicht erklären oder erfassen kann, soweit sie bisher erarbeitet sind. Jede Datei hält einen Punkt fest: die These, die GSP-Stellen mit Fundstelle in `sources/`, die stärkste Gegenrede, was danach übrig bleibt, und wie man weitersucht.
 
-Stand: 12. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag), die Bewertungen der Entwürfe und die Prüfungen der Theorieschrift (siehe [../korrespondenz/](../korrespondenz/) und [../theorie/pruefungen/](../theorie/pruefungen/)).
+Stand: 12. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag), die Bewertungen der Entwürfe und die Prüfungen der Theorieschrift. Die Punkte 09 bis 13 stammen aus der [Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md): Dort steht der beanstandete Satz schon im GSP-Text, der Einwand richtet sich also gegen das GSP-Argument selbst (siehe [../korrespondenz/](../korrespondenz/) und [../theorie/pruefungen/](../theorie/pruefungen/)).
 
 ## Leitfrage
 
@@ -22,6 +22,11 @@ Stand: 12. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag),
 | [06](06-interessenkritik-und-zweckkritik.md) | Interessenkritik und Zweckkritik, der bewusste Opferentschluss (4-13, 1-06) | offen | interessant, aber ohne tragende Textstelle |
 | [07](07-antikritik-und-revidierbarkeit.md) | Antikritik und Revidierbarkeit: woran eine Lageanalyse scheitern könnte | offen als Frage | schwach ohne Beispiel |
 | [08](08-bewusstsein-und-gewalt.md) | Bewusstsein und Gewalt: „hängt an beidem“ (3-17) | geklärt | kein Widerspruch |
+| [09](09-produktivitaet-und-wert.md) | Produktivität und Wert: einzelnes Kapital oder gesellschaftliche Ebene? (1-04 gegen 1-19 § 13) | offen | Reichweitenfrage; der GSP trennt die Ebenen anderswo selbst |
+| [10](10-schrankenloser-lohnverfall.md) | „Schrankenloser“ Verfall des Lohns (2-08 gegen 2-92) | offen | stärkster Einwand der dritten Review |
+| [11](11-recht-ist-was-der-staat-tut.md) | „Recht ist, was der Staat tut“: Rechtsetzung oder jedes Amtshandeln? (1-92, 4-92) | offen | Präzisierungsfrage |
+| [12](12-tipps-an-alle-konkurrenten.md) | Tipps an alle Konkurrenten: ‚funktionieren nicht‘ oder ‚kein Vorsprung für alle‘? (3-25, 1-19 § 14) | offen | Reichweitenfrage; engere Lesart naheliegend |
+| [13](13-erfahrung-und-pruefung-von-theorien.md) | Popper: Kann Erfahrung Theorien prüfen? (4-94) | offen | Gültigkeitsfrage an die Methode |
 
 Außerdem:
 
