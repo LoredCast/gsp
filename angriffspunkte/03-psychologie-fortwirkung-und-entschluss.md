@@ -37,6 +37,7 @@ Dass die Erklärung des Lesers stimmt, dass psychologische Kausaltheorien überh
   `rg -n -i "Gewohnheit|Prägung|Charakter(?!maske)|Sozialisation" --pcre2 sources/15-ideologien-moral-religion-weltanschauung.md`
 - Psychologie ist in [GSP-Theorie.md](../theorie/GSP-Theorie.md) (15.4) dünn, weil das Buch nicht vorliegt. Für eine gesonderte Zuschrift wäre das Buch zu lesen.
 - Ein Entwurf für eine eigene Zuschrift steht am Ende von Astras Abschnitt „Psychologie“.
+- Vertieft in [24](24-gewohnheit-als-praktiziertes-urteil.md): GS 4-21 räumt ein, dass Einsicht und Korrektur des Gefühlsurteils auseinanderfallen, und weist die Frage nach der Dauer als „psychologische Weltanschauung“ ab. Die Stellen zur Habitualisierung (Schule, Nationalismus, Rassismus) und Belege aus der Gewohnheitsforschung stehen dort.
 
 ## Herkunft
 

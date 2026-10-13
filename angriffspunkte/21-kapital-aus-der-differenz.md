@@ -27,6 +27,7 @@ Den Satz als Beleg dafür nehmen, der GSP habe keinen Begriff vom Kapitalvorschu
 ## Weiterarbeiten
 
 - `rg -n -i "vorgeschossen|Vorschuss" sources/2-politische-konomie-i-kapital-wert-geld-kredit.md | head`
+- Die [Ableitung](../theorie/GSP-Ableitung.md), Abschnitt 3.2, Schritt 4, liest den Satz als Aussage über den Zuwachs und stützt das auf GS 2-92 „Lohnarbeit“, Abschnitt 2, und GS 4-99, Abschnitt 1.a. Die Lesart ist dort als Überbrückung (R) markiert, also nicht belegt. GS 2-92 Abschnitt 2 daraufhin lesen.
 
 ## Herkunft
 

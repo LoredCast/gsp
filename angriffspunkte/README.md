@@ -2,7 +2,7 @@
 
 Probleme, Inkonsistenzen und Bereiche, die der GegenStandpunkt nicht erklären oder erfassen kann, soweit sie bisher erarbeitet sind. Jede Datei hält einen Punkt fest: die These, die GSP-Stellen mit Fundstelle in `sources/`, die stärkste Gegenrede, was danach übrig bleibt, und wie man weitersucht.
 
-Stand: 12. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag), die Bewertungen der Entwürfe und die Prüfungen der Theorieschrift. Die Punkte 09 bis 13 stammen aus der [Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md): Dort steht der beanstandete Satz schon im GSP-Text, der Einwand richtet sich also gegen das GSP-Argument selbst (siehe [../korrespondenz/](../korrespondenz/) und [../theorie/pruefungen/](../theorie/pruefungen/)).
+Stand: 13. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag), die Bewertungen der Entwürfe und die Prüfungen der Theorieschrift. Die Punkte 09 bis 13 stammen aus der [Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md): Dort steht der beanstandete Satz schon im GSP-Text, der Einwand richtet sich also gegen das GSP-Argument selbst (siehe [../korrespondenz/](../korrespondenz/) und [../theorie/pruefungen/](../theorie/pruefungen/)). Die Punkte 14 bis 21 stammen aus [Astras Prüfung](../theorie/pruefungen/2026-10-12-astra-pruefung.md), die Punkte 22 bis 25 aus manuels Vorlage „Vertiefte GSP-Kritik“ vom 12.10.2026. Beide sind an den Primärtexten geprüft; wo ein Einwand an der Wirklichkeit hängt, stehen externe Belege mit Prüfdatum dabei.
 
 ## Leitfrage
 
@@ -27,16 +27,30 @@ Stand: 12. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag),
 | [11](11-recht-ist-was-der-staat-tut.md) | „Recht ist, was der Staat tut“: Rechtsetzung oder jedes Amtshandeln? (1-92, 4-92) | offen | Präzisierungsfrage |
 | [12](12-tipps-an-alle-konkurrenten.md) | Tipps an alle Konkurrenten: ‚funktionieren nicht‘ oder ‚kein Vorsprung für alle‘? (3-25, 1-19 § 14) | offen | Reichweitenfrage; engere Lesart naheliegend |
 | [13](13-erfahrung-und-pruefung-von-theorien.md) | Popper: Kann Erfahrung Theorien prüfen? (4-94) | offen | Gültigkeitsfrage an die Methode |
+| [14](14-giralgeld-als-geldersatz.md) | Ist Giralgeld nur „Geldersatz“? (1-98, 2-10) | offen | begriffliche Frage; der GSP nennt selbst den Bank Run als Unterschied |
+| [15](15-geldentwertung-aus-kredit.md) | Folgt Geldentwertung notwendig aus nicht verwertetem Kredit? (4-97, 1-18 § 11) | offen | empirisch prüfbar, sobald „nicht verwerteter Kredit“ unabhängig bestimmt ist |
+| [16](16-verwertung-ohne-wachstum.md) | Kapitalverwertung ohne Wachstum? (1-18 § 7) | offen | Einwand gegen ein „nur“; der Zwang kommt aus der Konkurrenz |
+| [17](17-fall-der-profitrate.md) | Senkt Rationalisierung notwendig die Profitrate? (4-96, 2-10) | für 2-10 geklärt | schwach; der GSP schränkt selbst ein |
+| [18](18-klimaschutz-und-energiepolitik.md) | Klimaschutz „deckungsgleich“ mit Energiepolitik? (1-10, 1-21, 2-07) | offen | als Aussage über Staatszwecke eine offene Ausschließlichkeitsbehauptung |
+| [19](19-von-der-konkurrenz-zur-krise.md) | Wie wird aus der Konkurrenz die allgemeine Krise? (4-98) | offen | offene Ableitungsfrage |
+| [20](20-wechselkurs-als-inflationsvergleich.md) | Wechselkurs als „permanenter Inflationsvergleich“? (1-18 § 11, 2-94) | offen | gute Rückfrage; droht zirkulär zu werden |
+| [21](21-kapital-aus-der-differenz.md) | ‚Kapital entsteht aus der Differenz‘: Vorschuss oder Zuwachs? (4-99) | offen | schwach; Zuspitzung in einem tagespolitischen Text |
+| [22](22-nationale-befreiung.md) | Nationale Befreiung: aus „nicht hinreichend“ wird „kein Nutzen“ (4-23, 3-24, 1-06, MSZ 1985) | offen | trifft teilweise; reale Verbesserungen werden zugestanden und entwertet |
+| [23](23-widerstand-gegen-besatzung.md) | Widerstand gegen Besatzung: jede Gegenwehr „opferbereiter Nationalismus“? (4-23, 2-22) | offen | stärker als 22; „Einen anderen Schutz gibt es nicht“ bleibt ohne Folgerung |
+| [24](24-gewohnheit-als-praktiziertes-urteil.md) | Gewohnheit als „praktiziertes Urteil“: was wirkt, wenn das Urteil verworfen ist? (4-21) | offen | trifft eine Zweideutigkeit, die der GSP selbst anlegt; vertieft 03 |
+| [25](25-einsicht-und-handlungsfaehigkeit.md) | Einsicht und Handlungsfähigkeit: reicht es, dass die Kritik stimmt? (1-04, 1-10, 3-25, 3-24) | offen | trifft die programmatischen Texte; Koordination fehlt als Gegenstand |
 
 Außerdem:
 
 - [verworfen.md](verworfen.md): Einwände, die nicht halten, mit Grund. Vor einem neuen Brief lesen.
-- [forschungsfelder.md](forschungsfelder.md): Bereiche, die noch nicht untersucht oder zu dünn belegt sind, Grenzen der Quellenbasis, Revisionen im GSP selbst.
+- [forschungsfelder.md](forschungsfelder.md): Bereiche, die noch nicht untersucht oder zu dünn belegt sind, Grenzen der Quellenbasis, Revisionen im GSP selbst, Abgleich mit den offenen Stellen der [Ableitung](../theorie/GSP-Ableitung.md).
 - [_vorlage.md](_vorlage.md): Vorlage für einen neuen Punkt.
 
 ## Einordnung
 
 Aus keinem dieser Befunde folgt bisher eine Widerlegung der Wert-, Kapital-, Staats- oder Imperialismustheorie. Die tragfähigen Punkte betreffen Übergänge: von der Erklärung eines Verhältnisses zur Kritik des Bewusstseins seiner Teilnehmer, und von dort zur Begründung einer gemeinsamen Veränderung. Eine Antwort, die die Reichweite einer Aussage einschränkt oder eine praktische Begründungsaufgabe anerkennt, ist deshalb schon ein Ergebnis.
+
+Die Punkte 22 bis 25 haben eine gemeinsame Form: Daraus, dass eine Handlung der Herrschaft dient, die sie kritisiert, wird geschlossen, dass sie für die Handelnden keinen eigenen Grund hat (22, 23); daraus, dass ein Urteil falsch ist, dass seine Widerlegung erklärt, warum es fortbesteht oder überwunden wird (24, 25).
 
 ## So arbeitet man hier weiter
 
