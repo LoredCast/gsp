@@ -4,9 +4,9 @@ Eine Rekonstruktion aus Zeitschriftenartikeln, nach Themen geordnet. Dritte, üb
 
 ## Zum Verfahren
 
-**Quellenbasis.** Grundlage sind ausschließlich die 18 thematischen Artikelsammlungen im Projektordner: Texte aus der Zeitschrift GegenStandpunkt von 1992 bis 2026. Die Bücher des Verlags (etwa „Die Psychologie des bürgerlichen Individuums“ oder „Das Proletariat“) liegen nicht vor; sie kommen nur vor, soweit die Zeitschrift sie abdruckt, bespricht oder in Antworten auf Zuschriften erläutert. Wo ein Thema in der Zeitschrift nur am Rand behandelt wird, ist das auch hier dünn, zum Beispiel die Psychologie des bürgerlichen Individuums (15.4) oder die Lage der Frau, für die im Wesentlichen ein einziger Artikel vorliegt (GS 4-19, in 8.7).
+**Quellenbasis.** Grundlage sind ausschließlich die 16 thematischen Artikelsammlungen im Projektordner (Dateien 2 bis 17; Datei 1 ist eine Provenienznotiz, Datei 18 ein chronologisches Register, das nicht als Beleg dient): Texte aus der Zeitschrift GegenStandpunkt von 1992 bis 2026. Die Bücher des Verlags (etwa „Die Psychologie des bürgerlichen Individuums“ oder „Das Proletariat“) liegen nicht vor; sie kommen nur vor, soweit die Zeitschrift sie abdruckt, bespricht oder in Antworten auf Zuschriften erläutert. Wo ein Thema in der Zeitschrift nur am Rand behandelt wird, ist das auch hier dünn, zum Beispiel die Psychologie des bürgerlichen Individuums (15.4) oder die Lage der Frau, für die im Wesentlichen ein einziger Artikel vorliegt (GS 4-19, in 8.7).
 
-**Gattungen.** Zitiert werden 1503 Stellen aus 408 Texten. Die meisten (1250 Zitate) stammen aus Artikeln der Redaktion. Außerdem stammen Zitate aus diesen Gattungen, die jeweils in der Quellenangabe ausgewiesen sind:
+**Gattungen.** Zitiert werden 1508 Stellen aus 408 Texten. Die meisten (1255 Zitate) stammen aus Artikeln der Redaktion. Außerdem stammen Zitate aus diesen Gattungen, die jeweils in der Quellenangabe ausgewiesen sind:
 
 - 150 aus der Reihe „Chronik – kein Kommentar!“. Das sind kürzere Texte der Redaktion zu aktuellen Anlässen. Sie werden benutzt, wo sie ein Argument knapp und vollständig formulieren.
 - 23 aus der Reihe „Was Deutschland bewegt“.
@@ -20,12 +20,12 @@ Bei Leserbriefen und Rezensionen wurde geprüft, dass jedes Zitat aus dem Teil d
 
 | Zeitraum | Zitate |
 |---|---|
-| 1990–1999 | 485 |
+| 1990–1999 | 487 |
 | 2000–2009 | 372 |
-| 2010–2019 | 390 |
+| 2010–2019 | 393 |
 | 2020–2026 | 256 |
 
-Die aktuelle systematische Darstellung der politischen Ökonomie ist die Artikelserie „Die Konkurrenz der Kapitalisten“ (GS 3-17 bis 1-25); aus ihr stammen 106 Zitate. Wo frühere und spätere Formulierungen verschieden akzentuieren oder sich zu widersprechen scheinen, sagt der Text das und zeigt, wie sie zusammengehen. Beispiele sind die Charaktermasken in 3.5 (1996 und 2025) sowie Kreditschöpfung und Geldschöpfung in 4.6 und 7.8, aufgelöst durch die Antwort der Redaktion in GS 2-10. Zeitgebundene Diagnosen, etwa zu Russland in den 1990er Jahren (13.5) oder zu Japan (13.4), sind als solche gekennzeichnet.
+Die aktuelle systematische Darstellung der politischen Ökonomie ist die Artikelserie „Die Konkurrenz der Kapitalisten“ (GS 3-17 bis 1-25); aus ihr stammen 107 Zitate. Wo frühere und spätere Formulierungen verschieden akzentuieren oder sich zu widersprechen scheinen, sagt der Text das und zeigt, wie sie zusammengehen. Beispiele sind die Charaktermasken in 3.5 (1996 und 2025) sowie Kreditschöpfung und Geldschöpfung in 4.6 und 7.8, aufgelöst durch die Antwort der Redaktion in GS 2-10. Zeitgebundene Diagnosen, etwa zu Russland in den 1990er Jahren (13.5) oder zu Japan (13.4), sind als solche gekennzeichnet.
 
 **Was die Zitate leisten.** Ein Zitat belegt, dass und wo der GegenStandpunkt ein Argument so vorträgt. Es beweist nicht, dass das Argument stimmt. Das muss das Argument selbst leisten, und dafür verweist jede Quellenangabe auf die vollständige Ableitung im Original. Die verbindende Prosa ist Rekonstruktion und kein Zitat.
 
@@ -342,11 +342,15 @@ Deswegen endet die Geldqualität einer nationalen Währung an der Grenze des nat
 
 ### 2.8 Inflation
 
-Der Staat lässt seine ertragslosen Schulden im Geld als wirklichen Reichtum zirkulieren; so repräsentiert jede Geldeinheit einen nicht existierenden Wert mit. Der Wertverfall folgt aus der Wahrheit, dass wirklicher Geldwert nur durch Produkte lohnend angewandter Arbeit konstituiert wird. Praktisch machen die Verkäufer die steigenden Preise, das Nachsehen haben die, die nur kaufen, um zu leben.
+Der Staat lässt seine ertragslosen Schulden im Geld als wirklichen Reichtum zirkulieren; so repräsentiert jede Geldeinheit einen nicht existierenden Wert mit. Der Wertverfall folgt aus der Wahrheit, dass wirklicher Geldwert nur durch Produkte lohnend angewandter Arbeit konstituiert wird. Wie stark er ausfällt, hängt davon ab, wie weit der Staatskredit durch vermehrte Wertproduktion gerechtfertigt wird. Dabei unterscheidet der GSP den ökonomischen Inhalt, den Wertverlust des Kreditgelds, von seiner Erscheinung: Sichtbar wird er als allgemeine Teuerung, die statistisch aufbereitet als Inflationsrate bekanntgegeben wird; im Verhältnis zu anderen Währungen im Wechselkurs (6.7). Praktisch machen die Verkäufer die steigenden Preise, das Nachsehen haben die, die nur kaufen, um zu leben.
 
 > „Unweigerlich repräsentiert die nationale Währung dann in jeder ihrer gesetzlich gültigen Einheiten ein Stück dieses gar nicht verwerteten, aber weiter als gültig behaupteten Kredits, also einen schlechterdings nicht existierenden Wert mit.“ — „Der Staatshaushalt“, GS 4-97 (1997), Abschnitt „II. Zweck und Mittel des Staatshaushalts – oder: Der Gebrauch von Geld und Kredit durch den …“ › „3. Inflation“
 
+> „In welchem Maß sie das tut, das hängt davon ab, wie gut die Staatsverschuldung beim Kapitalwachstum „anschlägt“, hoheitlich verausgabter Kredit also durch vermehrte Wertproduktion gerechtfertigt wird; in dem Maße relativiert sich eben auch die Minderung des wirklichen Werts, für den das nationale Kreditgeld gesetzlich geradesteht.“ — ebd.
+
 > „Ein Wertverfall tritt aber allemal ein: Er ist, andersherum betrachtet, die notwendige Konsequenz der ökonomischen Wahrheit, daß wirklicher Geldwert nur durch Produkte konstituiert wird, in denen sich kapitalistisch lohnend angewandte Arbeit vergegenständlicht hat.“ — ebd.
+
+> „Die so zustandegebrachte allgemeine Teuerung läßt sich, statistisch kunstvoll aufbereitet, am Kaufmittel als prozentuale Entwertung ausdrücken und wird dann als Inflationsrate bekanntgegeben.“ — ebd.
 
 > „So erhöhen sie reihum die Preise, machen die Inflation, auf die jeder einzelne von ihnen immer nur reagiert, und ein wirkliches und systematisches Nachsehen haben lediglich die Marktteilnehmer, die tatsächlich bloß kaufen, um von den gekauften Produkten zu leben“ — „‚Sondervermögen Bundeswehr‘“, GS 2-22 (2022), Abschnitt „4.“ › „a)“
 
@@ -452,7 +456,7 @@ Das Unternehmen bezahlt nicht die Arbeit, sondern kauft mit dem Lohn die Verfüg
 
 ### 3.3 Absoluter und relativer Mehrwert: die Produktivität im Dienst der Rentabilität
 
-Kapital entsteht aus der Differenz zwischen der Arbeitszeit, in der der Arbeiter den Gegenwert seines Lohns produziert, und der Arbeitszeit, die er arbeiten muss. Daraus folgen zwei Gesetze: möglichst lange und möglichst produktiv arbeiten zu lassen. Beides nicht, weil es zu wenig gibt, sondern damit sich die Warenproduktion in Kapitalvermehrung niederschlägt.
+Das vorgeschossene Geld ist Voraussetzung des Produktionsprozesses; sein Zuwachs, der es erst zu Kapital im Sinn sich vermehrenden Reichtums macht, entsteht aus der Differenz zwischen der Arbeitszeit, in der der Arbeiter den Gegenwert seines Lohns produziert, und der Arbeitszeit, die er arbeiten muss, und hat in ihr sein Maß. Daraus folgen zwei Gesetze: möglichst lange und möglichst produktiv arbeiten zu lassen. Beides nicht, weil es zu wenig gibt, sondern damit sich die Warenproduktion in Kapitalvermehrung niederschlägt.
 
 > „Marktwirtschaftlicher Reichtum im eigentlichen Sinn – Kapital – entsteht aus und hat sein Maß in der Differenz zwischen dem bisschen Arbeitszeit, in dem der Arbeiter den Gegenwert dessen produziert, was er an Salär bekommt, und der langen Arbeitszeit, die er tätig sein muss, um vom Eigentümer der Produktionsstätte sein bisschen Salär zu bekommen.“ — „… Die Nation senkt ihr Lohnniveau (I)“, GS 4-99 (1999), Abschnitt „1. Ein „Bündnis für Arbeit“ bekämpft die Arbeitslosigkeit“ › „a) Politik, Kapital und nationale Arbeitervertretung ringen gemeinsam um einen Konsens in Sachen …“
 
@@ -840,7 +844,7 @@ Die letzte Garantie, dass den Banken das Geld nicht ausgeht, verschafft der Staa
 
 > „Nochmals: Geldschöpfung ist – entgegen manchen marktwirtschaftlichen Sprachregelungen, die vom Begriff des Geldes ohnehin unberührt sind – überhaupt nicht Sache des Finanzkapitals.“ — ebd.
 
-*Kreditschöpfung der Banken und Geldschöpfung des Staates.* Dass die Banken „Kredit schöpfen“ (4.1, 4.2) und dass der Staat mit seinen Krediten Geld schafft (7.8), steht nicht im Widerspruch. Der Unterschied liegt in der Herkunft und damit im Charakter der beiden Geldformen: Das Giralgeld der Banken ist eine Schuld der Bank, ein Anspruch auf Geld, also Geldersatz. Das Staatsgeld ist kein einzulösendes Zahlungsversprechen, sondern gesetzliches Zahlungsmittel kraft Gewaltmonopol. Indem die Notenbank sich zur Liquiditätsreserve der Banken macht, beglaubigt sie deren Zahlungsversprechen als vollwertigen Geldersatz; umgekehrt bewährt sich das Staatsgeld erst im Kreditgeschäft der Banken als wirkliches Geld. So ausgeführt in der Antwort der Redaktion auf einen Diskussionsbeitrag (GS 2-10).
+*Kreditschöpfung der Banken und Geldschöpfung des Staates.* Die folgende Unterscheidung ist die begriffliche Bestimmung des GSP, keine neutrale Fachdefinition; „marktwirtschaftliche Sprachregelungen“, die Geldschöpfung auch dem Finanzkapital zuschreiben, weist er ausdrücklich zurück. Dass die Banken „Kredit schöpfen“ (4.1, 4.2) und dass der Staat mit seinen Krediten Geld schafft (7.8), steht nicht im Widerspruch. Der Unterschied liegt in der Herkunft und damit im Charakter der beiden Geldformen: Das Giralgeld der Banken ist eine Schuld der Bank, ein Anspruch auf Geld, also Geldersatz. Das Staatsgeld ist kein einzulösendes Zahlungsversprechen, sondern gesetzliches Zahlungsmittel kraft Gewaltmonopol. Indem die Notenbank sich zur Liquiditätsreserve der Banken macht, beglaubigt sie deren Zahlungsversprechen als vollwertigen Geldersatz; umgekehrt bewährt sich das Staatsgeld erst im Kreditgeschäft der Banken als wirkliches Geld. So ausgeführt in der Antwort der Redaktion auf einen Diskussionsbeitrag (GS 2-10).
 
 > „Dennoch ist das Giralgeld, das vom Zahlungspflichtigen zum Empfangsberechtigten fließt, Geldersatz“ — „Diskussionsbeitrag zum Geld des Staates und zum Giralgeld der Banken: Lassen sich Geld und Geldersatz noch unterscheiden?“, GS 2-10 (2010), Antwort der Redaktion auf Diskussionsbeitrag, Abschnitt „1.“
 
@@ -1212,7 +1216,7 @@ Weil der Profit alleiniges Kriterium des Produzierens ist, ist Überfluss nicht 
 
 ### 6.2 Überakkumulation als Werk der Konkurrenz
 
-Die Kapitalisten haben überakkumuliert: mehr Ware produziert, als sich lohnend verkaufen lässt, Kredite vergeben, die nicht mehr bedient werden, Geld angehäuft, das sich nicht in Kapital verwandeln lässt. Diese Überproduktion von Kapital ist ihr eigenes Werk. Mit denselben Methoden, mit denen sie ihren Markt ausweiten und Konkurrenten verdrängen, führen sie die Schranken des Marktes herbei: Sie dehnen ihr Warenprodukt grenzenlos aus und beschränken zugleich die Zahlungsfähigkeit, die es versilbern müsste. Die Rationalisierungen, die den Mehrwert steigern, sind dieselben Methoden, die den Fall der Profitrate herbeiführen.
+Die Kapitalisten haben überakkumuliert: mehr Ware produziert, als sich lohnend verkaufen lässt, Kredite vergeben, die nicht mehr bedient werden, Geld angehäuft, das sich nicht in Kapital verwandeln lässt. Diese Überproduktion von Kapital ist ihr eigenes Werk. Mit denselben Methoden, mit denen sie ihren Markt ausweiten und Konkurrenten verdrängen, führen sie die Schranken des Marktes herbei: Sie dehnen ihr Warenprodukt grenzenlos aus und beschränken zugleich die Zahlungsfähigkeit, die es versilbern müsste. Die Rationalisierungen, die den Mehrwert steigern, sind dieselben Methoden, die den Fall der Profitrate herbeiführen. Gemeint ist eine Tendenz unter einer Bedingung, kein Ergebnis jedes einzelnen Rationalisierungsschritts: Der Vorreiter steigert seinen Gewinn; soweit die Konkurrenten seinen Preisvorteil egalisieren, verschlechtert sich tendenziell und insgesamt das Verhältnis von Gesamtaufwand und Ertrag. Die Methoden der Profitmacherei können so dem beabsichtigten Effekt in die Quere kommen. Wie aus diesem Zuviel die allgemeine Krise wird, entwickelt 6.3 über den Kredit, der die Schranken des Marktes zunächst außer Kraft setzt und dann neu zieht.
 
 > „Daß die Kapitalisten der ganzen Welt wieder einmal überzogen haben – mehr Ware produziert, als sich lohnend verkaufen läßt; massenhaft Geschäfte in Gang gesetzt, die nicht mehr erfolgreich zuende zu führen sind; Kredite vergeben, die nicht mehr bedient werden; Geld angehäuft, das nirgends in Kapital zu verwandeln geht; also: überakkumuliert, so daß jetzt Kapital in jeder Form entwertet wird –, das wirkt sich nämlich auf die nach wie vor national geführten Bilanzen der EG-Nachbarn unterschiedlich aus.“ — „Die Krise in Europa und ihre Schadensfälle“, GS 1-93 (1993)
 
@@ -1227,6 +1231,10 @@ Die Kapitalisten haben überakkumuliert: mehr Ware produziert, als sich lohnend 
 > „Bei Marx hat die Krise ihren Grund umgekehrt darin, daß das Kapital sein Warenprodukt grenzenlos ausdehnt und zugleich die Konsumtionskraft der Gesellschaft beschränkt, die es ihm versilbern müßte.“ — „Was sich mit Marx doch alles anstellen lässt! Die linke Kontroverse um das radikalste Menschenbild“, GS 4-96 (1996), Abschnitt „II. Trampert und Ebermann: Argumente für die Sichtbarkeit des Kapitalismus und der Unarten seiner …“ › „1. Zitate aus der Wirklichkeit zur Widerlegung des Philosophen Kurz“
 
 > „Vor allen Dingen aber sind die Rationalisierungen, die den Mehrwert steigern, nicht etwa ein Gegenmittel gegen den Fall der Profitrate, sondern haargenau dieselben Methoden, die ihren Fall herbeiführen.“ — ebd.
+
+> „Die Unternehmen, die mit der Verbilligung des Kostenfaktors und der Effektivierung des Produktionsfaktors Arbeit den Konkurrenzkampf gegen andere Produzenten gewinnen, weil sie ihre Ware preiswerter anbieten können, steigern ihren Gewinn. Die Masse des abstrakten, in Geld nachgezählten kapitalistischen Reichtums steigern sie damit nicht entsprechend. Soweit der Preisvorteil, mit dem sie ihren Absatz steigern, von den Konkurrenten wieder egalisiert wird, verschlechtert sich, tendenziell und insgesamt, das Verhältnis zwischen Gesamtaufwand und Ertrag – also die Profitrate, um die es doch geht.“ — „Der Wert. Brief an unsere Leser …“, GS 2-10 (2010), Abschnitt „I.“ › „3.“
+
+> „Dass so – wie Marx es ausdrückt – die Methoden der Profitmacherei dem beabsichtigten Effekt in die Quere kommen können, haben Marx-Kenner so aufgefasst, als behielte die Gleichung, wonach der Wert sein Maß in dem Zeitquantum produktiver Arbeit hätte, letztlich Recht gegen die Ausnutzung der gesellschaftlichen Wertschöpfung durch die kapitalistische Profitmacherei.“ — ebd.
 
 Kapitalistische Bereicherung findet als Überakkumulation statt. Das Übermaß nehmen die Konkurrenten aneinander wahr: Die anderen sind zu viel und müssen weg, und gerade so schaffen sie das allgemeine „Zu viel“, in das sie sich stets von Neuem hineinwirtschaften.
 
@@ -1348,7 +1356,7 @@ Die Staaten gestalten den Weltmarkt nach dem Ideal garantierter Erfolge. Regulie
 
 ### 6.7 Wechselkurs: die Währung als Bilanz der Nation
 
-Jenseits seiner Grenze wird die Geltung des staatlichen Geldes zur Frage der relativen ökonomischen Macht der Nation. Mit dem Wechselkurs wird der Reichtum ganzer Nationen als Teil des Weltreichtums gemessen. Die Staaten machen ihre Währungen zum Angebot, das mit allen anderen konkurriert, und haben mit dem freien Floaten das Finanzkapital für die Bewertung ihres nationalen Reichtums verantwortlich gemacht.
+Jenseits seiner Grenze wird die Geltung des staatlichen Geldes zur Frage der relativen ökonomischen Macht der Nation. Mit dem Wechselkurs wird der Reichtum ganzer Nationen als Teil des Weltreichtums gemessen. Die Staaten machen ihre Währungen zum Angebot, das mit allen anderen konkurriert, und haben mit dem freien Floaten das Finanzkapital für die Bewertung ihres nationalen Reichtums verantwortlich gemacht. Im Wechselkurs werden deshalb die nationalen Kreditgelder nach ihrer Kaufkraft verglichen, wie sie sich mit dem Wachstum des Kapitals und der Staatsschulden verändert; diesen Vergleich nennt der GSP einen „permanenten Inflationsvergleich“. Gemessen wird dabei die Geldqualität im umfassenden Sinn, die die Geschäftswelt verlangt: wertbeständig, weltweit gern genommen, mit lohnenden Geschäftschancen und Verzinsung.
 
 > „Seine politische Macht, unbedingt für die Gültigkeit seiner Währung zu sorgen, endet an seiner Grenze; jenseits seines Hoheitsbereichs wird die Geltung seiner Valuta zur Frage seiner relativen ökonomischen Macht, die Geschäftswelt mit ihren hohen Ansprüchen an ein gutes, nämlich im Wert solides, weltweit gern genommenes, lohnende Geschäftschancen eröffnendes, Verzinsung garantierendes Geld zufriedenzustellen.“ — „Der Fortschritt vom GATT zur WTO“, GS 2-94 (1994), Abschnitt „I.“ › „Exkurs“
 
@@ -1486,11 +1494,13 @@ Die Konkurrenz, der sich die Staaten angeblich stellen müssen, macht niemand an
 
 ### 6.12 Inflation und Geldwert
 
-Inflation ist das Auseinandertreten von Geldvermehrung und Reichtum: Die Vermehrung des Geldes stellt immer weniger verdienten kapitalistischen Reichtum und immer mehr eine unproduktive Aufblähung des Kredits dar. Die Preissteigerung dokumentiert den Verfall des nationalen Kreditgelds, Resultat und Indikator der mangelnden kapitalistischen Wirksamkeit der Kreditmassen. Weil der Staat das Geld vom Warencharakter emanzipiert hat, folgt für ihn die methodische Aufgabe, für stabiles Geld zu sorgen; die Preise kommen nur herunter, wenn Geschäft kaputtgeht.
+Inflation ist das Auseinandertreten von Geldvermehrung und Reichtum: Die Vermehrung des Geldes stellt immer weniger verdienten kapitalistischen Reichtum und immer mehr eine unproduktive Aufblähung des Kredits dar. Die Preissteigerung dokumentiert den Verfall des nationalen Kreditgelds, Resultat und Indikator der mangelnden kapitalistischen Wirksamkeit der Kreditmassen. Statistisch registriert wird sie als Aufblähung des Preisniveaus, flächendeckend oder in großen Segmenten des Marktes; als Geldentwertung lässt sie sich ausdrücken, wenn sie allgemein wirksam ist. Weil der Staat das Geld vom Warencharakter emanzipiert hat, folgt für ihn die methodische Aufgabe, für stabiles Geld zu sorgen; die Preise kommen nur herunter, wenn Geschäft kaputtgeht.
 
 > „Die Vermehrung des Geldes, der Zweck allen Wirtschaftens, stellt immer weniger ein wirkliches Mehr verdienten kapitalistischen Reichtums und immer mehr eine unproduktive Aufblähung des Kredits dar.“ — „Mehr Zinsen, mehr Schulden. Die USA bewältigen Inflation und Rezessionsgefahr und setzen damit Vorgaben für den Rest der Welt“, GS 4-22 (2022), Abschnitt „Die Inflationierung des nationalen Zahlungsmittels“
 
 > „Die allgemeine Steigerung der Preise, mit der die Geschäftswelt die gestiegene Zahlungsfähigkeit abgreift, dokumentiert den Verfall des nationalen Kreditgelds, das laufend weniger Zugriffsmacht auf produzierten Reichtum verkörpert – Resultat und Indikator der mangelnden kapitalistischen Wirksamkeit der Kreditmassen, die dieses Geld repräsentiert.“ — „Brasiliens Ökonomie“, GS 4-24 (2024), Abschnitt „II. Der Kampf des Staates um mehr nationales Wachstum: Mit internationalem Kapital und nationalem …“
+
+> „Statistiker registrieren eine Aufblähung des Preisniveaus, flächendeckend oder in großen Segmenten des Marktes, nachgemessen am Vergleich der Preise für bestimmte „Warenkörbe“ im Zeitverlauf: eine Inflation, die sich, wenn allgemein wirksam, am Geld, das so reichlich verliehen und benutzt wird, als Wertverlust in Prozenten: als Geldentwertung ausdrücken lässt.“ — „Die Konkurrenz der Kapitalisten. Kapitel II: Vermehrung des Kapitals: Ausdehnung der Produktion und des Handels“, GS 1-18 (2018), Abschnitt „§ 11 Der Staat als Schöpfer eines nationalen Kreditgeldes“ › „3. Inflation (1): Notwendiger Kollateralschaden des kreditfinanzierten Wachstums“
 
 > „Nämlich dadurch, daß der Staat mit dem Geld, das er selber schöpft, sich selbst kreditiert.“ — „Notwendige Klarstellungen zum Geld des Staates Zwei Leserbriefe zu dem Artikel „Der Staatshaushalt – Von der Ökonomie der politischen Herrschaft“ in GegenStandpunkt 4-97“, GS 1-98 (1998), Antwort der Redaktion auf Leserbrief, Abschnitt „Antwort der Redaktion“ › „3.“
 
@@ -3732,7 +3742,7 @@ Wer die hässlichen Erscheinungen nicht als Systemfrage begreift, landet bei der
 
 ### 17.3 Klimapolitik ist Energiepolitik
 
-Klimaschutz ist deckungsgleich mit Energiepolitik; mit der Übersetzung von Klimaforschung in Klimapolitik, die CO2 als Ursache definiert und seine Reduktion als Heilmittel verordnet, verfolgen die Staaten ihre Interessen. Die Rettung des Klimas ist für sie kein eigenständiger Zweck, sondern Wirkung ihrer energiepolitischen Ambitionen; Ökologie hat ein Derivat der kapitalistischen Ökonomie zu sein. Die Staaten anerkennen den Zustand der Atmosphäre, um sich wechselseitig haftbar zu machen; der Klimaschutz wird zur Ware, das Verschmutzungsrecht zum Geschäftsartikel, und die Klimapolitik zur Kalkulationsgröße der strategischen Aufstellung der Nation.
+Auf der Ebene der Staatenpolitik, etwa auf den Klimagipfeln, ist Klimaschutz für den GSP deckungsgleich mit Energiepolitik: Wo CO2-Minderung auf der Agenda steht, steckt konkurrierende Energiepolitik drin. Die Aussage gilt dem, worum es auf den Konferenzen geht: den Zwecken der Staaten. Mit der Übersetzung von Klimaforschung in Klimapolitik, die CO2 als Ursache definiert und seine Reduktion als Heilmittel verordnet, verfolgen die Staaten ihre Interessen. Die Rettung des Klimas ist für sie kein eigenständiger Zweck, sondern Wirkung ihrer energiepolitischen Ambitionen; Ökologie hat ein Derivat der kapitalistischen Ökonomie zu sein. Die Staaten anerkennen den Zustand der Atmosphäre, um sich wechselseitig haftbar zu machen; der Klimaschutz wird zur Ware, das Verschmutzungsrecht zum Geschäftsartikel, und die Klimapolitik zur Kalkulationsgröße der strategischen Aufstellung der Nation.
 
 > „Klare Auskünfte, worum es auf Klimaschutzkonferenzen geht: Klimaschutz ist deckungsgleich mit Energiepolitik; wo auf der Agenda CO2-Minderung draufsteht, steckt nichts anderes als konkurrierende Energiepolitik drin.“ — „Der Kampf der Nationen um die globale Energiewende … Weltklimagipfel „gescheitert““, GS 1-10 (2010), Abschnitt „I. „Hopenhagen“ und die Enttäuschung: Klimafragen sind Energiefragen“
 
