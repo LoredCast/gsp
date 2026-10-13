@@ -1,6 +1,6 @@
 # 09 Produktivität und Wert: einzelnes Kapital oder gesellschaftliche Ebene?
 
-**Status:** offen · **Stärke:** Reichweitenfrage; der GSP trennt die Ebenen an anderer Stelle selbst · **Stand:** 12.10.2026
+**Status:** offen · **Stärke:** Reichweitenfrage; der GSP trennt die Ebenen an anderer Stelle selbst · **Stand:** 13.10.2026
 
 ## These
 
@@ -20,6 +20,15 @@ Der Satz von 2004 meint die gesellschaftliche Ebene, nach der Verallgemeinerung 
 ## Was bleibt
 
 Dann gilt der Satz von 2004 nicht uneingeschränkt, wie er dasteht. Frage an den GSP: Bezieht er sich nur auf die gesellschaftliche Ebene, und wie verhält er sich zum Extragewinn des einzelnen Kapitals vor der Verallgemeinerung?
+
+## Verwandte Frage: Was heißt beim GSP „relativer Mehrwert“?
+
+Die Gesamtkritik vom 13.10.2026 (Punkt 03-4) fragt nach einer Vermittlung, die die Ebenenfrage oben noch nicht berührt. Bei Marx ist relativer Mehrwert die Verkürzung der notwendigen Arbeitszeit, weil die Waren billiger werden, die in den Wert der Arbeitskraft eingehen. Der GSP nennt schon das betriebliche Verfahren so:
+
+- „Der *relative Mehrwert* entsteht, indem der Ertrag der Arbeit durch die Veränderung ihrer Organisation gesteigert wird, insbesondere durch die Einführung von Arbeitsmitteln, die die Arbeit produktiver machen.“
+  „Die Behauptungen des Karl Marx, die Lohnarbeit betreffend“, GS 2-92, Abschnitt 5.b, `sources/2-politische-konomie-i-kapital-wert-geld-kredit.md:32933` (Artikel ab Zeile 32881)
+
+Die Fortsetzung handelt vom Verhältnis der Kosten zum Überschuss einer Ware, von Intensivierung, Lohndifferenzierung und Arbeitszeit, nicht von der Verbilligung der Lebensmittel. Offen ist, ob der GSP den Begriff damit verschiebt (vom Wert der Arbeitskraft zu den Lohnstückkosten des Betriebs) oder die Marxsche Vermittlung stillschweigend voraussetzt. Prüfaufgabe: in der Konkurrenz-Serie und in „Der Wert“ (GS 2-10) nach einer Stelle suchen, an der die Verbilligung der Arbeitskraft als Folge allgemeiner Produktivitätssteigerung vorkommt.
 
 ## Weiterarbeiten
 

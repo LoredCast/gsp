@@ -15,6 +15,8 @@ Aus dem [Review der ersten Fassung](../theorie/pruefungen/2026-10-11-review-manu
 - **Übergang und andere Produktionsweise:** Was nach der Kündigung des Kommandos über die Arbeit kommt und wie der Übergang ginge, führt die Sammlung nicht aus (Ableitung 18.1, 18.3, Anhang B.3).
 - **Krieg und Besatzung:** Zur Praxis der russischen Besatzung gibt es fast nur die Passportisierung (Kriegschronik KW 17). Filtrationslager, Folter in Gewahrsam, verschleppte Kinder und Schulpolitik unter Besatzung fehlen; eine GS-Analyse der vietnamesischen Befreiung ebenfalls. Nicht vertieft geprüft: Tschetschenien, Georgien 2008, Kosovo 2008. Siehe [22](22-nationale-befreiung.md) und [23](23-widerstand-gegen-besatzung.md).
 - **Kultur:** nur ein essayistischer Text (Ableitung 16.4).
+- **Religion:** Die allgemeine Bestimmung des religiösen Bedürfnisses stützt sich im Wesentlichen auf einen Artikel (GS 2-05, Ableitung 15.5); die übrigen Texte behandeln Kirche und Islam im Verhältnis zu bestimmten Staaten. Prüfauftrag aus der [Gesamtkritik](../theorie/pruefungen/2026-10-13-gesamtkritik-pruefung.md) (15-4): weitere Texte zu Religion suchen, bevor das Ergebnis allgemeiner gelesen wird als dieser Artikel.
+- **Moral überhaupt:** Ableitung 15.1 bestimmt Moral allgemein als affirmative Stellung zu den Interessengegensätzen, wie der GSP es tut (GS 1-11). Untersucht sind aber bestimmte Moralvorstellungen (Gerechtigkeit, Toleranz, Ethik, Kriegsmoral). Ob jedes moralische Urteil ein Gebot der Rücksicht auf einen Gegensatz ist, der aus dem Eigentum stammt, ist eine Gültigkeitsfrage ohne bestimmte Gegenstelle ([Gesamtkritik](../theorie/pruefungen/2026-10-13-gesamtkritik-pruefung.md), 15-1). Ein Angriffspunkt wird daraus erst mit einem Fall, an dem der GSP ein moralisches Urteil ohne einen solchen Gegensatz erklärt oder übergeht.
 - **Sozialversicherung:** Unfall- und Pflegeversicherung sind nicht eigens behandelt (Ableitung 8.7).
 
 ## Grenzen der Quellenbasis
@@ -29,7 +31,7 @@ Aus dem [Review der ersten Fassung](../theorie/pruefungen/2026-10-11-review-manu
 
 Stellen, an denen frühere und spätere Formulierungen verschieden akzentuieren. Die Theorieschrift löst sie auf; ob die Auflösung trägt, ist eine eigene Prüfung wert:
 
-- **Kreditschöpfung und Geldschöpfung** (4.6 und 7.8 der Theorieschrift; GS 1-98 und GS 2-10).
+- **Kreditschöpfung und Geldschöpfung** (4.6 und 7.8 der Theorieschrift; GS 1-98 und GS 2-10). KdK II (GS 1-18, § 11.2) spricht von Buchgeldschöpfung der Banken, GS 1-98 nennt es einen Fehler, den Banken die Freiheit zur Geldschöpfung zuzuschreiben. Die Ableitung lässt die Differenz seit dem 13.10.2026 stehen, statt sie aufzulösen; Stellen in [14](14-giralgeld-als-geldersatz.md).
 - **Charaktermasken** 1996 und 2025 (3.5): „Wenn Leute Zwecke für die ihren halten, dann sind sie es auch“ neben „nicht die wirklichen Subjekte“.
 - **Notwendig falsches Bewusstsein** 1996 und 2025: „Es steht dem Menschen jederzeit frei, sich zu erklären, woran sein Scheitern liegt“ (GS 4-96, `sources/14-…:11025`) neben „weit mehr als ein soziokulturell verallgemeinerter Irrtum, der sich durch einen klaren Blick auf die wirklichen Verhältnisse korrigieren ließe“ (GS 3-25, `sources/2-…:51635`). Siehe [05](05-abstufung-der-notwendigkeit.md) und [25](25-einsicht-und-handlungsfaehigkeit.md).
 - **Wert, Arbeit und Geldwert** (2.8, 4.5, 6.12): Wert „nicht durch Arbeit“, sondern durch das Regime des Geldes über die Arbeit; „wirklicher Geldwert“ nur durch lohnend angewandte Arbeit; Finanzkapital als Akkumulation realer Wertobjekte eigener Art. Die [externe Kritik](../theorie/pruefungen/2026-10-11-externe-kritik.md) (Abschnitt 3.3) verlangt hier eine ausdrückliche Vermittlung.
@@ -61,8 +63,11 @@ Anhang B der [Ableitung](../theorie/GSP-Ableitung.md) sammelt die Stellen, an de
 | Erfahrung und Erklärung, Popper | 1.2, 1.6 | [13](13-erfahrung-und-pruefung-von-theorien.md) |
 | Wachstumszwang | 3.1 | [16](16-verwertung-ohne-wachstum.md) |
 | Allgemeine Krise | 6.2 | [19](19-von-der-konkurrenz-zur-krise.md) |
+| Periodizität der Kreditkrise („Fest steht nur“) | 4.7 | [19](19-von-der-konkurrenz-zur-krise.md) |
+| Relativer Mehrwert ohne Verbilligung der Arbeitskraft | 3.3 | [09](09-produktivitaet-und-wert.md) |
+| Moral überhaupt | 15.1 | oben unter „Dünn belegte Themen“ |
 | Wahlen: entscheiden sie über Inhalte, die für die Betroffenen viel ausmachen? | 9.2 | noch kein Punkt |
 | Wertbildende Arbeit: wodurch, warum allgemein, wozu | 2.3 | noch kein Punkt; die Ableitung hält die drei Fragen getrennt |
-| Abdeckung (Psychologie, Geschlecht, Wissenschaften, Kultur, Übergang) | B.3 | oben unter „Dünn belegte Themen“ |
+| Abdeckung (Psychologie, Geschlecht, Wissenschaften, Kultur, Religion, Übergang) | B.3 | oben unter „Dünn belegte Themen“ |
 
 Die Frage zu den Wahlen hat dieselbe Form wie [22](22-nationale-befreiung.md) und [23](23-widerstand-gegen-besatzung.md): Folgt daraus, dass eine Einrichtung der Herrschaft dient, dass ihr Unterschied für die Betroffenen nichts ausmacht?

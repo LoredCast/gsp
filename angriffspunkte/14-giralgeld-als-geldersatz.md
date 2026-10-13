@@ -1,6 +1,6 @@
 # 14 Ist Giralgeld nur „Geldersatz“?
 
-**Status:** offen · **Stärke:** begriffliche Frage; der GSP nennt selbst einen Fall, an dem der Unterschied sichtbar wird · **Stand:** 12.10.2026
+**Status:** offen · **Stärke:** begriffliche Frage; der GSP nennt selbst einen Fall, an dem der Unterschied sichtbar wird · **Stand:** 13.10.2026
 
 ## These
 
@@ -25,6 +25,7 @@ Die Antwort von 2010 nennt selbst den beobachtbaren Unterschied: den Bankensturm
 - Offen bleibt, was die Unterscheidung außerhalb dieses Falls leistet. Mit Einlagensicherung und Notenbank als Kreditgeber letzter Instanz verschwindet der Unterschied für den Kontoinhaber im Normalbetrieb fast ganz. Der GSP würde sagen, das bestätige ihn, weil die staatliche Garantie die Gleichwertigkeit erst herstellt (GS 2-10, Abschnitt 3). Dann ist zu fragen, ob „Geldersatz“ eine andere Erklärung liefert als die übliche Hierarchie von Zentralbankgeld und Bankgeld, oder dieselbe Sache anders benennt.
 - Der Begriff wandert: 1997 heißt das staatliche Kreditgeld selbst „bloßer Geld*ersatz*“, gemessen am „*eigentlichen* Geldwert“ (GS 4-97, Abschnitt „3. Inflation“, `sources/2-…:44052`). 2010 heißen die Bankguthaben Geldersatz, gemessen am Staatsgeld. Zu klären wäre, ob das zwei Stufen derselben Bestimmung sind oder zwei verschiedene Begriffe unter einem Wort.
 - Erfolgskriterium: eine Aussage über Zahlung, Kredit oder Krise, die aus „Geldersatz“ folgt und aus der üblichen Geldhierarchie nicht.
+- Auch der Sprachgebrauch des GSP selbst ist nicht einheitlich. Die Konkurrenz-Serie spricht 2018 von der „Freiheit der Banken, im Maße ihres Kreditgeschäfts Buchgeld zu schöpfen“, und davon, dass der Staat „die nötige Freiheit zur Geldschöpfung“ gewährt („Die Konkurrenz der Kapitalisten“, Kapitel II, § 11.2, GS 1-18, `sources/2-…:21992`). Die Antwort von 1998 nennt es dagegen einen „Fehler des Leserbriefs, die Freiheit zur Geldschöpfung den Geschäftsbanken zuzuschreiben“ (`sources/2-…:31953`). In der Sache sind sich beide einig, dass das Buchgeld an das Geld gebunden bleibt, das der Staat schafft; ob der Unterschied nur eine „Sprachregelung“ ist, wie die Antwort von 1998 selbst sagt, oder auch etwas am Begriff ändert, ist mit der Gesamtkritik vom 13.10.2026 (Punkt 04-5) als offen festgehalten.
 
 ## Nicht weiterverfolgen
 
