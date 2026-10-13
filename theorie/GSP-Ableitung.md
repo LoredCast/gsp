@@ -28,6 +28,8 @@ Eine Rekonstruktion in Prämissen, Schritten und Schlüssen, nach Themen geordne
 - **(R)** hinter einem Satz – Überbrückung durch die Rekonstruktion. Der Satz ist nötig, damit der Gang lückenlos ist, steht aber so nicht ausdrücklich in den angegebenen Texten. Er ist so formuliert, dass er nach dem Verständnis des Bearbeiters mit dem GSP vereinbar ist; belegt ist er nicht.
 - **⚑ Anmerkung** – markiert eine Stelle, an der der GSP einen Schritt nicht ausführt, an der verschiedene Texte verschieden akzentuieren, an der die Reichweite einer GSP-Formulierung unklar ist, oder an der ein Einwand gegen die Gültigkeit des Arguments (nicht gegen die Wiedergabe) naheliegt. Anmerkungen der letzten Art sind als „Einwand“ bezeichnet und geben nicht die Position des GSP wieder. Anmerkungen sagen außerdem, wenn ein Satz keine allgemeine begriffliche Bestimmung ist, sondern eine Tendenz unter Bedingungen, eine zeitgebundene Lagebeurteilung oder eine polemische Zuspitzung.
 
+**Arten von Voraussetzung und Notwendigkeit.** Ein **V** kann Verschiedenes sein, und das Dokument sagt, wo es darauf ankommt, welches: ein Sachverhalt, den der GSP als gegeben nimmt (es gibt Geld, Eigentum, Staaten); ein Ergebnis, das an anderer Stelle erklärt ist (→ Verweis); eine historische Bedingung (Bretton Woods, die Gründung Israels); oder ein Vorgriff auf ein später erklärtes Ergebnis (*Vorgriff*). Wird eine Sache, die zuerst vorausgesetzt ist, später abgeleitet, dann ist nicht ihre Entstehung abgeleitet, sondern ihr Inhalt: was sie leisten muss und woraus das folgt. So setzt Kapitel 2 das staatlich geschützte Eigentum voraus, und Kapitel 7 bestimmt, was die Gewalt leisten muss, die es schützt; eine zeitliche Abfolge von staatlosem Eigentum zum Staat ist damit nicht behauptet. Ebenso heißt „notwendig“ nicht überall dasselbe. Es kann heißen: was zum Begriff eines Gegenstands gehört; was ein Akteur tun muss, wenn er seinen Zweck mit diesen Mitteln verfolgt; was als Resultat aus dem Zusammenwirken vieler solcher Akteure folgt, oft als Tendenz unter Bedingungen; was ein historisches Urteil über einen bestimmten Verlauf sagt; oder eine polemische Zuspitzung. Die Schritte haben meist die zweite und dritte Form. Wo ein Ergebnis eine der anderen hat, sagt das eine Anmerkung; wo das fehlt, ist der Satz nicht stärker zu lesen, als seine Schritte ihn tragen [Prüfung vom 13.10.2026, I-1, I-2, I-5, I-6].
+
 **Stellenangaben.** Eine Angabe wie [GS 2-10 Wert, I.1] nennt das Heft (Heft 2 des Jahrgangs 2010), eine Kurzbezeichnung des Artikels und den Abschnitt nach der Gliederung des Originals; „›“ trennt Gliederungsebenen, „Fn.“ steht für Fußnote. Mehrere Stellen sind durch Semikolon getrennt. Bei Antworten auf Leserbriefe steht „LB“, bei Chronik-Texten „Chr.“. Das **Quellenregister** am Ende löst jede Kurzbezeichnung in den vollen Titel auf und nennt die Sammlungsdatei im Projektordner mit Zeilennummer. Bei Leserbrief-Antworten nennen die Kopfzeilen der Sammlungen manchmal das Heft des besprochenen Artikels; hier ist das Heft der Antwort angegeben, wie es in der Zitatsammlung gegen gegenstandpunkt.com geprüft wurde.
 
 **Quellenbasis und Grenzen.** Ausgewertet sind die Zeitschriftenartikel 1992 bis 2026 aus den 16 thematischen Sammlungen im Projektordner (dazu kommen eine Provenienznotiz und ein chronologisches Register). Die Bücher des Verlags (etwa „Der bürgerliche Staat“, „Die Psychologie des bürgerlichen Individuums“, „Das Proletariat“) liegen nicht vor. Wo die Zeitschrift ein Thema nur am Rand behandelt, bleibt die Ableitung hier dünn, und der Abschnitt sagt das. Die Serie „Die Konkurrenz der Kapitalisten“ ist die jüngste systematische Darstellung der politischen Ökonomie; wo ältere Texte anders akzentuieren, steht das in einer Anmerkung. Die angekündigte parallele Ableitung der Lohnarbeit (GS 3-25 Nachtrag, Fn. 4) war bei Abschluss dieser Fassung noch nicht erschienen.
@@ -132,7 +134,9 @@ Dieses Kapitel steht am Anfang, weil die übrigen Kapitel seine Unterscheidungen
 4. Eine Sache aus ihrem Scheitern zu erklären, ist ebenfalls verkehrt. Man muss begreifen, was sie leistet, wenn ihre Rechnungen aufgehen; nur dann weiß man, woran sie scheitern kann und was fällig ist, wenn sie scheitert. Eine Sache für nichtig zu erklären, weil sie sich entwerten kann, beurteilt sie nach ihrem Erfolg [GS 2-10 Wert, Fn. 3].
 5. Ebenso verwechselt historisches Erklären die Frage, wie etwas entstanden ist, mit der Frage, was es ist. Wer Chronologie als Kausalität nimmt, erklärt den Nationalstaat mit dem Streben nach ihm und die Demokratie mit den Kräften, die sie hervorgebracht haben; vorn und hinten steht derselbe Inhalt [GS 2-19 Geschichtswiss., 1. und 2.].
 
-**Also.** Erklärt ist eine Sache, wenn ihr Zweck und die darin liegenden Notwendigkeiten bestimmt sind, und zwar so, dass jede weitere Bestimmung aus der vorigen hervorgeht, ohne in sie zurückzufallen.
+**Also.** Erklärt ist eine Sache, wenn bestimmt ist, was sie ist und welche Notwendigkeiten in ihr liegen, und zwar so, dass jede weitere Bestimmung aus der vorigen hervorgeht, ohne in sie zurückzufallen. Bei gesellschaftlichen Einrichtungen, die zu einem Zweck veranstaltet werden, heißt das: ihren Zweck und die darin liegenden Notwendigkeiten bestimmen (→ 1.3).
+
+⚑ **Anmerkung.** Eine frühere Fassung dieses Ergebnisses lautete allgemein „Erklärt ist eine Sache, wenn ihr Zweck … bestimmt ist“. Die Schritte 1 bis 5 sprechen aber nicht vom Zweck; dass ein Gegenstand einen Zweck hat, zeigt der GSP jeweils an diesem Gegenstand (Staat, Kapital, Schule), nicht als allgemeine Regel des Erklärens. Die Antwort des Verlags warnt gerade davor, Aussagen über einen Gegenstand zu einer Methode zu verallgemeinern. Das Ergebnis ist deshalb auf das beschränkt, was die Schritte tragen [Prüfung vom 13.10.2026, I-4].
 
 ⚑ **Einwand (Gültigkeit, nicht Wiedergabe).** Aus Schritt 2 (dieselbe Erfahrung erlaubt verschiedene Schlüsse) folgt nur, dass Erfahrung ohne Nachvollzug des Schlusses nicht entscheidet. Ob der GSP darüber hinaus jede Rolle der Erfahrung bei der Prüfung einer Erklärung bestreitet, sagt die Stelle nicht. Der GSP selbst prüft seine Erklärungen ständig an Ereignissen und Politikerreden; die Rekonstruktion liest Schritt 2 deshalb in der engeren Bedeutung.
 
@@ -140,7 +144,7 @@ Dieses Kapitel steht am Anfang, weil die übrigen Kapitel seine Unterscheidungen
 
 **Frage.** Wie ist mit dem Schaden umzugehen, den eine Einrichtung anrichtet?
 
-**V1.** Erklären heißt, den Zweck einer Sache und seine Notwendigkeiten zu bestimmen (→ 1.2).
+**V1.** Eine gesellschaftliche Einrichtung ist erklärt, wenn ihr Zweck und die darin liegenden Notwendigkeiten bestimmt sind (→ 1.2).
 
 **Ableitung.**
 
@@ -198,7 +202,7 @@ Dieses Kapitel steht am Anfang, weil die übrigen Kapitel seine Unterscheidungen
 
 **Frage.** Warum erklären die Sozial- und Wirtschaftswissenschaften nach Auffassung des GSP ihre Gegenstände nicht?
 
-**V1.** Erklären heißt, den Zweck einer Sache und seine Notwendigkeiten zu bestimmen (→ 1.2).
+**V1.** Eine gesellschaftliche Einrichtung ist erklärt, wenn ihr Zweck und die darin liegenden Notwendigkeiten bestimmt sind (→ 1.2).
 
 **Ableitung.**
 
@@ -287,7 +291,7 @@ Das Kapitel bestimmt die Form des Reichtums, um den es in der bürgerlichen Gese
 6. *Warum diese Form allgemein ist.* Dass alle gesellschaftliche Arbeit diese Bestimmungen hat, liegt nicht an der Arbeit, sondern daran, dass sie von eigentumslosen Arbeitskräften verrichtet wird, die nur durch Verkauf ihrer Arbeitskraft an Eigentümer überhaupt zu gesellschaftlich produktiver Tätigkeit kommen. Die Arbeit wird durch diesen Kauf der Macht des Eigentums einverleibt; ihre Leistung wird dem Rechtssubjekt zugerechnet, das über den Arbeitsprozess gebietet. So erst werden Privatheit, Abstraktheit und gesellschaftliche Notwendigkeit zu den maßgeblichen Bestimmungen der Arbeit überhaupt [GS 2-10 Wert, I.2 und I.3].
 7. *Wozu diese Arbeit veranstaltet wird.* Die Eigentümer, die sie veranstalten, tun das, um mehr Eigentum zu erlangen, als sie für Lohn und Produktionsmittel ausgeben. Darin, in der Bereicherung durch fremde, mit Lohn gekaufte Arbeit, sieht der GSP Sinn und Zweck der wertschaffenden Arbeit und den Grund ihres abstrakten Charakters [GS 3-00 Kurz, Abschn. „Modernisierung und Massenarmut“; GS 2-10 Wert, I.2].
 
-**Also.** Wertbildend ist Arbeit, die für den Verkauf und unter dem Kommando eines Eigentümers verrichtet wird. Ihre Bestimmungen kommen ihr nicht als Arbeit zu, sondern als Moment der Eigentumsverhältnisse, unter denen sie stattfindet.
+**Also.** Wertbildend ist Arbeit, die unter Eigentum und Austausch für den Verkauf verrichtet wird (Schritte 1 bis 4). Ihre allgemein herrschende Form ist die Arbeit eigentumsloser Arbeitskräfte unter dem Kommando eines Eigentümers (Schritt 6); veranstaltet wird sie zur Vermehrung seines Eigentums (Schritt 7). Ihre Bestimmungen kommen ihr nicht als Arbeit zu, sondern als Moment der Eigentumsverhältnisse, unter denen sie stattfindet.
 
 ⚑ **Anmerkung (Bestimmung, Allgemeinheit, Zweck).** Die Schritte beantworten drei verschiedene Fragen, die nicht zusammengezogen werden dürfen: *wodurch* Arbeit Wert bildet (Schritte 1 bis 4: unter Eigentum und Austausch zählt ihr Produkt als Ware), *warum* dies die allgemeine Form der gesellschaftlichen Arbeit ist (Schritt 6: Eigentumslosigkeit der Arbeitenden und Kauf ihrer Arbeitskraft), und *wozu* sie veranstaltet wird (Schritt 7: Vermehrung des Eigentums). Der Satz „Arbeit produziert Wert, weil sie dafür veranstaltet wird, Eigentum zu vermehren“ würde den Zweck als Erklärung der Wirkung ausgeben und den Schritt über die Eigentums- und Austauschverhältnisse überspringen. Der GSP selbst formuliert an der Kurz-Stelle zugespitzt, dass die Ausbeutung der Grund des abstrakten Charakters sei. Im Wert-Brief steht der Gedanke vollständiger: Das Wertgesetz ist herrschendes Prinzip nur, weil alle produktive Arbeit vom Eigentum in Beschlag genommen ist und für dessen Vermehrung eingesetzt wird.
 
@@ -394,7 +398,7 @@ Das Kapitel bestimmt die Form des Reichtums, um den es in der bürgerlichen Gese
 1. Der Staat trennt von seiner Hoheit über das Territorium eine privatrechtliche Verfügung über Grundstücke ab und erkennt sie als Eigentum an [GS 2-14 Wohnungsnot, IV.].
 2. Damit wird der Platz, den jedes Leben und jede Produktion braucht, zum Mittel, sich an allen zu bereichern, die Platz brauchen. Der Eigentümer verkauft nichts als seine rechtlich gesicherte Verfügungsmacht; der Preis für die Nutzung ist dem Inhalt nach ein Tribut der Nichteigentümer an die Monopolisten des Bodens [GS 2-94 Schneider-Pleite, II.1; GS 4-12 Immobilienkrise, Abschn. „Das Kreditgeschäft mit dem Eigenheim …“; GS 2-14 Wohnungsnot, I.].
 3. In den Bodenpreis gehen keine Herstellungskosten ein. Nach der Logik, dass jedes Einkommen Überschuss über einen Vorschuss sein muss, wird die Rente als Zins einer Hauptsumme behandelt und zum Bodenpreis kapitalisiert. Der Boden wird so zu fiktivem Kapital [GS 2-94 Schneider-Pleite, II.1; GS 2-14 Wohnungsnot, II.; → 4.3].
-4. Dieser kapitalisierte Bodenwert wirkt zurück: Er bestimmt, welche Miete verlangt werden muss, damit sich der Kaufpreis rentiert [GS 2-14 Wohnungsnot, II.].
+4. Der so hochgerechnete Wert macht sich von der Rente, aus der er errechnet ist, ein Stück weit selbstständig: Er wird im Vergleich mit dem Zinsniveau und anderen Anlagen und in der Spekulation auf künftige Erträge ermittelt. Wer ein Grundstück zu diesem Preis kauft oder seinen Besitz so bewertet, kalkuliert dann umgekehrt: Der gezahlte oder beanspruchte Bodenwert bestimmt, welche Miete verlangt werden muss, damit er sich angemessen verzinst. Abhängig von der Nutzung bleibt er trotzdem; lassen sich die Mieten auf Dauer nicht erzielen, fallen die Preise [GS 2-14 Wohnungsnot, II.].
 5. Dass der großen Mehrheit die Erde nicht zur Verfügung steht, ist eine unverzichtbare Grundlage der kapitalistischen Produktionsweise. Ohne frei zugänglichen Boden ist eigenständige Subsistenz unmöglich; das Grundeigentum hält die Massen beim Dienst am Kapital fest [GS 2-14 Wohnungsnot, IV.].
 6. Der Staat erkennt das Grundeigentum an, organisiert und beschränkt es zugleich (Raumordnung, Flächennutzung), weil er Boden auch für Kapital, Infrastruktur und Wohnen seiner Arbeitskräfte verfügbar halten muss [GS 2-14 Wohnungsnot, IV.].
 
@@ -510,6 +514,8 @@ Das Kapitel entwickelt die Vermehrung des Geldes durch Produktion. Es hält zwei
 ⚑ **Anmerkung (Ebenen).** Der Satz, je schneller eine Ware produziert werde, desto weniger sei sie wert, steht so im GSP [GS 1-04 Neue Sitten, 4.]. Er gilt auf der gesellschaftlichen Ebene, nach Verallgemeinerung der neuen Methode (Schritt 10 bis 12). Für das einzelne Kapital vor der Verallgemeinerung gilt das Gegenteil: Seine billigere Herstellung ist ein Gewinnvorteil gegenüber dem herrschenden Preis (Schritt 7). Der GSP selbst unterscheidet die Ebenen in KdK III und im Wert-Brief; im Text von 2004 ist der Satz ohne diese Unterscheidung formuliert. Die Rekonstruktion ordnet ihn der gesellschaftlichen Ebene zu (R).
 
 ⚑ **Anmerkung (Profitrate).** Ob die Profitrate „tendenziell und insgesamt“ fällt, behandelt der GSP nicht als Gesetz, an dem das Kapital scheitert, sondern als Widerspruch, den das Kapital selbst produziert und dadurch bewältigt, dass es mit immer teureren Methoden weitermacht. Er weist ausdrücklich die Lesart zurück, das Wertgesetz setze sich am Ende gegen die Profitmacherei durch [GS 2-10 Wert, I.3].
+
+⚑ **Anmerkung (Begriff „relativer Mehrwert“).** Die Überschrift folgt dem GSP: In GS 2-92 Lohnarbeit, 5.b heißt das betriebliche Verfahren, den Ertrag der Arbeit durch ihre Organisation und produktivere Arbeitsmittel zu steigern, „relativer Mehrwert“. Bei Marx ist relativer Mehrwert enger bestimmt, als Verkürzung der notwendigen Arbeitszeit durch Verbilligung der Waren, die in den Wert der Arbeitskraft eingehen. Diese Vermittlung, von der Stückkostensenkung eines Betriebs zur Verbilligung der Arbeitskraft, führt der GSP an den hier ausgewerteten Stellen nicht aus; die Schritte 4 bis 12 zeigen nur, wie ein Betrieb seine Lohnstückkosten senkt und wie sich das gesellschaftlich verallgemeinert. Ob der GSP den Marxschen Begriff damit umdeutet oder die Vermittlung voraussetzt, ist offen (→ Angriffspunkt 09; Anhang, Offene Stellen).
 
 ### 3.4 Fortschritt und Elend zugleich
 
@@ -644,6 +650,8 @@ Das Kapitel entwickelt die Vermehrung des Geldes durch Produktion. Es hält zwei
 3. Sein Geschäft zeigt deshalb, dass es eine Sache ist, immer produktiver zu arbeiten und mehr auf den Markt zu bringen, eine andere, die Produktivität der Arbeit zum Mittel der Bereicherung zu machen [GS 2-19 Bayer-Monsanto, I.].
 
 **Also.** Produktivität und Rentabilität sind zweierlei. Rentabel wird Produktivität erst als Mittel, fremde Arbeit im Verhältnis zu ihrem Ertrag zu verbilligen.
+
+⚑ **Anmerkung.** Der Abschnitt bestreitet nicht, dass der Bauer Waren produziert und dass seine Produkte Wert darstellen; er verkauft für Geld und unterliegt dem Maß der gesellschaftlich notwendigen Arbeit wie jeder Warenproduzent (→ 2.3, Schritte 1 bis 4). Gezeigt wird etwas anderes: Ohne fremde Arbeit fehlt ihm das Mittel, aus gesteigerter Produktivität eine gesteigerte Verwertung eines Vorschusses zu machen.
 
 ### 3.11 Zurückgewiesene Auffassungen
 
@@ -800,7 +808,7 @@ Das Kapitel leitet den Kredit aus einem Widerspruch des Wachstums ab, den das ei
 
 **Also.** Das Geld der modernen Staaten ist politisch garantiertes Kreditgeld. Seine Geltung verdankt es dem Gewaltmonopol, seine Güte dem Erfolg des Kapitals, das mit ihm wirtschaftet. Die Macht einer Nation besteht deshalb in der Fähigkeit ihres Staates, Schulden in die Welt zu setzen, die als Geld und Kapital taugen [GS 3-93 Krisenbewältigung].
 
-⚑ **Anmerkung.** Die Texte sprechen in diesem Punkt verschieden. KdK II spricht von der „Freiheit der Banken, im Maße ihres Kreditgeschäfts Buchgeld zu schöpfen“, und davon, dass der Staat „die nötige Freiheit zur Geldschöpfung“ gewährt [GS 1-18 KdK II, § 11.2]. Die Leserbriefantworten von 1998 und 2010 bestehen dagegen darauf, dass Kreditschöpfung „nichts mit Geldschöpfung zu tun hat“. Sachlich widersprechen sich die Texte nicht, denn das Buchgeld bleibt auch in KdK II an das „wirkliche Geld“ des Staates gebunden. Die Rekonstruktion folgt der Begrifflichkeit der Leserbriefantworten und nennt das Buchgeld Geldersatz.
+⚑ **Anmerkung.** Die Texte sprechen in diesem Punkt verschieden. KdK II spricht von der „Freiheit der Banken, im Maße ihres Kreditgeschäfts Buchgeld zu schöpfen“, und davon, dass der Staat „die nötige Freiheit zur Geldschöpfung“ gewährt [GS 1-18 KdK II, § 11.2]. Die Leserbriefantworten von 1998 und 2010 bestehen dagegen darauf, dass Kreditschöpfung „nichts mit Geldschöpfung zu tun hat“. Beide Texte stimmen darin überein, dass das Buchgeld an das „wirkliche Geld“ gebunden bleibt, das zu schaffen der Staat sich vorbehält; KdK II sagt das im selben Satz. Die Antwort von 1998 erklärt den Streit um das Wort selbst zur „Sprachregelung“, die vom Begriff des Geldes unberührt sei, hält dem Leserbrief aber zugleich als Fehler vor, die Freiheit zur Geldschöpfung den Geschäftsbanken zuzuschreiben [GS 1-98 LB Klarstellungen, Antwort 3.]. Ob damit nur der Sprachgebrauch auseinandergeht oder auch die Sache, ist nicht entschieden; die Differenz bleibt hier stehen. Die Rekonstruktion folgt der Begrifflichkeit der Leserbriefantworten und nennt das Buchgeld Geldersatz (→ Angriffspunkt 14).
 
 ⚑ **Anmerkung.** Schritt 6 gibt die Position des GSP wieder, keine neutrale Fachdefinition. In der Sprache der Notenbanken zählen Sichteinlagen zur Geldmenge. Der GSP unterscheidet nach der ökonomischen Qualität: Ein Bankguthaben ist ein Zahlungsversprechen auf Staatsgeld, das sich im Ernstfall bewähren muss. Welchen erklärenden Unterschied die Unterscheidung über die Begriffe hinaus macht, ist eine offene Frage (→ Anhang, Offene Stellen).
 
@@ -819,7 +827,7 @@ Das Kapitel leitet den Kredit aus einem Widerspruch des Wachstums ab, den das ei
 1. Der Kredit erlaubt den Unternehmen, die Schranke des Marktes als Konkurrenzfrage zu behandeln, die mit genug Größe zu entscheiden sei. Er ermächtigt sie zur Gleichgültigkeit gegen eine Geschäftsbedingung, die sie selbst schaffen: Sie beschränken mit lohnender Arbeitsproduktivität die Zahlungsfähigkeit, die sie ausnutzen wollen [GS 2-21 KdK IV, § 22.6].
 2. Das so finanzierte Wachstum schießt notwendig über das hinaus, was die Zahlungsfähigkeit im Verhältnis zur produzierten Warenmasse hergibt. Kapitalistische Bereicherung findet als Überakkumulation statt [ebd.].
 3. Mit jedem neuen Kredit wachsen die Ansprüche auf Ertrag, nicht aber der Reichtum, aus dem sie bedient werden sollen. So erzeugen die Banken die Schranke des Marktes, an der ihr Bereicherungsinteresse sich dann stößt [GS 2-94 Schneider-Pleite, IV.3].
-4. Zahlungsausfälle betreffen nie nur einzelne Gläubiger. Über die gegenseitige Refinanzierung wirken sie auf die Gesamtheit der Kreditgeber; deren Verluste schlagen auf die Unternehmen zurück, die frisches Geld brauchen. Die Entschränkung des Wachstums schlägt periodisch in eine Kontraktion des Kredits und in eine Lahmlegung des Geschäftslebens um [GS 2-21 KdK IV, § 22.6].
+4. Zahlungsausfälle betreffen nie nur einzelne Gläubiger. Über die gegenseitige Refinanzierung wirken sie tendenziell auf die Gesamtheit der Kreditgeber; deren Verluste schlagen auf die Unternehmen zurück, die für ihr Wachstum frisches Geld brauchen und es nicht mehr oder schwerer bekommen. Das führt zu weiteren Zahlungsausfällen und womöglich zu Einbrüchen im gesamten Wachstum; wie weit die reichen, entscheidet die spekulative Bewertung. Fest steht für den GSP nur, dass die Entschränkung des Wachstums periodisch in eine Kontraktion des Kredits und in eine mehr oder weniger flächendeckende Lahmlegung des Geschäftslebens umschlägt [GS 2-21 KdK IV, § 22.6].
 5. Die Krise ist dann der verallgemeinerte praktische Befund, dass zu viele Vermögenstitel in Umlauf sind, um sich noch zu rechtfertigen. Der Mechanismus, mit dem Akkumulation Vermögen schafft, läuft rückwärts: Misstrauen kostet Reichtum, schlechte Bilanzen bringen Geschäfte zum Erliegen [GS 3-10 Krise 2010, 2.; GS 3-11 Krisenbewältigung, Abschn. „Was zu viel ist …“].
 6. Mit dem Geld der Banken ist das Geld der Gesellschaft gefährdet, weil alles umlaufende Geld Kredit ist (→ 4.6). Der Staat springt ein und schafft kraft seiner Hoheit „aus Nichts allgemeines Äquivalent“. Er ist der einzige Akteur, dessen Fähigkeit, glaubwürdig Kredit zu schöpfen, nicht vom Erfolg der damit finanzierten Geschäfte abhängt, sondern von seiner Herrschaft über ein ganzes Geschäftsleben [GS 3-08 Krise ’08, 4.; GS 3-10 Krise 2010, 1.; GS 3-11 Krisenbewältigung].
 7. Damit rettet er die Funktionen des Kreditgewerbes für den gewöhnlichen Geschäftsverkehr, nicht dessen Zweck: eine Akkumulation, die den Kredit rechtfertigt. Die als Überakkumulation verworfenen Vermögen werden nicht gestrichen, sondern auf den Staat übertragen [GS 1-13 D-Mark Euro; GS 3-11 Krisenbewältigung].
@@ -827,7 +835,7 @@ Das Kapitel leitet den Kredit aus einem Widerspruch des Wachstums ab, den das ei
 
 **Also.** Die Kreditkrise ist keine Störung von außen und kein Fehler einzelner Akteure, sondern die Abrechnung der Divergenz zwischen dem Anspruch des Finanzkapitals und dem tatsächlich vermehrten Reichtum, die der Kredit selbst erzeugt [GS 4-98 Weltgeld, I.6]. Die staatliche Rettung zeigt, worin der Wert des Geldes letztlich besteht: in einem staatlich sanktionierten Gewaltverhältnis [GS 3-20 WDb Pandemie XII, 1.].
 
-⚑ **Anmerkung.** Der GSP bestimmt, *dass* die Krise periodisch eintritt und *woraus*, aber nicht *wann*. Wie weit der Einbruch reicht, ist „wiederum eine Frage ihrer spekulativen Bewertung“ [GS 2-21 KdK IV, § 22.6]. Eine Konjunkturtheorie mit Zyklusgesetz oder Prognose liefert er ausdrücklich nicht. Das Verhältnis dieser Kreditkrise zur Überproduktionskrise ist in 6.1 bis 6.3 ausgeführt.
+⚑ **Anmerkung.** Die Schritte 1 bis 4 erklären, warum ein Ausfall sich über den Kredit ausbreiten *kann* und woraus die Schranke entsteht, an der sich das Wachstum bricht. Dass dieser Umschlag periodisch und allgemein eintritt, setzt der GSP an der Stelle fest, statt es aus dem Übertragungsmechanismus herzuleiten; er leitet es ausdrücklich mit „Fest steht nur“ ein (→ Angriffspunkt 19). Der GSP bestimmt also, *dass* die Krise periodisch eintritt und *woraus*, aber nicht *wann*. Wie weit der Einbruch reicht, ist „wiederum eine Frage ihrer spekulativen Bewertung“ [GS 2-21 KdK IV, § 22.6]. Eine Konjunkturtheorie mit Zyklusgesetz oder Prognose liefert er ausdrücklich nicht. Das Verhältnis dieser Kreditkrise zur Überproduktionskrise ist in 6.1 bis 6.3 ausgeführt.
 
 ### 4.8 Zurückgewiesene Auffassungen: Gier, Betrug, Übertreibung
 
@@ -841,11 +849,13 @@ Das Kapitel leitet den Kredit aus einem Widerspruch des Wachstums ab, den das ei
 
 1. Auch Spekulanten sind mit ihren noch so willkürlich wirkenden Entscheidungen Charaktermasken des Geldkapitals. Dieses drängt mit der Gewalt eines ins Recht gesetzten Sachzwangs auf Wachstum, bis es von seinen selbstgeschaffenen Schranken eingeholt wird [GS 1-01 New Economy].
 2. Was an albanischen „Schwindelfonds“ als besondere Windigkeit gilt, kennzeichnet das Kreditgewerbe überhaupt: Jede Bank verleiht das eingelegte Geld mehrfach weiter, alle Kreditgebäude sind auf der Spitze stehende Pyramiden [GS 1-97 Albanien–Bulgarien, Abschn. „Kapitalismus in Albanien“].
-3. Schwindel und seriöses Geschäft unterscheiden sich daher nur im Ergebnis. Geglückte Spekulationen gelten als seriös, gescheiterte als Schwindel; die Finanzjongleure sind Wohltäter, solange der Kredit funktioniert, und Verbrecher, wenn er platzt [GS 3-92 35 Jahre EG II, A.I.; GS 1-97 Albanien–Bulgarien].
+3. Im Finanzgeschäft gehen Schwindel und seriöses Geschäft deshalb nahezu bruchlos ineinander über; der Unterschied liegt letztlich im Ergebnis. Geglückte Spekulationen gelten als seriös, gescheiterte als Schwindel; die Finanzjongleure sind Wohltäter, solange der Kredit funktioniert, und Verbrecher, wenn er platzt [GS 3-92 35 Jahre EG II, A.I.; GS 1-97 Albanien–Bulgarien].
 4. Die Strafverfolgung nach dem Krach klagt Bilanzdelikte an, verfolgt aber tatsächlich den eingetretenen Misserfolg [GS 3-02 Krise und Kriegswirtschaft, A.1].
 5. Zu jeder beklagten Schuld gehört ein Gläubiger, der Kredit gegeben hat, um sich zu bereichern; Schulden sind die Kehrseite von Forderungen, die anderswo als Kapital zählen [GS 1-13 D-Mark Euro].
 
 **Also.** Moralische Etiketten erklären nichts, sondern ersparen die Erklärung. Sie sortieren das Ergebnis eines Geschäfts, das in Erfolg und Misserfolg denselben Zweck verfolgt, nach Gut und Böse (→ 1.3, 1.4).
+
+⚑ **Anmerkung.** Schritt 3 ist eine polemische Zuspitzung gegen die moralische Sortierung nach dem Ergebnis, keine Aussage über das Recht. Dass das Recht Betrug und seriöses Geschäft unterscheidet und der Staat Finanzschwindel verfolgt, sagt derselbe Text ausdrücklich: Gerade weil die Grenze im Finanzgeschäft so fließend ist, nimmt die Staatsgewalt ihre Aufsicht umso wichtiger [GS 3-92 35 Jahre EG II, A.I.].
 
 ### 4.9 Sparen, Schulden, Rente: Management der Armut
 
@@ -954,7 +964,7 @@ Kapitel 3 hat den Lohn vom Standpunkt des Kapitals betrachtet, als Kost und als 
 5. „Die Wirtschaft“ hat ein Bedürfnis nach Arbeit, das ebenso bedingt wie maßlos ist: maßlos, weil jede Arbeit, die sich lohnt, willkommen ist; bedingt, weil keine Arbeit stattfindet, die sich nicht lohnt. Eine feste Menge Arbeit, die zu verteilen wäre, gibt es nicht [GS 3-06 Weltmarkt u. Weltmacht, I.a; GS 4-93 VW-Arbeitszeitmodell].
 6. Der Staat hält die Arbeitslosen nicht aus Großzügigkeit, sondern als Reserve für jederzeitige Wiederverwendung; er organisiert damit den Mangel, dem er die Arbeitskräfte unterwirft. Aus dem Lohn der Beschäftigten wird dafür das Nötigste abgezweigt [GS 1-95 Klassenstaat I, A.; → 8.7, 8.8].
 
-**Also.** Arbeitslosigkeit ist die Kehrseite eines Bedarfs an Arbeit, der sich allein nach der Rentabilität richtet. Sie wächst mit der Produktivität, nicht mit dem Mangel.
+**Also.** Arbeitslosigkeit ist die Kehrseite eines Bedarfs an Arbeit, der sich allein nach der Rentabilität richtet. Ihr Grund ist die Produktivität, nicht der Mangel: Der Fortschritt macht Arbeitskräfte im Verhältnis zum Geschäft, für das sie gebraucht werden, entbehrlich (V2). Ob die Zahl der Arbeitslosen insgesamt steigt, hängt zusätzlich davon ab, wie weit das Kapital sein Geschäft ausdehnt und neue Felder erschließt (Schritt 5); das ist keine Konstante, sondern Sache der Konjunktur und der Krise (→ 6.2).
 
 **Abgrenzung.** Aus den Arbeitslosen schließt der wirtschaftspolitische Verstand, die Arbeit müsse zu teuer sein, sonst gäbe es sie ja. Damit verwandelt er die Zweckbestimmung der Arbeit, mehr einzubringen, als sie kostet, in eine Bedingung, deren Erfüllung allen nütze: Arbeit muss billiger werden, damit es welche gibt [GS 1-95 Klassenstaat III, I.1; GS 4-98 Aufbruch und Erneuerung].
 
@@ -987,7 +997,7 @@ Kapitel 3 hat den Lohn vom Standpunkt des Kapitals betrachtet, als Kost und als 
 2. Die einzige Gegenmacht, die Arbeiter haben, entsteht dort, wo sie gebraucht werden, im Betrieb: durch Verweigerung der Arbeit. Dafür müssen sie ihre Konkurrenz untereinander aussetzen und eine dauerhafte Organisation unterhalten, die Streiks führt, Lohnausfall ausgleicht und Gegenangriffen standhält [GS 2-21 KdK IV, § 20.3].
 3. Der Kampf ist asymmetrisch. Die Arbeiter setzen ihren Lebensunterhalt aufs Spiel und stellen vereinbarte Dienste ein, kündigen aber nicht ihre Dienstbarkeit. Sie kämpfen nicht gegen ihre abhängige Lage, die der Grund ihrer Gegenwehr ist, sondern um Korrekturen an den Modalitäten ihrer Lohnarbeit [ebd.].
 4. Darin treten Grund und Zweck der Gewerkschaft auseinander: Gegründet wird sie, weil der Dienst am Kapital dem Interesse widerspricht, davon zu leben; ihr Zweck ist, sich ausgerechnet in diesem Lohnsystem ein Auskommen zu sichern [GS 3-94 Gewerkschaft und Fortschritt, Abschn. „Das gewerkschaftliche Angebot …“].
-5. Jeder Streik enthält deshalb den Widerspruch, dass der Dienst am Kapital storniert wird, um ihn unter veränderten Bedingungen wieder aufzunehmen [GS 4-04 Chr. Opel, a)]. Mit ihrer Einflussnahme auf die Modalitäten des Geldverdienens bestätigt und organisiert die Solidarität der Betroffenen die Fortsetzung des Schadens, gegen den sie sich zusammengetan haben [GS 3-25 Nachtrag, Abschn. „Die Praxis …“].
+5. Jeder Lohnkampf und jeder Streik um höheren Lohn oder bessere Arbeitsbedingungen enthält deshalb den Widerspruch, dass der bezahlte Dienst am Kapital storniert wird, um ihn unter veränderten Bedingungen wieder aufzunehmen. Der GSP sagt das ausdrücklich von dieser Art Streik; beim Opel-Streik, um den es im Text geht, wird sogar gestreikt, um überhaupt weiter arbeiten zu dürfen [GS 4-04 Chr. Opel, a)]. Mit ihrer Einflussnahme auf die Modalitäten des Geldverdienens bestätigt und organisiert die Solidarität der Betroffenen die Fortsetzung des Schadens, gegen den sie sich zusammengetan haben [GS 3-25 Nachtrag, Abschn. „Die Praxis …“].
 
 **Also.** Die Gewerkschaft ist die notwendige Form der Gegenwehr, solange die Notwendigkeit, für Geld zu arbeiten, nicht in Frage gestellt wird. Weil sie diese Notwendigkeit voraussetzt, zielt sie auf Korrekturen an den Ergebnissen abhängiger Arbeit und reproduziert damit ihren eigenen Ausgangspunkt [GS 2-20 Sozialpartnerschaft I].
 
@@ -1225,7 +1235,7 @@ Das Kapitel führt zwei Linien zusammen. Die erste ist die Krise: Sie wird aus d
 4. Die Schulden der USA sind das Vermögen, mit dem die anderen Staaten ihre Zahlungsfähigkeit beweisen [GS 2-25 Trumps Zolloffensive, I.]. Diese Stellung begründet eine politische Erpressungsmacht in den Händen der USA und ihrer Verbündeten [GS 3-14 Dollar-Imperialismus, 2.].
 5. Ein konkurrenzloses Weltgeld ist Voraussetzung der Weltfinanzmärkte. Als perfektes Monopol kommt es aber nicht zustande, weil alle Imperialisten diesen Status für sich anstreben [GS 1-25 KdK V, § 28].
 
-**Also.** Der Dollar ist Weltgeld, weil die Welt mit ihm wirtschaftet, und die Welt wirtschaftet mit ihm, weil er Weltgeld ist. Dieser Zirkel ist die ökonomische Seite der amerikanischen Weltmacht (→ 13.1, 13.2).
+**Also.** Der Dollar ist Weltgeld, weil die USA Quelle und Garantiemacht des Kredits sind, mit dem Nationen und Kapitalisten in aller Welt ihr Wachstum finanzieren, und weil ihre Schulden den anderen Staaten als Vermögen dienen (Schritte 3 und 4) [GS 2-11 Krisenbewältigung USA, B.IV]. Dass die Welt mit ihm wirtschaftet, festigt diese Stellung wiederum; diese Rückkopplung ist die ökonomische Seite der amerikanischen Weltmacht (→ 13.1, 13.2). Sie ersetzt nicht die Gründe, sondern setzt sie voraus.
 
 ⚑ **Anmerkung.** Schritte 1 und 2 sind historische Feststellungen, die der GSP als bekannt voraussetzt und deutet; sie sind nicht abgeleitet. Abgeleitet ist, warum ein Weltgeld nötig ist und warum seine Stellung umkämpft bleibt.
 
@@ -1759,7 +1769,7 @@ Kapitel 7 hat den Staat als Gewaltmonopol und Rechtsetzer abgeleitet, Kapitel 8 
 
 **Also.** Demokratie ist keine bloße Form, sondern unter dem Titel einer Staatsform eine vollständige Staatsräson, die die politischen Erfolgsbedingungen des Kapitals durchdekliniert [GS 1-93 Paradigma Demokratie, Abschn. „Kleiner Exkurs …“]. Die Freiheit des Marktes ist unantastbare Staatsräson; die Freiheit des Wählers erfüllt sich darin, deren Sachwalter mit der Zustimmung derer auszustatten, die unter ihr zu leiden haben [GS 1-12 Expertenregierungen, 1.].
 
-**Abgrenzung.** Weil sie alle Interessen als Konzepte für die Nation zulässt, schließt die Demokratie keine politischen Zwecke aus, sondern alle ein [GS 2-16 LB Sozialstaat, Antwort zu 2.]. Das ist kein Gegenargument zur Ableitung, sondern ihre Bestätigung: Zugelassen ist jeder Zweck in der Form eines Angebots an die Staatsräson.
+**Abgrenzung.** Weil sie alle Interessen als Konzepte für die Nation zulässt, schließt die Demokratie keine politischen Zwecke aus, sondern alle ein [GS 2-16 LB Sozialstaat, Antwort zu 2.]. Das ist kein Gegenargument zur Ableitung, sondern ihre Bestätigung: Zugelassen ist jeder Zweck in der Form eines Angebots an die Staatsräson. Gemeint sind politische Programme, nicht beliebige Betätigungsformen: Wer mit seiner Gesinnung eine Konkurrenz um das Gewaltmonopol aufmacht, bekommt es mit Verfassungsschutz und Justiz zu tun (→ 9.5, Schritt 6).
 
 ### 9.2 Die Wahl: Ermächtigung zum Regiertwerden
 
@@ -2470,11 +2480,13 @@ Dieses Kapitel wendet die Ableitungen über Weltmarkt (6), Kredit (4) und Imperi
 4. Daraus folgt der bleibende Widerspruch zwischen der Normalität einer kapitalistischen Konkurrenzgesellschaft und dem permanenten Ausnahmezustand, in dem Staat und Volk durch ständige Kriegsbereitschaft hergestellt werden [ebd.].
 5. Der Gewaltbedarf hat sein Maß im Anspruch auf überlegene Gewalt gegen jede wirkliche oder vorstellbare Anfeindung und übersteigt von Anfang an die eigenen Mittel des Staates [ebd., II.b]. Verlangt ist eine Politik fortdauernder Staatsgründung [ebd.].
 
+6. Weil dieser Gewaltbedarf die eigenen Potenzen von Anfang an überschreitet, braucht Israel seit seiner Gründung Schutz und Hilfe potenterer Mächte, heute der USA. Für den zionistischen Autonomieanspruch ist diese Abhängigkeit eine Zumutung; die eigene Nuklearstreitmacht soll sie aushaltbar machen, hebt sie aber nicht auf [ebd., III.1.a].
+
 **Also.** Israel führt einen offensiven Abwehrkampf, der sich von der wirklichen Bedrohlichkeit der Gegner verselbständigt hat [GS 4-19 Israel 2019]. Sein Gewaltbedarf übersteigt seine Mittel; das macht es auf eine Schutzmacht angewiesen (→ 10.6).
 
 **Abgrenzung.** Auch die Gewalt der Gegner Israels hat einen politischen Inhalt. Dass es sich bei der Gewalt der Hamas um Terror handelt, bestreitet der GSP nicht; falsch ist, das Terror-Urteil dazu zu benutzen, die Gewalt ihres politischen Gehalts zu entkleiden [GS 4-23 Al-Aqsa-Flut, 1.].
 
-⚑ **Anmerkung.** Der Satz „das macht es auf eine Schutzmacht angewiesen“ im **Also** ist meine Verbindung von Schritt 5 mit 10.6. Im zitierten Artikel steht nur, dass der Gewaltbedarf die autonomen Potenzen des Staates übersteigt.
+⚑ **Anmerkung.** Eine frühere Fassung hielt den Schluss auf die Schutzmacht für eine Verbindung der Rekonstruktion. Er steht aber im selben Artikel, Abschnitt III.1.a; Schritt 6 gibt ihn jetzt mit Beleg wieder [Prüfung vom 13.10.2026, 14-3].
 
 ---
 
@@ -2499,6 +2511,8 @@ Kapitel 1.5 hat das „notwendig falsche Bewusstsein“ als praktische, nicht th
 7. Die Demonstration eigener Bescheidenheit und die Verpflichtung anderer darauf ist kein Verzicht aufs Interesse, sondern die moralisch gebotene Art, es zu verfolgen. Das Bewusstsein der Rechtschaffenheit ist nicht Hemmung der gegenseitigen Schädigung, sondern das gute Gewissen, mit dem sie betrieben wird [ebd.].
 
 **Also.** Moral ist die affirmative Stellung zu den Interessengegensätzen dieser Gesellschaft und damit die Alternative zu ihrer Kritik. Sie ist nicht das Gegenteil von Interesse, sondern eine seinetwegen akzeptierte Unterordnung unter die Gebote des Staates [GS 1-11 LB Moral]. Die Gesellschaft leidet deshalb nicht an einem Mangel, sondern an einem Überschuss an Moral [GS 1-95 Moral Vormarsch]. Die Verwandlung der staatlich gesetzten Abhängigkeiten in Werte und Pflichten bestätigt die geltende Ordnung; die Herrschaft findet darin bei der Organisation des Gehorsams zuverlässige Amtshilfe [ebd., Abschn. „Einige alte, aber richtige Gedanken …“].
+
+⚑ **Einwand (Gültigkeit, nicht Wiedergabe).** Das **Also** ist so allgemein, wie der GSP es formuliert. Getragen wird es von Schritt 1 und 2: Das Gebot der Rücksicht setzt einen Gegensatz der Interessen voraus, und dieser Gegensatz stammt aus dem Eigentum. Ob jeder Gegensatz, auf den sich ein moralisches Urteil bezieht, diesen Ursprung hat, und ob jedes moralische Urteil die Gestalt dieses Gebots hat, zeigen die ausgewerteten Texte nicht im Einzelnen; sie untersuchen bestimmte Moralvorstellungen (Gerechtigkeit, Toleranz, Ethik, Kriegsmoral) und bündeln sie (→ Forschungsfelder).
 
 **Abgrenzung.**
 
@@ -2590,6 +2604,8 @@ Kapitel 1.5 hat das „notwendig falsche Bewusstsein“ als praktische, nicht th
 6. Das Verhältnis ist dabei klar geordnet. Das wirklich Absolute, das Gewaltmonopol, steht oben; das eingebildet Absolute hat dazu in ein funktionelles Verhältnis zu treten [GS 4-01 Kriegsmoral, I.]. Religion ist Mittel der Politik oder sie taugt nichts [GS 3-95 Kreuz des Staates, 6.].
 
 **Also.** Religion ist die Verarbeitung der Ohnmacht in der Konkurrenz zu einem Dienstverhältnis gegenüber einer eingebildeten höchsten Macht. Im bürgerlichen Staat ist sie Motivationsverstärker für die staatsbürgerliche Gesinnung [GS 4-06 Integration, I.]; im Gottesstaat ist sie Quelle des Rechts selbst [GS 3-05 Saudi-Arabien, I.a].
+
+⚑ **Anmerkung (Quellenbasis).** Die allgemeine Bestimmung des religiösen Bedürfnisses (Schritte 1 bis 4) stützt sich im Wesentlichen auf einen Artikel [GS 2-05 Religion]; die übrigen Stellen behandeln das Verhältnis bestimmter Staaten zu Kirche und Islam. Das **Also** ist deshalb nicht stärker zu lesen als dieser Artikel; ob der GSP andere Formen von Religion ebenso bestimmt, ist an der Sammlung nicht geprüft (→ Forschungsfelder).
 
 ### 15.6 Moralische Kritik und Kriegsmoral
 
@@ -2758,7 +2774,7 @@ Kapitel 9.4 und 10.2 haben vorausgesetzt, dass der Staat Erziehung und Öffentli
 4. Die Freiheit der Kunst wird dabei selbst zum nationalen Wert. Die Verteidiger der Literatur bestehen auf ihr als „moralischer Sonderwirtschaftszone“, die als Ausweis liberaler Werte über jedem moralischen Auftragswesen stehen soll [GS 1-20 Handke, Abschn. „Fazit“].
 5. In der Leitkultur schließlich wird der Kanon anerkannter Sitten zum Kriterium der nationalen Zugehörigkeit; Minderheiten, die davon abweichen, sehen sich mit Zweifeln an ihrer Identität konfrontiert [GS 4-23 KdK V, § 27, Abschn. „Gewaltmonopol, Volk, Leitkultur“; → 10.3].
 
-**Also.** Kultur ist Sinnstiftung, die getrennt von den materiellen Lebensfragen stattfindet und die Untertanen mit der Nation versöhnt, ohne an ihrer Lage etwas zu ändern.
+**Also.** Kultur, wie der Essay sie bestimmt, ist Sinnstiftung, die getrennt von den materiellen Lebensfragen stattfindet und die Untertanen mit der Nation versöhnt, ohne an ihrer Lage etwas zu ändern. Das Ergebnis reicht nicht weiter als die Quelle (→ Anmerkung).
 
 ⚑ **Anmerkung.** Der Kulturtext (GS 3-13) ist ein Essay mit vielen Wendungen und wenigen ausgeführten Begründungen. Die Schritte 1 bis 3 geben seine Thesen wieder; ihre historische Seite (Kultur als Luxus der Herrschenden) wird dort eher behauptet als belegt. Eine systematische Ableitung von Kunst und Kulturbetrieb liegt in der Sammlung nicht vor.
 
@@ -2785,7 +2801,9 @@ Dieses Kapitel wendet die Bestimmungen des Kapitals (Kapitel 3) und des Staates 
 7. Daraus folgt, dass die Katastrophe die Regel und nicht die Ausnahme ist: Wer nur Unglücke meldet, fragt nicht, von welcher Regel sie die Ausnahme sind [ebd.]. In der Ruinierung der natürlichen Grundlagen bewährt sich eine Produktionsweise, deren einziges Kriterium die Verwandlungsfähigkeit eines Gebrauchswerts in Geld ist [GS 1-04 Landwirtschaft, Fn. 7].
 8. Vom Gemeinwohl her gesehen ist die Vergiftung von Luft, Wasser und Boden kein Schaden, sondern ein Beitrag. Das Gemeinwohl besteht im national verdienten Geld, und dazu tragen die Verursacher bei, solange sie nicht die Geschäfte eines anderen Unternehmens beeinträchtigen, das für dieselben Naturgaben eine gewinnträchtige Verwendung hat [GS 3-95 Brent Spar, Abschn. „Die Sache …“].
 
-**Also.** Der Zweck heiligt den Dreck. Naturzerstörung ist keine Folge von Technik oder Industrie, sondern die Weise, wie eine Produktion für Geld mit ihren stofflichen Voraussetzungen umgeht.
+**Also.** Der Zweck heiligt den Dreck. Dass die Produktion ihre stofflichen Voraussetzungen schädigt, liegt nicht an Technik oder Industrie als solchen, sondern daran, dass eine Produktion für Geld die Wirkungen auf Mensch und Natur nur als Kosten zählt.
+
+⚑ **Anmerkung.** Abgeleitet ist der Grund der Gleichgültigkeit, nicht Art, Ausmaß und Verteilung eines bestimmten Schadens. Welcher Schaden eintritt, hängt auch von den Stoffen und Verfahren ab und davon, welche Grenzen der Staat setzt (→ 17.2). Die Chroniken, auf die sich die Schritte 2, 3 und 5 bis 7 stützen, sind Fälle, an denen der GSP diesen Grund aufzeigt; sie behaupten nicht, jede Umweltschutzauflage sei wirkungslos.
 
 **Abgrenzung.** Wer die Schädlichkeit von Produkten und Verfahren beklagt, aber die Effizienz fordert, die sie hervorbringt, beklagt die Wirkungen dessen, was er fördert: einer Produktivität, die ihr Maß in der Differenz von Geldvorschuss und Geldertrag hat [GS 1-04 Landwirtschaft, III.; → 3.3].
 
@@ -2882,7 +2900,7 @@ Dieses Kapitel wendet die Bestimmungen des Kapitals (Kapitel 3) und des Staates 
 3. Deshalb führt selbst eine epochale Verringerung der nötigen Arbeitszeit nicht zu weniger Arbeit. Sie soll, wie in den letzten beiden Jahrhunderten, mehr Beanspruchung der Arbeitskräfte erfordern [GS 1-18 Chr. Tarifkonflikt, I.; → 3.4].
 4. Die „Künstliche Intelligenz“ bringt keine Erkenntnis hervor. Sie ersetzt die Wahrnehmung und Bestimmung eines Objekts durch ein statistisches Verfahren, das ungefähr dieselbe Leistung erbringt. Das Modell macht keine allgemeinen Aussagen, sondern klassifiziert Einzelfälle über statistische Bezüge; der notwendige Zusammenhang bleibt ihm fremd [GS 4-23 KI, I.].
 
-**Also.** Wissenschaft und Technik sind keine eigene Macht, die das Leben bestimmt. Sie sind Mittel, und welche Wirkung sie haben, entscheiden die Zwecke, denen sie dienen.
+**Also.** Wissenschaft und Technik sind keine eigene Macht, die das Leben bestimmt. Sie sind Mittel, und welcher Gebrauch von ihnen gemacht wird, entscheiden die Zwecke, denen sie dienen. Was ein Verfahren bewirkt, wenn es so gebraucht wird, hängt daneben von seiner stofflichen Beschaffenheit ab; das bestreitet der GSP nicht, er bestreitet nur, dass sie den Gebrauch bestimmt.
 
 **Abgrenzung.** Die Frage nach „Fluch oder Segen der Forschung“ stellt die Wissenschaft als Subjekt hin und sieht von den Zwecken ab, die über ihren Gebrauch entscheiden [GS 3-01 Fluch oder Segen].
 
@@ -2896,7 +2914,7 @@ Das letzte Kapitel zieht die Konsequenzen für die Kritik selbst: was sie ist, a
 
 **Frage.** Was unterscheidet die Kritik des GSP von der Klage über Missstände?
 
-**V1.** Erklären heißt, den Zweck einer Sache und seine Notwendigkeiten zu bestimmen (→ 1.2).
+**V1.** Eine gesellschaftliche Einrichtung ist erklärt, wenn ihr Zweck und die darin liegenden Notwendigkeiten bestimmt sind (→ 1.2).
 
 **V2.** Moral misst die Verhältnisse an einem Sollen und setzt dabei die Interessengegensätze voraus (→ 15.1).
 
@@ -3154,6 +3172,11 @@ Hier sind die Stellen zusammengeführt, an denen die Rekonstruktion eine Grenze 
 - *Geld und Geldersatz* (4.6). Die Unterscheidung ist eine Position des GSP, keine neutrale Fachdefinition.
 - *„Tipps an alle“* (16.2). Ratschläge, die als objektive Richtlinien an alle Konkurrenten gehen, können keinen allgemeinen Vorsprung garantieren; behauptet ist nicht, dass kein Rat einem einzelnen Unternehmen nützt.
 - *Klimapolitik* (17.3). Gleichgesetzt sind Klima- und Energiepolitik auf der Ebene der staatlichen Zwecke, nicht nach ihren Gegenständen. „Menschheitsproblem“ ist ein polemischer Ausdruck gegen die Gattung als Subjekt, keine Bestreitung des Klimawandels.
+- *Arbeitslosigkeit und Produktivität* (5.4). Die Produktivität ist der Grund der Arbeitslosigkeit, relativ zum Umfang des Geschäfts; über die absolute Zahl entscheiden Ausdehnung und Krise mit.
+- *Streik* (5.6, Schritt 5). Der Widerspruch, den Dienst einzustellen, um ihn wieder aufzunehmen, ist vom Streik um Lohn und Arbeitsbedingungen gesagt, nicht von jeder Form der Gegenwehr.
+- *Schwindel und Geschäft* (4.8, Schritt 3). Polemische Zuspitzung gegen die moralische Bewertung nach dem Ergebnis, keine Aussage über das Recht.
+- *Demokratie und „alle“ Zwecke* (9.1). Zugelassen sind Programme als Angebote an die Staatsräson, nicht jede Betätigungsform.
+- *Natur und Technik* (17.1, 17.5). Abgeleitet ist der Grund der Gleichgültigkeit gegen die stofflichen Folgen; deren Art und Ausmaß hängen auch vom Stoff ab.
 
 **2. Gültigkeit: Einwände, die die Rekonstruktion nicht beantwortet.** Sie betreffen nicht die Treue der Wiedergabe, sondern die Frage, ob das Argument trägt.
 
@@ -3164,6 +3187,10 @@ Hier sind die Stellen zusammengeführt, an denen die Rekonstruktion eine Grenze 
 - *Wahlen* (9.2). Ob Wahlen über Inhalte entscheiden, die für die Betroffenen viel ausmachen, und was daraus für die These von der Wahl als Ermächtigung folgt.
 - *Klimapolitik* (17.3). Ob Staaten Klimaziele auch gegen Wachstumsinteressen verfolgen.
 - *Popper* (1.6, Schritt 6). Die Kritik an der Falsifizierbarkeit als Moral des Denkens ist wiedergegeben; ob sie Poppers Position trifft, prüft das Dokument nicht.
+- *Periodizität der Kreditkrise* (4.7). Die Übertragung von Ausfällen ist erklärt; dass der Umschlag periodisch und allgemein eintritt, setzt der GSP fest („Fest steht nur“), statt es abzuleiten (→ Angriffspunkt 19).
+- *Relativer Mehrwert* (3.3). Der GSP nennt schon die betriebliche Senkung der Lohnstückkosten relativen Mehrwert; die Vermittlung zur Verbilligung der Arbeitskraft führt er an den ausgewerteten Stellen nicht aus (→ Angriffspunkt 09).
+- *Buchgeld und Geldschöpfung* (4.6). KdK II spricht von Buchgeldschöpfung der Banken, die Leserbriefantworten bestreiten, dass Geldschöpfung Sache der Banken ist. Ob nur der Sprachgebrauch oder auch die Sache auseinandergeht, ist nicht entschieden (→ Angriffspunkt 14).
+- *Moral überhaupt* (15.1). Ob jeder Gegensatz, auf den sich ein moralisches Urteil bezieht, aus dem Eigentum stammt.
 - Die externe Prüfung („Astra“) nennt außerdem den Wechselkurs als Inflationsmaß (6.7) und den erklärenden Mehrwert der Kategorie Geldersatz (4.6) als Prüfaufträge. Sie sind hier nicht weiter verfolgt.
 
 **3. Abdeckung: Themen, für die die Sammlung keine volle Ableitung hergibt.**
@@ -3172,6 +3199,8 @@ Hier sind die Stellen zusammengeführt, an denen die Rekonstruktion eine Grenze 
 - *Lage der Frau und Geschlecht* (8.11, 18.9). Gestützt auf einen Artikel und eine Chronik. Eine Ableitung von Geschlechtsidentität und Feminismus fehlt; der Verweis der Zitatsammlung auf 15.4 verspricht mehr, als dort steht.
 - *Einzelne Wissenschaften* (16.2, 1.6). Vertreten sind VWL, Politikberatung, Geschichtswissenschaft, Habermas und Popper. Soziologie, Psychologie, Philosophie und Rechtswissenschaft fehlen als eigene Ableitung.
 - *Kultur* (16.4). Nur ein essayistischer Text.
+- *Religion* (15.5). Die allgemeine Bestimmung stützt sich im Wesentlichen auf einen Artikel (GS 2-05).
+- *Argumentkarten*. Die Themenordnung folgt der Zitatsammlung, nicht der Reihenfolge der systematischen Texte. Eine Karte, die etwa die Konkurrenz-Serie in ihrer eigenen Gliederung nachzeichnet und auf die Abschnitte hier verweist, fehlt noch.
 - *Sozialversicherung* (8.7). Unfall- und Pflegeversicherung sind nicht eigens behandelt.
 - *Übergang und andere Produktionsweise* (18.1, 18.3). Was nach der Kündigung des Kommandos über die Arbeit kommt und wie der Übergang ginge, führt die Sammlung nicht aus.
 - *Bücher des Verlags*. „Der bürgerliche Staat“, „Das Proletariat“, „Die Psychologie des bürgerlichen Individuums“ und weitere sind nicht ausgewertet. Wo sie systematischer argumentieren als die Zeitschrift, kann die Rekonstruktion Lücken haben, die hier nicht sichtbar werden.
@@ -3287,7 +3316,7 @@ Das Register löst die Kurztitel der Stellenangaben auf. Es nennt das Heft, die 
 - GS 1-98 *Chr. Kyoto*: Chronik: Die Weltklimakonferenz von Kyoto heizt die Konkurrenz der Staaten auf: Globale Händel um weltweiten Klimahan. `3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md`, Z. 121499
 - GS 1-98 *Chr. Garzweiler*: Chronik: Rot-grüner Koalitionsstreit um „Garzweiler II“: Ein Lehrstück in Sachen Standort, Macht und Demokratie. `3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md`, Z. 91615
 - GS 1-98 *Chr. Kommunismus entlarvt*: Chronik: Sensation aus Paris: Der Kommunismus – entlarvt! `5-sozialstaat-armut-reproduktion-alltag.md`, Z. 23544
-- GS 1-98 *LB Geld des Staates; LB Klarstellungen*: Notwendige Klarstellungen zum Geld des Staates Zwei Leserbriefe zu dem Artikel „Der Staatshaushalt – Von der Ökonomie der politischen Her … nicht in den Sammlungen gefunden
+- GS 1-98 *LB Geld des Staates; LB Klarstellungen*: Notwendige Klarstellungen zum Geld des Staates Zwei Leserbriefe zu dem Artikel „Der Staatshaushalt – Von der Ökonomie der politischen Her … `2-politische-konomie-i-kapital-wert-geld-kredit.md`, Z. 31206
 - GS 2-98 *Chr. Wahlkampfgesetzgebung*: Chronik: Wahlkampfgesetzgebung. `6-staat-recht-demokratie.md`, Z. 20641
 - GS 2-98 *Manifest*: Das kommunistische Manifest Ein mangelhaftes Pamphlet – aber immer noch besser als sein moderner guter Ruf. `2-politische-konomie-i-kapital-wert-geld-kredit.md`, Z. 21349
 - GS 2-98 *Währungsunion III*: Europäische Wirtschafts- und Währungsunion (III) Europa verschafft sich neues Geld – und verliert dabei seinen Kredit (Teil 3). `3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md`, Z. 37199
@@ -3449,7 +3478,7 @@ Das Register löst die Kurztitel der Stellenangaben auf. Es nennt das Heft, die 
 - GS 2-10 *Chr. Hartz IV*: Chronik: „Arbeit muss sich wieder lohnen!“ Nach fünf Jahren Hartz-IV: Neuer Reformbedarf auf dem Weg Deutschlands in. `4-lohnarbeit-lohnkampf-gewerkschaften.md`, Z. 1158
 - GS 2-10 *Chr. Schummel-Griechen*: Chronik: „Schummel-Griechen machen mit ihrem Schuldendrama unseren Euro kaputt!“ (Bild): Ein Lehrstück über europäisc. `3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md`, Z. 95271
 - GS 2-10 *Brief Der Wert; Wert*: Der Wert Brief an unsere Leser, die Marx’sche „Arbeitswertlehre“ und die Leistung des Finanzkapitals betreffend. `2-politische-konomie-i-kapital-wert-geld-kredit.md`, Z. 49818
-- GS 2-10 *LB Giralgeld*: Diskussionsbeitrag zum Geld des Staates und zum Giralgeld der Banken: Lassen sich Geld und Geldersatz noch unterscheiden? nicht in den Sammlungen gefunden
+- GS 2-10 *LB Giralgeld*: Diskussionsbeitrag zum Geld des Staates und zum Giralgeld der Banken: Lassen sich Geld und Geldersatz noch unterscheiden? `2-politische-konomie-i-kapital-wert-geld-kredit.md`, Z. 11278
 - GS 2-10 *Übergriffe*: Übergriffe auf Minderjährige in kirchlichen und weltlichen Erziehungseinrichtungen Ein privater Rechtsstandpunkt sucht sich seine Opfer – … `5-sozialstaat-armut-reproduktion-alltag.md`, Z. 24814
 - GS 3-10 *Krise 2010*: Anmerkungen zur Krise 2010 – Die nächste Lektion: Die Agenda der Krisenkonkurrenz der Nationen. `3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md`, Z. 64599
 - GS 3-10 *LB Klimagipfel*: Leserbrief zum Artikel „Weltklimagipfel ,gescheitert‘“ (GS 1-10) „Der Kopenhagener Klimagipfel ist nicht in Anführungszeichen ‚gescheiter … `3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md`, Z. 70294
