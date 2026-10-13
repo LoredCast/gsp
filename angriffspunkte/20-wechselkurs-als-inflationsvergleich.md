@@ -4,7 +4,7 @@
 
 ## These
 
-Der GSP nennt den Wechselkurs einen „permanenten Inflationsvergleich“ der nationalen Kreditgelder. Wechselkurse bewegen sich aber auch bei gleicher Teuerung, wenn sich Zinsunterschiede, Risikoaufschläge oder Anlageströme ändern. Eine Währung mit niedrigerer Inflation kann gegen eine mit höherer fallen. Beispiel nach Astra: Im zweiten Quartal 2022 stieg der Dollar gegenüber dem Yen deutlich, obwohl die US-Teuerung hoch war; New York Fed und Bank of Japan nennen steigende US-Zinsen und Dollarnachfrage als Gründe.
+Der GSP nennt den Wechselkurs einen „permanenten Inflationsvergleich“ der nationalen Kreditgelder. Wechselkurse bewegen sich aber auch bei gleicher Teuerung, wenn sich Zinsunterschiede, Risikoaufschläge oder Anlageströme ändern. Eine Währung mit niedrigerer Inflation kann gegen eine mit höherer fallen. Beispiel nach Astra: Im zweiten Quartal 2022 stieg der Dollar um 11,5 % gegenüber dem Yen, obwohl die US-Teuerung hoch war. Die New York Fed erklärt den Anstieg des Dollar insgesamt mit Dollarnachfrage aus Sorge vor einer weltweiten Abschwächung und mit dauerhaft großen Zinsunterschieden zugunsten der USA. Die Bank of Japan nannte schon im März 2022 als Hauptgrund der Yen-Schwäche die steigenden US-Zinsen, daneben die Dollarkäufe japanischer Importeure wegen der Rohstoffpreise.
 
 ## Was der GSP sagt
 
@@ -27,7 +27,7 @@ Der GSP nennt den Wechselkurs einen „permanenten Inflationsvergleich“ der na
 
 - `rg -n -i "Wechselkurs" sources/2-politische-konomie-i-kapital-wert-geld-kredit.md sources/3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md | rg -i "Inflation|Zins"`
 - Abschnitt 6.7 der [Theorieschrift](../theorie/GSP-Theorie.md) gibt den weiteren Begriff inzwischen wieder.
-- Vergleichsmaterial nach Astra: Federal Reserve Bank of New York, [Bericht zu den Devisenoperationen April bis Juni 2022](https://www.newyorkfed.org/newsevents/news/markets/2022/20220811); Bank of Japan, [Protokoll der Sitzung vom März 2022](https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2022/g220318.htm); Federal Reserve, [FEDS Notes vom 10.05.2024](https://www.federalreserve.gov/econres/notes/feds-notes/monetary-policy-and-exchange-rates-during-the-global-tightening-20240510.html).
+- Vergleichsmaterial (am 13.10.2026 geprüft): Federal Reserve Bank of New York, [Bericht zu den Devisenoperationen April bis Juni 2022](https://www.newyorkfed.org/newsevents/news/markets/2022/20220811); Bank of Japan, [Protokoll der Sitzung vom März 2022](https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2022/g220318.htm); Federal Reserve, [FEDS Notes vom 10.05.2024](https://www.federalreserve.gov/econres/notes/feds-notes/monetary-policy-and-exchange-rates-during-the-global-tightening-20240510.html), nach denen etwa die Hälfte des Dollaranstiegs in der Straffungsphase auf die US-Zinsen zurückgeht.
 
 ## Herkunft
 

@@ -34,7 +34,7 @@ Die Antwort von 2010 nennt selbst den beobachtbaren Unterschied: den Bankensturm
 
 - Die ganze Antwort GS 2-10 lesen (`sources/2-…:11278` ff.), dazu GS 1-98 Abschnitt 3 und 4.6 der [Theorieschrift](../theorie/GSP-Theorie.md).
 - `rg -n -i "Kreditzeichen|Geldersatz|Giralgeld" sources/2-politische-konomie-i-kapital-wert-geld-kredit.md`
-- Vergleichsmaterial: Deutsche Bundesbank, [„Wie Geld entsteht“](https://www.bundesbank.de/de/aufgaben/themen/wie-geld-entsteht-665288); McLeay, Radia, Thomas, [‚Money creation in the modern economy‘](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy), Bank of England Quarterly Bulletin 2014 Q1.
+- Vergleichsmaterial: Deutsche Bundesbank, [„Wie Geld entsteht“](https://www.bundesbank.de/de/aufgaben/themen/wie-geld-entsteht-665288), zitierfähig ist der Monatsbericht April 2017, S. 15–34; McLeay, Radia, Thomas, [‚Money creation in the modern economy‘](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy), Bank of England Quarterly Bulletin 2014 Q1.
 
 ## Herkunft
 

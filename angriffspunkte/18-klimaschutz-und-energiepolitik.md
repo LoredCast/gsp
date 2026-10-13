@@ -21,14 +21,14 @@ Der Satz von 2010 steht ausdrücklich unter „worum es auf Klimaschutzkonferenz
 
 ## Was bleibt
 
-- Zwei Behauptungen sind zu trennen. (1) Sachgegenstand: Klimaschutz und Energiepolitik sind nicht deckungsgleich; Astra nennt nach IPCC rund 22 % der Emissionen 2019 aus Landwirtschaft, Forstwirtschaft und anderer Landnutzung (Zahl siehe unten). Die Überschrift „Klimafragen sind Energiefragen“ ist allgemeiner formuliert als der Satz und trifft diesen Einwand. (2) Staatszweck: Dass eine Maßnahme der Industrie nützt, beweist nicht, dass sie keinen anderen Zweck hat. Für „gar kein eigenständig zu verfolgender Zweck“ braucht es den Nachweis an Entscheidungen, bei denen Klimaziel und Konkurrenzvorteil auseinanderfallen.
+- Zwei Behauptungen sind zu trennen. (1) Sachgegenstand: Klimaschutz und Energiepolitik sind nicht deckungsgleich; 2019 stammten nach IPCC rund 34 % der netto menschengemachten Treibhausgase aus der Energieversorgung, 24 % aus der Industrie und 22 % (13 Gt CO2-Äquivalent) aus Landwirtschaft, Forstwirtschaft und anderer Landnutzung (AR6 WGIII, Summary for Policymakers, B.2.1). Die Überschrift „Klimafragen sind Energiefragen“ ist allgemeiner formuliert als der Satz und trifft diesen Einwand. (2) Staatszweck: Dass eine Maßnahme der Industrie nützt, beweist nicht, dass sie keinen anderen Zweck hat. Für „gar kein eigenständig zu verfolgender Zweck“ braucht es den Nachweis an Entscheidungen, bei denen Klimaziel und Konkurrenzvorteil auseinanderfallen.
 - Prüffälle für (2): Klimapolitik mit Kosten ohne Konkurrenzgewinn, etwa Methanregeln für die Landwirtschaft, Kohleausstieg mit Entschädigungen, Maßnahmen gegen die eigene Industrie. Erfolgskriterium: Wie erklärt der GSP solche Fälle?
 - Abschnitt 17.3 der [Theorieschrift](../theorie/GSP-Theorie.md) bezieht die Gleichsetzung inzwischen auf die Ebene der Staatenpolitik.
 
 ## Weiterarbeiten
 
 - `rg -n -i "Landwirtschaft|Methan|Entwaldung|Tierhaltung" sources/3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md | rg -i "Klima"`
-- Vergleichsmaterial: IPCC AR6 WGIII, [Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/) und [Kapitel 7 (AFOLU)](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/).
+- Vergleichsmaterial (am 13.10.2026 geprüft): IPCC AR6 WGIII, [Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/) und [Kapitel 7 (AFOLU)](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/).
 
 ## Herkunft
 

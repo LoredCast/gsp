@@ -4,7 +4,7 @@
 
 ## These
 
-Der GSP sagt, Staatsschulden, die als Kreditgeld zirkulieren, ohne dass ihnen gelungene Kapitalvermehrung entspricht, entwerten das Geld „allemal“. Das Ausmaß hänge davon ab, wie gut der Staatskredit beim Wachstum „anschlägt“, die Entwertung selbst sei notwendig. Gegen eine so formulierte Notwendigkeit stehen lange Phasen, in denen Staatsschulden und Zentralbankgeld stark wuchsen und die Teuerung niedrig blieb (USA nach 2008, Japan unter der Geldpolitik der 2010er Jahre). Zu klären ist, was die Aussage voraussagt und was sie widerlegen würde.
+Der GSP sagt, Staatsschulden, die als Kreditgeld zirkulieren, ohne dass ihnen gelungene Kapitalvermehrung entspricht, entwerten das Geld „allemal“. Das Ausmaß hänge davon ab, wie gut der Staatskredit beim Wachstum „anschlägt“, die Entwertung selbst sei notwendig. Gegen eine so formulierte Notwendigkeit stehen lange Phasen, in denen Staatsschulden und Zentralbankgeld stark wuchsen und die Teuerung niedrig blieb. In den USA stiegen die Reserveguthaben der Banken von August 2007 bis Oktober 2014 von etwa 15 Milliarden auf etwa 2,5 Billionen Dollar, bei niedriger und recht stabiler Inflation (Federal Reserve, Monetary Policy Report Juli 2018; der Bericht stellt beides nebeneinander, ohne es zu verknüpfen). Die Geldbasis wuchs von November 2008 bis September 2012 um durchschnittlich 32,3 % im Jahr, die gemessene Inflation stieg nicht (Tutino/Zarazaga, Dallas Fed 2014). In Japan blieb die Inflation trotz der Lockerung ab 2013 hartnäckig unter 2 Prozent (IWF-Working-Paper WP/19/229). Zu klären ist, was die Aussage voraussagt und was sie widerlegen würde.
 
 ## Was der GSP sagt
 
@@ -34,7 +34,11 @@ Die Gleichsetzung von Zentralbankreserven mit dem gesamten unproduktiven Kredit 
 - Neuere GSP-Texte zur Inflation 2021 bis 2023 lesen und prüfen, ob sie die Teuerung aus Staatskredit, aus Energiepreisen oder aus beidem erklären:
   `rg -n -i "Inflation" sources/2-politische-konomie-i-kapital-wert-geld-kredit.md sources/3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md | rg "2[12]-2[1-3]|202[1-3]"`
 - Abschnitte 2.8 und 6.12 der [Theorieschrift](../theorie/GSP-Theorie.md); sie trennen inzwischen den ökonomischen Inhalt von der Erscheinung.
-- Vergleichsmaterial nach Astra: Federal Reserve, [Monetary Policy Report, Juli 2018, Teil 2](https://www.federalreserve.gov/monetarypolicy/2018-07-mpr-part2.htm); Federal Reserve Bank of Dallas, [‚Inflation: Always and Everywhere a Monetary Phenomenon?‘](https://fraser.stlouisfed.org/title/economic-letter-6362/inflation-always-everywhere-a-monetary-phenomenon-607694/fulltext); BIS, [‚Does money growth help explain the recent inflation surge?‘](https://www.bis.org/publications/bulletin-67-does-money-growth-help-explain-recent-inflation-surge), BIS Bulletin 67 (2023).
+- Vergleichsmaterial (am 13.10.2026 geprüft):
+  - Federal Reserve, [Monetary Policy Report, Juli 2018, Teil 2](https://www.federalreserve.gov/monetarypolicy/2018-07-mpr-part2.htm), Kasten „Interest on Reserves“.
+  - Antonella Tutino, Carlos Zarazaga: [‚Inflation Is Not Always and Everywhere a Monetary Phenomenon‘](https://fraser.stlouisfed.org/files/docs/publications/frbdal_el/frbdal_el_201406.pdf), Federal Reserve Bank of Dallas, Economic Letter 9(6), Juni 2014. Die Pointe der Autoren ist fiskalisch: Die Fiskalpolitik bestimme das Preisniveau mit. Das liegt näher am GSP, als Astras Entwurf annimmt.
+  - Claudio Borio, Boris Hofmann, Egon Zakrajšek: [‚Does money growth help explain the recent inflation surge?‘](https://www.bis.org/publ/bisbull67.htm), BIS Bulletin 67, Januar 2023: Der Zusammenhang von Geldmenge und Inflation hängt vom Inflationsregime ab, im Hochinflationsregime ist er eng, bei niedriger Inflation fast nicht vorhanden.
+  - Rahul Anand, Gee Hee Hong, Yaroslav Hul: [‚Achieving the Bank of Japan's Inflation Target‘](https://www.imf.org/-/media/Files/Publications/WP/2019/wpiea2019229-print-pdf.ashx), IMF Working Paper WP/19/229, 2019.
 
 ## Herkunft
 
