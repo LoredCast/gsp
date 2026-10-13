@@ -25,6 +25,7 @@ Aus dem [Review der ersten Fassung](../theorie/pruefungen/2026-10-11-review-manu
 - Die MSZ, die Vorgängerzeitschrift bis 1991, ist nicht in den Sammlungen. Ihr Korrespondenztext „Nationalismus von links“ (1985) behandelt den Einwand aus [22](22-nationale-befreiung.md) ausdrücklich; die Formeln kehren in den GS-Texten nicht wörtlich wieder.
 - 15 von 1980 gefundenen Artikel-URLs haben keinen extrahierten Volltext (siehe Haupt-README).
 - Neuere Texte sind teils online gesperrt, etwa GS 2-26 „Der Überfall der USA auf den Iran“ (nur Gliederung).
+- „Das Finanzkapital II“, GS 2-09, steht nur mit Inhaltsverzeichnis in den Sammlungen und ist online nicht frei (geprüft 13.10.2026). Der GSP verweist für die Notwendigkeit der Krise ausdrücklich auf dessen Zusatz 3; ohne ihn bleibt [19](19-von-der-konkurrenz-zur-krise.md) an diesem Punkt unentschieden.
 - **Falsche Heftangaben in den Kopfzeilen:** Bei Antworten auf Leserbriefe nennen die Sammlungen manchmal das Heft des besprochenen Artikels statt des eigenen (GS 2-10 statt 1-10, GS 1-98 statt 4-97). Weitere Verdachtsfälle: `sources/15-…:9228`, `sources/6-…:59923`, `sources/17-…:12969`. Unsichere Heftangaben auch außerhalb von Antworttexten: Kuba, Kopfzeile GS 1-12 mit Datum 18.12.2010 (`sources/11-…:6039`); Kriegschronik KW 17, Kopfzeile GS 2-23, inhaltlich eher 2024 (`sources/7-…:25240`). Heftangaben von Antworttexten immer auf gegenstandpunkt.com gegenprüfen. Details in der [Korrekturliste](../theorie/pruefungen/2026-10-11-korrekturliste.md).
 
 ## Zeitschichten und Revisionen im GSP selbst
