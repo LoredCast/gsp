@@ -38,6 +38,7 @@ Die Antwort auf den Planwirtschafts-Leserbrief (GS 1-04) schließt vom Inhalt ei
   `rg -n -i "Agitation|organisieren|Überzeugungsarbeit" sources/14-linke-arbeiterbewegung-marxismus-kritik.md`
 - Die Kommunismus- und Planungskapitel in [GSP-Theorie.md](../theorie/GSP-Theorie.md) (Kap. 18) gegenlesen.
 - Gilt die Antwort von 2004 heute noch so? Eine spätere Präzisierung müsste als solche gelten.
+- Die allgemeinere Frage, ob die richtige Einsicht die gemeinsame Praxis schon vermittelt, steht in [25](25-einsicht-und-handlungsfaehigkeit.md), mit dem Wortlaut von GS 3-24 (Weselsky), GS 3-25 und GS 2-08 zu Gewalt und Organisierung.
 
 ## Herkunft
 
