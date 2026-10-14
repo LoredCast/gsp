@@ -67,8 +67,8 @@ Anhang B der [Ableitung](../theorie/GSP-Ableitung.md) sammelt die Stellen, an de
 | Periodizität der Kreditkrise („Fest steht nur“) | 4.7 | [19](19-von-der-konkurrenz-zur-krise.md) |
 | Relativer Mehrwert ohne Verbilligung der Arbeitskraft | 3.3 | [09](09-produktivitaet-und-wert.md) |
 | Moral überhaupt | 15.1 | oben unter „Dünn belegte Themen“ |
-| Wahlen: entscheiden sie über Inhalte, die für die Betroffenen viel ausmachen? | 9.2 | noch kein Punkt |
+| Wahlen: entscheiden sie über Inhalte, die für die Betroffenen viel ausmachen? | 9.2 | [26](26-wahl-als-ermaechtigung.md) |
 | Wertbildende Arbeit: wodurch, warum allgemein, wozu | 2.3 | noch kein Punkt; die Ableitung hält die drei Fragen getrennt |
 | Abdeckung (Psychologie, Geschlecht, Wissenschaften, Kultur, Religion, Übergang) | B.3 | oben unter „Dünn belegte Themen“ |
 
-Die Frage zu den Wahlen hat dieselbe Form wie [22](22-nationale-befreiung.md) und [23](23-widerstand-gegen-besatzung.md): Folgt daraus, dass eine Einrichtung der Herrschaft dient, dass ihr Unterschied für die Betroffenen nichts ausmacht?
+Die Frage zu den Wahlen hat dieselbe Form wie [22](22-nationale-befreiung.md) und [23](23-widerstand-gegen-besatzung.md): Folgt daraus, dass eine Einrichtung der Herrschaft dient, dass ihr Unterschied für die Betroffenen nichts ausmacht? Sie ist seit der Nachprüfung vom 13.10.2026 als [26](26-wahl-als-ermaechtigung.md) geführt, an KdK § 27 (GS 4-23) und GS 1-10 geprüft.
