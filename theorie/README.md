@@ -5,6 +5,8 @@ Zwei Dokumente mit derselben Kapitelordnung, die nebeneinander benutzt werden k�
 - [GSP-Theorie.md](GSP-Theorie.md): „Die Theorie des GegenStandpunkt in Zitaten“, die Belegsammlung.
 - [GSP-Ableitung.md](GSP-Ableitung.md): „Die Theorie des GegenStandpunkt als Ableitung“, dieselben Argumente als Prämissen, Schritte und Schlüsse in eigenen Sätzen.
 
+Dazu [GSP-Kern.md](GSP-Kern.md): „Der feste Kern“, die Aussagen aus der Ableitung, gegen die nach allen bisherigen Prüfungen kein offener Einwand übrig ist, jeweils mit Fundstelle und Prüfvermerk, dazu die widerlegten Einwände und was mit welchem Grund nicht im Kern steht.
+
 ## Die Zitatsammlung
 
 [GSP-Theorie.md](GSP-Theorie.md): „Die Theorie des GegenStandpunkt in Zitaten. Eine Rekonstruktion aus Zeitschriftenartikeln, nach Themen geordnet.“ Dritte, überarbeitete Fassung, Stand 12. Oktober 2026, mit den Korrekturen aus Astras Prüfung.

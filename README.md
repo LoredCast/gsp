@@ -4,7 +4,7 @@
 
 Dieses Repository dient dazu, die Theorie des GegenStandpunkt (GSP) korrekt herauszuarbeiten und ebenso ihre Probleme, Inkonsistenzen und die Bereiche, die sie nicht erklären oder erfassen kann. Neben den Primärtexten in `sources/` gibt es drei Arbeitsordner:
 
-- **[theorie/](theorie/)**: [GSP-Theorie.md](theorie/GSP-Theorie.md), eine Rekonstruktion der Theorie aus den Zeitschriftenartikeln, nach Themen geordnet und mit wörtlichen, geprüften Zitaten belegt; [GSP-Ableitung.md](theorie/GSP-Ableitung.md), dieselben Argumente als Ableitung in Prämissen, Schritten und Schlüssen; dazu die Prüfungen und Korrekturen.
+- **[theorie/](theorie/)**: [GSP-Theorie.md](theorie/GSP-Theorie.md), eine Rekonstruktion der Theorie aus den Zeitschriftenartikeln, nach Themen geordnet und mit wörtlichen, geprüften Zitaten belegt; [GSP-Ableitung.md](theorie/GSP-Ableitung.md), dieselben Argumente als Ableitung in Prämissen, Schritten und Schlüssen; [GSP-Kern.md](theorie/GSP-Kern.md), was davon jeder bisherigen Prüfung standhält; dazu die Prüfungen und Korrekturen.
 - **[angriffspunkte/](angriffspunkte/)**: die bisher erarbeiteten Probleme und offenen Fragen, je eine Datei mit These, GSP-Fundstellen, stärkster Gegenrede, Stand und Suchansätzen; dazu verworfene Einwände und noch offene Forschungsfelder.
 - **[korrespondenz/](korrespondenz/)**: der Briefwechsel mit dem GSP-Verlag, alle Antwortentwürfe und ihre Bewertungen.
 
