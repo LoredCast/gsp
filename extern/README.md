@@ -6,7 +6,7 @@ In diesem Ordner werden Texte von außerhalb des GegenStandpunkts geprüft: Tran
 
 Pro Quelle gibt es einen Unterordner mit zwei Dateien:
 
-- `transkript.md` (bei Büchern und Artikeln entsprechend `text.md` oder Auszüge): die Quelle selbst, mit Herkunft und Zustand. Die Auswertung zitiert nach Zeilennummern dieser Datei.
+- `transkript.md` (bei Büchern und Artikeln entsprechend `text.md` oder Auszüge): die Quelle selbst, mit Herkunft und Zustand. Die Auswertung zitiert nach Zeilennummern dieser Datei. Ist die Quelle urheberrechtlich geschützt, etwa ein Buch, liegt stattdessen nur `quelle.md` mit Angaben zur ausgewerteten Fassung und zur Gliederung; die Zeilennummern beziehen sich dann auf diese Fassung.
 - `auswertung.md`: Thesen der Quelle, was der GSP dazu sagt, wo beide übereinstimmen, wer wo stärker ist, ein Urteil nach Fragen getrennt und was daraus für [theorie/](../theorie/) und [angriffspunkte/](../angriffspunkte/) folgt.
 
 ## Verfahren
@@ -21,3 +21,4 @@ Pro Quelle gibt es einen Unterordner mit zwei Dateien:
 | Quelle | Art | Stand |
 |---|---|---|
 | [Isabella Weber: Antifaschistische Wirtschaftspolitik](weber-antifaschistische-wirtschaftspolitik/auswertung.md) | Interview, Jung & Naiv Folge 856 | 14.10.2026 |
+| [Wendy Brown: Undoing the Demos](brown-undoing-the-demos/auswertung.md) | Buch, Zone Books 2015 | 15.10.2026 |
