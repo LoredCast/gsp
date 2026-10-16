@@ -2,11 +2,12 @@
 
 ## Arbeitsstand
 
-Dieses Repository dient dazu, die Theorie des GegenStandpunkt (GSP) korrekt herauszuarbeiten und ebenso ihre Probleme, Inkonsistenzen und die Bereiche, die sie nicht erklären oder erfassen kann. Neben den Primärtexten in `sources/` gibt es drei Arbeitsordner:
+Dieses Repository dient dazu, die Theorie des GegenStandpunkt (GSP) korrekt herauszuarbeiten und ebenso ihre Probleme, Inkonsistenzen und die Bereiche, die sie nicht erklären oder erfassen kann. Neben den Primärtexten in `sources/` gibt es vier Arbeitsordner:
 
 - **[theorie/](theorie/)**: [GSP-Theorie.md](theorie/GSP-Theorie.md), eine Rekonstruktion der Theorie aus den Zeitschriftenartikeln, nach Themen geordnet und mit wörtlichen, geprüften Zitaten belegt; [GSP-Ableitung.md](theorie/GSP-Ableitung.md), dieselben Argumente als Ableitung in Prämissen, Schritten und Schlüssen; [GSP-Kern.md](theorie/GSP-Kern.md), was davon jeder bisherigen Prüfung standhält; dazu die Prüfungen und Korrekturen.
 - **[angriffspunkte/](angriffspunkte/)**: die bisher erarbeiteten Probleme und offenen Fragen, je eine Datei mit These, GSP-Fundstellen, stärkster Gegenrede, Stand und Suchansätzen; dazu verworfene Einwände und noch offene Forschungsfelder.
 - **[korrespondenz/](korrespondenz/)**: der Briefwechsel mit dem GSP-Verlag, alle Antwortentwürfe und ihre Bewertungen.
+- **[extern/](extern/)**: Texte von außerhalb des GSP (Interviews, Bücher, Hausarbeiten), je mit einer Auswertung, was der GSP zu ihnen sagen würde und wer in welcher Frage stärker ist; was daraus für Theorie und Angriffspunkte folgt, ist in die übrigen Ordner übernommen.
 
 Zitate in Arbeitsdateien lassen sich mit `node scripts/check-quotes.mjs <dateien>` gegen `sources/` prüfen.
 

@@ -16,6 +16,17 @@ Pro Quelle gibt es einen Unterordner mit zwei Dateien:
 - **Zwei Sorten Anführungszeichen.** „…“ steht nur für GSP-Zitate, die das Prüfskript gegen `sources/` abgleicht. »…« steht für Zitate aus der externen Quelle; sie werden gegen deren eigene Datei im Unterordner geprüft, nicht gegen `sources/`.
 - **Auf dem Stand aufbauen.** Die Auswertung stützt sich auf [GSP-Gesamtdarstellung.md](../theorie/GSP-Gesamtdarstellung.md), [GSP-Theorie.md](../theorie/GSP-Theorie.md) und die Angriffspunkte und verweist auf sie, statt sie zu wiederholen. Bestehende Dateien werden von hier aus nicht geändert; was für sie folgt, steht am Ende jeder Auswertung als Vorschlag.
 
+## Was eingearbeitet ist
+
+Die Vorschläge am Ende der Auswertungen zu Weber, Brown, der Hausarbeit, dem Anti-Ödipus und Tausend Plateaus sind am 16.10.2026 in die Arbeitsdokumente übernommen worden, jeweils erst nach Prüfung an `sources/`:
+
+- **Neue Angriffspunkte** [27](../angriffspunkte/27-lage-und-schluss.md) (Lage und Schluss, aus Weber), [28](../angriffspunkte/28-ideelle-negation.md) (ideelle Negation, aus Brown), [29](../angriffspunkte/29-konflikte-ohne-eigentum.md) (Konflikte ohne Eigentum, aus der Hausarbeit), [30](../angriffspunkte/30-kommt-das-interesse-danach.md) (Kommt das Interesse danach?, aus dem Anti-Ödipus) und [31](../angriffspunkte/31-organisationen-mit-richtigem-zweck.md) (Organisationen mit richtigem Zweck, aus Tausend Plateaus).
+- **Bestehende Angriffspunkte** 02, 03, 09, 15, 22 bis 26 haben einen Abschnitt *Außenstimmen aus externen Texten*; die [Forschungsfelder](../angriffspunkte/forschungsfelder.md) haben neue Einträge zu Herrschaftstechnik, Sprache und Technik, Sexualität und Psychiatrie, Gesellschaften ohne Staat und Autoren ohne GSP-Text.
+- **Gesamtdarstellung:** Teil II, Abschnitt 6 (Proben an externen Texten), Teil III, Abschnitt 6 (Fragen aus externen Texten), Ergänzungen in Teil IV und Teil V, Abschnitt 7 und 8 (Theorien des Begehrens).
+- **Kern:** Reichweitenhinweise zu 10.2, 10.4, 18.5 und 18.10; die Moralbestimmung (15.1) hat mit Akte 29 eine Gegenstelle.
+
+Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernommen wird in einem eigenen Schritt.
+
 ## Quellen
 
 | Quelle | Art | Stand |

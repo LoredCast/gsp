@@ -1,6 +1,6 @@
 # 23 Widerstand gegen Besatzung: Ist jede Gegenwehr „opferbereiter Nationalismus“?
 
-**Status:** offen, enger gefasst · **Stärke:** schwächer als bisher geführt; GS 4-23 trennt selbst das Überlebensmotiv von der Staatsfunktion, „Unsere Ukrainer“ urteilt über die n-tv-Figuren, die sich mit Hymne und „Ruhm der Ukraine!“ zur Nation bekennen. Offen bleibt der freiwillige Schutz, der kein Opfer für die Nation ist · **Stand:** 14.10.2026
+**Status:** offen, enger gefasst · **Stärke:** schwächer als bisher geführt; GS 4-23 trennt selbst das Überlebensmotiv von der Staatsfunktion, „Unsere Ukrainer“ urteilt über die n-tv-Figuren, die sich mit Hymne und „Ruhm der Ukraine!“ zur Nation bekennen. Offen bleibt der freiwillige Schutz, der kein Opfer für die Nation ist · **Stand:** 16.10.2026
 
 ## These
 
@@ -81,6 +81,10 @@ Dieser Punkt wendet [22](22-nationale-befreiung.md) auf den Krieg an.
 - Nicht vertieft geprüft: Tschetschenien (`sources/15-…:14308`), Georgien 2008 (GS 4-06, `sources/11-…:399`), Kosovo GS 2-08 (`sources/8-…:114334`), DIE LINKE GS 2-23 (`sources/8-…:61959` ff.).
 - In den Sammlungen fehlen: Filtrationslager, Folter in russischem Gewahrsam, verschleppte Kinder, Schulpolitik unter Besatzung.
 
+## Außenstimmen aus externen Texten
+
+- **Tausend Plateaus** (`extern/deleuze-tausend-plateaus/auswertung.md` (PR #16), Abschnitt 2.8): Die gemeinsame Form dieser Akte mit 22, 26 und 28 (Gesamtdarstellung Teil III, Abschnitt 2.9) hat in Plateau 13 ihre schärfste externe Fassung: »It would be an error to take a disinterested stance toward struggle on the level of the axioms«. Wer jedes Zugeständnis für Vereinnahmung halte, habe »this disenchanted concept«, und es sei »not a good one« (Z. 2839). Der Kampf um Stimmrecht, Abtreibung, Arbeitsplätze und regionale Autonomie sei »determining« (Z. 2861). Das Buch sagt aber selbst nicht, wann ein Zugeständnis mehr ist als ein weiteres Axiom, das die Axiomatik hinzufügt (Z. 2833); es nennt die Grenze »the undecidable« (Z. 2867). Für die Akte heißt das: Die Gegenthese ist stark formuliert, aber nicht besser begründet als hier.
+
 ## Herkunft
 
-manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte II.4 bis II.7 und V.B. GSP-Stellen in den Sammlungen gesucht, UN-Berichte am 13.10.2026 geprüft. Enger gefasst nach der [Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md), die den offenen Abgleich an „Unsere Ukrainer“ verlangt hatte: Artikel und GS 4-23, Abschnitt I und II, im Ganzen gelesen. Der Gebrauch von „Identifikation“ in Abschnitt I nach der [Nachprüfung vom 13.10.2026](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md) aufgeschlüsselt.
+manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte II.4 bis II.7 und V.B. GSP-Stellen in den Sammlungen gesucht, UN-Berichte am 13.10.2026 geprüft. Enger gefasst nach der [Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md), die den offenen Abgleich an „Unsere Ukrainer“ verlangt hatte: Artikel und GS 4-23, Abschnitt I und II, im Ganzen gelesen. Der Gebrauch von „Identifikation“ in Abschnitt I nach der [Nachprüfung vom 13.10.2026](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md) aufgeschlüsselt. Außenstimme am 16.10.2026 aus der Auswertung zu Tausend Plateaus ergänzt.

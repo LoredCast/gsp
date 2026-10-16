@@ -113,6 +113,8 @@ Die letzten beiden Einwände treffen den Satz, es gebe »only slaves commanding 
 - „Volk: das ist, folgt man der praktisch verbindlichen Festlegung moderner Gesetzgeber, nichts weiter als die Gesamtheit der Bewohner eines Landes, die eine zuständige *Staatsmacht* zu *ihren Angehörigen* erklärt.“
   „Das Volk: eine furchtbare Abstraktion“, GS 1-06, `sources/6-…:99616`
 
+Der zweite Band nimmt den Satz zurück: In *Tausend Plateaus* sind Nationen keine Erscheinungen oder ideologischen Phänomene mehr, sondern die leidenschaftliche Form, in der sich das Kapital verwirklicht (Plateau 13; [Auswertung zu Tausend Plateaus](../deleuze-tausend-plateaus/auswertung.md), Abschnitt 2.6). Damit kommt das Werk in diesem Punkt beim GSP an.
+
 ### 2.5 Der Staat: Werkzeug, Urstaat und Diener der Zeichen
 
 - „Die marktwirtschaftliche Ordnung braucht sehr viel Staat – nicht zu ihrer Korrektur, sondern für ihr Gelingen.“
@@ -181,7 +183,7 @@ Foucaults Regel, das Denken nicht zu benutzen, um eine politische Praxis in der 
 | Woher kommt der Mehrwert, wohin geht der Überschuss? | GSP | Maschinenmehrwert und Absorption durch Militär und Werbung (Z. 1848, Z. 1854) gegen die Kritik der Unterkonsumtion (GS 4-92). |
 | Sind Kapitalisten Sklaven der Maschine? | GSP | Charaktermasken, deren Privatinteresse mit dem Systemzweck zusammenfällt (GS 2-08), gegen »slaves commanding other slaves« (Z. 1947). |
 | Was ist der Staat? | GSP | Einig: nie liberaler Kapitalismus, kein Schiedsrichter. Das Buch hält den Staat zugleich für Werkzeug und für entmachtet; der GSP bestimmt seinen Zweck als Macht auf Grundlage des Wachstums. |
-| Ist die Nation ein archaischer Rest? | GSP | Das Volk ist Produkt des modernen Staates (GS 1-06), kein Archaismus, den der Staat neu belebt (Z. 1955). |
+| Ist die Nation ein archaischer Rest? | GSP | Das Volk ist Produkt des modernen Staates (GS 1-06), kein Archaismus, den der Staat neu belebt (Z. 1955). Tausend Plateaus nimmt den Satz zurück ([Auswertung](../deleuze-tausend-plateaus/auswertung.md), 2.6). |
 | Psychoanalyse und Familie | Anti-Ödipus im Material, gleichauf im Urteil | Beide kritisieren die Privatisierung des Gesellschaftlichen. Zur Klinik hat der GSP nichts. |
 | Was folgt praktisch? | GSP im Urteil, keiner in der Sache | Die 68er-Bilanz (GS 2-98) spricht gegen die Prognose, die bürgerliche Gesellschaft halte das Begehren nicht aus. Ein Weg vom Urteil zur gemeinsamen Praxis fehlt bei beiden. |
 
