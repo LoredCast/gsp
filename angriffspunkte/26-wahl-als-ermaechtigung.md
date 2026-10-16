@@ -1,6 +1,6 @@
 # 26 Wahl als Ermächtigung: Zählt der Unterschied der Programme für den, der das weiß?
 
-**Status:** offen · **Stärke:** enger als vorgeschlagen; den Unterschied zwischen der Zustimmung, die im Wahlakt liegt, und dem Motiv der Wähler macht der GSP selbst (GS 1-10). Offen ist sein Schluss, wer das verstanden habe, könne „kein Interesse mehr haben“, zu wählen, obwohl § 27 zugesteht, dass Wähler manchmal bekommen, was sie wollten · **Stand:** 14.10.2026
+**Status:** offen · **Stärke:** enger als vorgeschlagen; den Unterschied zwischen der Zustimmung, die im Wahlakt liegt, und dem Motiv der Wähler macht der GSP selbst (GS 1-10). Offen ist sein Schluss, wer das verstanden habe, könne „kein Interesse mehr haben“, zu wählen, obwohl § 27 zugesteht, dass Wähler manchmal bekommen, was sie wollten · **Stand:** 16.10.2026
 
 ## These
 
@@ -61,6 +61,11 @@ Dieser Punkt hat dieselbe Form wie [22](22-nationale-befreiung.md) und [23](23-w
 - `rg -n -o '.{0,250}(kleinere[sn]? Übel|Wahlkreuz|Nichtwähl).{0,250}' sources/6-staat-recht-demokratie.md`
 - Das Buch *Demokratie – Die perfekte Form bürgerlicher Herrschaft* liegt nicht vor. Der Werbetext auf der Verlagsseite (am 14.10.2026 nur sinngemäß gelesen) beschreibt Wähler, die die Wahl für einen Schwindel halten und trotzdem hingehen, und die Legitimation der Herrschaft durch ihre Kreuze. Das ist dieselbe Lage wie in GS 1-10; nicht wörtlich geprüft.
 
+## Außenstimmen aus externen Texten
+
+- **Tausend Plateaus** (`extern/deleuze-tausend-plateaus/auswertung.md` (PR #16), Abschnitt 2.8): Die gemeinsame Form dieser Akte mit 22, 23 und 28 (Gesamtdarstellung Teil III, Abschnitt 2.9) hat in Plateau 13 ihre schärfste externe Fassung: »It would be an error to take a disinterested stance toward struggle on the level of the axioms«. Wer jedes Zugeständnis für Vereinnahmung halte, habe »this disenchanted concept«, und es sei »not a good one« (Z. 2839). Der Kampf um Stimmrecht, Abtreibung, Arbeitsplätze und regionale Autonomie sei »determining« (Z. 2861). Das Buch sagt aber selbst nicht, wann ein Zugeständnis mehr ist als ein weiteres Axiom, das die Axiomatik hinzufügt (Z. 2833); es nennt die Grenze »the undecidable« (Z. 2867). Für die Akte heißt das: Die Gegenthese ist stark formuliert, aber nicht besser begründet als hier.
+- **Wendy Brown** ([Auswertung](../extern/brown-undoing-the-demos/auswertung.md), Abschnitt 2.1): Die Verschmelzung von Staat und Kapital erzeugt keine Legitimationskrise (Kap. 2, Z. 481). Das passt zur These dieser Akte, dass die Zustimmung im Akt der Wahl liegt und nicht in einem erfüllten Versprechen; die Frage nach dem Unterschied der Programme beantwortet es nicht.
+
 ## Herkunft
 
-Als offene Frage zuerst im Abgleich mit der Ableitung (Abschnitt 9.2, siehe [forschungsfelder.md](forschungsfelder.md)). Als eigene Akte vorgeschlagen in manuels [Nachprüfung vom 13.10.2026](../theorie/pruefungen/2026-10-13-nachpruefung.md), Abschnitt VI; dort war der Abgleich an § 27 die Bedingung. Angelegt nach der [Prüfung der Nachprüfung](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md): § 27 und GS 1-10 im Ganzen gelesen.
+Als offene Frage zuerst im Abgleich mit der Ableitung (Abschnitt 9.2, siehe [forschungsfelder.md](forschungsfelder.md)). Als eigene Akte vorgeschlagen in manuels [Nachprüfung vom 13.10.2026](../theorie/pruefungen/2026-10-13-nachpruefung.md), Abschnitt VI; dort war der Abgleich an § 27 die Bedingung. Angelegt nach der [Prüfung der Nachprüfung](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md): § 27 und GS 1-10 im Ganzen gelesen. Außenstimmen am 16.10.2026 aus den Auswertungen zu Brown und Tausend Plateaus ergänzt.

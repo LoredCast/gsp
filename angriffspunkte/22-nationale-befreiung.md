@@ -1,6 +1,6 @@
 # 22 Nationale Befreiung: Aus „nicht hinreichend“ wird „kein Nutzen“?
 
-**Status:** offen · **Stärke:** trifft teilweise; der GSP gesteht reale Verbesserungen selbst zu, bestreitet ihren Wert aber ohne eigene Begründung · **Stand:** 13.10.2026
+**Status:** offen · **Stärke:** trifft teilweise; der GSP gesteht reale Verbesserungen selbst zu, bestreitet ihren Wert aber ohne eigene Begründung · **Stand:** 16.10.2026
 
 ## These
 
@@ -53,6 +53,12 @@ Eine relative Verbesserung erklärt nicht den Nationalismus der Bewegung, die si
 - Weitere Fälle: GS 4-92 „Der Verfall der Dritten Welt“ (`sources/8-…:99668`), GS 2-98 Algerien (`sources/3-…:7698`), Südafrika GS 1-94 und 2-10, Kosovo GS 2-08 (`sources/8-…:114334`).
 - Eine GS-Analyse der vietnamesischen Befreiung ist in den Sammlungen nicht vorhanden.
 
+## Außenstimmen aus externen Texten
+
+- **Tausend Plateaus** (`extern/deleuze-tausend-plateaus/auswertung.md` (PR #16), Abschnitt 2.8): Die gemeinsame Form dieser Akte mit 23, 26 und 28 (Gesamtdarstellung Teil III, Abschnitt 2.9) hat in Plateau 13 ihre schärfste externe Fassung: »It would be an error to take a disinterested stance toward struggle on the level of the axioms«. Wer jedes Zugeständnis für Vereinnahmung halte, habe »this disenchanted concept«, und es sei »not a good one« (Z. 2839). Der Kampf um Stimmrecht, Abtreibung, Arbeitsplätze und regionale Autonomie sei »determining« (Z. 2861). Das Buch sagt aber selbst nicht, wann ein Zugeständnis mehr ist als ein weiteres Axiom, das die Axiomatik hinzufügt (Z. 2833); es nennt die Grenze »the undecidable« (Z. 2867). Für die Akte heißt das: Die Gegenthese ist stark formuliert, aber nicht besser begründet als hier.
+- **Wien gegen Berlin beim Wohnen** ([Weber-Auswertung](../extern/weber-antifaschistische-wirtschaftspolitik/auswertung.md), Abschnitt 2.4) ist ein weiterer Fall derselben Frage, ob reale Verbesserungen etwas zählen. Isabella Weber verweist auf Wien mit seinem hohen Anteil kommunaler Wohnungen (Transkript Z. 1158–1320). Zum Berliner Mietendeckel schreibt der GSP: „Aus den Drangsalen der ‚kleinen Leute‘ auf den großstädtischen Wohnungsmärkten lässt sich nicht mal eben ein praktischer Einspruch gegen die allgemeine Geschäftsfreiheit des Grundeigentums machen.“ („Der Mietendeckel“, GS 3-21, `sources/5-sozialstaat-armut-reproduktion-alltag.md:16810`; dazu „Wohnungsnot und Mietpreisexplosion“, GS 2-14). Zu Wien gibt es nur einen GSP-Text, und der behandelt die FPÖ-Wahl 2010, nicht den Gemeindebau (GS 4-10, `sources/6-staat-recht-demokratie.md:122576`). Die Texte erklären, warum solche Lösungen politisch prekär sind; warum eine in einer Stadt hundert Jahre hält und was sie den Mietern ausmacht, sagen sie nicht.
+- **Gaspreisdeckel** (Weber-Auswertung, 2.2): Der GSP nennt die Entlastungspakete 2022 eine Vorgabe, „dass der Schaden, den sie nach ihrem Ermessen abmildern, die neue Realität ausmacht, an die die Völker sich anzupassen haben“ („Die Lohnfrage in schweren Zeiten“, GS 1-23, `sources/3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md:71564`). Ob der gedeckelte Preis für die Betroffenen einen Unterschied macht, ist dieselbe Frage wie hier.
+
 ## Herkunft
 
-manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte I.1 bis I.3, II.8 und V.A. GSP-Stellen in den Sammlungen gesucht, MSZ-Text und externe Belege am 13.10.2026 geprüft.
+manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte I.1 bis I.3, II.8 und V.A. GSP-Stellen in den Sammlungen gesucht, MSZ-Text und externe Belege am 13.10.2026 geprüft. Außenstimmen und die Fälle Wien und Gaspreisdeckel am 16.10.2026 aus den Auswertungen zu Weber und Tausend Plateaus ergänzt.

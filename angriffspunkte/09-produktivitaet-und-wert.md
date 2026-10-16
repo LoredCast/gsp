@@ -1,6 +1,6 @@
 # 09 Produktivität und Wert: einzelnes Kapital oder gesellschaftliche Ebene?
 
-**Status:** offen · **Stärke:** Reichweitenfrage; der GSP trennt die Ebenen an anderer Stelle selbst · **Stand:** 13.10.2026
+**Status:** offen · **Stärke:** Reichweitenfrage; der GSP trennt die Ebenen an anderer Stelle selbst · **Stand:** 16.10.2026
 
 ## These
 
@@ -35,6 +35,12 @@ Die Fortsetzung handelt vom Verhältnis der Kosten zum Überschuss einer Ware, v
 - `rg -n -i "Extragewinn|Extraprofit|Vorsprung.{0,40}Produktivität" sources/2-politische-konomie-i-kapital-wert-geld-kredit.md`
 - Abschnitt 3.3 der [Theorieschrift](../theorie/GSP-Theorie.md) und die Kapitel III der Konkurrenz-Serie gegenlesen.
 
+## Außenstimmen aus externen Texten
+
+- **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.4): Neben dem menschlichen gebe es einen »machinic surplus value« des konstanten Kapitals (Kap. 3.9, Z. 1848); zugleich bleibe »the importance of human surplus value« »decisive« (Z. 1852). Wie beides zusammengeht, lässt das Buch offen.
+- **Tausend Plateaus** (`extern/deleuze-tausend-plateaus/auswertung.md` (PR #16), Abschnitt 2.11): Im glatten Raum des Kapitals brauche Mehrarbeit keine Arbeit mehr, »surplus labor no longer requires labor«; Mehrwert lieferten auch Kinder, Rentner, Arbeitslose und Fernsehzuschauer (Plateau 14, Z. 3008). Das widerspricht dem eigenen Satz, Arbeit und Mehrarbeit seien dasselbe (Plateau 13, Z. 2672), und verwechselt die Abschöpfung von Geld, das anderswo verdient wurde, mit der Quelle des Mehrwerts.
+- Beide zeigen, dass die Frage dieser Akte kein Einwand gegen einzelne GSP-Sätze ist: Was steigende Produktivität für die Arbeit heißt, die Wert bildet, haben linke Theorien mit eigenen, widersprüchlichen Antworten beantwortet. Wer sie ohne Begriff der wertbildenden Arbeit beantwortet, landet beim Mehrwert ohne Arbeit. Dass der GSP die Vermittlung über die Verbilligung der Arbeiterkonsumgüter voraussetzt statt entwickelt, bleibt davon unberührt.
+
 ## Herkunft
 
-[Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md), Abschnitt 3.1; aufbereitet im Thread „GSP-Theorie aus Primärtexten“. Die Rekonstruktion ist an der Stelle inzwischen präzisiert; der GSP-Satz selbst steht so im Original.
+[Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md), Abschnitt 3.1; aufbereitet im Thread „GSP-Theorie aus Primärtexten“. Die Rekonstruktion ist an der Stelle inzwischen präzisiert; der GSP-Satz selbst steht so im Original. Außenstimmen am 16.10.2026 aus den Auswertungen zum Anti-Ödipus und zu Tausend Plateaus ergänzt.
