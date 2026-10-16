@@ -24,3 +24,4 @@ Pro Quelle gibt es einen Unterordner mit zwei Dateien:
 | [Wendy Brown: Undoing the Demos](brown-undoing-the-demos/auswertung.md) | Buch, Zone Books 2015 | 15.10.2026 |
 | [Hausarbeit: Herrschaftsfreies Recht mit Habermas?](hausarbeit-anarchismus-habermas/auswertung.md) | unveröffentlichte Hausarbeit zum Anarchismus, Arbeitsversion 3 | 15.10.2026 |
 | [Gilles Deleuze, Félix Guattari: Anti-Ödipus](deleuze-anti-oedipus/auswertung.md) | Buch, 1972; englische Übersetzung | 16.10.2026 |
+| [Gilles Deleuze, Félix Guattari: Tausend Plateaus](deleuze-tausend-plateaus/auswertung.md) | Buch, 1980; englische Übersetzung | 16.10.2026 |
