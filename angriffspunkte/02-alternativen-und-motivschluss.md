@@ -1,6 +1,6 @@
 # 02 Wann ist die Frage nach den Mitteln ein Einwand?
 
-**Status:** in der Korrespondenz (Frage 2 im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md)) · **Stärke:** bisher der stärkste Punkt · **Stand:** 14.10.2026
+**Status:** in der Korrespondenz (Frage 2 im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md)) · **Stärke:** bisher der stärkste Punkt · **Stand:** 16.10.2026
 
 ## These
 
@@ -48,6 +48,11 @@ Die Antwort auf den Planwirtschafts-Leserbrief (GS 1-04) schließt vom Inhalt ei
 - Gilt die Antwort von 2004 heute noch so? Eine spätere Präzisierung müsste als solche gelten.
 - Die allgemeinere Frage, ob die richtige Einsicht die gemeinsame Praxis schon vermittelt, steht in [25](25-einsicht-und-handlungsfaehigkeit.md), mit dem Wortlaut von GS 3-24 (Weselsky), GS 3-25 und GS 2-08 zu Gewalt und Organisierung.
 
+## Außenstimmen aus externen Texten
+
+- **Isabella Weber** ([Auswertung](../extern/weber-antifaschistische-wirtschaftspolitik/auswertung.md), Abschnitt 2.9): Auf die Frage, ob sich eine kapitalistische Wirtschaft durch richtige Politik »dauerhaft und vollständig« gegen den Faschismus absichern lasse, antwortet sie »Nein. Nein, nein.« Abstrakte linke Kapitalismuskritik hält sie trotzdem für eine »Sackgasse«, die in die Alternativlosigkeit zurückwerfe; man müsse im Konkreten zeigen, dass es eine Alternative gibt (Transkript Z. 1806–1886). Sie hat bei Anwar Shaikh promoviert, kennt also die Marxsche Theorie. Ihr Einwand ist der vierte Fall, der in GS 1-04 fehlt: Sie teilt einen Teil der Erklärung und fragt deshalb nach den Mitteln. **Ableitung:** Der GSP würde antworten, dass ihre Alternative eine Korrektur der Räson ist, keine Abschaffung (GS 4-23; Weber-Auswertung, 2.8). Das beantwortet ihr Programm, nicht ihre Frage, was die Kritik am Ganzen praktisch leistet.
+- **Wendy Brown** ([Auswertung](../extern/brown-undoing-the-demos/auswertung.md), Abschnitt 2.11) steht an derselben Stelle: Sie hat keine Antwort auf den Übergang und sagt es offener als der GSP.
+
 ## Herkunft
 
-[Entwurf v10](../korrespondenz/entwuerfe/antwort-an-stefan-v10.md), [Astras Überarbeitung](../korrespondenz/bewertungen/astra-kommentierte-ueberarbeitung.md) (Abschnitt „Welche Fragen nach einer Alternative sind sachlich?“ und die Gegenreden), aktueller Entwurf. Abschnitt 1 von GS 1-04 nach der [Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) noch einmal im Ganzen gelesen, Einleitung der Antwort nach der [Nachprüfung](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md).
+[Entwurf v10](../korrespondenz/entwuerfe/antwort-an-stefan-v10.md), [Astras Überarbeitung](../korrespondenz/bewertungen/astra-kommentierte-ueberarbeitung.md) (Abschnitt „Welche Fragen nach einer Alternative sind sachlich?“ und die Gegenreden), aktueller Entwurf. Abschnitt 1 von GS 1-04 nach der [Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) noch einmal im Ganzen gelesen, Einleitung der Antwort nach der [Nachprüfung](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md). Außenstimmen am 16.10.2026 aus den Auswertungen externer Texte ergänzt.

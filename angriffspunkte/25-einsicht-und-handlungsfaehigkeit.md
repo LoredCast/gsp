@@ -1,6 +1,6 @@
 # 25 Einsicht und Handlungsfähigkeit: Reicht es, dass die Kritik stimmt?
 
-**Status:** offen · **Stärke:** trifft die programmatischen Texte; in den Analysen macht der GSP die Unterscheidung selbst, zieht sie aber nicht in seinen Begriff von Kritik · **Stand:** 13.10.2026
+**Status:** offen · **Stärke:** trifft die programmatischen Texte; in den Analysen macht der GSP die Unterscheidung selbst, zieht sie aber nicht in seinen Begriff von Kritik · **Stand:** 16.10.2026
 
 ## These
 
@@ -64,6 +64,13 @@ Dieser Punkt verallgemeinert die Frage nach den Mitteln aus [02](02-alternativen
 - In den Sammlungen fehlen: Streikbrecher als Problem der Solidarität, Generalstreik als GSP-eigener Begriff, die eigene Organisationspraxis (MG, Auflösung 1991).
 - GS 3-25 gegen GS 4-96 lesen: Zeitschicht in [forschungsfelder.md](forschungsfelder.md).
 
+## Außenstimmen aus externen Texten
+
+- **Isabella Weber** ([Auswertung](../extern/weber-antifaschistische-wirtschaftspolitik/auswertung.md), Abschnitt 2.9): Abstrakte Kapitalismuskritik sei eine »Sackgasse«, die in die Alternativlosigkeit zurückwerfe (Transkript Z. 1806–1886). Eine Ökonomin mit marxistischer Ausbildung hält die Kritik am Ganzen für praktisch folgenlos, weil sie keinen Weg zeigt. Das ist der Einwand dieser Akte von außen, mit einem Programm, das der GSP als Korrektur der Räson kritisieren würde.
+- **Wendy Brown** ([Auswertung](../extern/brown-undoing-the-demos/auswertung.md), Abschnitt 2.4): Marx' Kritik habe Subjekte vorausgesetzt, die eine politische Sprache der Gerechtigkeit hatten (Kap. 3, Z. 729). Wenn diese Sprache verschwindet, woraus entsteht dann noch Kritik? **Ableitung:** Für den GSP ist das der Verlust einer Illusion. Dann muss er erklären, woher die Einsicht kommt, wenn nicht aus dem Widerspruch zwischen Versprechen und Lage; das führt [28](28-ideelle-negation.md).
+- **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.8): Die Probleme seien »always of an organizational nature« (Kap. 4.5, Z. 2463), und Überzeugen ist im Buch nicht vorgesehen. Die Gegenthese zu dieser Akte, aber ohne Begriff dessen, was organisiert werden soll.
+- Was in einer Organisation schiefgeht, deren Zweck richtig ist, führt [31](31-organisationen-mit-richtigem-zweck.md) (Mikrofaschismus in Tausend Plateaus, Stalins „Waffen des Geschichtsmoralismus“ in GS 4-17).
+
 ## Herkunft
 
-manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte III.11 bis III.14, IV.15, IV.16 und V.D. GSP-Stellen in den Sammlungen gesucht, externe Belege am 13.10.2026 geprüft.
+manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte III.11 bis III.14, IV.15, IV.16 und V.D. GSP-Stellen in den Sammlungen gesucht, externe Belege am 13.10.2026 geprüft. Außenstimmen am 16.10.2026 aus den Auswertungen zu Weber, Brown und dem Anti-Ödipus ergänzt; 28 und 31 setzen die Akte fort.

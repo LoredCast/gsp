@@ -1,6 +1,6 @@
 # 24 Gewohnheit als „praktiziertes Urteil“: Was wirkt, wenn das Urteil verworfen ist?
 
-**Status:** offen · **Stärke:** trifft eine Zweideutigkeit im Begriff „Urteil“, die der GSP in derselben Antwort selbst anlegt · **Stand:** 13.10.2026
+**Status:** offen · **Stärke:** trifft eine Zweideutigkeit im Begriff „Urteil“, die der GSP in derselben Antwort selbst anlegt · **Stand:** 16.10.2026
 
 ## These
 
@@ -54,6 +54,12 @@ Dieser Punkt vertieft [03](03-psychologie-fortwirkung-und-entschluss.md), der di
 - Das Buch „Die Psychologie des bürgerlichen Individuums“ liegt nicht vor; ob es die Dauerfrage behandelt, ist offen.
 - Für eine Zuschrift an den GSP eignet sich die Frage aus „Was bleibt“, zusammen mit [03](03-psychologie-fortwirkung-und-entschluss.md).
 
+## Außenstimmen aus externen Texten
+
+- **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitte 2.2 und 2.10): Der stärkste Befund des Buches ist, dass Menschen das System, das sie unterdrückt, mit Leidenschaft besetzen, »with passion« (Kap. 4.5, Z. 2467). Der GSP bestimmt den Inhalt dieser Bindung, aber nicht ihre Stärke, ihre Dauer und ihre Unempfindlichkeit gegen Argumente. Das ist die Frage dieser Akte, auf den Nationalismus angewandt.
+- **Tausend Plateaus** (`extern/deleuze-tausend-plateaus/auswertung.md` (PR #16), Abschnitt 2.1): Das Begehren ist dort kein Trieb mehr, sondern »always assembled« (Plateau 9, Z. 1371), eingerichtet in Paar, Familie, Schule und Büro (Z. 1325). Das liegt nahe an der Gewohnheit als praktiziertem Urteil und an der „zweiten Natur“, zu der den Bürgern ihre Subsumtion unter die Staatsmacht wird (GS 1-06, `sources/6-staat-recht-demokratie.md:99778`). Der GSP sagt, *was* gewohnt ist; das Buch zeigt, *wo* es eingeübt wird. Wie es sich gegen die Einsicht hält, sagen beide nicht.
+- Ob die Bindung an die Nation überhaupt als Urteil entsteht, führt [30](30-kommt-das-interesse-danach.md).
+
 ## Herkunft
 
-manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte III.9, III.10, III.12 und V.C. GSP-Stellen in den Sammlungen gesucht, externe Belege am 13.10.2026 geprüft. Zuschrift und Antwort GS 4-21 nach der [Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) im Ganzen gelesen.
+manuels Vorlage „Vertiefte GSP-Kritik“ (12.10.2026), Abschnitte III.9, III.10, III.12 und V.C. GSP-Stellen in den Sammlungen gesucht, externe Belege am 13.10.2026 geprüft. Zuschrift und Antwort GS 4-21 nach der [Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) im Ganzen gelesen. Außenstimmen am 16.10.2026 aus den Auswertungen zum Anti-Ödipus und zu Tausend Plateaus ergänzt.

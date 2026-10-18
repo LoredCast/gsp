@@ -1,8 +1,8 @@
 # Der feste Kern: Was an der GSP-Theorie jeder Prüfung standhält
 
-Stand: 14. Oktober 2026. Dieses Dokument sammelt die Bestimmungen, Ableitungen und Analysen des GegenStandpunkt (GSP), gegen die nach allen Prüfungen in diesem Projekt kein Einwand übrig ist. Es ist der Gegenpol zu den [Angriffspunkten](../angriffspunkte/README.md): Dort steht, wo weiterzusuchen sich lohnt, hier, wo es sich nicht mehr lohnt.
+Stand: 16. Oktober 2026. Dieses Dokument sammelt die Bestimmungen, Ableitungen und Analysen des GegenStandpunkt (GSP), gegen die nach allen Prüfungen in diesem Projekt kein Einwand übrig ist. Es ist der Gegenpol zu den [Angriffspunkten](../angriffspunkte/README.md): Dort steht, wo weiterzusuchen sich lohnt, hier, wo es sich nicht mehr lohnt.
 
-Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwachstellenliste (PR #8), die Angriffsakten im Stand der Nachprüfung (PR #7, mit der neuen Akte 26), die [verworfenen Einwände](../angriffspunkte/verworfen.md), die [Forschungsfelder](../angriffspunkte/forschungsfelder.md) und alle Prüfberichte vom 11. bis 13. Oktober 2026. Die Ableitung und die Akten bleiben die Arbeitsdokumente; dieses Dokument ändert keines von beiden, sondern zieht aus ihnen das Ergebnis.
+Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwachstellenliste (PR #8), die Angriffsakten im Stand der Nachprüfung (PR #7, mit der neuen Akte 26), die [verworfenen Einwände](../angriffspunkte/verworfen.md), die [Forschungsfelder](../angriffspunkte/forschungsfelder.md) und alle Prüfberichte vom 11. bis 13. Oktober 2026. Seit dem 16. Oktober 2026 kommen die [Auswertungen externer Texte](../extern/README.md) und die Akten 27 bis 31 hinzu, die aus ihnen entstanden sind. Die Ableitung und die Akten bleiben die Arbeitsdokumente; dieses Dokument ändert keines von beiden, sondern zieht aus ihnen das Ergebnis.
 
 ## Inhalt
 
@@ -395,13 +395,14 @@ Stelle: GS 1-06 Volk; GS 2-20 WDb Hanau, „Steinmeier“; GS 2-13 Menschenrecht
 
 **10.2 Nationalismus ist das Bewusstsein, das die Unterordnung unter die eigene Herrschaft als eigene Sache nimmt. Er will kein Wissen über die Nation, sondern ideelles Einssein mit ihr; zu seiner Lage sagt ein Volk deshalb nicht Ja oder Nein, sondern „Wir“.** *Bestimmung.*
 Stelle: GS 2-94 Geistige Führung, „Vom ‚gesunden‘ deutschen Nationalgefühl“; GS 1-06 Volk, 5.(c) · Abl. 10.2
-Reichweite: Die Loyalitätsformel erklärt die Form; die besonderen ideologischen Inhalte eines Nationalismus sind eigens zu bestimmen (SP-Register 10.2.6).
+Reichweite: Die Loyalitätsformel erklärt die Form; die besonderen ideologischen Inhalte eines Nationalismus sind eigens zu bestimmen (SP-Register 10.2.6). Ob die Identifikation selbst ein Urteil ist, das sich durch Kritik lösen lässt, oder die Voraussetzung, unter der erst geurteilt wird, ist nicht im Kern: GS 1-06, 5.(c), beschreibt ein Volk, das nicht Stellung nimmt und „gegen alle schlechten Erfahrungen“ an seinem Standpunkt festhält (Akte 30).
 
 **10.3 Die Scheidung der Menschen in In- und Ausländer setzt die Staatsmacht in die Welt. Migrations- und Flüchtlingspolitik wählen nach der Brauchbarkeit für Kapital und Staat aus.** *Analyse.*
 Stelle: GS 4-10 Nationalismus global; GS 1-25 Migration; GS 2-92 Ausländerhass, „Das Asylrecht“ · Abl. 10.3
 
 **10.4 Ausländerfeindschaft übersetzt den staatlichen Unterschied zwischen In- und Ausländern ins Rechtsbewusstsein der Bürger: Sie verlangen von ihrem Staat, was er selbst praktiziert, nur konsequenter. Durch Fakten über Kriminalität oder Anpassung ist sie nicht zu widerlegen, weil zwischen Fakt und Urteil immer eine Erklärung steht; der „Faktencheck“ gibt einem moralischen Plädoyer nur den Anschein der Unwidersprechlichkeit.** *Analyse und Zurückweisung.*
 Stelle: GS 3-20 KdK § 18, 4.; GS 4-18 Parolen verkehrt, 4.; GS 2-92 Ausländerhass · Abl. 10.4
+Reichweite: Erklärt ist die Richtung des Schlusses, nicht, warum finanziell Unsichere ihn häufiger ziehen als Gesicherte; nach derselben Stelle aus § 18 tragen die wirklich Geschädigten ihr Schicksal „mit umso entschlossenerem Patriotismus“ (Akte 27).
 
 **10.5 Rassismus ist der moralische Blick auf die staatlich sortierte Menschheit und selbst ein Produkt der politischen Zwangsvereinigung, von der er nichts wissen will. Auch rassistische Brutalität in einem freiheitlichen Staat hat ihren Ausgangspunkt nicht in einer Rassentheorie, sondern in der Liebe zur eigenen Ordnung und zum Volk, das sie lebt.** *Analyse.* Das Gegenteil ist selbst ein Fehler: Wer die Koexistenz der Nationalcharaktere wegen ihrer Andersartigkeit lobt, glaubt ebenso an völkische Identität.
 Stelle: GS 1-95 Rassismus, I. und III.; GS 3-20 George Floyd · Abl. 10.5
@@ -515,6 +516,7 @@ Stelle: GS 2-08 Kapital lesen, „Fetisch und Mystifikation …“; GS 1-25 KdK 
 
 **18.5 Linke Kritik, die den Kapitalismus an Gerechtigkeit und den Staat an seiner Fürsorge misst, beantragt die Korrektur der Verhältnisse bei der Gewalt, die sie einrichtet, und bleibt so auf dem Standpunkt der Gemeinschaft, die sie zu kritisieren meint.** *Zurückweisung.*
 Stelle: GS 3-17 Wer verdient warum; GS 4-96 Marx-Kontroverse, III.; GS 1-06 Volk, 2.b · Abl. 18.5
+Reichweite: Ob das Moment ideeller Negation von Eigentum und Unternehmerfreiheit, das der GSP dem Occupy-Protest zugesteht (GS 4-11), für die Kritik ein Ansatzpunkt ist, ist nicht im Kern (Akte 28).
 
 **18.6 Der reale Sozialismus war kein Kommunismus, sondern ein Staatsprogramm, das Wert und Volk beibehielt. Sein Ende sagt über die Richtigkeit der Kapitalismuskritik nichts.** *Zurückweisung.*
 Stelle: GS 2-92 Kommunismus tot; GS 4-17 Oktoberrevolution; GS 4-99 Chr. DDR-Urteile · Abl. 18.6
@@ -531,7 +533,7 @@ Stelle: GS 2-15 Chr. Aufsichtsräte · Abl. 18.9
 **18.10 Aus der Kritik folgt ein Grund, die Verhältnisse abzuschaffen, aber weder ein bestimmtes Organisationsmodell noch eine Rechtfertigung beliebiger Aktionsmittel, und keine automatische Revolution.** *Bestimmung.* Die Ablehnung von Wahlbeteiligung und „Stellung beziehen“ ist eine Beurteilung dieser Mittel, keine Regel gegen jede Organisierung; GS 3-24 nennt für den Lohnkampf Führung, Agitation und Organisation unentbehrlich.
 Stelle: GS 1-10 LB Wahlkreuz, Antwort 1.; GS 2-02 Antideutsche · Abl. 18.10, 18.3
 Geprüft: AS hält diesen Punkt für sauber dokumentiert.
-Reichweite: Ob die Aufklärung, die der GSP als Praxis der Kritik nennt, für gemeinsames Handeln reicht, ist nicht im Kern (Akte 25).
+Reichweite: Ob die Aufklärung, die der GSP als Praxis der Kritik nennt, für gemeinsames Handeln reicht, ist nicht im Kern (Akte 25). Ebenso wenig, woran Fehler einer Organisation zu erkennen sind, deren Zweck richtig ist (Akte 31).
 
 ---
 
@@ -596,7 +598,7 @@ Diese Aussagen der Ableitung sind nicht widerlegt. Sie sind nur nicht entschiede
 | Wer ohne Streit über die Ursachen nach Alternativen fragt, will die Konsequenzen nicht (18.1) | der Zweifel, der aus der geteilten Erklärung folgt; die Frage nach dem *Wie* | Akte 02; Abl. B.2 |
 | Aufklärung ist die Praxis der Kritik, alles Weitere liegt bei den Betroffenen (18.10) | ob Einsicht für gemeinsames Handeln reicht; Koordination fehlt als Gegenstand | Akte 25 |
 | Gewohnheit ist ein „praktiziertes Urteil“ (15.4) | was wirkt, wenn das Urteil verworfen ist; Fortbestand und Abbau | Akten 03, 24 |
-| Moral ist allgemein die affirmative Stellung zu den Interessengegensätzen (15.1) | ob jedes moralische Urteil diese Gestalt hat | Abl. 15.1; Forschungsfelder |
+| Moral ist allgemein die affirmative Stellung zu den Interessengegensätzen (15.1) | ob jedes moralische Urteil diese Gestalt hat; was Rücksicht bei Gegensätzen ist, die nicht aus dem Eigentum stammen und die GS 1-11 selbst einräumt | Akte 29; Abl. 15.1 |
 | Klimapolitik ist auf der Ebene der Staatszwecke Energiepolitik (17.3) | Fälle, in denen Klimaziel und Konkurrenzvorteil auseinanderfallen | Akte 18 |
 | Die Lage der Frau hat ihren Grund nicht in der Biologie (8.11) | warum die Familienrolle der Frau zufällt; ob die Schwangerschaft Vorwand oder eigener Grund ist | Abl. 8.11, B.2 |
 | Erfahrung spielt bei der Prüfung von Theorien keine Rolle (1.2); Popper ist getroffen (1.6) | wie weit der Satz reicht; ob die Kritik Popper trifft | Akte 13 |

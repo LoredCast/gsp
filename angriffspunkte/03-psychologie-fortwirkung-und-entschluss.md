@@ -1,6 +1,6 @@
 # 03 Psychologie: Ist eine fortbestehende Wirkung ein Widerspruch?
 
-**Status:** offen, nicht Teil der laufenden Korrespondenz · **Stärke:** trifft einen bestimmten Schluss, eröffnet aber ein eigenes Thema · **Stand:** 12.10.2026
+**Status:** offen, nicht Teil der laufenden Korrespondenz · **Stärke:** trifft einen bestimmten Schluss, eröffnet aber ein eigenes Thema · **Stand:** 16.10.2026
 
 ## These
 
@@ -39,6 +39,11 @@ Dass die Erklärung des Lesers stimmt, dass psychologische Kausaltheorien überh
 - Ein Entwurf für eine eigene Zuschrift steht am Ende von Astras Abschnitt „Psychologie“.
 - Vertieft in [24](24-gewohnheit-als-praktiziertes-urteil.md): GS 4-21 räumt ein, dass Einsicht und Korrektur des Gefühlsurteils auseinanderfallen, und weist die Frage nach der Dauer als „psychologische Weltanschauung“ ab. Die Stellen zur Habitualisierung (Schule, Nationalismus, Rassismus) und Belege aus der Gewohnheitsforschung stehen dort.
 
+## Außenstimmen aus externen Texten
+
+- **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.10): Der GSP sagt, der Übergang in die Verrücktheit verdanke sich Verstandes- und Willensleistungen der Person. Das ist an keinem klinischen Material geprüft. Deleuze und Guattari argumentieren ausdrücklich aus der Klinik der Schizophrenie; einer der beiden arbeitete in einer psychiatrischen Klinik. Ihre Gegenthese (das Begehren besetzt das Feld vor dem Urteil) trifft der GSP-Einwand gegen die Psychologie (Anti-Ödipus-Auswertung, 2.2), ihr Material nicht. Psychische Krankheit und Psychiatrie als Institution fehlen in den Sammlungen ([forschungsfelder.md](forschungsfelder.md)).
+- Die Frage, ob die Bindung an die Nation überhaupt als Urteil entsteht, steht jetzt in [30](30-kommt-das-interesse-danach.md).
+
 ## Herkunft
 
-[Astras Überarbeitung](../korrespondenz/bewertungen/astra-kommentierte-ueberarbeitung.md), Abschnitt „Ein neuer, ernsthafter Prüfbereich: Psychologie“; Einschätzung des Threads zu Stefans Antwort vom 12.10.
+[Astras Überarbeitung](../korrespondenz/bewertungen/astra-kommentierte-ueberarbeitung.md), Abschnitt „Ein neuer, ernsthafter Prüfbereich: Psychologie“; Einschätzung des Threads zu Stefans Antwort vom 12.10. Außenstimme am 16.10.2026 aus der Auswertung zum Anti-Ödipus ergänzt.
