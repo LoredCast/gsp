@@ -36,3 +36,4 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Hausarbeit: Herrschaftsfreies Recht mit Habermas?](hausarbeit-anarchismus-habermas/auswertung.md) | unveröffentlichte Hausarbeit zum Anarchismus, Arbeitsversion 3 | 15.10.2026 |
 | [Gilles Deleuze, Félix Guattari: Anti-Ödipus](deleuze-anti-oedipus/auswertung.md) | Buch, 1972; englische Übersetzung | 16.10.2026 |
 | [Gilles Deleuze, Félix Guattari: Tausend Plateaus](deleuze-tausend-plateaus/auswertung.md) | Buch, 1980; englische Übersetzung | 16.10.2026 |
+| [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
