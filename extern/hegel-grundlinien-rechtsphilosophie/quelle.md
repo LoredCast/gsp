@@ -20,7 +20,7 @@ python3 -c 'import sys,re;n=lambda s:re.sub(r"[^a-zäöüß]","",s.lower());prin
 
 Ausgewertet sind Vorrede, Einleitung und die §§ 1 bis 360 mit Hegels Anmerkungen. Die Weltgeschichte (§§ 341 bis 360) ist nur so weit herangezogen, wie sie den Staat betrifft. Brandts Einleitung (»Zu dieser Ausgabe«) und die Anmerkungen des Herausgebers (ab Z. 12641) sind nicht ausgewertet.
 
-**Ohne Zusätze.** Die bekannten »Zusätze«, die Eduard Gans 1833 aus Nachschriften der Vorlesungen in die Werkausgabe aufgenommen hat, stehen in dieser Ausgabe nicht. Der GSP zitiert Hegel zum Teil nach einer Ausgabe mit Zusätzen. Welche seiner Hegel-Zitate sich im Text von 1820 finden und welche nicht, steht in Abschnitt 2.1 der Auswertung.
+**Ohne Zusätze.** Die bekannten »Zusätze«, die Eduard Gans 1833 aus Nachschriften der Vorlesungen in die Werkausgabe aufgenommen hat, stehen in dieser Ausgabe nicht. Für die Prüfung der GSP-Zitate ist zusätzlich die Suhrkamp-Werkausgabe herangezogen (*Werke in 20 Bänden*, Bd. 7, mit den mündlichen Zusätzen), in einer OCR-Textfassung, die manuel am 21.10.2026 hochgeladen hat. Welche Hegel-Zitate des GSP im Text von 1820 stehen, welche in den Zusätzen und welche aus der *Philosophischen Propädeutik* stammen, steht in Abschnitt 2.1 der Auswertung.
 
 ## Gliederung mit Zeilen der Textfassung
 
