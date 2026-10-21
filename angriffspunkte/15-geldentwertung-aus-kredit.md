@@ -1,6 +1,6 @@
 # 15 Folgt Geldentwertung notwendig aus nicht verwertetem Kredit?
 
-**Status:** offen, enger gefasst · **Stärke:** ernste Notwendigkeitsbehauptung von 1997, 2018 abgeschwächt; der GSP nennt selbst ein Maß für „nicht verwerteten Kredit“ (Steueraufkommen gegen Staatsschuld), an dem sie prüfbar ist · **Stand:** 13.10.2026
+**Status:** offen, enger gefasst · **Stärke:** ernste Notwendigkeitsbehauptung von 1997, 2018 abgeschwächt; der GSP nennt selbst ein Maß für „nicht verwerteten Kredit“ (Steueraufkommen gegen Staatsschuld), an dem sie prüfbar ist · **Stand:** 16.10.2026
 
 ## These
 
@@ -48,6 +48,18 @@ Die Gleichsetzung von Zentralbankreserven mit dem gesamten unproduktiven Kredit 
   - Claudio Borio, Boris Hofmann, Egon Zakrajšek: [‚Does money growth help explain the recent inflation surge?‘](https://www.bis.org/publ/bisbull67.htm), BIS Bulletin 67, Januar 2023: Der Zusammenhang von Geldmenge und Inflation hängt vom Inflationsregime ab, im Hochinflationsregime ist er eng, bei niedriger Inflation fast nicht vorhanden.
   - Rahul Anand, Gee Hee Hong, Yaroslav Hul: [‚Achieving the Bank of Japan's Inflation Target‘](https://www.imf.org/-/media/Files/Publications/WP/2019/wpiea2019229-print-pdf.ashx), IMF Working Paper WP/19/229, 2019.
 
+## Außenstimmen aus externen Texten
+
+- **Die Inflation 2021 bis 2023 beim GSP** ([Weber-Auswertung](../extern/weber-antifaschistische-wirtschaftspolitik/auswertung.md), Abschnitt 2.1). Die Texte dieser Jahre erklären die Teuerung nicht aus unverwertetem Staatskredit, sondern aus Marktmacht und geschaffener Zahlungsfähigkeit:
+  - „Preise *gibt es* schließlich nicht einfach, und sie bewegen sich auch nicht von allein, sondern sie werden *gemacht*.“ Das Verhältnis von Angebot und Nachfrage sei für die Konkurrenten „nichts anderes als ein ökonomisches *Kräfte-* bzw. *Macht* verhältnis“.
+    „Lieferengpässe durch Pandemie und andere Havarien“, GS 1-22, `sources/2-politische-konomie-i-kapital-wert-geld-kredit.md:32554`
+  - In der unternehmerischen Tätigkeit sei „die Freiheit, die von Staat und Kreditwesen in die Welt gesetzte Zahlungsfähigkeit durch Preiserhöhungen abzugreifen“ eingeschlossen; die Unternehmen hätten höhere Preise verlangt, „wo immer ihre Marktmacht es ihnen erlaubte“.
+    „Mehr Zinsen, mehr Schulden“, GS 4-22, `sources/3-politische-konomie-ii-krise-konkurrenz-weltmarkt.md:111866`
+  - In Europa überführen die Akteure des Marktes „die politisch hergestellte oder auch bloß die erwartete Verknappung des Angebots an Energieträgern in höhere Preise“.
+    „Die Lohnfrage in schweren Zeiten“, GS 1-23, `sources/3-…:71562`
+- Das ist eine dritte Fassung neben 1997 („allemal“) und 2018 („prominenter Beitrag“). Der Staatskredit kommt in GS 4-22 vor, aber als Quelle der Zahlungsfähigkeit, die abgegriffen wird, nicht als nicht verwerteter Kredit, der das Geld entwertet. Ob die drei Fassungen eine Theorie sind oder drei, wäre die Frage an den GSP. **Ableitung:** Vereinbar sind sie, wenn 1997 und 2018 den Grund der Entwertung nennen und 2022 den Weg, auf dem sie in die Preise kommt. Gesagt wird das in keinem der Texte.
+- **Isabella Weber** beschreibt die Teuerung als Verkäuferinflation, fast mit denselben Worten wie der GSP 2022, und belegt sie mit Earnings Calls und Gewinnanteilen (Weber-Auswertung, 2.1). Sie leitet sie nicht aus einer Werttheorie ab; der GSP an diesen Stellen auch nicht (Gesamtdarstellung Teil III, Abschnitt 3.6).
+
 ## Herkunft
 
-[Astras Prüfung](../theorie/pruefungen/2026-10-12-astra-pruefung.md), Entwurf 15; GSP-Wortlaut im Thread „GSP-Theorie aus Primärtexten“ geprüft. Der Übertragungsweg über die Verkäufer ist hier ergänzt. Das Maß aus GS 4-97, § 11.4 und GS 3-08 kamen mit der [Prüfung der Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) dazu, die den Abgleich an „Der Staatshaushalt“ verlangt hatte.
+[Astras Prüfung](../theorie/pruefungen/2026-10-12-astra-pruefung.md), Entwurf 15; GSP-Wortlaut im Thread „GSP-Theorie aus Primärtexten“ geprüft. Der Übertragungsweg über die Verkäufer ist hier ergänzt. Das Maß aus GS 4-97, § 11.4 und GS 3-08 kamen mit der [Prüfung der Vertiefung vom 13.10.2026](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) dazu, die den Abgleich an „Der Staatshaushalt“ verlangt hatte. Die Texte von 2021 bis 2023 sind am 16.10.2026 aus der Weber-Auswertung übernommen und an den Quellen geprüft.
