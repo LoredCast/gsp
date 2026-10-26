@@ -38,3 +38,4 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Gilles Deleuze, Félix Guattari: Tausend Plateaus](deleuze-tausend-plateaus/auswertung.md) | Buch, 1980; englische Übersetzung | 16.10.2026 |
 | [Angela Y. Davis: Are Prisons Obsolete?](davis-are-prisons-obsolete/auswertung.md) | Buch, Seven Stories Press 2003; Textfassung der Anarchist Library | 21.10.2026 |
 | [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
+| [Justus Bender, Sebastian Friedrich: Wie irrational ist der Aufstieg der Rechten?](bender-friedrich-aufstieg-rechte/auswertung.md) | Veranstaltungsmitschnitt, Podcast Überrechts (Literaturforum im Brechthaus, 29.09.2026) | 26.10.2026 |
