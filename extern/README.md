@@ -39,3 +39,4 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Angela Y. Davis: Are Prisons Obsolete?](davis-are-prisons-obsolete/auswertung.md) | Buch, Seven Stories Press 2003; Textfassung der Anarchist Library | 21.10.2026 |
 | [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
 | [Justus Bender, Sebastian Friedrich: Wie irrational ist der Aufstieg der Rechten?](bender-friedrich-aufstieg-rechte/auswertung.md) | Veranstaltungsmitschnitt, Podcast Überrechts (Literaturforum im Brechthaus, 29.09.2026) | 26.10.2026 |
+| [Ole Nymoen, Simon David Dressler: Reaction auf *Streit auf gut* mit Wyn](nymoen-dressler-streit-auf-gut/auswertung.md) | Reaction-Stream *Heißer Papa* auf ein Funk-Interview (aufgezeichnet August 2026) | 26.10.2026 |
