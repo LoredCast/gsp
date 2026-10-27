@@ -38,3 +38,4 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Gilles Deleuze, Félix Guattari: Tausend Plateaus](deleuze-tausend-plateaus/auswertung.md) | Buch, 1980; englische Übersetzung | 16.10.2026 |
 | [Angela Y. Davis: Are Prisons Obsolete?](davis-are-prisons-obsolete/auswertung.md) | Buch, Seven Stories Press 2003; Textfassung der Anarchist Library | 21.10.2026 |
 | [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
+| [Hegel, Rechtsphilosophie §§ 5–7, und Allen Wood, Kap. 9–10](hegel-wille-wood/auswertung.md) | Seminarvorbereitung: Hegel, *Grundlinien der Philosophie des Rechts*, Einleitung (TWA 7), und Wood, *Hegel's Ethical Thought*, Cambridge 1990 | 27.10.2026 |
