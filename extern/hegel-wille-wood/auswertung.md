@@ -145,7 +145,7 @@ Das Wort ist in § 5 mehrdeutig, und das Fragenblatt fragt ausdrücklich danach 
 
 ### 3.1 Der Haupttext
 
-> »[β)] Ebenso ist Ich das Übergehen aus unterschiedsloser Unbestimmtheit zur Unterscheidung, Bestimmen und Setzen einer Bestimmtheit als eines Inhalts und Gegenstands. — Dieser Inhalt sei nun weiter als durch die Natur gegeben oder aus dem Begriffe des Geistes erzeugt. Durch dies Setzen seiner selbst als eines bestimmten tritt Ich in das Dasein überhaupt; — das absolute Moment der Endlichkeit oder Besonderung des Ich.« (§ 6, S. 51 f.)
+> »[β)] Ebenso ist Ich das Übergehen aus unterschiedsloser Unbestimmtheit zur Unterscheidung, Bestimmen und Setzen einer Bestimmtheit als eines Inhalts und Gegenstands. — Dieser Inhalt sei nun weiter als durch die Natur gegeben oder aus dem Begriffe des Geistes erzeugt. Durch dies Setzen seiner selbst als eines bestimmten tritt Ich in das Dasein überhaupt; — das absolute Moment der Endlichkeit oder Besonderung des Ich.« (§ 6, S. 52)
 
 1. **»Ebenso«.** Das zweite Moment ist dem ersten gleichrangig. Ich ist »ebenso« das Bestimmen, wie es das Abstrahieren ist. Der Wille ist nicht zuerst frei und dann gebunden; beides gehört zu ihm.
 2. **»Übergehen … zur Unterscheidung, Bestimmen und Setzen«.** Drei Ausdrücke für eine Tätigkeit: Der Wille unterscheidet (dies, nicht jenes), er bestimmt sich (zu diesem), und er setzt das Bestimmte als Inhalt und Gegenstand. »Setzen« heißt: Der Inhalt ist nicht einfach da, ich mache ihn zu meinem Zweck.
@@ -177,7 +177,7 @@ Daraus ergibt sich, dass der Übergang zum Bestimmen nicht ein Abfall von der Fr
 
 **Fichte.** Die Unterscheidung der beiden Momente finde sich bei Fichte und Kant. Hegel bleibt bei Fichte:
 
-> »ist Ich als das Unbegrenzte (im ersten Satze der Fichteschen Wissenschaftslehre) ganz nur als Positives genommen (so ist es die Allgemeinheit und Identität des Verstandes), so daß dieses abstrakte Ich für sich das Wahre sein soll und daß darum ferner die Beschränkung — das Negative überhaupt, sei es als eine gegebene, äußere Schranke oder als eigene Tätigkeit des Ich — (im zweiten Satze) hinzukommt.« (§ 6 Anm., S. 52 f.)
+> »ist Ich als das Unbegrenzte (im ersten Satze der Fichteschen Wissenschaftslehre) ganz nur als Positives genommen (so ist es die Allgemeinheit und Identität des Verstandes), so daß dieses abstrakte Ich für sich das Wahre sein soll und daß darum ferner die Beschränkung — das Negative überhaupt, sei es als eine gegebene, äußere Schranke oder als eigene Tätigkeit des Ich — (im zweiten Satze) hinzukommt.« (§ 6 Anm., S. 53)
 
 Zur Erinnerung: Fichtes erster Grundsatz lautet, dass das Ich ursprünglich schlechthin sein eigenes Sein setzt; der zweite, dass dem Ich schlechthin ein Nicht-Ich entgegengesetzt wird; der dritte vereinigt beide durch wechselseitige Beschränkung, das teilbare Ich und das teilbare Nicht-Ich. In der praktischen Philosophie erscheint das Nicht-Ich als *Anstoß*, an dem sich das Streben des Ich bricht, und die Aufgabe, das Nicht-Ich dem Ich zu unterwerfen, ist unendlich: ein Sollen, das nie erreicht wird.
 
