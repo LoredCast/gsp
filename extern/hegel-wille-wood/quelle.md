@@ -12,12 +12,12 @@ manuel hat am 27.10.2026 drei Textfassungen und ein Fragenblatt im Projekt hochg
 
 | Datei | Inhalt | Zitierweise in der Seminarvorbereitung |
 |---|---|---|
-| `HEGEL_TWA7_§5-7.txt` | G. W. F. Hegel, *Grundlinien der Philosophie des Rechts*, Einleitung, Ende der Anm. zu § 4 bis Anfang § 8, mit Hegels handschriftlichen Randnotizen und den Zusätzen von Eduard Gans. Werke in zwanzig Bänden (Theorie-Werkausgabe, TWA), Bd. 7, Frankfurt/M.: Suhrkamp 1970, S. 48–57 | § und Textteil (Haupttext, Anm., Randnotiz, Zusatz), dazu die Seite »TWA 7, S.« |
+| `HEGEL_TWA7_§5-7.txt` | G. W. F. Hegel, *Grundlinien der Philosophie des Rechts*, Einleitung, Ende der Anm. zu § 4 bis Anfang § 8, mit Hegels handschriftlichen Randnotizen und den Zusätzen von Eduard Gans. Werke in zwanzig Bänden (Theorie-Werkausgabe, TWA), Bd. 7, Frankfurt/M.: Suhrkamp 1970, S. 49–57 | § und Textteil (Haupttext, Anm., Randnotiz, Zusatz), dazu die Seite »TWA 7, S.« |
 | `WOOD_Emptiness_Kap9.txt` | Allen W. Wood, *Hegel's Ethical Thought*, Cambridge University Press 1990, Kap. 9 »The emptiness of the moral law«, S. 154–173 | »Wood S.« und Abschnitt (§ 1–11) |
 | `WOOD_Conscience_Kap10.txt` | ebd., Kap. 10 »Conscience«, S. 174–192 | »Wood S.« und Abschnitt (§ 1–10) |
 | `Fragen_Sitzung_3.docx` | Fragenblatt zu Rph. §§ 5–7 mit vier Fragen | Abschnitt 8 der Seminarvorbereitung |
 
-Die Seitenzahlen bei Wood sind die der Druckausgabe; sie stehen in der Textfassung am Fuß jeder Seite. Bei Hegel ergeben sich die Seiten aus den Seitenzahlen der Abschrift: § 5 steht auf S. 49–51, § 6 auf S. 51–54, § 7 auf S. 54–57.
+Die Seitenzahlen bei Wood sind die der Druckausgabe; sie stehen in der Textfassung am Fuß jeder Seite. Bei Hegel ergeben sich die Seiten aus den Seitenzahlen der Abschrift. Sie stehen am Fuß der Seite, wie die Fußnote zu § 7 Anm. zeigt, die unmittelbar vor der Zahl 55 steht; die Zahlen 50 und 51 hat die OCR als »go« und »gt« gelesen. § 5 steht auf S. 49–52, § 6 auf S. 52–54, § 7 auf S. 54–57.
 
 ## Zum Zustand der Hegel-Abschrift
 
