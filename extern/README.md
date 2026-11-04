@@ -40,3 +40,10 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
 | [Hegel, Rechtsphilosophie §§ 5–7, und Allen Wood, Kap. 9–10](hegel-wille-wood/auswertung.md) | Seminarvorbereitung: Hegel, *Grundlinien der Philosophie des Rechts*, Einleitung (TWA 7), und Wood, *Hegel's Ethical Thought*, Cambridge 1990 | 27.10.2026 |
 | [Hegel, Vorrede zur Rechtsphilosophie, und Jaeschke, Hegel-Handbuch, Kap. 8.1](hegel-vorrede/auswertung.md) | Seminarvorbereitung: Hegel, *Grundlinien der Philosophie des Rechts*, Vorrede, TWA 7, S. 17–28, und Jaeschke, *Hegel-Handbuch*, Stuttgart 2016, Kap. II.8.1; mit [Spickzettel](hegel-vorrede/spickzettel.md) | 31.10.2026 |
+| [Helen E. Longino: Subjects, Power, and Knowledge](longino-subjects-power-knowledge/auswertung.md) | Aufsatz, in Alcoff/Potter (Hg.), *Feminist Epistemologies*, Routledge 1993; zusammen mit Intemann und Wylie ausgewertet | 01.11.2026 |
+| [Kristen Intemann: 25 Years of Feminist Empiricism and Standpoint Theory](intemann-feministischer-empirismus/auswertung.md) | Aufsatz, *Hypatia* 25 (2010) | 01.11.2026 |
+| [Alison Wylie: Feminist Philosophy of Science. Standpoint Matters](wylie-standpoint-matters/auswertung.md) | Vortrag, APA Presidential Address 2012; Manuskript der Autorin | 01.11.2026 |
+| [Donna Haraway: Situated Knowledges](haraway-situated-knowledges/auswertung.md) | Aufsatz, *Feminist Studies* 14 (1988); zusammen mit Haraways *Cyborg Manifesto*, Harding und dem *Routledge Handbook* ausgewertet | 04.11.2026 |
+| [Donna Haraway: A Cyborg Manifesto](haraway-cyborg-manifesto/auswertung.md) | Aufsatz, 1985; in *Simians, Cyborgs and Women*, Routledge 1991 | 04.11.2026 |
+| [Sandra Harding: Whose Science? Whose Knowledge?](harding-whose-science/auswertung.md) | Buch, Cornell 1991; Kapitel 5 und 6 | 04.11.2026 |
+| [Routledge Handbook of Feminist Philosophy of Science](handbook-feminist-philosophy-of-science/auswertung.md) | Sammelband, hg. von Crasnow und Intemann, Routledge 2021; Kapitel 16, 17, 18 und 27 | 04.11.2026 |
