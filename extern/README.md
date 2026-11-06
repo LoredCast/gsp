@@ -50,3 +50,4 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Sandra Harding: Whose Science? Whose Knowledge?](harding-whose-science/auswertung.md) | Buch, Cornell 1991; Kapitel 5 und 6 | 04.11.2026 |
 | [Routledge Handbook of Feminist Philosophy of Science](handbook-feminist-philosophy-of-science/auswertung.md) | Sammelband, hg. von Crasnow und Intemann, Routledge 2021; Kapitel 16, 17, 18 und 27 | 04.11.2026 |
 | [Gilles Deleuze, Félix Guattari: Über einige Zeichenregime](deleuze-tausend-plateaus-zeichenregime/auswertung.md) | Buchkapitel: Plateau 5 aus *Tausend Plateaus*, 1980; englische Übersetzung; ergänzt die Auswertung des ganzen Buches | 05.11.2026 |
+| [Jean Baudrillard: The Ecstasy of Communication](baudrillard-ecstasy-of-communication/auswertung.md) | Buch, frz. *L'Autre par lui-même*, Galilée 1987; englische Übersetzung, Semiotext(e) 1988; OCR-Fassung, nach Seiten zitiert | 06.11.2026 |
