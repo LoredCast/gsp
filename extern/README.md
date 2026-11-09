@@ -39,6 +39,7 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Sophia Fritz: Toxische Weiblichkeit](fritz-toxische-weiblichkeit/auswertung.md) | Buch, Hanser Berlin 2024 | 20.10.2026 |
 | [Angela Y. Davis: Are Prisons Obsolete?](davis-are-prisons-obsolete/auswertung.md) | Buch, Seven Stories Press 2003; Textfassung der Anarchist Library | 21.10.2026 |
 | [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
+| [Georg Wilhelm Friedrich Hegel: Grundlinien der Philosophie des Rechts](hegel-grundlinien-rechtsphilosophie/auswertung.md) | Buch, 1820; Ausgabe Meiner (PhB 638) 2013 | 21.10.2026 |
 | [Justus Bender, Sebastian Friedrich: Wie irrational ist der Aufstieg der Rechten?](bender-friedrich-aufstieg-rechte/auswertung.md) | Veranstaltungsmitschnitt, Podcast Überrechts (Literaturforum im Brechthaus, 29.09.2026) | 26.10.2026 |
 | [Ole Nymoen, Simon David Dressler: Reaction auf *Streit auf gut* mit Wyn](nymoen-dressler-streit-auf-gut/auswertung.md) | Reaction-Stream *Heißer Papa* auf ein Funk-Interview (aufgezeichnet August 2026) | 26.10.2026 |
 | [Hegel, Rechtsphilosophie §§ 5–7, und Allen Wood, Kap. 9–10](hegel-wille-wood/auswertung.md) | Seminarvorbereitung: Hegel, *Grundlinien der Philosophie des Rechts*, Einleitung (TWA 7), und Wood, *Hegel's Ethical Thought*, Cambridge 1990 | 27.10.2026 |
