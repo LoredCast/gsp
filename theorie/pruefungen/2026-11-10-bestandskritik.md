@@ -159,7 +159,7 @@ Jeder Punkt ist an `sources/` geprüft und als Akte angelegt.
 | 32 | Welches Interesse verdirbt das Urteil? | offene Frage | mittel | Intemann, Harding, Haraway, Weasel, Handbook |
 | 33 | Warum fällt die Familienrolle der Frau zu? | offene Frage | mittel | bisher Gesamtdarstellung III 4.3 ohne Akte; Davis, Haraway, Harding, Fritz, Hegel § 166, Brown |
 | 34 | Wertgröße und Preis | offene Frage | hoch | bisher Gesamtdarstellung III 3.6 ohne Akte |
-| 35 | Ist jeder Staatskredit Geldschöpfung? | offene Frage | gering | bisher Ableitung 6.9 und Gesamtdarstellung III 3.5 ohne Akte |
+| 35 | Ist jeder Staatskredit Geldschöpfung? | offene Frage | gering | bisher Ableitung 7.8 und Gesamtdarstellung III 3.5 ohne Akte |
 | 36 | Rassismus als Recht: Braucht das Kapital den Rassismus? | offene Frage | mittel | Davis, *Women, Race and Class* und *Are Prisons Obsolete?* |
 | 37 | Maß und Form der Strafe | offene Frage | gering | Davis, *Are Prisons Obsolete?*; Hegel § 214 |
 | 38 | Bildet das Kapital die Bedürfnisse? | offene Frage | mittel | Baudrillard |
