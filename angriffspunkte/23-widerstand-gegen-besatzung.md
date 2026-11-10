@@ -83,7 +83,7 @@ Dieser Punkt wendet [22](22-nationale-befreiung.md) auf den Krieg an.
 
 ## Außenstimmen aus externen Texten
 
-- **Tausend Plateaus** (`extern/deleuze-tausend-plateaus/auswertung.md` (PR #16), Abschnitt 2.8): Die gemeinsame Form dieser Akte mit 22, 26 und 28 (Gesamtdarstellung Teil III, Abschnitt 2.9) hat in Plateau 13 ihre schärfste externe Fassung: »It would be an error to take a disinterested stance toward struggle on the level of the axioms«. Wer jedes Zugeständnis für Vereinnahmung halte, habe »this disenchanted concept«, und es sei »not a good one« (Z. 2839). Der Kampf um Stimmrecht, Abtreibung, Arbeitsplätze und regionale Autonomie sei »determining« (Z. 2861). Das Buch sagt aber selbst nicht, wann ein Zugeständnis mehr ist als ein weiteres Axiom, das die Axiomatik hinzufügt (Z. 2833); es nennt die Grenze »the undecidable« (Z. 2867). Für die Akte heißt das: Die Gegenthese ist stark formuliert, aber nicht besser begründet als hier.
+- **Tausend Plateaus**, Plateau 13: die schärfste externe Fassung der Form, die diese Akte mit 22, 23, 26 und 28 teilt (ein Zugeständnis sei nicht bloß Vereinnahmung). Wortlaut und Bewertung stehen einmal, in [22](22-nationale-befreiung.md) unter „Außenstimmen“; das Buch begründet die Gegenthese nicht besser als diese Akten.
 
 ## Herkunft
 

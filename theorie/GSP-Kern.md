@@ -2,7 +2,7 @@
 
 Stand: 16. Oktober 2026. Dieses Dokument sammelt die Bestimmungen, Ableitungen und Analysen des GegenStandpunkt (GSP), gegen die nach allen Prüfungen in diesem Projekt kein Einwand übrig ist. Es ist der Gegenpol zu den [Angriffspunkten](../angriffspunkte/README.md): Dort steht, wo weiterzusuchen sich lohnt, hier, wo es sich nicht mehr lohnt.
 
-Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwachstellenliste (PR #8), die Angriffsakten im Stand der Nachprüfung (PR #7, mit der neuen Akte 26), die [verworfenen Einwände](../angriffspunkte/verworfen.md), die [Forschungsfelder](../angriffspunkte/forschungsfelder.md) und alle Prüfberichte vom 11. bis 13. Oktober 2026. Seit dem 16. Oktober 2026 kommen die [Auswertungen externer Texte](../extern/README.md) und die Akten 27 bis 31 hinzu, die aus ihnen entstanden sind. Die Ableitung und die Akten bleiben die Arbeitsdokumente; dieses Dokument ändert keines von beiden, sondern zieht aus ihnen das Ergebnis.
+Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwachstellenliste, die Angriffsakten im Stand der Nachprüfung (mit der Akte 26), die [verworfenen Einwände](../angriffspunkte/verworfen.md), die [Forschungsfelder](../angriffspunkte/forschungsfelder.md) und alle Prüfberichte vom 11. bis 13. Oktober 2026. Seit dem 16. Oktober 2026 kommen die [Auswertungen externer Texte](../extern/README.md) und die Akten 27 bis 31 hinzu, die aus ihnen entstanden sind, seit dem 10. November 2026 die Akten 32 bis 38 und die Reichweitenhinweise aus der Bestandskritik. Die Ableitung und die Akten bleiben die Arbeitsdokumente; dieses Dokument ändert keines von beiden, sondern zieht aus ihnen das Ergebnis.
 
 ## Inhalt
 
@@ -41,11 +41,11 @@ Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwa
 | GK | Gesamtkritik, 13.10. | [Prüfung](pruefungen/2026-10-13-gesamtkritik-pruefung.md) |
 | VT | Vertiefung, 13.10. | [Prüfung](pruefungen/2026-10-13-vertiefung-pruefung.md) |
 | SP | Schrittprüfung mit Register, 13.10. | [Prüfung](pruefungen/2026-10-13-schrittpruefung-pruefung.md) |
-| NP | Nachprüfung, 13.10. | [Prüfung](pruefungen/2026-10-13-nachpruefung-pruefung.md) (PR #7) |
-| SL | Schwachstellenliste, 13.10. | [Prüfung](pruefungen/2026-10-13-schwachstellen-pruefung.md) (PR #8) |
+| NP | Nachprüfung, 13.10. | [Prüfung](pruefungen/2026-10-13-nachpruefung-pruefung.md) |
+| SL | Schwachstellenliste, 13.10. | [Prüfung](pruefungen/2026-10-13-schwachstellen-pruefung.md) |
 | VW | verworfene Einwände | [verworfen.md](../angriffspunkte/verworfen.md) |
 
-Die Berichte NP und SL liegen bis zum Merge von PR #7 und PR #8 nur auf deren Zweigen und als Kopie im Projektordner (`gsp-theorie/pruefungen/`).
+Alle Berichte liegen in [pruefungen/](pruefungen/). Die [Bestandskritik vom 10.11.2026](pruefungen/2026-11-10-bestandskritik.md) hat den Kern nicht in seinen Aussagen geändert; sie hat Reichweitenhinweise ergänzt, die aus den Auswertungen in [../extern/](../extern/) folgen, und ist dort mit BK abgekürzt.
 
 ## Das Gerüst in fünfzehn Sätzen
 

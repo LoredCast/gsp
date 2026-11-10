@@ -1,13 +1,16 @@
 #!/usr/bin/env node
 // Prüft, ob die „…“-Zitate in den angegebenen Markdown-Dateien wörtlich in sources/ oder korrespondenz/ stehen.
 // Aufruf: node scripts/check-quotes.mjs angriffspunkte/*.md
+// Nicht geprüft werden: Zeilen mit „(nur online)“, Stücke unter vier Wörtern und Artikeltitel in Belegposition
+// (direkt vor einer Heftangabe wie „, GS 3-17“ oder „ (GS 3-17)“, oder direkt nach „ — “).
+// Eigene Formulierungen und Titel fremder Schriften gehören in ‚…‘, Zitate aus externen Texten in »…«.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-// Alle Anführungszeichen gleich behandeln, weil verschachtelte Zitate „…“ zu ‚…‘ werden. Leerzeichen vor Satzzeichen entfallen, weil die Sammlungen nach Hervorhebungen oft „*Wort* ,“ schreiben.
-const normalize = text => text.replace(/\*/g, '').replace(/[„“”"‚‘’']/g, '"').replace(/\s+/g, ' ').replace(/ ([,.;:!?)])/g, '$1').trim();
+// Alle Anführungszeichen gleich behandeln, weil verschachtelte Zitate „…“ zu ‚…‘ werden. Leerzeichen vor Satzzeichen und an Anführungszeichen entfallen, weil die Sammlungen nach Hervorhebungen oft „*Wort* ,“ oder „*Wort* “ schreiben. Ein Bindestrich zwischen Leerzeichen gilt als Gedankenstrich.
+const normalize = text => text.replace(/\*/g, '').replace(/[„“”"‚‘’']/g, '"').replace(/\s+/g, ' ').replace(/ ([,.;:!?)])/g, '$1').replace(/ ?" ?/g, '"').replace(/ - /g, ' – ').trim();
 const walk = dir => fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
   const full = path.join(dir, entry.name);
   return entry.isDirectory() ? walk(full) : /\.(md|txt)$/.test(entry.name) ? [full] : [];
@@ -23,12 +26,17 @@ if (!targets.length) {
 }
 let missing = 0;
 let checked = 0;
+let titles = 0;
 for (const target of targets) {
   const lines = fs.readFileSync(target, 'utf8').split('\n');
   lines.forEach((line, index) => {
     // Zitate, die nur auf der Website stehen, sind in der Zeile mit „(nur online)“ markiert.
     if (line.includes('(nur online)')) return;
     for (const match of line.matchAll(/„([^„“"]+)[“"]/g)) {
+      const after = line.slice(match.index + match[0].length);
+      const before = line.slice(0, match.index);
+      // Titel in Belegposition sind keine Zitate.
+      if (/^,? \(?GS \d-\d\d/.test(after) || / — $/.test(before)) { titles++; continue; }
       // Auslassungen trennen das Zitat in Stücke, die einzeln vorkommen müssen.
       const pieces = match[1].split(/\s*(?:\[…\]|…|\.\.\.)\s*/).map(normalize).filter(piece => piece.split(' ').length >= 4);
       for (const piece of pieces) {
@@ -41,5 +49,5 @@ for (const target of targets) {
     }
   });
 }
-console.log(`${checked} Zitatstücke geprüft, ${missing} nicht in sources/ oder korrespondenz/ gefunden.`);
+console.log(`${checked} Zitatstücke geprüft, ${missing} nicht in sources/ oder korrespondenz/ gefunden; ${titles} Titel übersprungen.`);
 process.exitCode = missing ? 1 : 0;

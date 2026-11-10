@@ -50,4 +50,4 @@ Dieser Punkt ist verwandt mit [25](25-einsicht-und-handlungsfaehigkeit.md): Wenn
 
 ## Herkunft
 
-Vorgeschlagen in der Auswertung zu *Tausend Plateaus* (`extern/deleuze-tausend-plateaus/auswertung.md`, PR #16), Abschnitt 4, Vorschlag 2; dort Abschnitt 2.2. Vorbereitet in der [Auswertung zum Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.10 (unterworfene Gruppen, Kap. 2.2, Z. 870). Angelegt am 16.10.2026; die Stelle aus GS 4-17 ist bei der Anlage als Gegenrede gefunden worden.
+Vorgeschlagen in der Auswertung zu *Tausend Plateaus* ([Auswertung](../extern/deleuze-tausend-plateaus/auswertung.md)), Abschnitt 4, Vorschlag 2; dort Abschnitt 2.2. Vorbereitet in der [Auswertung zum Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.10 (unterworfene Gruppen, Kap. 2.2, Z. 870). Angelegt am 16.10.2026; die Stelle aus GS 4-17 ist bei der Anlage als Gegenrede gefunden worden.

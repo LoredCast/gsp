@@ -4,8 +4,8 @@
 
 Dieses Repository dient dazu, die Theorie des GegenStandpunkt (GSP) korrekt herauszuarbeiten und ebenso ihre Probleme, Inkonsistenzen und die Bereiche, die sie nicht erklären oder erfassen kann. Neben den Primärtexten in `sources/` gibt es vier Arbeitsordner:
 
-- **[theorie/](theorie/)**: [GSP-Theorie.md](theorie/GSP-Theorie.md), eine Rekonstruktion der Theorie aus den Zeitschriftenartikeln, nach Themen geordnet und mit wörtlichen, geprüften Zitaten belegt; [GSP-Ableitung.md](theorie/GSP-Ableitung.md), dieselben Argumente als Ableitung in Prämissen, Schritten und Schlüssen; [GSP-Kern.md](theorie/GSP-Kern.md), was davon jeder bisherigen Prüfung standhält; dazu die Prüfungen und Korrekturen.
-- **[angriffspunkte/](angriffspunkte/)**: die bisher erarbeiteten Probleme und offenen Fragen, je eine Datei mit These, GSP-Fundstellen, stärkster Gegenrede, Stand und Suchansätzen; dazu verworfene Einwände und noch offene Forschungsfelder.
+- **[theorie/](theorie/)**: [GSP-Gesamtdarstellung.md](theorie/GSP-Gesamtdarstellung.md), der zusammenhängende Lesetext mit Theorie, Einwänden und Bilanz; [GSP-Kern.md](theorie/GSP-Kern.md), was jeder bisherigen Prüfung standhält; [GSP-Theorie.md](theorie/GSP-Theorie.md), die Rekonstruktion aus den Zeitschriftenartikeln, nach Themen geordnet und mit wörtlichen, geprüften Zitaten belegt; [GSP-Ableitung.md](theorie/GSP-Ableitung.md), dieselben Argumente als Ableitung in Prämissen, Schritten und Schlüssen; dazu die Prüfungen, zuletzt die [Bestandskritik vom 10.11.2026](theorie/pruefungen/2026-11-10-bestandskritik.md).
+- **[angriffspunkte/](angriffspunkte/)**: die bisher erarbeiteten Probleme und offenen Fragen, je eine Datei mit These, GSP-Fundstellen, stärkster Gegenrede, Stand und Suchansätzen, alle nach Befund und Gewicht bewertet; dazu verworfene Einwände und noch offene Forschungsfelder.
 - **[korrespondenz/](korrespondenz/)**: der Briefwechsel mit dem GSP-Verlag, alle Antwortentwürfe und ihre Bewertungen.
 - **[extern/](extern/)**: Texte von außerhalb des GSP (Interviews, Bücher, Hausarbeiten), je mit einer Auswertung, was der GSP zu ihnen sagen würde und wer in welcher Frage stärker ist; was daraus für Theorie und Angriffspunkte folgt, ist in die übrigen Ordner übernommen.
 
@@ -19,7 +19,7 @@ This repository contains German-language GegenStandpunkt articles collected into
 
 - [Source-material sitemap](#source-material-sitemap): all source files, category descriptions and article counts.
 - [Repository layout](#repository-layout): where the materials and generated indexes live.
-- [Arbeitsstand](#arbeitsstand): the theory write-up, the open problems and the correspondence.
+- [Arbeitsstand](#arbeitsstand): the theory write-up, the open problems, the correspondence and the evaluations of external texts.
 - [Reading and searching](#reading-and-searching): how to navigate the large Markdown files.
 - [Coverage and limitations](#coverage-and-limitations): what the collection and sitemap do, and do not, cover.
 - [Regenerating the sitemap](#regenerating-the-sitemap): keep the documentation in sync with the materials.
@@ -90,6 +90,8 @@ gsp/
 │   ├── 17-verschiedenes.md
 │   └── 18-chronologisches-register.md
 ├── theorie/        # Theorieschrift und ihre Prüfungen
+│   ├── GSP-Gesamtdarstellung.md
+│   ├── GSP-Kern.md
 │   ├── GSP-Theorie.md
 │   ├── GSP-Ableitung.md
 │   └── pruefungen/
@@ -97,6 +99,7 @@ gsp/
 ├── korrespondenz/   # Briefwechsel, Entwürfe, Bewertungen
 │   ├── entwuerfe/
 │   └── bewertungen/
+├── extern/          # Texte von außerhalb des GSP, je mit Auswertung
 ├── docs/
 │   └── sitemap/  # complete article and subsection indexes
 └── scripts/
@@ -104,7 +107,7 @@ gsp/
     └── check-quotes.mjs
 ```
 
-The `sources/` files are the materials; `docs/sitemap/` is generated navigation, not an additional article collection. The generator reads the materials without rewriting them. The working folders `theorie/`, `angriffspunkte/` and `korrespondenz/` are not part of the 1,965-article total; each has its own README.
+The `sources/` files are the materials; `docs/sitemap/` is generated navigation, not an additional article collection. The generator reads the materials without rewriting them. The working folders `theorie/`, `angriffspunkte/`, `korrespondenz/` and `extern/` are not part of the 1,965-article total; each has its own README.
 
 ## Reading and searching
 

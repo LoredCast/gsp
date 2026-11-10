@@ -59,4 +59,4 @@ grep -n -F "Rose im" hegel-twa7-vorrede-s17-28.txt
 grep -n -F "ontologischen Differenz" jaeschke-handbuch-8-1.txt
 ```
 
-Hegel-Stellen außerhalb der Vorrede sind sinngemäß wiedergegeben. Wo sie wörtlich stehen, stammen sie aus der [Seminarvorbereitung zu §§ 5–7](../hegel-wille-wood/auswertung.md) (TWA 7) oder aus der Hegel-Auswertung des Projekts (`extern/hegel/auswertung.md` im Projektordner, Ausgabe Meiner) und sind entsprechend markiert.
+Hegel-Stellen außerhalb der Vorrede sind sinngemäß wiedergegeben. Wo sie wörtlich stehen, stammen sie aus der [Seminarvorbereitung zu §§ 5–7](../hegel-wille-wood/auswertung.md) (TWA 7) oder aus der Hegel-Auswertung des Projekts ([Auswertung der Grundlinien](../hegel-grundlinien-rechtsphilosophie/auswertung.md), Ausgabe Meiner) und sind entsprechend markiert.

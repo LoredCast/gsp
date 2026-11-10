@@ -52,4 +52,4 @@ Der Punkt ist verwandt mit [03](03-psychologie-fortwirkung-und-entschluss.md) un
 
 ## Herkunft
 
-Vorgeschlagen in der [Auswertung zum Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 4, Vorschlag 1; die stärkste Fassung der Gegenthese steht dort in Kap. 4.5 (Z. 2461–2471). Die Fortsetzung in Tausend Plateaus (Begehren als Gefüge) nach der Auswertung in PR #16. Die Stelle aus GS 1-06, Abschnitt 5.(c), ist bei der Anlage am 16.10.2026 im Wortlaut gelesen worden; Ableitung und Kern zitieren daraus nur das „Wir“.
+Vorgeschlagen in der [Auswertung zum Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 4, Vorschlag 1; die stärkste Fassung der Gegenthese steht dort in Kap. 4.5 (Z. 2461–2471). Die Fortsetzung in Tausend Plateaus (Begehren als Gefüge) nach der [Auswertung](../extern/deleuze-tausend-plateaus/auswertung.md). Die Stelle aus GS 1-06, Abschnitt 5.(c), ist bei der Anlage am 16.10.2026 im Wortlaut gelesen worden; Ableitung und Kern zitieren daraus nur das „Wir“.
