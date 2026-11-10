@@ -1,50 +1,69 @@
 # Angriffspunkte
 
-Probleme, Inkonsistenzen und Bereiche, die der GegenStandpunkt nicht erklären oder erfassen kann, soweit sie bisher erarbeitet sind. Jede Datei hält einen Punkt fest: die These, die GSP-Stellen mit Fundstelle in `sources/`, die stärkste Gegenrede, was danach übrig bleibt, und wie man weitersucht.
+Probleme, Inkonsistenzen und Bereiche, die der GegenStandpunkt nicht erklären oder erfassen kann, soweit sie bisher erarbeitet sind. Jede Datei hält einen Punkt fest: die These, die GSP-Stellen mit Fundstelle in `sources/`, die Unterscheidungen, die der GSP selbst macht, die stärkste Gegenrede, was danach übrig bleibt, und wie man weitersucht.
 
-Stand: 16. Oktober 2026. Grundlage sind der Briefwechsel mit Stefan (GS-Verlag), die Bewertungen der Entwürfe und die Prüfungen der Theorieschrift. Die Punkte 09 bis 13 stammen aus der [Review der dritten Fassung](../theorie/pruefungen/2026-10-12-review-3.md): Dort steht der beanstandete Satz schon im GSP-Text, der Einwand richtet sich also gegen das GSP-Argument selbst (siehe [../korrespondenz/](../korrespondenz/) und [../theorie/pruefungen/](../theorie/pruefungen/)). Die Punkte 14 bis 21 stammen aus [Astras Prüfung](../theorie/pruefungen/2026-10-12-astra-pruefung.md), die Punkte 22 bis 25 aus manuels Vorlage „Vertiefte GSP-Kritik“ vom 12.10.2026. Beide sind an den Primärtexten geprüft; wo ein Einwand an der Wirklichkeit hängt, stehen externe Belege mit Prüfdatum dabei. Die [Gesamtkritik vom 13.10.2026](../theorie/pruefungen/2026-10-13-gesamtkritik-pruefung.md) ergab keinen eigenen neuen Punkt; sie verschärft 19 und ergänzt 09 und 14. Die [Vertiefung vom selben Tag](../theorie/pruefungen/2026-10-13-vertiefung-pruefung.md) ergab ebenfalls keinen neuen Punkt; ihr Abgleich an den Primärtexten fasst 15, 19 und 23 enger und präzisiert 02, 22 und 24. Die [Nachprüfung vom selben Tag](../theorie/pruefungen/2026-10-13-nachpruefung-pruefung.md) ergab Punkt 26 (Wahl), enger gefasst als vorgeschlagen; ihr Abgleich korrigiert die Gegenrede in 16, fasst 20 enger und ergänzt 02 und 23. Die Punkte 27 bis 31 stammen aus den [Auswertungen externer Texte](../extern/README.md) (Weber, Brown, eine Hausarbeit zu Anarchismus und Habermas, Anti-Ödipus, Tausend Plateaus); jeder ist an den GSP-Texten angelegt, die Gegenthese des externen Textes steht als Außenstimme dabei. Dieselben Auswertungen ergänzen 02, 03, 09, 15 und 22 bis 26.
+Stand: 10. November 2026. Alle Punkte sind mit der [Bestandskritik vom 10.11.2026](../theorie/pruefungen/2026-11-10-bestandskritik.md) neu bewertet; die Punkte 32 bis 38 sind dabei neu angelegt. Woher ein Punkt stammt, steht in seiner Datei unter ‚Herkunft‘.
 
-## Leitfrage
+## Zwei Leitfragen
 
 > Wo wird aus der richtigen Bestimmung eines gesellschaftlichen Verhältnisses mehr über das Bewusstsein und die Handlungsmöglichkeiten seiner Teilnehmer geschlossen, als diese Bestimmung begründet?
 
 (aus [Astras Überarbeitung](../korrespondenz/bewertungen/astra-kommentierte-ueberarbeitung.md)). So gestellt braucht ein Einwand weder einen Maßstab von außen noch die Behauptung, jede Kritik sei subjektiv. Er verlangt nur, dass ein zusätzlicher Schluss ebenso begründet wird wie die Erklärung, auf der er aufbaut.
 
+> Wo beansprucht eine Erklärung aus dem Zweck mehr Bestimmtheit (Maß, Zeitpunkt, Häufigkeit, Träger, Form), als der Zweck hergibt?
+
+Diese Grenze zieht der GSP selbst: Wie der Staat den Notwendigkeiten des Sozialstaats Rechnung trägt, sei „weder ausgemacht noch aus ihr deduzierbar“ (GS 2-16, `sources/5-sozialstaat-armut-reproduktion-alltag.md:8585`). Die zweite Frage prüft, wo er sie nicht einhält (ein ‚nur‘, ‚allemal‘, ‚schrankenlos‘, ‚deckungsgleich‘) und wo er zu Maß, Zeitpunkt oder Träger nichts sagt.
+
+## Bewertung
+
+Jede Akte trägt in der Kopfzeile drei Angaben, die Verschiedenes sagen:
+
+- **Befund:** Was nach der stärksten Gegenrede übrig ist. *trägt*: Der Einwand ist am Text belegt und durch keine geprüfte Gegenrede aufgehoben. *trägt eingeschränkt*: Er trifft eine bestimmte Formulierung, einen Text oder eine Lücke, nicht die Bestimmung im Ganzen. *offene Frage*: Kein Fehler nachgewiesen; es fehlt eine Bestimmung oder ein Text, der die Frage entscheidet. *schwach*: Die Gegenrede beantwortet den Einwand im Wesentlichen. *erledigt*: am Text geklärt.
+- **Gewicht:** Was für die Theorie daran hängt, wenn der Einwand hält: *hoch*, *mittel*, *gering*.
+- **Status:** Was mit dem Punkt geschieht (offen, in der Korrespondenz, zurückgestellt, abgeschlossen). Der Status sagt nichts über die Stärke.
+
 ## Übersicht
 
-| Nr. | Punkt | Status | Einschätzung |
-|---|---|---|---|
-| [01](01-erwerbsquelle-und-kalkulation.md) | Wo beginnt der Fehler beim Gelderwerb? („in Wahrheit gar nicht kalkulieren“, 2-03 gegen 2-08) | in der Korrespondenz | mittel; kann durch eine Präzisierung beantwortet werden |
-| [02](02-alternativen-und-motivschluss.md) | Fragen nach den Mitteln als Motivschluss („Kritik statt Alternativen“, 1-04), Planung konkurrierender Bedürfnisse | in der Korrespondenz | bisher der stärkste Punkt; 1-04 kennt Zweifel an den Ursachen und Unwillen, nicht den Zweifel an den Kräfteverhältnissen; der Vorwurf gilt dem Gehalt der Frage, nicht einem bewussten Motiv |
-| [03](03-psychologie-fortwirkung-und-entschluss.md) | Fortbestehende Wirkung als „Widerspruch“, „Entschluss“ als Erklärung (2-18, 4-21) | offen | trifft einen bestimmten Schluss; eigenes Thema |
-| [04](04-iran-reichweite-der-prognose.md) | Reichweite des Iran-Ausschlusses von 2020 gegenüber 2025 und 2026 | zurückgestellt | konkret, als Widerlegung bisher nicht tragfähig |
-| [05](05-abstufung-der-notwendigkeit.md) | „Nicht ganz so notwendig“: Abstufungen im falschen Bewusstsein (3-25) | aufgegangen in 01 | trifft Stefans Antwort, nicht die Theorie |
-| [06](06-interessenkritik-und-zweckkritik.md) | Interessenkritik und Zweckkritik, der bewusste Opferentschluss (4-13, 1-06) | offen | interessant, aber ohne tragende Textstelle |
-| [07](07-antikritik-und-revidierbarkeit.md) | Antikritik und Revidierbarkeit: woran eine Lageanalyse scheitern könnte | offen als Frage | schwach ohne Beispiel |
-| [08](08-bewusstsein-und-gewalt.md) | Bewusstsein und Gewalt: „hängt an beidem“ (3-17) | geklärt | kein Widerspruch |
-| [09](09-produktivitaet-und-wert.md) | Produktivität und Wert: einzelnes Kapital oder gesellschaftliche Ebene? (1-04 gegen 1-19 § 13) | offen | Reichweitenfrage; der GSP trennt die Ebenen anderswo selbst |
-| [10](10-schrankenloser-lohnverfall.md) | „Schrankenloser“ Verfall des Lohns (2-08 gegen 2-92) | offen | stärkster Einwand der dritten Review; der Satz ist aber an das Überangebot gebunden und als Hauptangriff zu schwach |
-| [11](11-recht-ist-was-der-staat-tut.md) | „Recht ist, was der Staat tut“: Rechtsetzung oder jedes Amtshandeln? (1-92, 4-92) | offen | Präzisierungsfrage |
-| [12](12-tipps-an-alle-konkurrenten.md) | Tipps an alle Konkurrenten: ‚funktionieren nicht‘ oder ‚kein Vorsprung für alle‘? (3-25, 1-19 § 14) | offen | Reichweitenfrage; engere Lesart naheliegend |
-| [13](13-erfahrung-und-pruefung-von-theorien.md) | Popper: Kann Erfahrung Theorien prüfen? (4-94) | offen | Gültigkeitsfrage an die Methode |
-| [14](14-giralgeld-als-geldersatz.md) | Ist Giralgeld nur „Geldersatz“? (1-98, 2-10) | offen | begriffliche Frage; der GSP nennt selbst den Bank Run als Unterschied |
-| [15](15-geldentwertung-aus-kredit.md) | Folgt Geldentwertung notwendig aus nicht verwertetem Kredit? (4-97, 1-18 § 11) | offen | 1997 „allemal“, 2018 leistet der Staatskredit nur einen „prominenten Beitrag“ neben dem privaten Kredit; prüfbar am eigenen Maß des GSP (Steueraufkommen gegen Staatsschuld) |
-| [16](16-verwertung-ohne-wachstum.md) | Kapitalverwertung ohne Wachstum? (1-18 § 7) | offen | Einwand gegen ein „nur“; § 7 begründet das Wachstum aus dem maßlosen Zweck und dem Vorgriff der Erweiterung, nicht aus der Konkurrenz; beide Gründe gelten erst, wenn erweitert wird |
-| [17](17-fall-der-profitrate.md) | Senkt Rationalisierung notwendig die Profitrate? (4-96, 2-10) | für 2-10 geklärt | schwach; der GSP schränkt selbst ein |
-| [18](18-klimaschutz-und-energiepolitik.md) | Klimaschutz „deckungsgleich“ mit Energiepolitik? (1-10, 1-21, 2-07) | offen | als Aussage über Staatszwecke eine offene Ausschließlichkeitsbehauptung |
-| [19](19-von-der-konkurrenz-zur-krise.md) | Wie wird aus der Konkurrenz die allgemeine Krise? (4-98) | offen | eng: § 22 nennt die Bedingungen der Krise, setzt aber die Periodizität fest; der Einwand über die Lohnsumme trifft nur 4-98 |
-| [20](20-wechselkurs-als-inflationsvergleich.md) | Wechselkurs als „permanenter Inflationsvergleich“? (1-18 § 11, 2-94) | offen, enger gefasst | schwächer; § 11 beansprucht den „letzten Grund“ der Kursverschiebung, nicht die Erklärung jeder Bewegung; prüfbar nur über längere Zeit |
-| [21](21-kapital-aus-der-differenz.md) | ‚Kapital entsteht aus der Differenz‘: Vorschuss oder Zuwachs? (4-99) | offen | schwach; Zuspitzung in einem tagespolitischen Text |
-| [22](22-nationale-befreiung.md) | Nationale Befreiung: aus „nicht hinreichend“ wird „kein Nutzen“ (4-23, 3-24, 1-06, MSZ 1985) | offen | trifft teilweise; reale Verbesserungen werden zugestanden und entwertet |
-| [23](23-widerstand-gegen-besatzung.md) | Widerstand gegen Besatzung: jede Gegenwehr „opferbereiter Nationalismus“? (4-23, 2-22) | offen, enger gefasst | 4-23 trennt Überlebensmotiv und Staatsfunktion selbst; offen ist nur der freiwillige Schutz, der kein Opfer für die Nation ist |
-| [24](24-gewohnheit-als-praktiziertes-urteil.md) | Gewohnheit als „praktiziertes Urteil“: was wirkt, wenn das Urteil verworfen ist? (4-21) | offen | trifft eine Zweideutigkeit, die der GSP selbst anlegt; der Hymnen-Fall stand schon in der Zuschrift; vertieft 03 |
-| [25](25-einsicht-und-handlungsfaehigkeit.md) | Einsicht und Handlungsfähigkeit: reicht es, dass die Kritik stimmt? (1-04, 1-10, 3-25, 3-24) | offen | trifft die programmatischen Texte; Koordination fehlt als Gegenstand |
-| [26](26-wahl-als-ermaechtigung.md) | Wahl als Ermächtigung: Zählt der Unterschied der Programme für den, der das weiß? (4-23 § 27, 1-10) | offen | enger als vorgeschlagen; Zustimmung im Wahlakt und Motiv der Wähler trennt der GSP selbst; offen ist „kein Interesse mehr haben kann“ gegen das Zugeständnis, dass Wähler manchmal bekommen, was sie wollten |
-| [27](27-lage-und-schluss.md) | Lage und Schluss: Wenn aus der Lage „überhaupt nichts“ folgt, warum ist der Schluss so regelmäßig verteilt? (1-93, 2-01, 4-16, 3-20 § 18) | offen | trifft eine Lücke; die Gegenrede erklärt die Richtung des Schlusses, nicht seine Häufigkeit; § 18 spricht selbst von „umso entschlossenerem Patriotismus“ |
-| [28](28-ideelle-negation.md) | Ideelle Negation: Zählt das Moment, das der GSP dem Occupy-Protest zugesteht? (4-11, 4-12, 2-97) | offen | eng; die Kritik am Bekenntnis zur Demokratie ist stark, ob das Moment selbst ein Ansatzpunkt ist, sagt der GSP nicht |
-| [29](29-konflikte-ohne-eigentum.md) | Konflikte ohne Eigentum: Moral, wo der Gegensatz nicht aus dem Privateigentum stammt (1-11, 1-03) | offen | trifft die Allgemeinheit der Moralbestimmung; gegen die Staatstheorie schwach, weil der GSP einen Bedingungssatz hat |
-| [30](30-kommt-das-interesse-danach.md) | Kommt das Interesse danach? Nationalismus als Urteil oder als Voraussetzung des Urteils (1-06, 4-21, 2-18, 3-17) | offen | trifft eine Zweideutigkeit; das Volk „nimmt nicht Stellung“ und hält „gegen alle schlechten Erfahrungen“ an seinem Standpunkt fest |
-| [31](31-organisationen-mit-richtigem-zweck.md) | Organisationen mit richtigem Zweck: Fehler, die nicht aus dem Zweck kommen (2-98, 3-24, 4-17) | offen | Lücke im Material; GS 4-17 hat einen Maßstab (Einsicht statt Vorwurf der Abweichung), führt den Fehler aber auf eine falsche Lehre zurück |
+| Nr. | Punkt | Befund | Gewicht | Status |
+|---|---|---|---|---|
+| [01](01-erwerbsquelle-und-kalkulation.md) | Wo beginnt der Fehler beim Gelderwerb? („in Wahrheit gar nicht kalkulieren“, 2-03 gegen 2-08) | schwach | mittel | in der Korrespondenz |
+| [02](02-alternativen-und-motivschluss.md) | Fragen nach den Mitteln als Motivschluss („Kritik statt Alternativen“, 1-04), Planung konkurrierender Bedürfnisse | trägt eingeschränkt | hoch | in der Korrespondenz |
+| [03](03-psychologie-fortwirkung-und-entschluss.md) | Fortbestehende Wirkung als „Widerspruch“, „Entschluss“ als Erklärung (2-18, 4-21) | trägt, mit [24](24-gewohnheit-als-praktiziertes-urteil.md) zu lesen | hoch | offen, nicht Teil der laufenden Korrespondenz |
+| [04](04-iran-reichweite-der-prognose.md) | Reichweite des Iran-Ausschlusses von 2020 gegenüber 2025 und 2026 | schwach | gering | zurückgestellt |
+| [05](05-abstufung-der-notwendigkeit.md) | „Nicht ganz so notwendig“: Abstufungen im falschen Bewusstsein (3-25) | erledigt | – | abgeschlossen, aufgegangen in [01](01-erwerbsquelle-und-kalkulation.md) |
+| [06](06-interessenkritik-und-zweckkritik.md) | Interessenkritik und Zweckkritik, der bewusste Opferentschluss (4-13, 1-06) | schwach | gering | offen, aus dem Brief gestrichen |
+| [07](07-antikritik-und-revidierbarkeit.md) | Antikritik und Revidierbarkeit: woran eine Lageanalyse scheitern könnte | offene Frage | mittel | offen als Frage, als Vorwurf zurückgenommen |
+| [08](08-bewusstsein-und-gewalt.md) | Bewusstsein und Gewalt: „hängt an beidem“ (3-17) | erledigt | – | abgeschlossen; der Rest steckt in [02](02-alternativen-und-motivschluss.md) |
+| [09](09-produktivitaet-und-wert.md) | Produktivität und Wert: einzelnes Kapital oder gesellschaftliche Ebene? (1-04 gegen 1-19 § 13) | schwach | gering | offen |
+| [10](10-schrankenloser-lohnverfall.md) | „Schrankenloser“ Verfall des Lohns (2-08 gegen 2-92) | schwach | gering | offen |
+| [11](11-recht-ist-was-der-staat-tut.md) | „Recht ist, was der Staat tut“: Rechtsetzung oder jedes Amtshandeln? (1-92, 4-92) | schwach | gering | offen |
+| [12](12-tipps-an-alle-konkurrenten.md) | Tipps an alle Konkurrenten: ‚funktionieren nicht‘ oder ‚kein Vorsprung für alle‘? (3-25, 1-19 § 14) | schwach | gering | offen |
+| [13](13-erfahrung-und-pruefung-von-theorien.md) | Popper: Kann Erfahrung Theorien prüfen? (4-94) | offene Frage | mittel | offen |
+| [14](14-giralgeld-als-geldersatz.md) | Ist Giralgeld nur „Geldersatz“? (1-98, 2-10) | schwach | gering | offen |
+| [15](15-geldentwertung-aus-kredit.md) | Folgt Geldentwertung notwendig aus nicht verwertetem Kredit? (4-97, 1-18 § 11) | trägt eingeschränkt | mittel | offen |
+| [16](16-verwertung-ohne-wachstum.md) | Kapitalverwertung ohne Wachstum? (1-18 § 7) | trägt eingeschränkt | mittel | offen |
+| [17](17-fall-der-profitrate.md) | Senkt Rationalisierung notwendig die Profitrate? (4-96, 2-10) | erledigt | – | abgeschlossen für GS 2-10, offen nur für die Formulierung von 1996 |
+| [18](18-klimaschutz-und-energiepolitik.md) | Klimaschutz „deckungsgleich“ mit Energiepolitik? (1-10, 1-21, 2-07) | trägt eingeschränkt | gering | offen |
+| [19](19-von-der-konkurrenz-zur-krise.md) | Wie wird aus der Konkurrenz die allgemeine Krise? (4-98) | trägt eingeschränkt | mittel | offen |
+| [20](20-wechselkurs-als-inflationsvergleich.md) | Wechselkurs als „permanenter Inflationsvergleich“? (1-18 § 11, 2-94) | schwach | gering | offen |
+| [21](21-kapital-aus-der-differenz.md) | ‚Kapital entsteht aus der Differenz‘: Vorschuss oder Zuwachs? (4-99) | schwach | gering | offen |
+| [22](22-nationale-befreiung.md) | Nationale Befreiung: aus „nicht hinreichend“ wird „kein Nutzen“ (4-23, 3-24, 1-06, MSZ 1985) | trägt eingeschränkt | mittel | offen |
+| [23](23-widerstand-gegen-besatzung.md) | Widerstand gegen Besatzung: jede Gegenwehr „opferbereiter Nationalismus“? (4-23, 2-22) | trägt eingeschränkt, eng | gering | offen |
+| [24](24-gewohnheit-als-praktiziertes-urteil.md) | Gewohnheit als „praktiziertes Urteil“: was wirkt, wenn das Urteil verworfen ist? (4-21) | trägt | hoch | offen |
+| [25](25-einsicht-und-handlungsfaehigkeit.md) | Einsicht und Handlungsfähigkeit: reicht es, dass die Kritik stimmt? (1-04, 1-10, 3-25, 3-24) | trägt | hoch | offen |
+| [26](26-wahl-als-ermaechtigung.md) | Wahl als Ermächtigung: Zählt der Unterschied der Programme für den, der das weiß? (4-23 § 27, 1-10) | trägt eingeschränkt | mittel | offen |
+| [27](27-lage-und-schluss.md) | Lage und Schluss: Wenn aus der Lage „überhaupt nichts“ folgt, warum ist der Schluss so regelmäßig verteilt? (1-93, 2-01, 4-16, 3-20 § 18) | trägt eingeschränkt, als Lücke | mittel | offen |
+| [28](28-ideelle-negation.md) | Ideelle Negation: Zählt das Moment, das der GSP dem Occupy-Protest zugesteht? (4-11, 4-12, 2-97) | trägt eingeschränkt, eng | gering | offen |
+| [29](29-konflikte-ohne-eigentum.md) | Konflikte ohne Eigentum: Moral, wo der Gegensatz nicht aus dem Privateigentum stammt (1-11, 1-03) | trägt eingeschränkt, gegen die Moralbestimmung | gering | offen |
+| [30](30-kommt-das-interesse-danach.md) | Kommt das Interesse danach? Nationalismus als Urteil oder als Voraussetzung des Urteils (1-06, 4-21, 2-18, 3-17) | trägt, mit [24](24-gewohnheit-als-praktiziertes-urteil.md) zu lesen | hoch | offen |
+| [31](31-organisationen-mit-richtigem-zweck.md) | Organisationen mit richtigem Zweck: Fehler, die nicht aus dem Zweck kommen (2-98, 3-24, 4-17) | offene Frage | mittel | offen |
+| [32](32-interesse-und-urteil.md) | Welches Interesse verdirbt das Urteil? Kriterium für das Interesse, das Wissen braucht, gegen das, das es verdirbt (4-13, 3-20, 2-05) | offene Frage | mittel | offen |
+| [33](33-familienrolle-der-frau.md) | Warum fällt die Familienrolle der Frau zu? Die Zuweisung ist vorausgesetzt, nicht erklärt (4-19) | offene Frage | mittel | offen |
+| [34](34-wertgroesse-und-preis.md) | Wertgröße und Preis: Was beziffert der Erlös, wenn Preise von Werten abweichen? (2-10, 2-92) | offene Frage | hoch | offen |
+| [35](35-staatskredit-als-geldschoepfung.md) | Ist jeder Staatskredit Geldschöpfung? Aufnahme vorhandenen Geldes gegen neu geschaffenes (2-97) | offene Frage | gering | offen |
+| [36](36-rassismus-als-recht.md) | Rassismus als Recht: Instrument der Klassenherrschaft (1-94) oder Moral der Konkurrenz (1-21, 1-15, 3-20)? Der Süden der USA bis 1965 fehlt | offene Frage | mittel | offen |
+| [37](37-mass-und-form-der-strafe.md) | Maß und Form der Strafe: Rechtssubjekt (2-13) oder Säuberung (3-97); wovon die Festsetzung abhängt (4-15) | offene Frage | gering | offen |
+| [38](38-bildung-der-beduerfnisse.md) | Bildet das Kapital die Bedürfnisse? Absicht der Unternehmen gegen Urteil der Käufer (3-19, 2-21, 3-13, 4-23) | offene Frage | mittel | offen |
 
 Außerdem:
 
@@ -52,24 +71,36 @@ Außerdem:
 - [forschungsfelder.md](forschungsfelder.md): Bereiche, die noch nicht untersucht oder zu dünn belegt sind, Grenzen der Quellenbasis, Revisionen im GSP selbst, Abgleich mit den offenen Stellen der [Ableitung](../theorie/GSP-Ableitung.md).
 - [_vorlage.md](_vorlage.md): Vorlage für einen neuen Punkt.
 
+## Rangfolge
+
+1. **Einsicht, Handlungsfähigkeit und Mittel** ([25](25-einsicht-und-handlungsfaehigkeit.md), [02](02-alternativen-und-motivschluss.md), dazu [31](31-organisationen-mit-richtigem-zweck.md)). Dass eine Kritik stimmt, hebt die Gründe nicht auf, aus denen der Einzelne weiter mitmacht, solange die anderen es tun. 02 ist die Form, in der das Problem im Briefwechsel aufgetreten ist; 25 ist der allgemeinere und besser belegte Punkt.
+2. **Urteil, Gewohnheit, Bindung** ([24](24-gewohnheit-als-praktiziertes-urteil.md), [03](03-psychologie-fortwirkung-und-entschluss.md), [30](30-kommt-das-interesse-danach.md), dazu [38](38-bildung-der-beduerfnisse.md)). Der GSP erklärt Nationalismus, Konkurrenzmoral und psychologische Selbstdeutung als Urteile, die man fällt und zurücknehmen kann, und beschreibt zugleich Gewohnheiten, die bleiben, wenn das Urteil verworfen ist. Dieser Komplex ist durch die Auswertungen externer Texte am stärksten gewachsen.
+3. **Wertgröße und Preis** ([34](34-wertgroesse-und-preis.md), dazu [09](09-produktivitaet-und-wert.md)). Offene Frage mit hohem Gewicht: Die Antwort hängt an Texten, die nicht vorliegen.
+4. **Funktion und eigener Grund** ([22](22-nationale-befreiung.md), [26](26-wahl-als-ermaechtigung.md), enger [23](23-widerstand-gegen-besatzung.md) und [28](28-ideelle-negation.md)). Folgt daraus, dass eine Handlung der Herrschaft dient, dass sie für die Handelnden keinen eigenen Grund hat?
+5. **Was der Zweck nicht bestimmt** ([19](19-von-der-konkurrenz-zur-krise.md), [15](15-geldentwertung-aus-kredit.md), [16](16-verwertung-ohne-wachstum.md), [27](27-lage-und-schluss.md), [33](33-familienrolle-der-frau.md), [36](36-rassismus-als-recht.md), [37](37-mass-und-form-der-strafe.md), dazu [10](10-schrankenloser-lohnverfall.md) und [18](18-klimaschutz-und-energiepolitik.md)). Die Punkte der zweiten Leitfrage.
+6. **Methode** ([13](13-erfahrung-und-pruefung-von-theorien.md), [32](32-interesse-und-urteil.md), [07](07-antikritik-und-revidierbarkeit.md)). Fragen an das Verfahren, nicht an ein Ergebnis.
+7. **Die übrigen.** Schwache und erledigte Punkte bleiben als Akten stehen, damit sie nicht noch einmal aufgestellt werden.
+
 ## Einordnung
 
-Aus keinem dieser Befunde folgt bisher eine Widerlegung der Wert-, Kapital-, Staats- oder Imperialismustheorie. Die tragfähigen Punkte betreffen Übergänge: von der Erklärung eines Verhältnisses zur Kritik des Bewusstseins seiner Teilnehmer, und von dort zur Begründung einer gemeinsamen Veränderung. Eine Antwort, die die Reichweite einer Aussage einschränkt oder eine praktische Begründungsaufgabe anerkennt, ist deshalb schon ein Ergebnis.
+Aus keinem dieser Befunde folgt bisher eine Widerlegung der Wert-, Kapital-, Staats- oder Imperialismustheorie. Die tragfähigen Punkte betreffen Übergänge: von der Erklärung eines Verhältnisses zur Kritik des Bewusstseins seiner Teilnehmer, von dort zur Begründung einer gemeinsamen Veränderung, und vom Zweck einer Einrichtung zu ihrer bestimmten Gestalt. Eine Antwort, die die Reichweite einer Aussage einschränkt oder eine praktische Begründungsaufgabe anerkennt, ist deshalb schon ein Ergebnis.
 
-Die Punkte 22 bis 25 haben eine gemeinsame Form: Daraus, dass eine Handlung der Herrschaft dient, die sie kritisiert, wird geschlossen, dass sie für die Handelnden keinen eigenen Grund hat (22, 23); daraus, dass ein Urteil falsch ist, dass seine Widerlegung erklärt, warum es fortbesteht oder überwunden wird (24, 25). Für 23 gilt das nach dem Abgleich vom 13.10.2026 nur eingeschränkt: GS 4-23 lässt beim erzwungenen Kampf das eigene Überleben als Grund gelten, offen ist der freiwillige Schutz, der nicht der Nation gelten will.
+Drei Dinge gelten für mehrere Punkte zugleich:
 
-Punkt 26 hat dieselbe Form wie 22 und 23. Für alle drei gilt nach der Nachprüfung vom 13.10.2026: Der GSP trennt den Gehalt einer Handlung vom bewussten Motiv selbst („unabhängig davon, ob sie das mit Hurra auf den Lippen tun oder nicht“ in GS 4-23; die Zustimmung sei „nicht das selbstbewusste Motiv der Wählenden“ in GS 1-10; „mögen sie sich darüber im Klaren sein oder nicht“ in GS 1-04). Ein Einwand, der ihm einen Schluss von der Wirkung auf die Gesinnung vorwirft, geht deshalb ins Leere. Tragfähig ist der Einwand gegen die Bestimmung des Gehalts selbst oder gegen den Schritt vom Gehalt zum Interesse: dass eine Schutzhandlung Dienst an der Souveränität, eine Frage nach dem Wie Unwille, eine Stimme für das kleinere Übel ohne Interesse sei.
-
-Punkt 28 hat dieselbe Form wie 22, 23 und 26: Folgt aus der Funktion einer Einrichtung (hier der Demokratie als Herrschaftstechnik), dass sie für die Betroffenen nichts anderes sein kann? Die schärfste externe Fassung dieser Form steht in Tausend Plateaus, Plateau 13: Es wäre ein Fehler, dem Kampf auf der Ebene der Axiome (Stimmrecht, Abtreibung, Arbeitsplätze, Autonomie) gleichgültig zu begegnen, und der Begriff der Vereinnahmung sei kein guter; das Buch sagt aber selbst nicht, wann ein Zugeständnis mehr ist als ein weiteres Axiom (siehe 22). Punkt 30 ist verwandt mit 03, 24 und 25: Er fragt nicht, was fortwirkt, wenn ein Urteil verworfen ist, sondern ob die Bindung an die Nation überhaupt als Urteil entsteht. Punkt 31 setzt 25 fort: Wenn Einsicht für gemeinsames Handeln nicht reicht, braucht es Organisation, und dann die Frage, wie sie ihren Zweck nicht verfehlt. Punkt 27 und 29 haben keine dieser Formen: 27 fragt nach einer Regelmäßigkeit, die der GSP nicht erklärt, 29 nach der Reichweite einer allgemeinen Bestimmung.
+- **Der GSP trennt Gehalt und Motiv selbst.** In 02, 22, 23 und 26 schließt er nicht von der Wirkung einer Handlung auf die Gesinnung („unabhängig davon, ob sie das mit Hurra auf den Lippen tun oder nicht“ in GS 4-23; die Zustimmung sei „nicht das selbstbewusste Motiv der Wählenden“ in GS 1-10; „mögen sie sich darüber im Klaren sein oder nicht“ in GS 1-04). Ein Einwand, der ihm diesen Schluss vorwirft, geht ins Leere. Tragfähig ist der Einwand gegen die Bestimmung des Gehalts selbst oder gegen den Schritt vom Gehalt zum Interesse: dass eine Schutzhandlung Dienst an der Souveränität, eine Frage nach dem Wie Unwille, eine Stimme für das kleinere Übel ohne Interesse sei.
+- **Die Punkte um Urteil und Gewohnheit sind eine Frage in vier Fassungen.** 03 fragt, ob eine fortbestehende Wirkung ein Widerspruch ist; 24, was wirkt, wenn das Urteil verworfen ist; 30, ob die Bindung an die Nation überhaupt als Urteil entsteht; 38, ob ein Bedürfnis eingerichtet werden kann, ohne dass geurteilt wird. Eine Antwort des GSP auf eine davon wäre an den anderen zu prüfen.
+- **Externe Autoren stellen oft die richtige Frage und geben eine Antwort, die nicht hält.** Das gilt für Davis (36, 37), die feministische Wissenschaftstheorie (13, 32), Fritz (33), Baudrillard und Deleuze/Guattari (30, 38). Die gescheiterten Antworten stehen in [verworfen.md](verworfen.md) und im [Kern](../theorie/GSP-Kern.md) unter ‚Einwände, die sich nicht lohnen‘; die Fragen stehen hier.
 
 ## So arbeitet man hier weiter
 
 1. **Erst den Wortlaut.** Jede These hängt an einer bestimmten Stelle. Die Fundstellen stehen als `sources/<datei>.md:<zeile>` in den Dateien. Die Sitemaps in [../docs/sitemap/](../docs/sitemap/) helfen, Artikel zu finden.
-2. **Die stärkste Gegenrede aufschreiben**, möglichst mit eigener GSP-Stelle. Viele frühe Einwände sind daran gescheitert, dass der GSP die Unterscheidung schon selbst macht.
-3. **Zitate prüfen** mit
+2. **Zuerst nachsehen, was Kern und Ableitung zu der Stelle angeben.** Wer einen Satz des GSP für falsch oder unbelegt hält, prüft zuerst die Belegstelle in [Kern](../theorie/GSP-Kern.md) und [Ableitung](../theorie/GSP-Ableitung.md). Die Bestandskritik hat an dieser Regel selbst einen Fehler berichtigt (Abschnitt 3.1).
+3. **Die stärkste Gegenrede aufschreiben**, möglichst mit eigener GSP-Stelle. Viele frühe Einwände sind daran gescheitert, dass der GSP die Unterscheidung schon selbst macht.
+4. **Zitate prüfen** mit
    ```sh
    node scripts/check-quotes.mjs angriffspunkte/*.md
    ```
-   Das Skript sucht jedes „…“-Zitat wörtlich in `sources/` und `korrespondenz/`. Zitate, die nur online stehen, in der Zeile mit „(nur online)“ markieren.
-4. **Heftangaben von Antworttexten** (Leserbriefe, Repliken) auf gegenstandpunkt.com gegenprüfen; die Kopfzeilen der Sammlungen sind dort manchmal falsch (siehe [forschungsfelder.md](forschungsfelder.md)).
-5. Was nicht hält, nach [verworfen.md](verworfen.md) verschieben statt zu löschen.
+   Das Skript sucht jedes „…“-Zitat wörtlich in `sources/` und `korrespondenz/`. In „…“ steht deshalb nur Wortlaut des GSP oder des Briefwechsels. Eigene Formulierungen und Titel stehen in ‚…‘, Zitate aus externen Texten in »…«. Zitate, die nur online stehen, in der Zeile mit „(nur online)“ markieren.
+5. **Heftangaben von Antworttexten** (Leserbriefe, Repliken) auf gegenstandpunkt.com gegenprüfen; die Kopfzeilen der Sammlungen sind dort manchmal falsch (siehe [forschungsfelder.md](forschungsfelder.md)).
+6. **Befund und Gewicht getrennt angeben** und bei jeder Änderung den Stand in der Kopfzeile nachziehen. Geschichte gehört unter ‚Herkunft‘, nicht in These und ‚Was bleibt‘.
+7. Was nicht hält, nach [verworfen.md](verworfen.md) verschieben statt zu löschen.

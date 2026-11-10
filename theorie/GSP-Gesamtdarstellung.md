@@ -692,7 +692,7 @@ Der GSP zieht diese Grenze selbst. Für den Sozialstaat sagt er, wie der Staat d
 | 6.1 Lage und Schluss | dass der nationalistische Schluss ein Fehler ist | warum er so regelmäßig verteilt ist |
 | 4.3 Geschlecht | dass die Familie unter Lohnarbeit eine Arbeitsteilung fortsetzt | warum die Rolle den Frauen zufällt |
 | 4.4 Rassismus als Recht | dass der Staat sortiert und die Konkurrenzmoral ausgrenzt | wann die Sortierung Recht wird und wen sie trifft |
-| 4.5 Strafe | dass der Staat straft | wie viel und in welcher Form |
+| 4.5 Strafe | dass der Staat straft und das Maß festsetzt | wovon die Festsetzung abhängt und wann welche Form vorherrscht |
 
 Das ist kein Einwand gegen die Erklärung aus dem Zweck. Es ist ein Maßstab für die Lektüre: Wo der GSP ein „nur“, „allemal“, „schrankenlos“ oder „deckungsgleich“ setzt, ist zu prüfen, ob der Text es begründet oder ob es eine Zuspitzung ist. In den geprüften Fällen war es meist eine Zuspitzung, die der GSP an anderer Stelle selbst zurücknimmt. Das Muster erklärt auch, warum die externen Autorinnen (Davis, Haraway, Harding, Fritz) an denselben Stellen ansetzen: Sie fragen nach Maß, Träger und Geschichte, wo der GSP den Grund nennt. Ihre eigenen Antworten halten seiner Kritik meist nicht stand; die Fragen bleiben.
 

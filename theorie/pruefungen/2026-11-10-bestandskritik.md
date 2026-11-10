@@ -146,7 +146,7 @@ Der GSP zieht diese Grenze selbst. Für den Sozialstaat sagt er, wie der Staat d
 | 27 Lage und Schluss | dass der nationalistische Schluss ein Fehler ist | (Lücke) warum er so regelmäßig verteilt ist |
 | 33 Geschlecht | dass die Familie unter Lohnarbeit eine Arbeitsteilung fortsetzt | (Lücke) warum die Rolle den Frauen zufällt |
 | 36 Rassismus als Recht | dass der Staat sortiert und die Konkurrenzmoral ausgrenzt | (Lücke) wann die Sortierung Recht wird und wen sie trifft |
-| 37 Strafe | dass der Staat straft | (Lücke) wie viel und in welcher Form |
+| 37 Strafe | dass der Staat straft, und dass das Maß seine Festsetzung ist (GS 4-15) | (Lücke) wovon die Festsetzung abhängt und wann welche Form vorherrscht |
 
 Das ist kein Einwand gegen die Erklärung aus dem Zweck. Es ist ein Maßstab für die Rekonstruktion: Wo der GSP ein „nur“, „allemal“, „schrankenlos“ oder „deckungsgleich“ setzt, ist zu prüfen, ob der Text es begründet oder ob es eine Zuspitzung ist. Und es erklärt, warum die externen Autorinnen (Davis, Haraway, Harding, Fritz) an denselben Stellen ansetzen: Sie fragen nach Maß, Träger und Geschichte, wo der GSP den Grund nennt. Ihre eigenen Antworten halten seiner Kritik meist nicht stand; die Fragen bleiben.
 
@@ -161,7 +161,7 @@ Jeder Punkt ist an `sources/` geprüft und als Akte angelegt.
 | 34 | Wertgröße und Preis | offene Frage | hoch | bisher Gesamtdarstellung III 3.6 ohne Akte |
 | 35 | Ist jeder Staatskredit Geldschöpfung? | offene Frage | gering | bisher Ableitung 7.8 und Gesamtdarstellung III 3.5 ohne Akte |
 | 36 | Rassismus als Recht: Braucht das Kapital den Rassismus? | offene Frage | mittel | Davis, *Women, Race and Class* und *Are Prisons Obsolete?* |
-| 37 | Maß und Form der Strafe | offene Frage | gering | Davis, *Are Prisons Obsolete?*; Hegel § 214 |
+| 37 | Maß und Form der Strafe | offene Frage | gering | Davis, *Are Prisons Obsolete?*; Hegel §§ 214, 218 |
 | 38 | Bildet das Kapital die Bedürfnisse? | offene Frage | mittel | Baudrillard |
 
 Zu den einzelnen Punkten:
@@ -197,8 +197,10 @@ Mit dieser Kritik zusammen umgesetzt:
 2. Zitatfehler in Ableitung und Zitatsammlung behoben, alte Pfade ersetzt.
 3. Gesamtdarstellung: I.8 um die Fassung von GS 2-16 ergänzt, IV.1 berichtigt, Einleitung, II.6, III, V.7, V.9 und VI auf den Stand der 24 Auswertungen gebracht, Übersicht auf die neue Skala.
 4. Kern: Reichweitenhinweise zu 1.1, 1.2, 7.5, 8.1, 8.11, 10.5 und 16.2, Satz zur Erkenntnistheorie, neue Zeilen in ‚Einwände, die sich nicht lohnen‘, veralteter Verweis berichtigt.
-5. Angriffspunkte: einheitliche Kopfzeilen mit Befund und Gewicht, sieben neue Akten (32 bis 38), Außenstimmen aus den Auswertungen, Bereinigung von 02, 16, 19, 22, 23 und 26, neue Übersicht mit beiden Leitfragen.
+5. Angriffspunkte: einheitliche Kopfzeilen mit Befund und Gewicht, sieben neue Akten (32 bis 38), Außenstimmen aus den Auswertungen, Bereinigung von 02, 15, 16, 19, 20, 22, 23 und 26 (datierte Nachträge stehen jetzt unter ‚Herkunft‘), neue Übersicht mit beiden Leitfragen und Rangfolge.
 6. Forschungsfelder, `verworfen.md`, `_vorlage.md`, die READMEs in `theorie/`, `angriffspunkte/` und `extern/` nachgezogen.
+
+Beim Schreiben der Akte 37 nachgetragen: Der GSP fasst das Maß der Strafe ausdrücklich als Festsetzung der Obrigkeit („die Schwere, die *sie* dem Vergehen beimisst“, GS 4-15, `sources/6-staat-recht-demokratie.md:91527`). Der erste Entwurf dieser Kritik hatte die Stelle nicht berücksichtigt. Kern 7.5, Gesamtdarstellung III 4.5 und die Akte nennen die Stelle; offen bleibt, wovon die Festsetzung abhängt.
 
 Nicht umgesetzt, mit Grund:
 
