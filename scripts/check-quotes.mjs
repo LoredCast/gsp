@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 // Prüft, ob die „…“-Zitate in den angegebenen Markdown-Dateien wörtlich in sources/ oder korrespondenz/ stehen.
 // Aufruf: node scripts/check-quotes.mjs angriffspunkte/*.md
-// Nicht geprüft werden: Zeilen mit „(nur online)“, Stücke unter vier Wörtern und Artikeltitel in Belegposition
-// (direkt vor einer Heftangabe wie „, GS 3-17“ oder „ (GS 3-17)“, oder direkt nach „ — “).
+// Nicht geprüft werden: Zeilen mit „(nur online)“ und Stücke unter vier Wörtern. Ein Stück, das nicht gefunden wird
+// und in Belegposition steht (direkt vor einer Heftangabe wie „, GS 3-17“ oder „ (GS 3-17)“, oder direkt nach „ — “),
+// gilt als Artikeltitel und wird nur gezählt.
 // Eigene Formulierungen und Titel fremder Schriften gehören in ‚…‘, Zitate aus externen Texten in »…«.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -35,19 +36,20 @@ for (const target of targets) {
     for (const match of line.matchAll(/„([^„“"]+)[“"]/g)) {
       const after = line.slice(match.index + match[0].length);
       const before = line.slice(0, match.index);
-      // Titel in Belegposition sind keine Zitate.
-      if (/^,? \(?GS \d-\d\d/.test(after) || / — $/.test(before)) { titles++; continue; }
+      // Belegposition: direkt vor einer Heftangabe oder direkt nach „ — “. Dort stehen meist Artikeltitel.
+      const titlePosition = /^,? \(?GS \d-\d\d/.test(after) || / — $/.test(before);
       // Auslassungen trennen das Zitat in Stücke, die einzeln vorkommen müssen.
       const pieces = match[1].split(/\s*(?:\[…\]|…|\.\.\.)\s*/).map(normalize).filter(piece => piece.split(' ').length >= 4);
       for (const piece of pieces) {
+        if (corpus.some(entry => entry.text.includes(piece))) { checked++; continue; }
+        // Ein nicht auffindbares Stück in Belegposition gilt als Titel (die Sammlungen brechen lange Titel um oder kürzen sie).
+        if (titlePosition) { titles++; continue; }
         checked++;
-        if (!corpus.some(entry => entry.text.includes(piece))) {
-          missing++;
-          console.log(`${target}:${index + 1}: nicht gefunden: „${piece}“`);
-        }
+        missing++;
+        console.log(`${target}:${index + 1}: nicht gefunden: „${piece}“`);
       }
     }
   });
 }
-console.log(`${checked} Zitatstücke geprüft, ${missing} nicht in sources/ oder korrespondenz/ gefunden; ${titles} Titel übersprungen.`);
+console.log(`${checked} Zitatstücke geprüft, ${missing} nicht in sources/ oder korrespondenz/ gefunden; ${titles} Titel in Belegposition nicht geprüft.`);
 process.exitCode = missing ? 1 : 0;

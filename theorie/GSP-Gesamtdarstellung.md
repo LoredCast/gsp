@@ -1,6 +1,6 @@
 # Der GegenStandpunkt: Theorie, Einwände, fester Kern
 
-Eine Gesamtdarstellung zum Lesen. Stand: 16. Oktober 2026.
+Eine Gesamtdarstellung zum Lesen. Stand: 10. November 2026.
 
 ## Worum es hier geht
 
@@ -37,7 +37,7 @@ Zwei Arten von Fehlern sind dabei auseinanderzuhalten, und sie kommen beide oft 
 
 ### Woraus dieser Text schöpft
 
-Grundlage sind rund 1.965 Zeitschriftenartikel der Jahre 1992 bis 2026. Die Bücher des Verlags (etwa „Der bürgerliche Staat“, „Die Psychologie des bürgerlichen Individuums“, „Das Proletariat“, „Das Finanzkapital“) lagen nicht vor; wo sie gebraucht würden, sagt der Text das. Aus den Artikeln ist im Projekt zuerst eine nach Themen geordnete Zitatsammlung entstanden, daraus eine Rekonstruktion der Argumente als Ableitung (Voraussetzungen, Schritte, Ergebnis), und gegen beide sind mehrere Prüfungen gelaufen: Reviews, ein externes Gutachten, eine Schrittprüfung, eine Liste von Schwachstellen und eine Vertiefung der stärksten Einwände. Angestoßen hat das ein Briefwechsel mit dem Verlag, in dem drei Leserbriefe aus dem Projekt beantwortet wurden. Seit Oktober 2026 kommen Auswertungen externer Texte dazu, die je einen Text mit dem GSP vergleichen: ein Gespräch mit Isabella Weber, Wendy Browns *Undoing the Demos*, eine Hausarbeit zu Anarchismus und Habermas, *Anti-Ödipus* und *Tausend Plateaus* von Deleuze und Guattari (Ordner `extern/`). Was aus ihnen folgt, steht in Teil II (Abschnitt 6), Teil III (Abschnitt 6), Teil IV und Teil V.
+Grundlage sind rund 1.965 Zeitschriftenartikel der Jahre 1992 bis 2026. Die Bücher des Verlags (etwa „Der bürgerliche Staat“, „Die Psychologie des bürgerlichen Individuums“, „Das Proletariat“, „Das Finanzkapital“) lagen nicht vor; wo sie gebraucht würden, sagt der Text das. Aus den Artikeln ist im Projekt zuerst eine nach Themen geordnete Zitatsammlung entstanden, daraus eine Rekonstruktion der Argumente als Ableitung (Voraussetzungen, Schritte, Ergebnis), und gegen beide sind mehrere Prüfungen gelaufen: Reviews, ein externes Gutachten, eine Schrittprüfung, eine Liste von Schwachstellen und eine Vertiefung der stärksten Einwände. Angestoßen hat das ein Briefwechsel mit dem Verlag, in dem drei Leserbriefe aus dem Projekt beantwortet wurden. Seit Oktober 2026 kommen Auswertungen externer Texte dazu, die je einen Text mit dem GSP vergleichen, bis zum 10. November 2026 vierundzwanzig: ein Gespräch mit Isabella Weber, Wendy Browns *Undoing the Demos*, eine Hausarbeit zu Anarchismus und Habermas, *Anti-Ödipus* und *Tausend Plateaus* von Deleuze und Guattari, zwei Bücher von Angela Davis, Texte der feministischen Wissenschaftstheorie (Longino, Intemann, Wylie, Haraway, Harding, Weasel), Hegels Rechtsphilosophie, Baudrillard, Sophia Fritz und zwei Streitgespräche aus dem Umfeld des GSP (Ordner `extern/`). Was aus ihnen folgt, steht in Teil II (Abschnitt 6), Teil III (Abschnitte 4 bis 7), Teil IV und Teil V. Am 10. November 2026 ist der ganze Bestand noch einmal gegen die Quellen gelesen worden; die [Bestandskritik](pruefungen/2026-11-10-bestandskritik.md) hält fest, was dabei berichtigt und neu bewertet wurde.
 
 Der GSP selbst würde die Form dieses Textes ablehnen. Er hält nichts davon, eine Theorie in Lehrsätze zu zerlegen und auf ihre Methode zu prüfen; er will, dass man seinen Argumenten über die Sache folgt oder ihnen in der Sache widerspricht. Dieser Text versucht dem so weit zu entsprechen, wie eine Zusammenfassung es kann: Er gibt die Argumente wieder, nicht bloß die Ergebnisse, und er beurteilt Einwände danach, ob sie den Gegenstand treffen.
 
@@ -171,7 +171,9 @@ Gier, Herdentrieb und Betrug erklären Boom und Krach deshalb nicht; sie sortier
 
 ## 8. Sozialstaat
 
-**Der Sozialstaat ist keine Wohltat, sondern die notwendige Ergänzung eines Ausbeutungssystems, in dem der Lohn nicht für das Leben reicht; er stellt es auf Dauer.** Die Arbeiter werden erhalten wegen ihrer Fähigkeit, Geld zu vermehren. „Notwendig“ ist das unter der Voraussetzung der Eigentumsordnung, die selbst nicht naturnotwendig ist.
+**Der Sozialstaat ist keine Wohltat, sondern die notwendige Ergänzung eines Ausbeutungssystems, in dem der Lohn nicht für das Leben reicht; er stellt es auf Dauer.** Sein Grund liegt in der Einkommensquelle Lohnarbeit selbst: Sie taugt nicht als lebenslanges Lebensmittel, und der Staat besteht trotzdem darauf, dass die Klasse von ihr lebt, auf der „*Lebenslüge der Einkommensquelle Lohnarbeit*“ (GS 2-16). „Notwendig“ ist das unter der Voraussetzung der Eigentumsordnung, die selbst nicht naturnotwendig ist.
+
+**Er ist wirkliche Hilfe, und gerade so sichert er die Benutzbarkeit der Klasse.** Der GSP weist die Lesart zurück, der Sozialstaat halte dem Kapital das nötige Quantum rentabler Arbeitskraft bereit: Er frage an keiner Stelle, wie viele Arbeitskräfte das Kapital braucht, und er erhält auch und gerade die, die nicht angewandt werden. Er ist „zuallererst eine *Hilfe* für all diejenigen, die ihn brauchen“. Sein Dienst, „der vom Gesichtspunkt der rentablen Benutzung gerade emanzipiert und auf Hilfebedürftigkeit gemünzt ist, stellt mit dem Überleben die *Benutzbarkeit* der Klasse in ihrer Gesamtheit sicher“ (GS 2-16, Antwort auf einen Leserbrief). Wie viel und in welcher Form ein Staat das tut, folgt daraus nicht: Das sei mit dieser Einsicht „weder ausgemacht noch aus ihr deduzierbar“ und Gegenstand des politischen Dauerstreits. Eine frühere Fassung dieses Abschnitts sagte, die Arbeiter würden erhalten wegen ihrer Fähigkeit, Geld zu vermehren. Das ist die Lesart des Leserbriefs, nicht die des GSP.
 
 **Er ist eine Umverteilung innerhalb der lohnabhängigen Klasse.** Der Lohn der Beschäftigten trägt die Reproduktion der Nichtbeschäftigten (Kranke, Alte, Arbeitslose), unter Schonung der Unternehmensbilanzen und der Staatskasse. Die Rücksichtslosigkeit der Marktwirtschaft gegen ihre lohnabhängige Mehrheit ist damit nicht abgeschafft, sondern als Prinzip anerkannt. Der Staat legt den Lohnabhängigen die Folgen ihres Gegensatzes zum Kapital zur Last und vermittelt dann die Gegensätze unter ihnen, die er damit erst schafft; der Maßstab der Verteilungsgerechtigkeit hat genau dort sein Recht, wo Mangel unter Mitgliedern derselben Klasse verteilt wird.
 
@@ -337,9 +339,19 @@ Seit Oktober 2026 vergleicht das Projekt einzelne externe Texte mit dem GSP: ein
 - **Demokratie und Faschismus** (Teil I, Abschnitt 9). Weber, Brown und beide Bücher von Deleuze und Guattari verbinden den Faschismus mit dem Normalbetrieb der Demokratie, und alle brauchen dafür eine Zusatzannahme: Weber einen »Virus«, Brown unbeabsichtigte Wirkungen, der Anti-Ödipus ein Begehren, das zwischen zwei Polen schwankt, Tausend Plateaus einen »suicidal State«. Beim GSP folgt der Zusammenhang aus der Sache: Der Faschismus korrigiert das Verfahren bei gleicher Räson, und für den Ruf nach dem starken Mann muss sich ein anständiges Volk nicht umstellen.
 - **Der Staat stellt den Markt her** (Teil I, Abschnitt 7). Brown mit Foucault und Tausend Plateaus mit dem Vereinnahmungsapparat sagen, dass der Staat den Wettbewerb und die Produktionsweise erst schafft, die er dann scheinbar nur ordnet. Brown hält das für das Neue am Neoliberalismus, Tausend Plateaus erzählt es als Genealogie des Staates. Beim GSP ist es die Bestimmung des bürgerlichen Staates.
 - **Die Nation ist keine Ideologie, sondern die Form, in der sich das Kapital verwirklicht** (Teil I, Abschnitt 10). Der Anti-Ödipus hatte den Nationalismus unter die Archaismen gerechnet, die der Kapitalismus neu belebt. Tausend Plateaus korrigiert das: Nationen seien keine ideologischen Erscheinungen, sondern die leidenschaftliche, lebendige Form, in der sich das Kapital verwirklicht. Damit kommt der zweite Band beim GSP an.
-- **Keine Verführung** (Teil I, Abschnitt 9). Der Anti-Ödipus teilt mit dem GSP ausdrücklich die Absage an die These, die Massen seien getäuscht worden. Beide sagen: Sie wollten. Der Streit geht darum, was dieses Wollen ist (Teil III, Abschnitt 6.4).
+- **Keine Verführung** (Teil I, Abschnitt 9). Der Anti-Ödipus teilt mit dem GSP ausdrücklich die Absage an die These, die Massen seien getäuscht worden. Beide sagen: Sie wollten. Der Streit geht darum, was dieses Wollen ist (Teil III, Abschnitt 6.4). Dieselbe Probe an einem Streitgespräch über den Aufstieg der Rechten (Bender, Friedrich): Auch dort wird die Täuschung verworfen und durch Irrationalität ersetzt, und die Beispiele zeigen einen Nationalismus, der als Urteil mit Begründung auftritt. Der GSP hat dazu einen Text, der die Erklärungen aus Angst, Ich-Schwäche und Vereinzelung der Reihe nach kritisiert (GS 1-93, „Rechtsextremismus: Öffentliche Ursachenforschung“).
 
-Wo die externen Texte stärker sind als der GSP, steht in Teil III, Abschnitt 6, und in Teil IV. Die Auswertungen selbst liegen im Ordner `extern/`.
+Bis zum 10. November 2026 sind neunzehn weitere Texte dazugekommen. An ihnen haben fünf weitere Sätze gehalten, jeder mit einem Vorbehalt.
+
+- **Rassismus als Moral der Konkurrenz** (Teil I, Abschnitt 10). Angela Davis erklärt den Rassismus aus seinem Nutzen für die Kapitalisten. Für die Zeit, in der der Staat die Gleichheit erklärt hat, erklärt der GSP besser, warum er fortbesteht, obwohl das Kapital ihn nicht braucht; Davis' eigenes Material (Lynchmorde an erfolgreichen Geschäftsleuten, der »Lohn« der armen Weißen) spricht dafür. Vorbehalt: Für den Rassismus als Rechtslage in einer bürgerlichen Demokratie hat der GSP keinen Text (Teil III, 4.4).
+- **Der Staat straft für sich, nicht für ein Geschäft** (Teil I, Abschnitt 7). Davis' These, die Masseninhaftierung wachse, weil Firmen daran verdienen, scheitert an ihren eigenen Zahlen. Für den GSP ist das Gefängnis eine „Unkost der Selbstbehauptung des Staates“ (GS 1-25). Vorbehalt: Wie viel und in welcher Form gestraft wird, erklärt er nicht (Teil III, 4.5).
+- **Das Urteil folgt aus der Sache, das Interesse ist sein Anlass** (Teil I, Abschnitt 1). Die feministische Wissenschaftstheorie streitet darüber, wie Werte in die Begründung einer Theorie eingehen dürfen, ohne dass sie beliebig wird. Beim GSP entsteht das Problem nicht: Das Interesse ist Anlass und Maßstab der Kritik, nicht Prämisse der Erklärung. Vorbehalt: Welches Interesse das Urteil verdirbt und woran man das erkennt, bevor der Fehler nachgewiesen ist, führt er nicht aus (Teil III, 5.4).
+- **Technik ist keine eigene Macht** (Teil I, Abschnitt 12). Baudrillard deutet Auto, Fernseher und Netz als Geräte, die das Subjekt auflösen. Der GSP fragt, wer sie wofür einsetzt. Vorbehalt: Baudrillards Beschreibung der Medienform (Tempo, Übersättigung) trifft das nicht; dazu hat der GSP nichts.
+- **Der Sozialstaat als Hilfe und als Sicherung der Benutzbarkeit** (Teil I, Abschnitt 8). Zwei Sprecher aus dem Umfeld des GSP (Nymoen, Dreßler) vertreten in einem Streitgespräch seine Sätze. Die Sätze halten; wo die Vermittler abweichen, hat der GSP schon Leserbriefe beantwortet. An dieser Probe ist der Fehler in Abschnitt 8 dieses Textes aufgefallen.
+
+**Verfahrensregel.** Vor dem Urteil, wer stärker ist, ist zu prüfen, ob GSP und Quelle dieselbe Frage beantworten. Und aus einer fehlenden Begründung der Quelle folgt nicht, dass die Erklärung des GSP bewiesen ist. Die erste Regel schützt die externen Texte vor einem Vergleich, den sie nicht gesucht haben, die zweite den GSP vor einem Sieg, den er nicht errungen hat.
+
+Wo die externen Texte stärker sind als der GSP, steht in Teil III, Abschnitte 4 bis 7, und in Teil IV. Die Auswertungen selbst liegen im Ordner `extern/`.
 
 ---
 
@@ -349,24 +361,27 @@ Wo die externen Texte stärker sind als der GSP, steht in Teil III, Abschnitt 6,
 
 Die Einwände stammen aus mehreren Quellen: aus drei Leserbriefen an den GSP und der Antwort des Verlags darauf, aus den Reviews und dem Gutachten zur Rekonstruktion, aus der Prüfung einer Mitleserin (Astra) zu Geld, Inflation, Wachstum und Krise und aus mehreren Vertiefungen. Jeder Einwand ist an den GSP-Texten geprüft worden; viele sind dabei enger geworden, einige ganz gefallen (Teil II, Abschnitt 4). Wo ein Einwand an der Wirklichkeit hängt, sind externe Belege dazugenommen und als solche gekennzeichnet. Seit Oktober 2026 kommen Fragen hinzu, die aus dem Vergleich mit externen Texten stammen (Abschnitt 6).
 
-Bewertet wird hier mit vier Stufen:
+Bewertet wird hier mit fünf Stufen, die im ganzen Projekt gleich gebraucht werden:
 
-- **trägt:** ein offener Einwand gegen den GSP-Text, den die stärkste Gegenrede nicht erledigt;
+- **trägt:** ein Einwand gegen den GSP-Text, den die stärkste Gegenrede nicht erledigt;
 - **trägt eingeschränkt:** wie oben, aber nur gegen einen Teil oder eine bestimmte Fassung einer Aussage;
-- **schwach:** trifft eine Zuspitzung, eine ältere Formulierung oder lässt sich durch eine Präzisierung beantworten;
+- **offene Frage:** ein Schritt fehlt oder ein Gegenstand ist nicht behandelt; ein Fehler ist nicht nachgewiesen;
+- **schwach:** trifft eine Zuspitzung, eine ältere Formulierung oder lässt sich durch eine Präzisierung beantworten, die der GSP selbst anbietet;
 - **erledigt:** an den Texten gescheitert oder vom GSP selbst schon beantwortet.
+
+Dazu kommt das **Gewicht**: wie viel vom Anspruch des GSP an der Frage hängt. Hoch heißt, dass ein Grundbegriff oder der Übergang zur Praxis betroffen ist, mittel ein Lehrstück, gering eine Einzelaussage oder ein einzelner Text. Ein Einwand kann tragen und wenig wiegen (2.4), und eine offene Frage kann schwer wiegen (3.6).
 
 Eine Leitfrage hat sich als die fruchtbarste erwiesen:
 
 > Wo wird aus der richtigen Bestimmung eines gesellschaftlichen Verhältnisses mehr über das Bewusstsein und die Handlungsmöglichkeiten seiner Teilnehmer geschlossen, als diese Bestimmung begründet?
 
-So gestellt braucht ein Einwand weder einen Maßstab von außen noch die Behauptung, jede Kritik sei subjektiv. Er verlangt nur, dass ein zusätzlicher Schluss ebenso begründet wird wie die Erklärung, auf der er aufbaut. Die stärksten Einwände (Abschnitt 2) folgen dieser Frage. Die ökonomischen Einwände (Abschnitt 3) sind anders gebaut: Sie fragen, ob eine bestimmte Notwendigkeit wirklich abgeleitet ist oder nur festgesetzt.
+So gestellt braucht ein Einwand weder einen Maßstab von außen noch die Behauptung, jede Kritik sei subjektiv. Er verlangt nur, dass ein zusätzlicher Schluss ebenso begründet wird wie die Erklärung, auf der er aufbaut. Die stärksten Einwände (Abschnitt 2) folgen dieser Frage. Die ökonomischen Einwände (Abschnitt 3) sind anders gebaut: Sie fragen, ob eine bestimmte Notwendigkeit wirklich abgeleitet ist oder nur festgesetzt. Abschnitt 7 fasst diese zweite Form als eigene Leitfrage.
 
 ## 2. Von der Erklärung zum Bewusstsein und zur Praxis
 
 ### 2.1 Wann ist die Frage nach den Mitteln ein Einwand?
 
-**Bewertung: trägt eingeschränkt. Bisher der stärkste Punkt.**
+**Bewertung: trägt eingeschränkt; Gewicht hoch. Die Fassung von 2.2, in der das Problem im Briefwechsel aufgetreten ist.**
 
 **Woran er ansetzt.** Ein Leser hatte den GSP gefragt, warum er nicht mit einem durchdachten Konzept einer Planwirtschaft für den Kommunismus werbe. Die Antwort (GS 1-04) weist das zurück, und zwar grundsätzlich: Wer eine Kritik daran prüfen wolle, ob man ihm eine realistische Alternative bieten könne, verwerfe sie, „mögen sie sich darüber im Klaren sein oder nicht“. Und: „Wer aber jenseits einer Kontroverse über die bestimmten Ursachen mit der Frage anrückt, ob wir überhaupt eine Alternative hätten, will einfach die praktischen Konsequenzen nicht, die er heraushört, und kleidet diesen Unwillen in den höflichen Zweifel, ob das Angestrebte denn realistisch sei.“ Die Ursachen der Übel seien keine Naturnotwendigkeiten, sondern beruhten „auf gesellschaftlichen Machtverhältnissen, die keineswegs so sein müssen, wie sie sind“; wer sie teile, könne deshalb nicht vernünftig daran zweifeln, dass anderes möglich ist.
 
@@ -382,7 +397,7 @@ Außerdem schließt der Text von der abstrakten Veränderbarkeit (keine Naturnot
 
 ### 2.2 Reicht es, dass die Kritik stimmt?
 
-**Bewertung: trägt, gegen die programmatischen Texte.**
+**Bewertung: trägt, gegen die programmatischen Texte; Gewicht hoch. Der stärkste Punkt.**
 
 **Woran er ansetzt.** Als praktische Vermittlung seiner Kritik nennt der GSP das Überzeugen: Wer es mit geschädigten Interessen ernst meine, müsse die Geschädigten davon überzeugen, dass sie in diesem System keine realistischen Aussichten haben (GS 1-04). Über die Wähler heißt es: „Darin täuschen sie sich und das sagen wir ihnen, damit sie es lassen“ (GS 1-10). Revolution sei etwas, wozu sich eine Klasse entschließt, weil sie den Grund ihres Elends erkannt hat, kein Automatismus (GS 1-13).
 
@@ -402,7 +417,7 @@ Empirische Forschung, soweit im Projekt geprüft, stützt die Unterscheidung von
 
 ### 2.3 Nationale Befreiung: aus „nicht hinreichend“ wird „kein Nutzen“?
 
-**Bewertung: trägt eingeschränkt.**
+**Bewertung: trägt eingeschränkt; Gewicht mittel.**
 
 **Woran er ansetzt.** Der GSP zeigt überzeugend, dass ein eigener Staat keine Befreiung von Armut, Ausbeutung und Herrschaft garantiert: Die neue Gewalt verlangt ihrerseits Einnahmen, Polizei, Militär und Dienst an der Nation. Er geht aber weiter. Über die Palästinenser heißt es, Staatenlosigkeit sei ein Unglück, aber: „Dass das ein Unglück ist, macht die Perspektive einer ‚eigenen‘ Souveränität noch lange nicht zu einem Glück. Auch nicht vergleichsweise.“ (GS 4-23). Die Verknüpfung von bürgerlicher Existenz und eigenem Staat sei „der elementare Fehler“ des staatsbürgerlichen Bewusstseins (GS 3-24, Korrespondenz zum Gaza-Krieg).
 
@@ -420,7 +435,7 @@ Ein weiterer Fall derselben Frage ist das Wohnen. Isabella Weber verweist auf Wi
 
 ### 2.4 Widerstand gegen Besatzung
 
-**Bewertung: trägt eingeschränkt, deutlich enger als ursprünglich erhoben.**
+**Bewertung: trägt eingeschränkt, deutlich enger als ursprünglich erhoben; Gewicht gering.**
 
 **Woran er ansetzt.** Über den Ukraine-Krieg schreibt der GSP, „Ukraine“ sei der härteste Gegensatz gegen das Leben derer, die dafür den Kopf hinhalten müssen, unabhängig davon, ob sie es mit Hurra tun. Auf die öffentliche Frage, was die Leute denn sonst hätten tun sollen als sich verteidigen, antwortet er: „Sie entscheiden nämlich nichts“; Krieg werde ihnen angeordnet (GS 4-23). In einem anderen Artikel nennt er den Alltagswiderstand gegen die Besatzer, den ein Fernsehsender vorführt, den „Irrsinn eines opferbereiten Nationalismus“ (GS 2-22, „Unsere Ukrainer“). Die Inhalte der konkurrierenden Nationalinteressen behandle er in anderen Artikeln, „hier nicht“.
 
@@ -436,7 +451,7 @@ Außerdem: Die Gleichsetzung, die Menschen fielen russischen Waffen „ebenso“
 
 ### 2.5 Wahl: Zählt der Unterschied der Programme für den, der das weiß?
 
-**Bewertung: trägt eingeschränkt.**
+**Bewertung: trägt eingeschränkt; Gewicht mittel.**
 
 **Woran er ansetzt.** Dass die Wahl die Herrschaft ermächtigt und die Zustimmung im Akt liegt, nicht im Motiv, gehört zum Kern (Teil II). Daraus zieht der GSP aber einen weiteren Schluss: „Wir meinen nur, dass, wer verstanden hat, was die Wahl ist und worum es bei ihr geht, kein Interesse mehr haben kann, sich an diesem demokratischen Zirkus zu beteiligen.“ (GS 1-10).
 
@@ -450,7 +465,7 @@ Außerdem: Die Gleichsetzung, die Menschen fielen russischen Waffen „ebenso“
 
 ### 2.6 Gewohnheit als „praktiziertes Urteil“
 
-**Bewertung: trägt.**
+**Bewertung: trägt; Gewicht hoch.**
 
 **Woran er ansetzt.** In der Antwort auf eine Leserzuschrift zur „Psychologie des bürgerlichen Individuums“ (GS 4-21) heißt es: „Gewohnheit ist aber etwas ganz anderes als ein Automatismus, nämlich ein praktiziertes Urteil“. Der Leser hatte einen bestimmten Fall gebracht: Wer sich vom Patriotismus abgewandt hat, dem schaudere „das gewohnte Gefühl und Gänsehaut“ dennoch, wenn die Hymne erklingt, zumindest eine Zeit lang.
 
@@ -468,9 +483,11 @@ Der Anti-Ödipus macht aus dieser Lücke eine Gegenthese: Die Bindung an das Sys
 
 **Verwandt** ist ein älterer Punkt aus derselben Debatte (GS 2-18). Dort nennt der GSP es einen Widerspruch, dass eine psychische Störung fortbestehen soll, nachdem ihre Gründe entfallen sind: „Dieser Theorie zufolge bleibt der Mensch ja gestört, auch wenn die Gründe, die für seine Gestörtheit verantwortlich sein sollen, entfallen sind.“ Der Fortbestand einer Wirkung nach dem Wegfall ihres Auslösers ist aber für sich kein Widerspruch; ein früherer Vorgang, die durch ihn entstandene Veränderung und deren gegenwärtige Erhaltungsbedingungen sind drei verschiedene Dinge. Berechtigt wäre das Urteil „nicht hinreichend erklärt“, nicht „widersprüchlich“. Gemeint ist es vermutlich so, dass der GSP Gründe des Willens nicht als fortwirkende Ursachen gelten lässt; dann geht der Streit um diese Voraussetzung. Geprüft sind hier nur zwei Zeitschriftenantworten, nicht das Buch zur Psychologie.
 
+**Eine Außenstimme mit Begriff.** Hegel fasst den Patriotismus als »das zur Gewohnheit gewordene Wollen« und als »Resultat der im Staate bestehenden Institutionen« (Rechtsphilosophie § 268). Das ist die Sache, die der GSP beschreibt, mit einem Begriff, den er nicht hat: ein Wollen, das aus Einrichtungen kommt und als Gewohnheit dauert, ohne in jedem Augenblick als Urteil gefällt zu werden. Hegel will damit den Staat rechtfertigen, und diese Absicht kritisiert der GSP zu Recht (GS 1-95). Für die Frage hier zählt, dass eine so entstandene Gesinnung nicht schon deshalb aufhört, weil das Urteil widerlegt ist, solange die Einrichtungen bestehen, aus denen sie kommt. Hegels Lehre von der Gewohnheit als zweiter Natur (Enzyklopädie §§ 409–410) ist im Projekt nur über Allen Woods Darstellung belegt und nicht an einer Ausgabe geprüft.
+
 ### 2.7 Wo beginnt der Fehler beim Gelderwerb?
 
-**Bewertung: schwach bis mittel; durch eine Präzisierung zu beantworten.**
+**Bewertung: schwach; durch eine Präzisierung zu beantworten. Gewicht mittel.**
 
 **Woran er ansetzt.** Der GSP unterscheidet selbst zwischen der erzwungenen Benutzung der Erwerbsquelle und dem falschen Bewusstsein darüber (Abschnitt 1 von Teil I). Eine Formulierung in einer Replik von 2003 geht weiter: Die Lohnarbeiter würden zu Kalkulationen von Aufwand und Ertrag genötigt, die verkehrt seien, weil sie mit ihren Leistungen nichts in der Hand haben, „in Wahrheit gar nicht kalkulieren können“ (GS 2-03).
 
@@ -484,7 +501,7 @@ Dazu gehört eine Beobachtung über die Abstufung: Der Nachtrag von 2025 sagt, d
 
 ### 2.8 Interessenkritik und Zweckkritik
 
-**Bewertung: schwach; ohne tragende Textstelle.**
+**Bewertung: schwach; ohne tragende Textstelle. Gewicht gering.**
 
 Nach der Antwort des Verlags zeigt Kritik, inwiefern ein Gegenstand die Interessen des Kritikers schädigt, „welche auch immer“. Der GSP kritisiert aber laufend Interessen selbst, etwa das auf Zurechtkommen „zurückgenommene“ Interesse (GS 4-13), das Standortinteresse, den Patriotismus. Wie verhält sich beides? Am Grenzfall: Jemand kennt die Kosten seines nationalen Engagements und nimmt sie bewusst auf sich. Weist der GSP ihm einen Sachirrtum nach, oder bleibt ein Gegensatz der Zwecke?
 
@@ -504,7 +521,7 @@ Diese Einwände greifen nicht die Grundbestimmungen an, sondern bestimmte Notwen
 
 ### 3.1 Gibt es Kapitalverwertung ohne Wachstum?
 
-**Bewertung: trägt eingeschränkt, als begriffliche Frage.**
+**Bewertung: trägt eingeschränkt, als begriffliche Frage; Gewicht mittel.**
 
 Der GSP sagt, den Fortgang eines Geschäfts gebe es „nur als Kontinuität des Wachstums“ (Konkurrenz-Serie § 7). Rechnerisch ist ein Unternehmen denkbar, das jedes Jahr 100 vorschießt, 110 zurückbekommt, wieder 100 einsetzt und 10 ausschüttet: Es macht Gewinn und wächst nicht.
 
@@ -514,7 +531,7 @@ Die Gegenrede ist stark. Wer es bei 10 belässt, hat die Bereicherung, für die 
 
 ### 3.2 Wie wird aus der Konkurrenz die allgemeine Krise?
 
-**Bewertung: trägt eingeschränkt, an einer genau bestimmten Stelle.**
+**Bewertung: trägt eingeschränkt, an einer genau bestimmten Stelle; Gewicht mittel.**
 
 Ein Artikel von 1998 sagt, mit denselben Methoden, mit denen Kapitalisten ihren Markt ausweiten, führten sie die absoluten Schranken des Marktes herbei, an die ihre Expansion „irgendwann stoßen muß“ (GS 4-98). Der Einwand: Aus dem Scheitern einzelner Konkurrenten folgt zunächst nur, dass Marktanteile umverteilt werden. Damit aus vielen Verlusten eine allgemeine Krise wird, braucht es Bedingungen über Größen, Verflechtungen und Reaktionen. Eine notwendige Möglichkeit der Krise ist noch keine notwendige Krise.
 
@@ -524,7 +541,7 @@ Die Prüfung hat diesen Einwand stark eingegrenzt. Die Konkurrenz-Serie nennt di
 
 ### 3.3 Folgt Geldentwertung notwendig aus nicht verwertetem Kredit?
 
-**Bewertung: trägt eingeschränkt; prüfbar am eigenen Maß des GSP.**
+**Bewertung: trägt eingeschränkt; prüfbar am eigenen Maß des GSP. Gewicht mittel.**
 
 1997 schreibt der GSP, Staatsschulden, denen keine gelungene Kapitalvermehrung entspricht, entwerten das Geld; das Ausmaß hänge davon ab, wie gut der Staatskredit beim Wachstum anschlägt, aber: „Ein Wertverfall tritt aber allemal ein“ (GS 4-97). Dagegen stehen lange Phasen, in denen Staatsschulden und Notenbankgeld stark wuchsen und die Teuerung niedrig blieb: In den USA stiegen die Reserven der Banken von 2007 bis 2014 von etwa 15 Milliarden auf etwa 2,5 Billionen Dollar bei niedriger Inflation, und Japan blieb trotz der Lockerung ab 2013 unter seinem Inflationsziel.
 
@@ -536,7 +553,7 @@ Eine dritte Fassung steht in den Texten zur Teuerung 2021 bis 2023. Dort wird di
 
 ### 3.4 Ist der Wechselkurs ein „permanenter Inflationsvergleich“?
 
-**Bewertung: schwach; nur über lange Zeiträume prüfbar.**
+**Bewertung: schwach; nur über lange Zeiträume prüfbar. Gewicht gering.**
 
 Die Konkurrenz-Serie nennt den Wechselkurs einen „permanenten Inflationsvergleich“ der Kreditgelder (§ 11). Wechselkurse bewegen sich aber auch bei gleicher Teuerung, wenn sich Zinsen oder Anlageströme ändern; 2022 stieg der Dollar stark gegen den Yen, obwohl die amerikanische Teuerung hoch war, vor allem wegen der Zinsunterschiede.
 
@@ -544,25 +561,27 @@ Die Gegenrede trägt weit. „Inflation“ meint hier nicht den Verbraucherpreis
 
 ### 3.5 Ist Bankgeld nur „Geldersatz“?
 
-**Bewertung: schwach; eine begriffliche Frage, die kleiner ist, als sie aussah.**
+**Bewertung: schwach; eine begriffliche Frage, die kleiner ist, als sie aussah. Gewicht gering.**
 
 Der GSP nennt Bankguthaben einen Anspruch auf Geld und deshalb Geldersatz, „Kreditzeichen“ (GS 2-10); Geldschöpfung sei „überhaupt nicht Sache des Finanzkapitals“ (GS 1-98). Bundesbank und Bank of England beschreiben dagegen, dass Banken mit jeder Kreditvergabe durch eigene Buchung neue Guthaben schaffen.
 
 Der GSP bestreitet das nicht. Er bestreitet, dass dieses Buchgeld Geld im selben Sinn ist wie das gesetzliche Zahlungsmittel, und nennt den Fall, an dem der Unterschied sichtbar wird: den Bankensturm, wie 2008 vor der britischen Northern Rock. Das ist mit der Darstellung der Notenbanken vereinbar; auch dort sind Einlagen Forderungen gegen eine Bank, die zahlungsunfähig werden kann.
 
-Übrig bleibt, was die Unterscheidung außerhalb der Bankenkrise leistet. Mit Einlagensicherung und Notenbank als letztem Kreditgeber verschwindet der Unterschied im Alltag fast ganz; der GSP würde sagen, gerade die staatliche Garantie stelle die Gleichwertigkeit her. Dann ist zu fragen, ob „Geldersatz“ etwas anderes erklärt als die übliche Hierarchie von Zentralbankgeld und Bankgeld. Außerdem ist der eigene Sprachgebrauch nicht einheitlich: Die Konkurrenz-Serie spricht 2018 von der „Freiheit der Banken, im Maße ihres Kreditgeschäfts Buchgeld zu schöpfen“, eine Antwort von 1998 nennt es einen Fehler, den Geschäftsbanken die Freiheit zur Geldschöpfung zuzuschreiben. In der Sache sind sich beide einig, dass das Buchgeld an das Staatsgeld gebunden bleibt. Verwandt ist die offene Frage, ob jeder Staatskredit Geldschöpfung ist, ob also eine von der Notenbank garantierte Staatsanleihe dasselbe ist wie zusätzliches Geld im Umlauf.
+Übrig bleibt, was die Unterscheidung außerhalb der Bankenkrise leistet. Mit Einlagensicherung und Notenbank als letztem Kreditgeber verschwindet der Unterschied im Alltag fast ganz; der GSP würde sagen, gerade die staatliche Garantie stelle die Gleichwertigkeit her. Dann ist zu fragen, ob „Geldersatz“ etwas anderes erklärt als die übliche Hierarchie von Zentralbankgeld und Bankgeld. Außerdem ist der eigene Sprachgebrauch nicht einheitlich: Die Konkurrenz-Serie spricht 2018 von der „Freiheit der Banken, im Maße ihres Kreditgeschäfts Buchgeld zu schöpfen“, eine Antwort von 1998 nennt es einen Fehler, den Geschäftsbanken die Freiheit zur Geldschöpfung zuzuschreiben. In der Sache sind sich beide einig, dass das Buchgeld an das Staatsgeld gebunden bleibt. Verwandt ist die offene Frage, ob jeder Staatskredit Geldschöpfung ist, ob also eine von der Notenbank garantierte Staatsanleihe dasselbe ist wie zusätzliches Geld im Umlauf (offene Frage, Gewicht gering; Akte 35). Der GSP schreibt 1997, jeder Kredit, den sich die Staatsmacht genehmigt, gerate zu einem Akt der Geldschöpfung. Ob der Staat dabei Geld aufnimmt, das schon da ist, oder ob für seine Anleihen neues geschaffen wird, unterscheidet der Text nicht ausdrücklich; die Antwort, die sich aus ihm lesen lässt, ist eine Lesart der Rekonstruktion.
 
 ### 3.6 Wertgröße und Preis
 
-**Bewertung: trägt, als offene Frage an die Werttheorie.**
+**Bewertung: offene Frage an die Werttheorie; Gewicht hoch.**
 
 Für den GSP ist der Verkauf die „verbindliche und einzig gültige Art“, das hergestellte Quantum Eigentum zu beziffern; der erzielte Erlös entscheidet nachträglich, wie viel gesellschaftlich notwendige Arbeit die geleistete darstellt (GS 2-10). Eine Wertgröße vor oder neben dem Erlös, von der einzelne Preise abweichen könnten, kennt dieser Text also nicht. Ob damit die Unterscheidung von Wert und Preis, mit der Marx Preisschwankungen von Wertänderungen trennt, aufgegeben ist oder nur anders begründet, sagt er nicht. An anderen Stellen arbeitet der GSP aber mit Größen, die vom Erlös abweichen können: Der Reichtum habe in einem „rein negativen Sinn“ sein Maß im Quantum Arbeit, und der Wert der Arbeitskraft ist ein Maß, das der gezahlte Lohn unterschreiten kann. Wie beides zur „einzig gültigen Art“ der Bezifferung steht, führen die ausgewerteten Texte nicht aus.
 
 Zur Preisbildung sagen die Texte von 2022 mehr als die früheren: Angebot und Nachfrage seien für die Konkurrenten ein Kräfte- und Machtverhältnis, und die Unternehmen setzten höhere Preise durch, wo ihre Marktmacht es erlaubte (GS 1-22; GS 4-22). Das deckt sich mit den Postkeynesianern und mit Isabella Weber, wird aber nicht aus der Werttheorie abgeleitet. Offen bleibt, was die Werttheorie zur Erklärung der Teuerung beiträgt.
 
+Die Frage hat seit dem 10. November 2026 eine eigene Akte (34). Sie ist nach dem Gewicht die wichtigste der ökonomischen Fragen, weil sie nicht eine Folgerung betrifft, sondern den Grundbegriff: Wenn der Erlös die einzig gültige Bezifferung ist, sind Sätze wie der, dass ein Lohn unter dem Wert der Arbeitskraft liegt, erklärungsbedürftig. Von einem Widerspruch zu sprechen wäre zu viel; der GSP hat die Vermittlung nicht ausgeschlossen, er gibt sie in den ausgewerteten Texten nicht.
+
 ### 3.7 Produktivität, Wert und relativer Mehrwert
 
-**Bewertung: schwach bis eingeschränkt.**
+**Bewertung: schwach; Gewicht gering.**
 
 Ein Satz von 2004 lautet ohne Einschränkung: „Je schneller und leichter eine Ware produziert wird, um so weniger ist sie wert“ (GS 1-04). So gelesen senkt schon die Verbesserung eines einzelnen Betriebs seinen Erlös. Der GSP trennt die Ebenen aber an anderer Stelle selbst: Für das einzelne Kapital bringt der Vorsprung Extragewinn, gesellschaftlich sinkt der Wert erst mit der Verallgemeinerung (Konkurrenz-Serie § 13). Gegen den Satz von 2004 bleibt nur, dass er ohne diese Unterscheidung dasteht.
 
@@ -581,53 +600,101 @@ Wie offen die Frage auch außerhalb des GSP ist, zeigen zwei Außenstimmen. Der 
 
 ### 4.1 „Recht ist, was der Staat tut“
 
-**Bewertung: schwach; eine Präzisierungsfrage.** Der Satz „weil es nämlich Recht ist, was der Staat tut“ (GS 1-92) vermischt, dass der Staat die Rechtsordnung setzt und ändert, mit der Behauptung, jede Handlung eines Organs sei schon kraft ihrer Staatlichkeit rechtmäßig. Der GSP kennt die Bindung der Organe aber selbst: Der Rechtsstaat unterwerfe auch seine ausführenden Organe und die Gerichte seinem Maßstab (GS 4-92). Drei Ebenen sind zu trennen: der Souverän gegenüber den Bürgern, die ans Recht gebundenen Organe und die rechtsetzende Gewalt. Offen ist, ob die These, der Staat ändere eher sein Recht, als ein Vorhaben aufzugeben, als Regel gilt; belegt ist sie an Fällen. Prüffälle wären Urteile von Verfassungsgerichten, die Regierungshandeln kassieren.
+**Bewertung: schwach; eine Präzisierungsfrage. Gewicht gering.** Der Satz „weil es nämlich Recht ist, was der Staat tut“ (GS 1-92) vermischt, dass der Staat die Rechtsordnung setzt und ändert, mit der Behauptung, jede Handlung eines Organs sei schon kraft ihrer Staatlichkeit rechtmäßig. Der GSP kennt die Bindung der Organe aber selbst: Der Rechtsstaat unterwerfe auch seine ausführenden Organe und die Gerichte seinem Maßstab (GS 4-92). Drei Ebenen sind zu trennen: der Souverän gegenüber den Bürgern, die ans Recht gebundenen Organe und die rechtsetzende Gewalt. Offen ist, ob die These, der Staat ändere eher sein Recht, als ein Vorhaben aufzugeben, als Regel gilt; belegt ist sie an Fällen. Prüffälle wären Urteile von Verfassungsgerichten, die Regierungshandeln kassieren.
 
 ### 4.2 Klimaschutz „deckungsgleich“ mit Energiepolitik?
 
-**Bewertung: trägt eingeschränkt.** 2010 schreibt der GSP: „Klimaschutz ist deckungsgleich mit Energiepolitik“ (GS 1-10). Als Aussage über die Sache stimmt das nicht: Nach dem Weltklimarat stammten 2019 rund 34 Prozent der Treibhausgase aus der Energieversorgung, 24 Prozent aus der Industrie und 22 Prozent aus Landwirtschaft, Forstwirtschaft und Landnutzung. Der Satz steht allerdings unter der Frage, worum es auf Klimakonferenzen geht; er spricht über die Zwecke der Staaten, nicht über die Atmosphäre. Für sie sei die Rettung des Klimas „gar kein eigenständig zu verfolgender Zweck“ (GS 1-21). Das ist eine Ausschließlichkeitsbehauptung: Dass eine Maßnahme der eigenen Industrie nützt, beweist nicht, dass sie keinen anderen Zweck hat. Zu zeigen wäre sie an Entscheidungen, bei denen Klimaziel und Konkurrenzvorteil auseinanderfallen (etwa Methanregeln für die Landwirtschaft oder Maßnahmen gegen die eigene Industrie).
+**Bewertung: trägt eingeschränkt; Gewicht gering.** 2010 schreibt der GSP: „Klimaschutz ist deckungsgleich mit Energiepolitik“ (GS 1-10). Als Aussage über die Sache stimmt das nicht: Nach dem Weltklimarat stammten 2019 rund 34 Prozent der Treibhausgase aus der Energieversorgung, 24 Prozent aus der Industrie und 22 Prozent aus Landwirtschaft, Forstwirtschaft und Landnutzung. Der Satz steht allerdings unter der Frage, worum es auf Klimakonferenzen geht; er spricht über die Zwecke der Staaten, nicht über die Atmosphäre. Für sie sei die Rettung des Klimas „gar kein eigenständig zu verfolgender Zweck“ (GS 1-21). Das ist eine Ausschließlichkeitsbehauptung: Dass eine Maßnahme der eigenen Industrie nützt, beweist nicht, dass sie keinen anderen Zweck hat. Zu zeigen wäre sie an Entscheidungen, bei denen Klimaziel und Konkurrenzvorteil auseinanderfallen (etwa Methanregeln für die Landwirtschaft oder Maßnahmen gegen die eigene Industrie).
 
 ### 4.3 Warum fällt die Familienrolle der Frau zu?
 
-**Bewertung: offen; benannt, nicht abgeleitet.** Der GSP erklärt, wie sich eine vorgefundene Arbeitsteilung im Haushalt unter Lohnarbeit fortsetzt und verstärkt (Teil I, Abschnitt 8), und sagt, dass die Rolle des Hauptverdieners in der Regel der Mann ausfüllt. Die Unternehmen rechneten die mögliche Schwangerschaft dem ganzen Geschlecht als Leistungseinschränkung an und bezögen sich damit „nicht wirklich auf die Biologie“ (GS 4-19). Damit ist die Asymmetrie benannt, ihr Anfang aber vorausgesetzt. Ob die Schwangerschaft nur Vorwand der Kalkulation ist oder ein eigener Grund, entscheidet der Text nicht. Ein Zirkel liegt nicht vor; es fehlt ein Schritt. Wendy Brown ist eine zweite Stimme neben GS 4-19: Sie zeigt, dass schon das Bild des homo oeconomicus die unbezahlte Familienarbeit stillschweigend voraussetzt und dass der homo politicus seit Aristoteles männlich gedacht war. Warum die Familienarbeit den Frauen zufällt, leitet auch sie nicht ab.
+**Bewertung: offene Frage; benannt, nicht abgeleitet. Gewicht mittel.** Der GSP erklärt, wie sich eine vorgefundene Arbeitsteilung im Haushalt unter Lohnarbeit fortsetzt und verstärkt (Teil I, Abschnitt 8), und sagt, dass die Rolle des Hauptverdieners in der Regel der Mann ausfüllt. Die Unternehmen rechneten die mögliche Schwangerschaft dem ganzen Geschlecht als Leistungseinschränkung an und bezögen sich damit „nicht wirklich auf die Biologie“ (GS 4-19). Damit ist die Asymmetrie benannt, ihr Anfang aber vorausgesetzt. Ob die Schwangerschaft nur Vorwand der Kalkulation ist oder ein eigener Grund, entscheidet der Text nicht. Ein Zirkel liegt nicht vor; es fehlt ein Schritt. Wendy Brown ist eine zweite Stimme neben GS 4-19: Sie zeigt, dass schon das Bild des homo oeconomicus die unbezahlte Familienarbeit stillschweigend voraussetzt und dass der homo politicus seit Aristoteles männlich gedacht war. Warum die Familienarbeit den Frauen zufällt, leitet auch sie nicht ab.
+
+Die Auswertungen seit Oktober 2026 haben die Frage nicht beantwortet, aber eingegrenzt (Akte 33). Angela Davis zeigt an der Sklaverei, dass die Besitzer die Frauen je nach Rechnung als Arbeitskraft ohne Geschlecht oder als Frau behandelten; die Rolle folgt also nicht aus der Arbeit, sondern aus der Stellung im Haushalt und im Recht. Sandra Harding gibt einen Weg an, die Frage mit der Methode des GSP zu verfolgen: an den Veränderungen, durch die eine bestimmte Verteilung erst entstand; ihr Beispiel ist das Sorgerecht. Hegel leitet die Rolle aus der Natur der Geschlechter ab (Rechtsphilosophie § 166) und zeigt damit, dass die Zuweisung im Familienrecht festgeschrieben war, bevor es allgemeine Lohnarbeit gab. Sophia Fritz nennt das Patriarchat, also einen Namen statt eines Grundes. Gescheitert ist an diesen Texten der Einwand, der Marxismus könne unbezahlte Arbeit nicht fassen: GS 4-19 behandelt die Hausarbeit ausdrücklich. Der fehlende Schritt liegt vermutlich im Rechtsinstitut Familie und in seiner Geschichte, nicht in der Kalkulation der Unternehmen.
+
+### 4.4 Rassismus als Recht: Braucht das Kapital den Rassismus?
+
+**Bewertung: offene Frage; Gewicht mittel.** Für den heutigen Staat sagt der GSP: Rassismus als Rechtslage gebe es „im modernen bürgerlichen Gemeinwesen nicht mehr“; der Klassenstaat sei einer, „der erklärten Rassismus weder braucht noch gebrauchen kann“ (GS 1-21). Wo der Rassismus fortlebt, ist er die Moral von Bürgern, die sich als das wahre Volk der Konkurrenz verstehen (GS 3-20). Für Südafrika urteilt er anders: Die Sortierung nach Rassen war dort „Instrument einer besonderen kapitalistischen Klassenherrschaft“, und „auf dieser Scheidung beruhte der südafrikanische Kapitalismus“ (GS 1-94). Beides widerspricht sich nicht, solange man Zeiten und Staaten trennt. Dazwischen liegt aber ein Fall, den kein Text behandelt: der Süden der USA bis 1965, wo der Rassismus Rechtslage in einer bürgerlichen Demokratie war. Nach GS 1-94 wäre zu fragen, welcher Klassenherrschaft er diente. Angela Davis tut das, und ihre Erklärung aus dem Extraprofit und der Spaltung der Arbeiter ist für diese Zeit die einzige, die vorliegt. Ihre stärkste Fassung, die Unruhen seien geplant gewesen, belegt sie mit Hetzreden, nicht mit einem Plan. Dazu kommt eine Verschiebung im GSP selbst: 2015 liegt die heutige Bedeutung der Sklavengeschichte „ganz in den Regeln und Sitten der Konkurrenz“ (GS 1-15), 2020 in einem Volk, für das die Schwarzen „*wie* Ausländer, nämlich verdächtige Fremde“ sind (GS 3-20). Die zweite Erklärung braucht die Nation, die erste nicht; ob sie die erste ergänzt oder berichtigt, sagt der GSP nicht. Offen ist, wo die Grenze zwischen Rassismus als Instrument und Rassismus als Moral verläuft und ob sie mit der Grenze zwischen Rechtslage und Gleichberechtigung zusammenfällt (Akte 36).
+
+### 4.5 Maß und Form der Strafe
+
+**Bewertung: offene Frage; Gewicht gering.** Der GSP erklärt, dass der Staat straft: Er macht die Geltung seines Rechts am Rechtsbrecher praktisch wahr (Teil I, Abschnitt 7). Dazu hat er zwei Bestimmungen, die nebeneinander stehen. Nach der einen bleibt der Verbrecher Rechtssubjekt; die Strafe soll „nicht jede Aussicht auf eine ‚bürgerliche Existenz‘ unwiederbringlich zerstören“ (GS 2-13). Nach der anderen gehören „Übergänge in den Wahn einer gewaltsam vom Verbrechen befreiten Gesellschaft“ zum Berufsbild des Politikers, „und zwar keineswegs bloß des faschistischen“ (GS 3-97). Angela Davis beschreibt für die USA seit den 1980er Jahren den Übergang von der ersten zur zweiten: Hochsicherheitshaft ohne Anspruch auf Besserung, lebenslanger Verlust des Wahlrechts, eine Vervielfachung der Gefangenen. Wann welche Bestimmung vorherrscht, sagt der GSP nicht. Für die USA verweist er auf die Konkurrenzmoral (GS 3-20); das erklärt die Härte, nicht den Zeitpunkt und das Ausmaß. Hegel hält das Maß der Strafe ausdrücklich für nicht ableitbar (Rechtsphilosophie § 214). Der GSP sagt dasselbe für den Sozialstaat (Teil I, Abschnitt 8), für die Strafe nicht. Davis' eigene Erklärung, der Profit der Gefängnisindustrie, hält nicht (Teil II, Abschnitt 6) (Akte 37).
 
 ## 5. Methode und Prüfbarkeit
 
 ### 5.1 Kann Erfahrung eine Theorie prüfen?
 
-**Bewertung: offen als Gültigkeitsfrage.** Gegen Popper sagt der GSP: „Verkehrte Schlüsse werden schließlich aus derselben Erfahrung gezogen wie die richtigen“; prüfen lasse sich ein Schluss nur, indem man ihn nachvollzieht (GS 4-94). Daraus folgt nur, dass Erfahrung ohne Nachvollzug des Schlusses nicht entscheidet. Ob der GSP darüber hinaus jede Rolle der Erfahrung bestreitet, sagt die Stelle nicht, und er prüft seine Erklärungen ständig an Ereignissen. In der engen Lesart ist der Satz unbestritten. Offen ist, woran ein Schluss scheitert, der sauber nachvollzogen ist und trotzdem einer späteren Tatsache widerspricht.
+**Bewertung: offene Frage; Gewicht mittel.** Gegen Popper sagt der GSP: „Verkehrte Schlüsse werden schließlich aus derselben Erfahrung gezogen wie die richtigen“; prüfen lasse sich ein Schluss nur, indem man ihn nachvollzieht (GS 4-94). Daraus folgt nur, dass Erfahrung ohne Nachvollzug des Schlusses nicht entscheidet. Ob der GSP darüber hinaus jede Rolle der Erfahrung bestreitet, sagt die Stelle nicht, und er prüft seine Erklärungen ständig an Ereignissen. In der engen Lesart ist der Satz unbestritten. Offen ist, woran ein Schluss scheitert, der sauber nachvollzogen ist und trotzdem einer späteren Tatsache widerspricht.
+
+Helen Longino und Alison Wylie verschieben die Frage: Vor der Prüfung liegt die Entdeckung. Welche Tatsachen überhaupt in eine Wissenschaft kommen und wer einen Fehler bemerkt, hängt bei ihnen an der Zusammensetzung der Forschergemeinschaft. Der GSP sagt, aus geschädigtem Interesse erwachse ein Bedarf an sachlicher Erklärung (GS 4-13). Wer den Fehler einer Wissenschaft bemerkt und warum gerade er, behandelt er nicht; das gehört zu 5.4.
 
 ### 5.2 Woran könnte eine Lageanalyse scheitern?
 
-**Bewertung: als Vorwurf schwach, als Frage berechtigt.** In seiner Antwort auf die Leserbriefe schrieb der Vertreter des Verlags, ob frühere Bestimmungen aufgegeben seien, sei keine Frage dessen, was die Redaktion mit ihren Bestimmungen macht, sondern dessen, was die Staaten auf die Tagesordnung setzen. Dann bleibt offen, woran eine Lageanalyse je falsch gewesen sein könnte. Ein Immunisierungsvorwurf wäre aber erst begründet, wenn ein Urteil unter den Voraussetzungen scheitert, für die es aufgestellt wurde, und das Scheitern dann als Änderung des Gegenstands umgedeutet wird; dafür fehlt bisher ein Beispiel. Dieselbe Frage gilt für allgemeine Bestimmungen: Welcher Befund widerspräche der These vom Staat als ideellem Gesamtkapitalisten? Einen Gegenfall hat bisher niemand genannt. Prüfmaterial wären frühere Diagnosen, etwa Japan als „zu klein“ für einen eigenen Weltgeldanspruch (1993) oder Russland ohne lohnendes nationales Geld (1990er Jahre), verglichen mit späteren Texten zu denselben Ländern.
+**Bewertung: offene Frage; als Vorwurf schwach. Gewicht mittel.** In seiner Antwort auf die Leserbriefe schrieb der Vertreter des Verlags, ob frühere Bestimmungen aufgegeben seien, sei keine Frage dessen, was die Redaktion mit ihren Bestimmungen macht, sondern dessen, was die Staaten auf die Tagesordnung setzen. Dann bleibt offen, woran eine Lageanalyse je falsch gewesen sein könnte. Ein Immunisierungsvorwurf wäre aber erst begründet, wenn ein Urteil unter den Voraussetzungen scheitert, für die es aufgestellt wurde, und das Scheitern dann als Änderung des Gegenstands umgedeutet wird; dafür fehlt bisher ein Beispiel. Dieselbe Frage gilt für allgemeine Bestimmungen: Welcher Befund widerspräche der These vom Staat als ideellem Gesamtkapitalisten? Einen Gegenfall hat bisher niemand genannt. Prüfmaterial wären frühere Diagnosen, etwa Japan als „zu klein“ für einen eigenen Weltgeldanspruch (1993) oder Russland ohne lohnendes nationales Geld (1990er Jahre), verglichen mit späteren Texten zu denselben Ländern.
 
 ### 5.3 Iran
 
-**Bewertung: zurückgestellt; als Widerlegung nicht tragfähig.** 2020 schloss der GSP aus, dass Iran die USA „in eine auch für sie kostspielige kriegerische Auseinandersetzung verwickeln könnte“ (GS 1-20). 2026 hat sein Hauptartikel zum Krieg einen Abschnitt „Der iranische Gegenkrieg schädigt die USA“ (der Volltext ist noch nicht frei). Ist der Satz von 2020 damit widerlegt? Nicht ohne Weiteres: 2020 ging es darum, ob Iran die USA gegen deren damalige Strategie in einen Krieg ziehen kann; 2026 haben die USA den Krieg selbst eröffnet. Vor jedem Urteil sind vier Aussagen zu trennen: ob Iran Kosten verursachen kann, ob es einen Krieg erzwingen kann, ob es amerikanische Ziele vereiteln kann, und welche Fähigkeiten jeweils behauptet wurden. Gescheitert sind die zugespitzten Fassungen des Einwands: Das „Generalexempel“, als das der GSP den Zwölf-Tage-Krieg von 2025 bezeichnete, ist ein Exempel für einen Machtanspruch, keine Erfolgsgarantie; und die Stelle, an der 2026 die halbe Niederlage der USA anklingt, gibt die deutsche Diagnose wieder, nicht das Urteil der Redaktion.
+**Bewertung: schwach; zurückgestellt, als Widerlegung nicht tragfähig. Gewicht gering.** 2020 schloss der GSP aus, dass Iran die USA „in eine auch für sie kostspielige kriegerische Auseinandersetzung verwickeln könnte“ (GS 1-20). 2026 hat sein Hauptartikel zum Krieg einen Abschnitt „Der iranische Gegenkrieg schädigt die USA“ (der Volltext ist noch nicht frei). Ist der Satz von 2020 damit widerlegt? Nicht ohne Weiteres: 2020 ging es darum, ob Iran die USA gegen deren damalige Strategie in einen Krieg ziehen kann; 2026 haben die USA den Krieg selbst eröffnet. Vor jedem Urteil sind vier Aussagen zu trennen: ob Iran Kosten verursachen kann, ob es einen Krieg erzwingen kann, ob es amerikanische Ziele vereiteln kann, und welche Fähigkeiten jeweils behauptet wurden. Gescheitert sind die zugespitzten Fassungen des Einwands: Das „Generalexempel“, als das der GSP den Zwölf-Tage-Krieg von 2025 bezeichnete, ist ein Exempel für einen Machtanspruch, keine Erfolgsgarantie; und die Stelle, an der 2026 die halbe Niederlage der USA anklingt, gibt die deutsche Diagnose wieder, nicht das Urteil der Redaktion.
+
+### 5.4 Welches Interesse verdirbt das Urteil?
+
+**Bewertung: offene Frage; Gewicht mittel.** Kritik geht beim GSP vom Interesse aus: Wer will, dass das Leben sich lohnt, braucht ein objektives Urteil über das, was ihm schadet (Teil I, Abschnitt 1). Zugleich wirft er dem Alltagsverstand und den Gesellschaftswissenschaften ihr Interesse vor: „der Wille zur Anpassung verdirbt regelmäßig die notwendige Sachlichkeit“ (GS 4-13), und die Gesellschaftswissenschaften lassen ihr Nachdenken „von demselben parteilichen Sorgestandpunkt und Interesse am Funktionieren“ leiten wie die Politiker (GS 3-20). Der Form nach ist das, was die feministische Wissenschaftstheorie situiertes Wissen nennt: Eine Stellung zur Ordnung bringt ein Interesse mit, das Interesse eine Voraussetzung, und die teilt ein ganzes Fach.
+
+Was unterscheidet das Interesse, das Wissen braucht, von dem, das es verdirbt? Die Antwort des GSP lässt sich angeben: das Vorschreiben des Ergebnisses. Wer will, dass die Verhältnisse brauchbar sind, kann aus dem Material nicht schließen, dass sie es nicht sind. Und er erklärt einen Fehler erst aus dem Interesse, nachdem er ihn am Argument nachgewiesen hat; die Erklärung ersetzt die Widerlegung nicht. Damit ist er gegen den Vorwurf geschützt, er verwerfe Theorien wegen ihrer Herkunft, und er muss das Problem nicht lösen, an dem sich die feministische Debatte abarbeitet: wie Werte in eine Begründung eingehen dürfen.
+
+Offen bleibt zweierlei. Das Kriterium ist nirgends ausgeführt, und ob es mehr sagt als den Satz, dass falsch ist, was falsch ist, zeigt sich erst an Fällen, in denen ein Interesse am Funktionieren richtige Urteile hervorbringt. Einen solchen Fall nennt der GSP selbst: Naturwissenschaftler bieten der Politik „Mittelwissen für deren Zwecke“ (GS 3-20). Und für die Naturwissenschaften hat er nur den Satz, dort werde manches „aus sachfremden Gründen wie einer an kommerziellen Interessen orientierten Auftragslage oder einer Voreingenommenheit aus privatem Ehrgeiz“ fehlgedeutet (GS 4-13). Die Fälle, die Haraway, Harding und Weasel anführen (Primatenforschung, Immunologie, Krebsforschung), sind Voreingenommenheiten, die weder kommerziell noch privat sind. Die Deutungen der Autorinnen halten der Prüfung oft nicht stand: Dass das Bild, in dem eine Theorie dargestellt wird, einer gesellschaftlichen Einrichtung gleicht, sagt nichts über ihre Geltung. Die Fälle selbst bleiben (Akte 32).
 
 ## 6. Fragen aus externen Texten
 
-Die Auswertungen externer Texte (Teil II, Abschnitt 6) haben fünf neue Fragen ergeben. Sie sind anders entstanden als die Einwände oben: Ein externer Text stellt eine Frage, an der der GSP etwas offenlässt, und die Stelle, an der er es offenlässt, ist danach in seinen eigenen Texten gesucht und gefunden worden. Keine der fünf ist bisher an den GSP gerichtet worden.
+Die Auswertungen externer Texte (Teil II, Abschnitt 6) haben bis zum 16. Oktober 2026 fünf neue Fragen ergeben, bis zum 10. November eine sechste (6.6); vier weitere stehen bei ihren Gegenständen (4.3 bis 4.5 und 5.4). Sie sind anders entstanden als die Einwände oben: Ein externer Text stellt eine Frage, an der der GSP etwas offenlässt, und die Stelle, an der er es offenlässt, ist danach in seinen eigenen Texten gesucht und gefunden worden. Keine von ihnen ist bisher an den GSP gerichtet worden.
 
 ### 6.1 Wenn aus der Lage nichts folgt, warum ist der Schluss so regelmäßig verteilt?
 
-**Bewertung: trägt eingeschränkt, als Lücke.** Gegen die Ursachenforschung zum Rechtsextremismus sagt der GSP, aus der Existenzunsicherheit der Lohnabhängigen folge „überhaupt nichts“; erst durch einen Schluss, den sie aus ihrer Lage ziehen, unterschieden sie sich politisch (GS 1-93). Isabella Weber stützt sich auf Wahlanalysen, nach denen finanziell Unsichere deutlich häufiger rechts wählen als Gesicherte. Die Gegenrede des GSP erklärt die Richtung des Schlusses: Das Material liefert die staatliche Unterscheidung von In- und Ausländern, und die Ausländerfeinde verlangen von ihrem Staat, was er selbst tut, nur konsequenter (GS 4-10). Sie erklärt nicht die Häufigkeit, denn diese Unterscheidung gilt für alle Bürger gleich. Der GSP macht selbst Aussagen über den Grad: Die wirklich Geschädigten trügen ihr Schicksal „mit umso entschlossenerem Patriotismus“ (Konkurrenz-Serie § 18). Offen ist, was dieses „umso“ erklärt, wenn nicht die Lage. Eine Antwort, die die Häufigkeit aus dem Urteil über die eigenen Mittel erklärt, ohne die Lage zur Ursache zu machen, ist denkbar, aber im Material nicht ausgeführt. Webers Zahlen sind nicht nachgeprüft.
+**Bewertung: trägt eingeschränkt, als Lücke; Gewicht mittel.** Gegen die Ursachenforschung zum Rechtsextremismus sagt der GSP, aus der Existenzunsicherheit der Lohnabhängigen folge „überhaupt nichts“; erst durch einen Schluss, den sie aus ihrer Lage ziehen, unterschieden sie sich politisch (GS 1-93). Isabella Weber stützt sich auf Wahlanalysen, nach denen finanziell Unsichere deutlich häufiger rechts wählen als Gesicherte. Die Gegenrede des GSP erklärt die Richtung des Schlusses: Das Material liefert die staatliche Unterscheidung von In- und Ausländern, und die Ausländerfeinde verlangen von ihrem Staat, was er selbst tut, nur konsequenter (GS 4-10). Sie erklärt nicht die Häufigkeit, denn diese Unterscheidung gilt für alle Bürger gleich. Der GSP macht selbst Aussagen über den Grad: Die wirklich Geschädigten trügen ihr Schicksal „mit umso entschlossenerem Patriotismus“ (Konkurrenz-Serie § 18). Offen ist, was dieses „umso“ erklärt, wenn nicht die Lage. Eine Antwort, die die Häufigkeit aus dem Urteil über die eigenen Mittel erklärt, ohne die Lage zur Ursache zu machen, ist denkbar, aber im Material nicht ausgeführt. Webers Zahlen sind nicht nachgeprüft.
 
 ### 6.2 Ideelle Negation: Zählt das Moment, das der GSP dem Protest zugesteht?
 
-**Bewertung: trägt eingeschränkt, eng.** Über die Occupy-Bewegung schreibt der GSP, ihr Protest enthalte „immerhin ein Moment von ideeller Negation von Eigentum und Unternehmerfreiheit“, das die Bewegung nicht wahrhaben wolle (GS 4-11). Wendy Brown baut auf genau diesem Moment, mit Marx' Schrift zur Judenfrage, eine Verteidigung des demokratischen Ideals: Die politische Gleichheit negiere die sozialen Verhältnisse ideell und sei deshalb eine Quelle der Kritik. Der GSP liest dieselbe Schrift als Kritik der Menschenrechte (GS 2-97), bestimmt die Demokratie als Herrschaftstechnik und nennt die Kritik, die sie an ihrem Versprechen misst, „letztlich affirmativ“ (GS 4-12, gegen Chomsky). Die Gegenrede ist stark, soweit sie das Bekenntnis zur Demokratie trifft: Wer den Protest auf einen Mangel an Demokratie zurückführt, löscht die Negation durch das Ideal wieder aus. Sie sagt nicht, ob das Moment selbst, das der GSP mit „immerhin“ einräumt, ein Ansatzpunkt für Aufklärung ist. Die Frage hat dieselbe Form wie 2.3 bis 2.5: Folgt aus der Funktion einer Einrichtung, dass sie für die Betroffenen nichts anderes sein kann?
+**Bewertung: trägt eingeschränkt, eng; Gewicht gering.** Über die Occupy-Bewegung schreibt der GSP, ihr Protest enthalte „immerhin ein Moment von ideeller Negation von Eigentum und Unternehmerfreiheit“, das die Bewegung nicht wahrhaben wolle (GS 4-11). Wendy Brown baut auf genau diesem Moment, mit Marx' Schrift zur Judenfrage, eine Verteidigung des demokratischen Ideals: Die politische Gleichheit negiere die sozialen Verhältnisse ideell und sei deshalb eine Quelle der Kritik. Der GSP liest dieselbe Schrift als Kritik der Menschenrechte (GS 2-97), bestimmt die Demokratie als Herrschaftstechnik und nennt die Kritik, die sie an ihrem Versprechen misst, „letztlich affirmativ“ (GS 4-12, gegen Chomsky). Die Gegenrede ist stark, soweit sie das Bekenntnis zur Demokratie trifft: Wer den Protest auf einen Mangel an Demokratie zurückführt, löscht die Negation durch das Ideal wieder aus. Sie sagt nicht, ob das Moment selbst, das der GSP mit „immerhin“ einräumt, ein Ansatzpunkt für Aufklärung ist. Die Frage hat dieselbe Form wie 2.3 bis 2.5: Folgt aus der Funktion einer Einrichtung, dass sie für die Betroffenen nichts anderes sein kann?
 
 ### 6.3 Konflikte, die nicht aus dem Eigentum stammen
 
-**Bewertung: gegen die Moralbestimmung trägt eingeschränkt, gegen die Staatstheorie schwach.** Teil I, Abschnitt 12, bestimmt Moral allgemein als zustimmende Stellung zu Interessengegensätzen; Teil IV vermerkte bisher, es fehle ein bestimmter Gegenfall. Die Stelle steht in dem Text, aus dem die Bestimmung stammt. Der Gegensatz der Interessen sei „kein zufälliges Nicht-Zusammen-Passen von Interessen“ nach dem Muster der Staatsbürgerkunde, laute Musik gegen die Ruhe des Nachbarn; „Allgegenwärtig und notwendig ist er nur in der Gesellschaft des Privateigentums“ (GS 1-11). Der GSP räumt also Gegensätze ein, die nicht aus dem Eigentum stammen, und sagt nicht, ob ein Gebot der Rücksicht in ihnen Moral in seinem Sinn ist. Die Hausarbeit zu Anarchismus und Habermas fragt von der anderen Seite: Wie halten Menschen ohne Staat Regeln ein, und wie legen sie Konflikte bei? Für die Staatstheorie ist das kein Einwand. Sie braucht nur den notwendigen Gegensatz, und wo es ihn nicht gibt, braucht es nach dem GSP auch keine gewaltsame Klammer (GS 1-03); diesen Bedingungssatz teilen die Anarchisten. Für die Moralbestimmung genügt das nicht, weil sie von jedem Gebot der Rücksicht spricht. Dass der GSP keine Benimmregeln für danach ausdenken will (GS 1-11), begründet, warum er nicht antwortet, und ist keine Antwort.
+**Bewertung: gegen die Moralbestimmung trägt eingeschränkt, gegen die Staatstheorie schwach; Gewicht gering.** Teil I, Abschnitt 12, bestimmt Moral allgemein als zustimmende Stellung zu Interessengegensätzen; Teil IV vermerkte bisher, es fehle ein bestimmter Gegenfall. Die Stelle steht in dem Text, aus dem die Bestimmung stammt. Der Gegensatz der Interessen sei „kein zufälliges Nicht-Zusammen-Passen von Interessen“ nach dem Muster der Staatsbürgerkunde, laute Musik gegen die Ruhe des Nachbarn; „Allgegenwärtig und notwendig ist er nur in der Gesellschaft des Privateigentums“ (GS 1-11). Der GSP räumt also Gegensätze ein, die nicht aus dem Eigentum stammen, und sagt nicht, ob ein Gebot der Rücksicht in ihnen Moral in seinem Sinn ist. Die Hausarbeit zu Anarchismus und Habermas fragt von der anderen Seite: Wie halten Menschen ohne Staat Regeln ein, und wie legen sie Konflikte bei? Für die Staatstheorie ist das kein Einwand. Sie braucht nur den notwendigen Gegensatz, und wo es ihn nicht gibt, braucht es nach dem GSP auch keine gewaltsame Klammer (GS 1-03); diesen Bedingungssatz teilen die Anarchisten. Für die Moralbestimmung genügt das nicht, weil sie von jedem Gebot der Rücksicht spricht. Dass der GSP keine Benimmregeln für danach ausdenken will (GS 1-11), begründet, warum er nicht antwortet, und ist keine Antwort.
 
 ### 6.4 Kommt das Interesse danach?
 
-**Bewertung: trägt, mit 2.6.** Der GSP erklärt das falsche Bewusstsein als Urteil der Geschädigten über ihr Mittel, und an der Widerlegbarkeit dieses Urteils hängt die Praxis des Überzeugens (Teil I, Abschnitt 13). Der Anti-Ödipus behauptet das Gegenteil: Eine leidenschaftliche Bindung an das gesellschaftliche Feld gehe dem Urteil über das Interesse voraus, »Interest always comes after«. Im logischen Punkt ist der GSP stärker. Ein Begehren, das sich nach dem Buch nicht täuschen kann, ist der Kritik entzogen, und das ist der Fehler, den der GSP der Psychologie vorhält (GS 2-18, GS 4-96). Die Zweideutigkeit liegt aber in seinem eigenen Text. Das Volk sage zu seiner Lage nicht Ja und nicht Nein, sondern Wir: „Es nimmt nicht Stellung, sondern *identifiziert sich*“, es begegne den Realitäten „mit dem festen idealistischen Vorurteil“ und halte „gegen alle schlechten Erfahrungen“ an seinem Standpunkt fest (GS 1-06). Wenn das ein Urteil ist, dann eines, das gegen Erfahrung und Argument hält, und das ist der Fall, für den der Anti-Ödipus seinen Begriff erfindet. Tausend Plateaus nimmt den Trieb zurück und nennt das Begehren eingerichtet; damit rückt die Gegenthese an die „zweite Natur“ heran, die der GSP selbst beschreibt. Offen ist, was die Identifikation von einer Bindung vor dem Urteil unterscheidet und wie ein festes Vorurteil abgelegt wird.
+**Bewertung: trägt, mit 2.6; Gewicht hoch.** Der GSP erklärt das falsche Bewusstsein als Urteil der Geschädigten über ihr Mittel, und an der Widerlegbarkeit dieses Urteils hängt die Praxis des Überzeugens (Teil I, Abschnitt 13). Der Anti-Ödipus behauptet das Gegenteil: Eine leidenschaftliche Bindung an das gesellschaftliche Feld gehe dem Urteil über das Interesse voraus, »Interest always comes after«. Im logischen Punkt ist der GSP stärker. Ein Begehren, das sich nach dem Buch nicht täuschen kann, ist der Kritik entzogen, und das ist der Fehler, den der GSP der Psychologie vorhält (GS 2-18, GS 4-96). Die Zweideutigkeit liegt aber in seinem eigenen Text. Das Volk sage zu seiner Lage nicht Ja und nicht Nein, sondern Wir: „Es nimmt nicht Stellung, sondern *identifiziert sich*“, es begegne den Realitäten „mit dem festen idealistischen Vorurteil“ und halte „gegen alle schlechten Erfahrungen“ an seinem Standpunkt fest (GS 1-06). Wenn das ein Urteil ist, dann eines, das gegen Erfahrung und Argument hält, und das ist der Fall, für den der Anti-Ödipus seinen Begriff erfindet. Tausend Plateaus nimmt den Trieb zurück und nennt das Begehren eingerichtet; damit rückt die Gegenthese an die „zweite Natur“ heran, die der GSP selbst beschreibt. Offen ist, was die Identifikation von einer Bindung vor dem Urteil unterscheidet und wie ein festes Vorurteil abgelegt wird.
+
+Zwei weitere Texte stützen die Frage von verschiedenen Seiten. Hegel beschreibt die Gesinnung als Gewohnheit, die aus den Einrichtungen des Staates kommt (§ 268; siehe 2.6); danach wäre die Identifikation kein Urteil, das dem Mitmachen vorausgeht, sondern dessen Ergebnis. Baudrillards schweigende Massen beschreiben dasselbe Nichtstellungnehmen und deuten es als Verweigerung; er kann aber Gleichgültigkeit von Einverständnis nicht unterscheiden, und die Erfahrung mit der Politikverdrossenheit, die der GSP als Ruf nach besserer Führung erklärt (GS 3-93), spricht dafür, dass das „Wir“ ein Urteil mit Inhalt ist. Die Beispiele aus dem Streitgespräch über die Rechte sprechen ebenfalls für den GSP: Der Nationalismus tritt dort mit Begründung auf.
 
 ### 6.5 Organisationen mit richtigem Zweck
 
-**Bewertung: offen als Frage; eine Lücke im Material, kein Einwand gegen einen Satz.** Der GSP beurteilt Organisationen nach ihrem Zweck: das Kommunistische Manifest nach seinem Begriff vom Verhältnis der Arbeiter zum Staat (GS 2-98), die Gewerkschaft danach, dass sie den Lohn an den Erfolg des Kapitals bindet. Tausend Plateaus fragt unter dem Namen Mikrofaschismus, was in Organisationen schiefgeht, deren Zweck richtig ist, und zielt ausdrücklich auf linke Gruppen. Einen Begriff dafür hat das Buch nicht, nur Regeln der Vorsicht. Der GSP hat an einer Stelle einen Maßstab: Stalin hätte die Alternativen klarstellen, Fehler kritisieren und „gemeinsame Einsichten und Konsens über eine gewählte Vorgehensweise herstellen“ können, statt seine Gegner als Abweichler vom Auftrag der Geschichte hinzustellen (GS 4-17). Den Fehler führt er auf eine falsche Lehre zurück, den Geschichtsmoralismus. Ob es solche Fehler auch bei richtiger Lehre gibt, sagt er nicht, obwohl er selbst schreibt, eine Gewerkschaft brauche eine entschlossene Führung (GS 3-24). Wie eine nötige Führung sich nicht verselbständigt, wird mit 2.2 wichtig: Wenn Einsicht für gemeinsames Handeln nicht reicht, braucht es Organisation.
+**Bewertung: offene Frage; eine Lücke im Material, kein Einwand gegen einen Satz. Gewicht mittel.** Der GSP beurteilt Organisationen nach ihrem Zweck: das Kommunistische Manifest nach seinem Begriff vom Verhältnis der Arbeiter zum Staat (GS 2-98), die Gewerkschaft danach, dass sie den Lohn an den Erfolg des Kapitals bindet. Tausend Plateaus fragt unter dem Namen Mikrofaschismus, was in Organisationen schiefgeht, deren Zweck richtig ist, und zielt ausdrücklich auf linke Gruppen. Einen Begriff dafür hat das Buch nicht, nur Regeln der Vorsicht. Der GSP hat an einer Stelle einen Maßstab: Stalin hätte die Alternativen klarstellen, Fehler kritisieren und „gemeinsame Einsichten und Konsens über eine gewählte Vorgehensweise herstellen“ können, statt seine Gegner als Abweichler vom Auftrag der Geschichte hinzustellen (GS 4-17). Den Fehler führt er auf eine falsche Lehre zurück, den Geschichtsmoralismus. Ob es solche Fehler auch bei richtiger Lehre gibt, sagt er nicht, obwohl er selbst schreibt, eine Gewerkschaft brauche eine entschlossene Führung (GS 3-24). Wie eine nötige Führung sich nicht verselbständigt, wird mit 2.2 wichtig: Wenn Einsicht für gemeinsames Handeln nicht reicht, braucht es Organisation.
+
+### 6.6 Bildet das Kapital die Bedürfnisse?
+
+**Bewertung: offene Frage; Gewicht mittel.** Der GSP verwirft die Erklärung, die Leute würden von Werbung und Medien manipuliert: Täuschung und Manipulation setzen Subjekte voraus, die diesen Zweck haben, und Käufer, die urteilen. Zugleich schreibt er, die Reklamekonzerne arbeiteten daran, sich „der Bedürfnisnatur der erreichten Kundschaft zu bemächtigen, nämlich diese Natur en gros und en detail nach ihren Verkaufsbedürfnissen zu bilden“ (GS 3-19), und der Handel daran, „mittels Werbung das Ideal der Manipulation wahr zu machen“ (GS 2-21). Ein Widerspruch ist das nicht: Das eine ist die Absicht der Unternehmen, das andere die Erklärung, die der GSP ablehnt. Offen ist, wie weit die Absicht gelingt. Wenn die Bildung gelingt, ist zu fragen, was an dem so gebildeten Bedürfnis Urteil des Käufers ist. Wenn sie nicht gelingt, was „bilden“ dann heißt. Die Frage ist verwandt mit 2.6 und 6.4: Wieder geht es darum, ob etwas, das der GSP als Urteil fasst, eingerichtet werden kann, ohne dass der Betroffene urteilt. Baudrillards Theorie des Konsums als Zeichensystem ist die Gegenposition; sie endet in einer Logik ohne Subjekt, die der GSP zu Recht zurückweist, und ist hier nur aus einer Rückschau des Autors bekannt (Akte 38).
+
+## 7. Ein zweites Muster: Was der Zweck nicht bestimmt
+
+Die Leitfrage aus Abschnitt 1 betrifft den Schritt von der Bestimmung eines Verhältnisses zum Bewusstsein und Handeln der Beteiligten. Die Durchsicht aller Einwände am 10. November 2026 zeigt eine zweite Form, die davon unabhängig ist:
+
+> Wo beansprucht eine Erklärung aus dem Zweck mehr Bestimmtheit (Maß, Zeitpunkt, Häufigkeit, Träger, Form), als der Zweck hergibt?
+
+Der GSP zieht diese Grenze selbst. Für den Sozialstaat sagt er, wie der Staat den Notwendigkeiten Rechnung trägt, sei „weder ausgemacht noch aus ihr deduzierbar“ (GS 2-16). An anderen Stellen schreibt er, als folge die bestimmte Gestalt aus dem Zweck, oder er lässt die Frage aus:
+
+| Abschnitt | Begründet ist | Darüber hinaus beansprucht oder offen |
+|---|---|---|
+| 3.2 Krise | dass Überakkumulation aus der Konkurrenz folgt | dass sie periodisch eintritt |
+| 3.3 Geldentwertung | dass nicht verwerteter Kredit das Geld belastet | dass er es „allemal“ entwertet |
+| 3.1 Wachstum | dass der Zweck der Vermehrung kein Maß hat | dass Kapital „nur“ wachsend besteht |
+| 3.8 Lohn | dass ein Überangebot den Lohn drückt | dass er „schrankenlos“ fällt |
+| 4.2 Klima | dass Klimapolitik Energiepolitik ist | dass sie damit „deckungsgleich“ ist |
+| 6.1 Lage und Schluss | dass der nationalistische Schluss ein Fehler ist | warum er so regelmäßig verteilt ist |
+| 4.3 Geschlecht | dass die Familie unter Lohnarbeit eine Arbeitsteilung fortsetzt | warum die Rolle den Frauen zufällt |
+| 4.4 Rassismus als Recht | dass der Staat sortiert und die Konkurrenzmoral ausgrenzt | wann die Sortierung Recht wird und wen sie trifft |
+| 4.5 Strafe | dass der Staat straft | wie viel und in welcher Form |
+
+Das ist kein Einwand gegen die Erklärung aus dem Zweck. Es ist ein Maßstab für die Lektüre: Wo der GSP ein „nur“, „allemal“, „schrankenlos“ oder „deckungsgleich“ setzt, ist zu prüfen, ob der Text es begründet oder ob es eine Zuspitzung ist. In den geprüften Fällen war es meist eine Zuspitzung, die der GSP an anderer Stelle selbst zurücknimmt. Das Muster erklärt auch, warum die externen Autorinnen (Davis, Haraway, Harding, Fritz) an denselben Stellen ansetzen: Sie fragen nach Maß, Träger und Geschichte, wo der GSP den Grund nennt. Ihre eigenen Antworten halten seiner Kritik meist nicht stand; die Fragen bleiben.
 
 ---
 
@@ -640,13 +707,13 @@ Eine Theorie kann nicht nur an falschen Sätzen scheitern, sondern auch daran, d
 
 **Psychologie des bürgerlichen Individuums.** Selbstbewusstsein, Ehre, Anerkennung, Liebe und Glück behandelt der GSP in einem eigenen Buch, das seinen Gegenstand in zwölf Paragraphen entwickelt. In den Artikeln kommen davon nur Bruchstücke vor, meist in Antworten auf Leserbriefe. Gerade die stärksten Einwände in Teil III (Gewohnheit, Fortwirkung eines verworfenen Urteils, Einsicht und Handlungsfähigkeit) führen hierher. Solange das Buch nicht gelesen ist, bleibt offen, ob es die Lücke schließt, auf die sie zeigen. Die externen Texte nennen drei Gegenstände, zu denen die Sammlungen nichts haben: die Sexualität, die Psychiatrie als Institution und klinisches Material, an dem sich der Satz prüfen ließe, der Übergang in die Verrücktheit verdanke sich Verstandes- und Willensleistungen. Der Anti-Ödipus gibt außerdem einen weiteren Grund, das Buch zu lesen: die Stärke und Dauer der leidenschaftlichen Bindung an die Herrschaft (Teil III, 6.4).
 
-**Geschlecht und Identität.** Zur Lage der Frau gibt es im Wesentlichen einen Artikel (GS 4-19); Feminismus und Identitätspolitik kommen kaum vor. Was der GSP zur Familie unter Lohnarbeit sagt, ist ausgearbeitet; warum die Familienrolle der Frau zufällt, ist benannt, aber nicht abgeleitet (Teil III, 4.3). Wendy Brown zeigt, dass schon das Bild des homo oeconomicus die unbezahlte Familienarbeit stillschweigend voraussetzt; warum sie den Frauen zufällt, leitet auch sie nicht ab.
+**Geschlecht und Identität.** Der systematische Text ist GS 4-19 („Die Frau im Kapitalismus“). Daneben gibt es mehr, als eine frühere Fassung dieses Abschnitts sagte: zur Frauenquote (GS 2-15), zum Sexualstrafrecht (GS 3-16), zu Frauenpolitik und Familie (GS 3-11, GS 1-00, GS 2-07, GS 2-12, GS 3-92), zur Sprachkritik (GS 4-06) und zur Bevölkerungspolitik (GS 4-93, GS 4-94). Was fehlt, ist nicht Material, sondern eine Ableitung: Was der GSP zur Familie unter Lohnarbeit sagt, ist ausgearbeitet; warum die Familienrolle der Frau zufällt, ist benannt, aber nicht abgeleitet (Teil III, 4.3). Kein Text verbindet Geschlecht und Rassismus, keiner behandelt Körper und Schönheitsnormen oder das Verhältnis von Frauen untereinander, das Sophia Fritz beschreibt. Wendy Brown zeigt, dass schon das Bild des homo oeconomicus die unbezahlte Familienarbeit stillschweigend voraussetzt; warum sie den Frauen zufällt, leitet auch sie nicht ab.
 
 **Einzelne Wissenschaften.** Popper, die Volkswirtschaftslehre, die Geschichtswissenschaft und Habermas werden kritisiert. Für Philosophie, Soziologie, Politologie, Rechtswissenschaft und Psychologie als Fächer gibt es keine eigenen Begründungsgänge, nur verstreute Bemerkungen. Die These, die bürgerliche Wissenschaft rechtfertige, statt zu erklären, ist für diese Fächer deshalb behauptet, nicht vorgeführt. Auch die Habermas-Kritik (GS 3-09) behandelt vor allem die frühen Schriften; *Faktizität und Geltung* wird einmal zitiert, die Diskursethik gar nicht. Zu Foucault gibt es eine Fußnote, zu Deleuze und Guattari, Reich, Marcuse, Clastres, Polanyi und Kalecki nichts.
 
 **Religion.** Die allgemeine Bestimmung des religiösen Bedürfnisses stützt sich im Wesentlichen auf einen Artikel (GS 2-05). Die übrigen Texte behandeln Kirchen und Islam im Verhältnis zu bestimmten Staaten. Bevor man das Ergebnis verallgemeinert, wären weitere Texte zu suchen.
 
-**Kultur.** Es gibt einen essayistischen Text, keine Theorie der Kunst oder der Unterhaltung.
+**Kultur.** Es gibt einen essayistischen Text, keine Theorie der Kunst oder der Unterhaltung. Mode, Marken und Konsum als Mittel der Unterscheidung, Bild und Ästhetik kommen nicht vor; Baudrillard macht daraus eine Theorie, die der GSP nur in ihrem Ergebnis kritisieren könnte.
 
 **Moral überhaupt.** Der GSP bestimmt Moral allgemein als zustimmende Stellung zu den Interessengegensätzen, in denen man steht: Man verlangt sich und anderen Rücksicht auf einen Gegensatz ab, statt ihn zu kritisieren. Untersucht hat er aber bestimmte Moralvorstellungen, etwa Gerechtigkeit, Toleranz, Ethik und Kriegsmoral. Ob *jedes* moralische Urteil ein solches Gebot der Rücksicht ist und ob jeder Gegensatz, auf den es sich bezieht, aus dem Eigentum stammt, ist eine Gültigkeitsfrage. Einen Gegenfall gibt der Text selbst, aus dem die Bestimmung stammt: GS 1-11 räumt Gegensätze ein, die nicht aus dem Eigentum stammen, und sagt nicht, was die Rücksicht in ihnen ist (Teil III, 6.3).
 
@@ -660,9 +727,13 @@ Eine Theorie kann nicht nur an falschen Sätzen scheitern, sondern auch daran, d
 
 **Wandel der Herrschaftstechnik.** Governance, Benchmarking und die Verwaltung nach dem Muster der Firma, die Wendy Brown beschreibt, kommen beim GSP nur als Rechtfertigung vor: Eigenverantwortung als Legitimation von Kürzungen und Opfern (GS 3-93, GS 2-20). Wie sich die Verwaltung selbst umbaut, untersucht er nicht; Foucaults Vorlesungen zur Gouvernementalität kommen nicht vor.
 
-**Sprache und Technik.** Eine Theorie der Sprache gibt es in den Sammlungen nicht, nur eine Antwort zur Sprachhygiene (GS 4-06). Wie Medien, Plattformen und Technik die Leute einbinden, behandelt der GSP als Öffentlichkeit und Ideologie. Tausend Plateaus behandelt es als Befehl, der nicht geglaubt werden muss, und als maschinelle Einbindung.
+**Sprache und Technik.** Eine Theorie der Sprache gibt es in den Sammlungen nicht, nur eine Antwort zur Sprachhygiene (GS 4-06). Wie Medien, Plattformen und Technik die Leute einbinden, behandelt der GSP als Öffentlichkeit und Ideologie. Tausend Plateaus behandelt es als Befehl, der nicht geglaubt werden muss, und als maschinelle Einbindung, Baudrillard als Form, die Aufmerksamkeit und Zeit verändert, gleich was gesendet wird. Daran hängt eine Frage an die eigene Praxis des GSP: wie Aufklärung in einer übersättigten Öffentlichkeit ankommt (Teil III, 2.2).
 
 **Gesellschaften ohne Staat.** Für staatenlose und vorkapitalistische Gesellschaften hat der GSP keine eigene Bestimmung. Die Hausarbeit beruft sich auf ethnologische Befunde zu Gesellschaften ohne Zentralgewalt (Amborn), Tausend Plateaus auf Clastres. Gebraucht würde das für die Frage, wie Konflikte ohne Gewaltmonopol geregelt werden (Teil III, 6.3).
+
+**Strafvollzug und Rassismus als Recht.** Zur Strafe gibt es die allgemeine Bestimmung (Teil I, Abschnitt 7) und verstreute Texte, aber keine Untersuchung des Strafvollzugs, seiner Formen und seines Wachstums. Zum Rassismus gibt es die Erklärung aus der Moral der Konkurrenz und des Volks; die Zeit, in der er in einer bürgerlichen Demokratie Rechtslage war (der Süden der USA bis 1965), behandelt kein Text (Teil III, 4.4 und 4.5).
+
+**Naturwissenschaften im Einzelnen.** Der GSP hält die Naturwissenschaften für erfolgreich und nennt als Störung nur „sachfremde Gründe“ wie die Auftragslage (GS 4-13). Die feministische Wissenschaftstheorie bringt Fälle, in denen ein Vorurteil in den Inhalt eingegangen ist (Primatenforschung, Immunologie, Krebsforschung). Der GSP hat dazu keinen Text; seine Pharmakritik (GS 2-01) behandelt das Geschäft, nicht die Fragestellung (Teil III, 5.4).
 
 ## 2. Grenzen der Quellen
 
@@ -763,13 +834,15 @@ Ein Punkt ist für Teil III wichtig. Die eigene Formel des GSP im Leserbrief „
 
 Die Fußnote des GSP trifft dabei eine schwächere Fassung des Realismus. Mearsheimers offensiver Realismus behauptet nicht, Kriege entstünden aus Missverständnissen; er behauptet, dass Staaten ihre relative Macht maximieren, weil sie sich der Absichten der anderen nicht sicher sein können. Die Unsicherheit ist bei ihm eine Eigenschaft der Lage, kein Irrtum. Der eigentliche Streit ist ein Vergleich der Erklärungskraft: Erklärt der wirtschaftliche Inhalt, also Märkte, Kredit, Währung, die Außenpolitik besser als die Verteilung der Macht? Die Analysen des GSP zu Dollar, Europa und Sanktionen zeigen, wie eng ökonomische und militärische Konkurrenz verflochten sind; das vernachlässigt der Realismus. Der Realismus erklärt dafür das Bündnisverhalten von Staaten unabhängig von ihrer Wirtschaftsordnung, etwa der Sowjetunion, mit demselben Schema; der GSP braucht dafür eine eigene Bestimmung der sozialistischen Staatsräson.
 
-**Weitere Positionen aus den externen Texten.** Die Auswertungen externer Texte (Teil II, Abschnitt 6) haben vier weitere Theorien von Staat und Herrschaft herangezogen. Sie sind hier kürzer behandelt, weil der GSP zu den meisten keinen eigenen Text hat.
+**Weitere Positionen aus den externen Texten.** Die Auswertungen externer Texte (Teil II, Abschnitt 6) haben fünf weitere Theorien von Staat und Herrschaft herangezogen. Sie sind hier kürzer behandelt, weil der GSP zu den meisten keinen eigenen Text hat.
 
 *Foucault und Brown.* Michel Foucault beschreibt den Neoliberalismus als Regierungskunst, die den Wettbewerb nicht vorfindet, sondern herstellt und die Einzelnen als Unternehmer ihrer selbst regiert; Wendy Brown folgert daraus, dass diese Vernunft den Demos auflöst. Der GSP hat zu Foucault nur eine Fußnote (GS 2-19). Dass der Staat den Markt herstellt, ist bei ihm die Bestimmung des bürgerlichen Staates überhaupt, keine neue Regierungskunst, und die Eigenverantwortung kritisiert er seit 1993 als Rechtfertigung von Opfern (GS 3-93). In der Beschreibung der Techniken ist Brown deutlich stärker (Teil IV, Abschnitt 1). Beim Faschismus ist der GSP konsistenter, weil Brown unbeabsichtigte Wirkungen braucht, wo bei ihm der Zusammenhang aus der Räson folgt (Teil II, Abschnitt 6). Ihr Gegenmittel, das demokratische Ideal, ist das, was der GSP als affirmativ kritisiert (Teil III, 6.2).
 
 *Anarchismus.* Die anarchistische Tradition kritisiert den Staat als Herrschaft überhaupt und will Ordnung ohne Zwangsapparat. Der GSP setzt sich mit ihr am Beispiel Noam Chomskys auseinander (GS 4-12): Chomsky messe Demokratie und Marktwirtschaft daran, ob sie Freiheit verwirklichen, und lande als Anarchist bei der Unterstützung des Staates gegen die Konzerne, ein „gelungener Crashkurs über die Zusammengehörigkeit von radikalem Idealismus und beinharter Affirmation“. Zu anarchistischen Rechtstheorien und zur Ethnologie staatenloser Gesellschaften gibt es nichts. Beide teilen den Satz, dass es ohne notwendigen Gegensatz keine gewaltsame Klammer braucht (GS 1-03). Der Anarchismus fragt, wie Regeln dann gelten und Konflikte beigelegt werden, und nennt dafür Material; der GSP lehnt diese Frage als Benimmregeln für den neuen Menschen ab (Teil III, 6.3). Er sagt dafür, woher die Machtanhäufung kommt, gegen die das anarchistische Recht schützen soll: aus der ausschließenden Verfügung über Reichtum, die nur durch Gewalt gilt.
 
 *Habermas.* Habermas will Herrschaft durch Verständigung rechtfertigen: Gültig ist, worauf sich die Betroffenen in einem zwanglosen Diskurs einigen könnten, und das Recht soll nicht nur Zwang sein, sondern durch anerkannte Geltungsansprüche integrieren. Der GSP (GS 3-09) wendet ein, dass das Kriterium der Wahrheit damit ein moralisches wird und dass Habermas den Zwang nicht aufhebt, sondern in Einsicht verwandelt: Man entkommt der Autorität nicht, aber man kann sie „zu einem gewaltloseren Zwang veredeln, indem man sich rational zur Anpassung entscheidet“. Die Demokratie sei bei ihm „die Rechtfertigung von Herrschaft durch das Verfahren organisierter Zustimmung des beherrschten Volkes“. In der Darstellung der späten Rechtstheorie und der Diskursethik ist die Literatur weiter als GS 3-09, der vor allem die frühen Schriften behandelt. In der Beurteilung ist der GSP stärker, weil er sagt, wozu die Verwandlung von Zwang in Einsicht taugt.
+
+*Hegel.* Hegels Rechtsphilosophie ist die einzige der externen Quellen, die der GSP selbst als Zeugen behandelt: Hegel sei eine Erklärung der Moral gelungen, er habe das moralische Treiben aber befürwortet, weil er dessen Bedeutung für den Staat schätzte (GS 1-95). In der Beschreibung des bürgerlichen Staates stimmen beide weit überein: Das Recht kennt den Menschen als Person und Eigentümer, Gleichheit gilt nur für die abstrakte Person und schließt die Ungleichheit des Vermögens ein, die Strafe stellt das Recht wieder her, der Staat ist keine Schutzanstalt für Leben und Eigentum, sondern fordert beides im Krieg. Die Unterscheidung von Citoyen und Bourgeois ist über Marx' Hegel-Kritik in den GSP gekommen (GS 2-98). Der Gegensatz liegt im Grund. Für Hegel ist all das die Wirklichkeit der Freiheit, und Zwang kommt erst als Antwort auf Unrecht ins Spiel; für den GSP ist es ein Gewaltverhältnis, und Hegels eigener Text spricht an den entscheidenden Stellen von Gewalt (Notstand, das grundlose »Ich will« des Monarchen, Krieg, Staatsgründung). In der Begründung ist der GSP stärker. Stärker ist Hegel in der Beschreibung der Gesinnung (§ 268; Teil III, 2.6 und 6.4) und darin, dass er Armut und Pöbel als notwendiges Erzeugnis des Reichtums fasst (§§ 243–245) und das Maß der Strafe für nicht ableitbar erklärt (§ 214; Teil III, 4.5).
 
 *Deleuze und Guattari: Vereinnahmungsapparat und Axiomatik.* Tausend Plateaus beschreibt den Staat als Vereinnahmungsapparat, dessen Gewalt das Recht zur Abschöpfung gleich mit setzt, und den Kapitalismus als Axiomatik, die Regeln hinzufügt und wegnimmt, ohne an einen Glauben gebunden zu sein. Einen GSP-Text dazu gibt es nicht. In den Befunden ist die Nähe groß: Die Gewalt geht dem Markt voraus, Geld ist eine Gewaltfrage, der Weltmarkt überschreitet die Staaten und kommt ohne sie nicht aus. Der Unterschied liegt im Zweck. Das Buch beschreibt einen Mechanismus ohne Subjekt und erzählt ihn als Genealogie vom Urstaat bis heute; der GSP gibt den Zweck an, aus dem sich erklärt, wofür der Staat seine Bürger benutzt. Zugleich schreibt das Buch dem Fluss des Geldes eine Macht zu, die keiner Regierung zugänglich sei; das ist die Legende von der Ohnmacht der Politik, gegen die der GSP schreibt. Es zeigt aber eine Stelle, an der der GSP mehr erklären müsste: Wenn der Staat über die Bedingungen des Geschäfts gebietet und in der Krise gegenüber dessen Ergebnis ohnmächtig ist (GS 4-02), was heißt dann, dass seine Macht das Wachstum zur Grundlage hat (Teil I, Abschnitt 7)?
 
@@ -780,6 +853,8 @@ Die Fußnote des GSP trifft dabei eine schwächere Fassung des Realismus. Mearsh
 **Was der GSP einwendet.** Zu keinem dieser Autoren gibt es in den Sammlungen einen Text. Der Einwand lässt sich aus der allgemeinen Psychologiekritik übertragen. Die Psychologie erkläre, was der Mensch mit Willen und Bewusstsein tut, „als durch ein ihm unbewusstes Eigenleben seiner Seele determiniert“, und schiebe dem Unbewussten Leistungen des Urteilens unter (GS 2-18). Wer den Leuten Bewusstlosigkeit attestiere, richte sich nicht mehr an sie: „Wie ein Psychiater unter Kollegen definiert er für sein Publikum die Bezirke der Unbewußtheit dritter“ (GS 4-96). Gegen die Verführungsthese teilt der GSP das Ergebnis: Die Faschismusforschung verrätsele das Zusammenspiel von Führung und patriotischer Gesinnung „mit den Zauberkräften von Manipulation, Verführung und Terror“ (GS 2-05).
 
 **Vergleich.** Im logischen Punkt ist der GSP stärker. Ein Begehren, das sich nicht täuschen kann, wie der Anti-Ödipus sagt, lässt keine Kritik zu, und eine Revolution aus Begehren statt aus Einsicht sieht kein Überzeugen vor. In der Sache, auf die diese Theorien zeigen, sind sie stärker: dass die Bindung an die Herrschaft leidenschaftlich ist, dass sie dauert und gegen Einsicht hält. Der GSP räumt die Fortwirkung selbst ein und erklärt sie nicht (Teil III, 2.6), und seine Beschreibung des Volks, das nicht Stellung nimmt, sondern sich identifiziert, liegt näher an der Gegenthese, als er zugibt (Teil III, 6.4). Mit Tausend Plateaus wird der Abstand kleiner, denn ein eingerichtetes Begehren ist der „zweiten Natur“ verwandt, von der der GSP spricht. Der Streit geht dann nicht mehr um Urteil oder Trieb, sondern darum, ob das Eingerichtete die Form eines Urteils hat, das sich durch Argumente lösen lässt.
+
+**Postmoderne und Simulation.** Neben den Theorien des Begehrens steht eine verwandte Gruppe, die im Projekt an Baudrillard geprüft ist: An die Stelle von Subjekt, Zweck und Kritik treten Zeichen, Medien und eine Logik ohne Subjekt. In den Befunden über Werbung, Netz und Selbstdarstellung kommen Baudrillard und der GSP auf Sätze, die fast gleich lauten. Der GSP ist stärker, wo er den Mechanismus angeben kann (wer an der Kommunikation verdient, warum mehr Information die Gegensätze nicht löst), und im logischen Punkt: Eine Theorie, die sich gegen Prüfung ausdrücklich verwahrt, trägt ihre Zeitdiagnose trotzdem als Befund vor. Baudrillard ist stärker als Beschreiber der Medienform, zu der der GSP nichts hat (Teil IV, Abschnitt 1), und er stößt auf die Frage, wie weit die Bildung der Bedürfnisse durch das Kapital gelingt (Teil III, 6.6). Einen eigenen Text zu Baudrillard, Lyotard oder Virilio hat der GSP nicht.
 
 ## 9. Was der Vergleich zeigt
 
@@ -796,11 +871,15 @@ Die Fußnote des GSP trifft dabei eine schwächere Fassung des Realismus. Mearsh
 | Anarchismus | ohne notwendigen Gegensatz keine gewaltsame Klammer | Herrschaft überhaupt statt Eigentum als Grund | Frage nach Regeln und Konfliktlösung ohne Staat, ethnologisches Material | woher Machtanhäufung kommt |
 | Habermas | Recht ist auch Zwang | Rechtfertigung von Herrschaft durch Verständigung | späte Rechts- und Diskurstheorie | wozu die Verwandlung von Zwang in Einsicht taugt |
 | Deleuze und Guattari (Tausend Plateaus) | Gewalt vor dem Markt; der Staat schöpft ab, was er einrichtet | Mechanismus ohne Zweck, Genealogie statt Bestimmung | Fragen nach Mikrofaschismus in Organisationen und nach dem Kampf um Axiome | Zweck des Staates; keine Legende von der Ohnmacht der Politik |
+| Hegel (Rechtsphilosophie) | Person, Eigentum, Strafe, Krieg; der Staat ist keine Schutzanstalt | Freiheit statt Gewalt als Grund des Rechts | Gesinnung als Gewohnheit aus Einrichtungen; Armut als Erzeugnis des Reichtums | Grund des Rechts; Zweck des Staates |
+| Feministische Wissenschaftstheorie (Longino, Intemann, Wylie, Haraway, Harding) | Wissenschaft ist nicht interesselos; Kritik der Betroffenheit als Erkenntnisquelle (in den neueren Fassungen) | Werte als Teil der Begründung statt Interesse als Anlass | Entdeckung von Tatsachen, Fälle aus den Naturwissenschaften, Zusammensetzung der Forschergemeinschaft | kein Paradox der Parteilichkeit: Der Fehler wird am Argument gezeigt |
+| Davis | Rassismus und Strafe gehören zur bürgerlichen Ordnung, nicht zu ihren Auswüchsen | Nutzen für die Kapitalisten statt Moral der Konkurrenz und Zweck des Staates | Geschichte: Rassismus als Recht, Strafvollzug, Geschlecht und Rassismus zusammen | warum Rassismus fortbesteht, wenn Staat und Kapital ihn nicht brauchen |
+| Baudrillard | Absage an die Manipulation; Befunde über Werbung, Netz, Selbstdarstellung | Logik ohne Subjekt statt Zweck | Beschreibung der Medienform; Frage nach der Bildung der Bedürfnisse | wer an der Kommunikation verdient; eine Theorie, die sich prüfen lässt |
 | Theorien des Begehrens | keine Verführung, die Massen wollten | Begehren vor dem Interesse statt Urteil | Stärke und Dauer der Bindung an die Herrschaft | Kritisierbarkeit; Inhalt der Bindung |
 
 Drei Muster fallen auf. Gegenüber der bürgerlichen Ökonomie (Neoklassik, Keynes, Schumpeter) liegt die Stärke des GSP darin, nach Zweck und Verteilung zu fragen, ihre Stärke in quantitativen Aussagen und in der Dynamik von Kredit und Konjunktur. Das sind genau die Stellen, an denen Teil III den GSP offen fand: die Periodizität der Krise, die Wertgröße, das Bankgeld. Gegenüber den anderen Marxismen unterscheidet sich der GSP durch sein Beharren auf Interesse und Wille, gegen die Geschichtsgesetze des ML ebenso wie gegen den Systemautomatismus bei Heinrich und Kurz; seine Leitfigur, die Trennung von Gehalt und Motiv einer Handlung (Teil I, Abschnitt 14), steht zwischen beiden Lagern. Und seine deutlichste Schwäche im Vergleich ist dieselbe, die Teil III gefunden hat: Der ML hatte eine Lehre vom Übergang, der GSP hat eine Kritik dieser Lehre, aber keine eigene.
 
-Die Positionen, die aus den externen Texten hinzugekommen sind, bestätigen das dritte Muster. Brown, die Anarchisten und Deleuze und Guattari stellen Fragen nach Praxis, Organisation und Bindung, die der GSP nicht ausführt. Eine Antwort, die seiner Kritik standhält, geben sie selbst nicht.
+Die Positionen, die aus den externen Texten hinzugekommen sind, bestätigen das dritte Muster. Brown, die Anarchisten und Deleuze und Guattari stellen Fragen nach Praxis, Organisation und Bindung, die der GSP nicht ausführt. Eine Antwort, die seiner Kritik standhält, geben sie selbst nicht. Die Texte, die bis November 2026 dazugekommen sind, zeigen ein viertes: Davis, die feministische Wissenschaftstheorie und Fritz fragen nach Maß, Träger und Geschichte einer Einrichtung, wo der GSP ihren Grund nennt (Teil III, Abschnitt 7). Hegel ist der einzige, der an einer Stelle, bei der Gesinnung, einen Begriff hat, wo der GSP eine Beschreibung hat.
 
 # Teil VI: Bilanz
 
@@ -810,28 +889,31 @@ Nach allen bisherigen Prüfungen ist die Grundtheorie des GSP nicht widerlegt: w
 
 ## 2. Die offenen Fragen nach ihrem Gewicht
 
-1. **Die Frage nach den Mitteln** (Teil III, 2.1). Die Antwort von 2004 kennt den Zweifel an den Ursachen und den Unwillen, nicht den Zweifel an den Kräften. Der Punkt ist der stärkste, weil er dort ansetzt, wo der GSP am meisten will: dass aus seiner Kritik eine Praxis folgt.
-2. **Einsicht und Handlungsfähigkeit** (2.2). Dass eine Kritik stimmt, macht die Gründe, mitzumachen, noch nicht hinfällig, solange niemand sonst aufhört. Die Koordination fehlt als Gegenstand.
-3. **Gewohnheit und Fortwirkung** (2.6). Was wirkt, wenn das Urteil, aus dem eine Gewohnheit kommt, verworfen ist? Der GSP legt die Zweideutigkeit selbst an.
-4. **Wahl** (2.5). Der GSP trennt den Gehalt der Stimmabgabe vom Motiv der Wähler. Offen ist, ob für den, der das weiß, der Unterschied der Programme trotzdem zählen darf.
-5. **Nationale Befreiung und Besatzung** (2.3, 2.4). Reale Verbesserungen werden zugestanden und zugleich entwertet. Bei der Besatzung ist nur noch der freiwillige Schutz offen, der kein Opfer für die Nation ist.
-6. **Periodizität der Krise** (3.2). Der Mechanismus ist begründet, die Regelmäßigkeit festgesetzt.
-7. **Wertgröße und Preis** (3.6). Wie die Bezifferung durch den Erlös zu den Größen steht, mit denen der GSP sonst arbeitet.
-8. **Wachstum** (3.1) und **Geldentwertung** (3.3). Das „nur“ des Wachstums gilt für das Vermögen, für das Unternehmen unter einer Annahme; die Notwendigkeit der Entwertung ist 2018 schwächer gefasst und am eigenen Maß prüfbar.
-9. **Fragen aus externen Texten** (6.1 bis 6.5). Am schwersten wiegt 6.4, weil es an dieselbe Stelle führt wie 2.6: ob die Bindung an die Nation ein Urteil ist, das sich durch Kritik lösen lässt. 6.2 und 6.5 gehören zu 2.2, 6.1 gehört zu 2.6, 6.3 zur Moralbestimmung.
+Die Reihenfolge ist am 10. November 2026 neu bestimmt worden. Sie folgt dem Gewicht (wie viel vom Anspruch des GSP an der Frage hängt) und innerhalb desselben Gewichts dem Befund (Teil III, Abschnitt 1).
 
-Die Punkte 1 bis 5 haben eine gemeinsame Form, und für sie gilt eine gemeinsame Einschränkung: Der GSP schließt nicht aus der Funktion einer Handlung auf das Motiv der Handelnden. Er trennt beides ausdrücklich. Offen ist bei allen fünf etwas anderes: ob aus der Funktion folgt, dass die Handlung für die Handelnden keinen eigenen Grund hat, und ob die richtige Erklärung schon die Gründe aufhebt, aus denen man weiter mitmacht.
+1. **Einsicht und Handlungsfähigkeit** (Teil III, 2.2), mit der **Frage nach den Mitteln** (2.1). Dass eine Kritik stimmt, macht die Gründe, mitzumachen, noch nicht hinfällig, solange niemand sonst aufhört; die Koordination fehlt als Gegenstand. Die Antwort von 2004 kennt den Zweifel an den Ursachen und den Unwillen, nicht den Zweifel an den Kräften. Der Komplex steht an erster Stelle, weil er dort ansetzt, wo der GSP am meisten will: dass aus seiner Kritik eine Praxis folgt. Bisher stand 2.1 vorn; 2.2 ist der allgemeinere und besser belegte Punkt, 2.1 seine Fassung im Briefwechsel.
+2. **Urteil, Gewohnheit, Bindung** (2.6, 6.4, dazu 6.6). Was wirkt, wenn das Urteil, aus dem eine Gewohnheit kommt, verworfen ist? Ist die Bindung an die Nation ein Urteil, das sich durch Kritik lösen lässt? Der GSP legt die Zweideutigkeit selbst an. Hegels Begriff der Gesinnung als Gewohnheit aus Einrichtungen (§ 268) ist die erste Gegenposition, die nicht bei einem Begehren landet, das sich der Kritik entzieht.
+3. **Wertgröße und Preis** (3.6). Wie die Bezifferung durch den Erlös zu den Größen steht, mit denen der GSP sonst arbeitet. Eine offene Frage, kein nachgewiesener Fehler; sie wiegt schwer, weil sie den Grundbegriff betrifft.
+4. **Wahl** (2.5) und **nationale Befreiung** (2.3). Der GSP trennt den Gehalt einer Handlung vom Motiv. Offen ist, ob für den, der das weiß, der Unterschied der Programme zählen darf, und warum reale Verbesserungen zugestanden und zugleich entwertet werden.
+5. **Krise, Wachstum, Geldentwertung** (3.2, 3.1, 3.3). Der Mechanismus ist jeweils begründet; die Regelmäßigkeit, das „nur“ und das „allemal“ sind gesetzt (Teil III, Abschnitt 7).
+6. **Lage und Schluss** (6.1). Die Gegenrede erklärt die Richtung des nationalistischen Schlusses, nicht seine Häufigkeit; der GSP hält die Häufung selbst fest.
+7. **Methode** (5.1, 5.2, 5.4). Woran scheitert ein Schluss, der sauber nachvollzogen ist? Woran eine Lageanalyse? Welches Interesse verdirbt das Urteil? Keine dieser Fragen weist einen Fehler nach; zusammen zeigen sie, dass der GSP sein Verfahren weniger ausführt als seine Ergebnisse.
+8. **Bereiche, in denen benannt, aber nicht abgeleitet ist** (4.3, 4.4, 4.5, 6.5): Familienrolle der Frau, Rassismus als Recht, Maß der Strafe, Fehler in Organisationen mit richtigem Zweck.
+9. **Enge Punkte** (2.4, 6.2, 6.3, 4.2): Sie tragen, betreffen aber je eine Stelle.
+
+Die Punkte 1, 2 und 4 folgen der ersten Leitfrage, und für sie gilt eine gemeinsame Einschränkung: Der GSP schließt nicht aus der Funktion einer Handlung auf das Motiv der Handelnden. Er trennt beides ausdrücklich. Offen ist etwas anderes: ob aus der Funktion folgt, dass die Handlung für die Handelnden keinen eigenen Grund hat, und ob die richtige Erklärung schon die Gründe aufhebt, aus denen man weiter mitmacht. Die Punkte 5, 6 und 8 folgen der zweiten Leitfrage: Der Zweck ist begründet, das Maß oder der Träger nicht.
 
 ## 3. Was diese Fragen entscheiden würde
 
-- **Für die Punkte 1 und 2:** eine Antwort des GSP auf den Zweifel an den Kräften, also auf die Frage, ob die Betroffenen die Gewalt, auf der die Verhältnisse beruhen, jetzt brechen können; und eine Erörterung, wie Gleichberechtigte zwischen konkurrierenden Bedürfnissen entscheiden. Vermutlich steht dazu mehr in der Organisationsgeschichte und in „Das Proletariat“ als in den Artikeln.
-- **Für Punkt 3:** das Psychologiebuch.
-- **Für die Punkte 4 und 5:** der MSZ-Text von 1985 zur nationalen Befreiung, eine GSP-Analyse der vietnamesischen Befreiung und Texte zur Praxis der Besatzung; an der Wahl die Frage, ob der GSP einen Fall kennt, in dem der Unterschied zwischen Regierungsprogrammen für die Betroffenen viel ausmacht, und was daraus für ihr Verhalten folgt.
-- **Für Punkt 6:** Zusatz 3 in „Das Finanzkapital II“.
-- **Für Punkt 7:** eine Stelle, die die Bezifferung durch den Erlös mit dem Wert der Arbeitskraft und dem Maß im Quantum Arbeit vermittelt; vermutlich im Buch „Das Finanzkapital“ oder in Antworten auf Leserbriefe zur Werttheorie.
-- **Für Punkt 8:** Fälle von Geschäften, die auf Dauer rentabel sind, ohne sich auszudehnen; und Japan seit den 1990er Jahren, gemessen an Staatsschuld, Steueraufkommen und Kapitalwachstum.
-- **Für die Lageanalysen:** ein Vergleich früherer Diagnosen (Japan 1993, Russland in den 1990er Jahren, Iran 2020) mit späteren Texten zu denselben Ländern. Erst daran lässt sich zeigen, ob der GSP Urteile korrigiert, wenn sie scheitern, oder das Scheitern als Änderung des Gegenstands deutet.
-- **Für Punkt 9:** GS 1-06 im Ganzen, ob die Identifikation dort als Urteil entwickelt wird; die Wahlanalysen, auf die Weber sich stützt, an der Quelle geprüft; ethnologische Untersuchungen zu Gesellschaften ohne Zentralgewalt; eine Erklärung des Verlags zur Auflösung der MG 1991, falls es sie gibt.
+- **Für Punkt 1:** eine Antwort des GSP auf den Zweifel an den Kräften, also auf die Frage, ob die Betroffenen die Gewalt, auf der die Verhältnisse beruhen, jetzt brechen können; und eine Erörterung, wie Gleichberechtigte zwischen konkurrierenden Bedürfnissen entscheiden. Vermutlich steht dazu mehr in der Organisationsgeschichte und in „Das Proletariat“ als in den Artikeln.
+- **Für Punkt 2:** das Psychologiebuch; GS 1-06 im Ganzen, ob die Identifikation dort als Urteil entwickelt wird; Hegels Enzyklopädie §§ 409–410 an einer Ausgabe.
+- **Für Punkt 3:** eine Stelle, die die Bezifferung durch den Erlös mit dem Wert der Arbeitskraft und dem Maß im Quantum Arbeit vermittelt; vermutlich im Buch „Das Finanzkapital“ oder in Antworten auf Leserbriefe zur Werttheorie.
+- **Für Punkt 4:** der MSZ-Text von 1985 zur nationalen Befreiung, eine GSP-Analyse der vietnamesischen Befreiung; an der Wahl die Frage, ob der GSP einen Fall kennt, in dem der Unterschied zwischen Regierungsprogrammen für die Betroffenen viel ausmacht, und was daraus für ihr Verhalten folgt.
+- **Für Punkt 5:** Zusatz 3 in „Das Finanzkapital II“; Fälle von Geschäften, die auf Dauer rentabel sind, ohne sich auszudehnen; Japan seit den 1990er Jahren, gemessen an Staatsschuld, Steueraufkommen und Kapitalwachstum.
+- **Für Punkt 6:** die Wahlanalysen, auf die Weber und Friedrich sich stützen, an der Quelle geprüft.
+- **Für Punkt 7:** ein Vergleich früherer Diagnosen (Japan 1993, Russland in den 1990er Jahren, Iran 2020) mit späteren Texten zu denselben Ländern; und ein Fall aus den Naturwissenschaften, an dem der GSP zeigt, wie ein Vorurteil in eine Fragestellung kommt, das weder kommerziell noch privater Ehrgeiz ist.
+- **Für Punkt 8:** ein GSP-Text zum Süden der USA vor 1965 oder zur Geschichte des Familienrechts; eine Erklärung des Verlags zur Auflösung der MG 1991, falls es sie gibt.
+- **Für Punkt 9:** Texte zur Praxis der Besatzung; ethnologische Untersuchungen zu Gesellschaften ohne Zentralgewalt.
 
 ## 4. Was man daraus mitnehmen kann
 
@@ -863,42 +945,46 @@ Wer den GSP verstehen will, findet in Teil I und II eine Theorie, die in ihren G
 
 # Übersicht über die Einwände
 
-Die Nummern sind die Aktennummern der Prüfungen im Projekt; sie dienen nur der Zuordnung. „Abschnitt“ verweist auf Teil III, bei erledigten Einwänden auf Teil II.
+Die Nummern sind die Aktennummern der Prüfungen im Projekt (Ordner `angriffspunkte/`); sie dienen nur der Zuordnung. „Abschnitt“ verweist auf Teil III, bei erledigten Einwänden auf Teil II. Befund und Gewicht sind in Teil III, Abschnitt 1, erklärt. Stand: 10. November 2026.
 
-| Nr. | Einwand | Bewertung | Abschnitt |
-|---|---|---|---|
-| 01 | Wo beginnt der Fehler beim Gelderwerb? | schwach bis mittel | 2.7 |
-| 02 | Frage nach den Mitteln als Unwille gedeutet | trägt eingeschränkt, stärkster Punkt | 2.1 |
-| 03 | Fortwirkung eines Urteils, Entschluss als Erklärung | trägt, mit 24 | 2.6 |
-| 04 | Iran 2020 gegenüber 2025 und 2026 | zurückgestellt, als Widerlegung nicht tragfähig | 5.3 |
-| 05 | Abstufungen im notwendig falschen Bewusstsein | aufgegangen in 01 | 2.7 |
-| 06 | Interessenkritik und Zweckkritik | schwach | 2.8 |
-| 07 | Woran eine Lageanalyse scheitern könnte | als Vorwurf schwach, als Frage berechtigt | 5.2 |
-| 08 | Bewusstsein und Gewalt als Gründe des Bestands | erledigt | Teil II, 4 |
-| 09 | Produktivität, Wert und relativer Mehrwert | schwach bis eingeschränkt | 3.7 |
-| 10 | „Schrankenloser“ Lohnverfall | schwach | 3.8 |
-| 11 | Recht ist, was der Staat tut | schwach | 4.1 |
-| 12 | Tipps an alle Konkurrenten | schwach | 3.8 |
-| 13 | Kann Erfahrung eine Theorie prüfen? | offen als Gültigkeitsfrage | 5.1 |
-| 14 | Bankgeld als Geldersatz | schwach | 3.5 |
-| 15 | Geldentwertung aus nicht verwertetem Kredit | trägt eingeschränkt | 3.3 |
-| 16 | Kapitalverwertung ohne Wachstum | trägt eingeschränkt | 3.1 |
-| 17 | Fall der Profitrate | für die Fassung von 2010 erledigt | 3.8 |
-| 18 | Klimaschutz und Energiepolitik | trägt eingeschränkt | 4.2 |
-| 19 | Von der Konkurrenz zur Krise, Periodizität | trägt eingeschränkt | 3.2 |
-| 20 | Wechselkurs als Inflationsvergleich | schwach | 3.4 |
-| 21 | Kapital aus der Differenz | schwach | 3.8 |
-| 22 | Nationale Befreiung | trägt eingeschränkt | 2.3 |
-| 23 | Widerstand gegen Besatzung | trägt eingeschränkt, eng | 2.4 |
-| 24 | Gewohnheit als praktiziertes Urteil | trägt | 2.6 |
-| 25 | Einsicht und Handlungsfähigkeit | trägt | 2.2 |
-| 26 | Wahl als Ermächtigung | trägt eingeschränkt | 2.5 |
-| 27 | Lage und Schluss: Häufigkeit des nationalistischen Schlusses | trägt eingeschränkt, als Lücke | 6.1 |
-| 28 | Ideelle Negation im demokratischen Protest | trägt eingeschränkt, eng | 6.2 |
-| 29 | Konflikte ohne Eigentum | gegen die Moralbestimmung trägt eingeschränkt | 6.3 |
-| 30 | Kommt das Interesse danach? | trägt, mit 24 | 6.4 |
-| 31 | Organisationen mit richtigem Zweck | offen als Frage | 6.5 |
-| – | Wertgröße und Preis | trägt, als offene Frage | 3.6 |
-| – | Ist jeder Staatskredit Geldschöpfung? | offen | 3.5 |
-| – | Familienrolle der Frau | offen, benannt, nicht abgeleitet | 4.3 |
-| – | Die gescheiterten Einwände (Maßstab, Determinismus, Zirkel, zwei Oberzwecke und andere) | erledigt | Teil II, 4 |
+| Nr. | Einwand | Befund | Gewicht | Abschnitt |
+|---|---|---|---|---|
+| 01 | Wo beginnt der Fehler beim Gelderwerb? | schwach | mittel | 2.7 |
+| 02 | Frage nach den Mitteln als Unwille gedeutet | trägt eingeschränkt | hoch | 2.1 |
+| 03 | Fortwirkung eines Urteils, Entschluss als Erklärung | trägt, mit 24 | hoch | 2.6 |
+| 04 | Iran 2020 gegenüber 2025 und 2026 | schwach, zurückgestellt | gering | 5.3 |
+| 05 | Abstufungen im notwendig falschen Bewusstsein | erledigt, aufgegangen in 01 | – | 2.7 |
+| 06 | Interessenkritik und Zweckkritik | schwach | gering | 2.8 |
+| 07 | Woran eine Lageanalyse scheitern könnte | offene Frage | mittel | 5.2 |
+| 08 | Bewusstsein und Gewalt als Gründe des Bestands | erledigt | – | Teil II, 4 |
+| 09 | Produktivität, Wert und relativer Mehrwert | schwach | gering | 3.7 |
+| 10 | „Schrankenloser“ Lohnverfall | schwach | gering | 3.8 |
+| 11 | Recht ist, was der Staat tut | schwach | gering | 4.1 |
+| 12 | Tipps an alle Konkurrenten | schwach | gering | 3.8 |
+| 13 | Kann Erfahrung eine Theorie prüfen? | offene Frage | mittel | 5.1 |
+| 14 | Bankgeld als Geldersatz | schwach | gering | 3.5 |
+| 15 | Geldentwertung aus nicht verwertetem Kredit | trägt eingeschränkt | mittel | 3.3 |
+| 16 | Kapitalverwertung ohne Wachstum | trägt eingeschränkt | mittel | 3.1 |
+| 17 | Fall der Profitrate | erledigt für die Fassung von 2010 | – | 3.8 |
+| 18 | Klimaschutz und Energiepolitik | trägt eingeschränkt | gering | 4.2 |
+| 19 | Von der Konkurrenz zur Krise, Periodizität | trägt eingeschränkt | mittel | 3.2 |
+| 20 | Wechselkurs als Inflationsvergleich | schwach | gering | 3.4 |
+| 21 | Kapital aus der Differenz | schwach | gering | 3.8 |
+| 22 | Nationale Befreiung | trägt eingeschränkt | mittel | 2.3 |
+| 23 | Widerstand gegen Besatzung | trägt eingeschränkt, eng | gering | 2.4 |
+| 24 | Gewohnheit als praktiziertes Urteil | trägt | hoch | 2.6 |
+| 25 | Einsicht und Handlungsfähigkeit | trägt | hoch | 2.2 |
+| 26 | Wahl als Ermächtigung | trägt eingeschränkt | mittel | 2.5 |
+| 27 | Lage und Schluss: Häufigkeit des nationalistischen Schlusses | trägt eingeschränkt, als Lücke | mittel | 6.1 |
+| 28 | Ideelle Negation im demokratischen Protest | trägt eingeschränkt, eng | gering | 6.2 |
+| 29 | Konflikte ohne Eigentum | trägt eingeschränkt, gegen die Moralbestimmung | gering | 6.3 |
+| 30 | Kommt das Interesse danach? | trägt, mit 24 | hoch | 6.4 |
+| 31 | Organisationen mit richtigem Zweck | offene Frage | mittel | 6.5 |
+| 32 | Welches Interesse verdirbt das Urteil? | offene Frage | mittel | 5.4 |
+| 33 | Familienrolle der Frau | offene Frage; benannt, nicht abgeleitet | mittel | 4.3 |
+| 34 | Wertgröße und Preis | offene Frage | hoch | 3.6 |
+| 35 | Ist jeder Staatskredit Geldschöpfung? | offene Frage | gering | 3.5 |
+| 36 | Rassismus als Recht: Braucht das Kapital den Rassismus? | offene Frage | mittel | 4.4 |
+| 37 | Maß und Form der Strafe | offene Frage | gering | 4.5 |
+| 38 | Bildet das Kapital die Bedürfnisse? | offene Frage | mittel | 6.6 |
+| – | Die gescheiterten Einwände (Maßstab, Determinismus, Zirkel, zwei Oberzwecke und andere) | erledigt | – | Teil II, 4 |
