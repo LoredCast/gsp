@@ -4,7 +4,7 @@ Eine Rekonstruktion aus Zeitschriftenartikeln, nach Themen geordnet. Dritte, üb
 
 ## Zum Verfahren
 
-**Quellenbasis.** Grundlage sind ausschließlich die 16 thematischen Artikelsammlungen im Projektordner (Dateien 2 bis 17; Datei 1 ist eine Provenienznotiz, Datei 18 ein chronologisches Register, das nicht als Beleg dient): Texte aus der Zeitschrift GegenStandpunkt von 1992 bis 2026. Die Bücher des Verlags (etwa „Die Psychologie des bürgerlichen Individuums“ oder „Das Proletariat“) liegen nicht vor; sie kommen nur vor, soweit die Zeitschrift sie abdruckt, bespricht oder in Antworten auf Zuschriften erläutert. Wo ein Thema in der Zeitschrift nur am Rand behandelt wird, ist das auch hier dünn, zum Beispiel die Psychologie des bürgerlichen Individuums (15.4) oder die Lage der Frau, für die im Wesentlichen ein einziger Artikel vorliegt (GS 4-19, in 8.7).
+**Quellenbasis.** Grundlage sind ausschließlich die 16 thematischen Artikelsammlungen in `sources/` (Dateien 2 bis 17; Datei 1 ist eine Provenienznotiz, Datei 18 ein chronologisches Register, das nicht als Beleg dient): Texte aus der Zeitschrift GegenStandpunkt von 1992 bis 2026. Die Bücher des Verlags (etwa „Die Psychologie des bürgerlichen Individuums“ oder „Das Proletariat“) liegen nicht vor; sie kommen nur vor, soweit die Zeitschrift sie abdruckt, bespricht oder in Antworten auf Zuschriften erläutert. Wo ein Thema in der Zeitschrift nur am Rand behandelt wird, ist das auch hier dünn, zum Beispiel die Psychologie des bürgerlichen Individuums (15.4) oder die Lage der Frau, für die im Wesentlichen ein einziger Artikel vorliegt (GS 4-19, in 8.7).
 
 **Gattungen.** Zitiert werden 1508 Stellen aus 408 Texten. Die meisten (1255 Zitate) stammen aus Artikeln der Redaktion. Außerdem stammen Zitate aus diesen Gattungen, die jeweils in der Quellenangabe ausgewiesen sind:
 
@@ -112,7 +112,7 @@ Marxisten kritisieren den Normalfall, statt das Elend zur Ausnahme zu erklären.
 
 > „Das Elend kommt dann nicht von der Herrschaft des Kapitals, sondern von einem Mangel an Kapital.“ — „Leserbrief: Warum sind viele Menschen in den Entwicklungsländern arm?“, GS 4-03 (2003), Antwort der Redaktion auf Leserbrief, Abschnitt „… und ein Kommentar zur Frage“
 
-### 1.4 Falsche Immanenz: „gut gemeint, schlecht gemacht“
+### 1.4 Falsche Immanenz: ‚gut gemeint, schlecht gemacht‘
 
 Die gängige „immanente“ Kritik beansprucht, mit dem Begriff der Sache zu argumentieren, unterstellt ihr aber vorab einen guten, allgemein verträglichen Zweck und legt ihre Schäden dessen mangelhafter Verwirklichung zur Last. Zustimmung zum Zweck und Ablehnung des Gebrauchs stecken in einem Urteil. Ihre Ideale stammen selbst aus dem Fundus der Idealisierungen der kritisierten Realität; deshalb mündet sie in Parteinahme für die herrschende Gewalt.
 

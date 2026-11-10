@@ -1,6 +1,8 @@
 # 27 Lage und Schluss: Wenn aus der Lage nichts folgt, warum ist der Schluss so regelmäßig verteilt?
 
-**Status:** offen · **Stärke:** trifft eine Lücke, keinen Fehler; der GSP hat eine Gegenrede, die die Richtung des Schlusses erklärt, aber nicht seine Häufigkeit, und er macht selbst Aussagen, die vom Grad der Schädigung abhängen · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt, als Lücke · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft eine Lücke, keinen Fehler; der GSP hat eine Gegenrede, die die Richtung des Schlusses erklärt, aber nicht seine Häufigkeit, und er macht selbst Aussagen, die vom Grad der Schädigung abhängen. Gestützt durch GS 2-26, das die Häufung selbst festhält.
 
 ## These
 
@@ -48,6 +50,12 @@ Der Punkt bestreitet nicht, dass die Lage den Schluss nicht erzwingt. Das zeigen
 - GS 1-93 im Ganzen lesen, besonders die Abschnitte „Anspruchsdenken“ und „Ich-Schwäche“: Gibt es dort eine Stelle, die die Verteilung der drei Typen erklärt?
 - `rg -n -i "Arbeitslose.{0,80}(rechts|wähl)|Protestwähl|Modernisierungsverlierer" sources/`
 - GS 2-92 „Ausländerhass“ und GS 1-25 „Migration“ auf Aussagen über die soziale Lage der Ausländerfeinde durchsehen.
+
+## Außenstimmen aus externen Texten
+
+- **Die Häufung beim GSP selbst.** GS 2-26 hält fest, dass die AfD Zuspruch findet „besonders unter den einfachen Arbeitern“ (`sources/6-…:57554`). Der GSP kennt also die Verteilung und erklärt den Inhalt des Schlusses, nicht seine Häufigkeit.
+- **Bender und Friedrich** ([Auswertung](../extern/bender-friedrich-aufstieg-rechte/auswertung.md)): Friedrich nennt 40 bis 60 Prozent AfD-Wähler unter Arbeitern in Nachwahlbefragungen (Z. 1578–1584), Bender macht vier Krisen zum Auslöser des Wachstums (Z. 1410–1448); beide Zahlen sind hier nicht nachgeprüft. Friedrichs Berliner Beispiel wäre eine Probe auf die Gegenrede: Wenn eine andere Polarisierung Arbeiter zurückgewinnt, spricht das dafür, dass der Schluss angeboten und angenommen wird und nicht aus der Lage folgt. Benders Persönlichkeitsprofile sind die stärkste empirische Fassung der psychologischen Erklärung; die Gegenrede ist, dass ein Merkmal nicht sagt, was jemand denkt.
+- **Harding, Whose Science?** ([Auswertung](../extern/harding-whose-science/auswertung.md)): Eine mögliche Antwort auf die Frage der Akte: Die Lage bestimmt nicht den Schluss, aber das Interesse, mit dem jemand an ihn herangeht, und damit, ob er Belege sucht oder abwehrt. Das ist mit dem GSP verträglich, wenn man es als Aussage über Häufigkeiten liest, nicht über Notwendigkeit.
 
 ## Herkunft
 

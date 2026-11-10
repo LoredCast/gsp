@@ -778,7 +778,7 @@ Woran man die dritte Lesart erkennt, sagt der Zusatz: »In der Bestimmtheit soll
 
 ## 11. Bezug zum GSP und zur Hegel-Auswertung des Projekts
 
-Der GSP hat keinen Text zu den §§ 5–7, zu Kants Ethik, zu Fichte oder zu Wood. Was er sagen würde, ist hier aus Texten zum freien Willen, zur Moral und zum Terrorismus erschlossen und als **Ableitung** markiert, wo es über die Belege hinausgeht. Die Hegel-Auswertung des Projekts (`extern/hegel/auswertung.md` im Projektordner) behandelt die ganze RPh mit Blick auf Staat, Recht und Moral; ihr Abschnitt 2.6 (Moral) ist der nächste Bezugspunkt. Dieses Papier ergänzt sie um die Einleitung und um die Moralität aus der Sicht von Woods Lesart.
+Der GSP hat keinen Text zu den §§ 5–7, zu Kants Ethik, zu Fichte oder zu Wood. Was er sagen würde, ist hier aus Texten zum freien Willen, zur Moral und zum Terrorismus erschlossen und als **Ableitung** markiert, wo es über die Belege hinausgeht. Die Hegel-Auswertung des Projekts ([Auswertung der Grundlinien](../hegel-grundlinien-rechtsphilosophie/auswertung.md)) behandelt die ganze RPh mit Blick auf Staat, Recht und Moral; ihr Abschnitt 2.6 (Moral) ist der nächste Bezugspunkt. Dieses Papier ergänzt sie um die Einleitung und um die Moralität aus der Sicht von Woods Lesart.
 
 ### 11.1 Was der GSP unter freiem Willen versteht
 

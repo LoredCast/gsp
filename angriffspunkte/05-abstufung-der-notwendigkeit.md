@@ -1,6 +1,8 @@
 # 05 „Nicht ganz so notwendig“: Abstufungen im falschen Bewusstsein
 
-**Status:** offen; im Brief nicht mehr eigener Punkt, aufgegangen in [01](01-erwerbsquelle-und-kalkulation.md) · **Stärke:** gegen Stefans Antwort treffend, gegen die Theorie allein noch kein Einwand · **Stand:** 12.10.2026
+**Status:** abgeschlossen, aufgegangen in [01](01-erwerbsquelle-und-kalkulation.md) · **Befund:** erledigt · **Gewicht:** – · **Stand:** 10.11.2026
+
+**Einschätzung:** Gegen Stefans Antwort treffend, gegen die Theorie allein noch kein Einwand.
 
 ## These
 

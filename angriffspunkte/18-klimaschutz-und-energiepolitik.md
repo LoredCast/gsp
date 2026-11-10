@@ -1,6 +1,8 @@
 # 18 Klimaschutz „deckungsgleich“ mit Energiepolitik?
 
-**Status:** offen · **Stärke:** als Aussage über den Sachgegenstand falsch, als Aussage über Staatszwecke eine offene Ausschließlichkeitsbehauptung · **Stand:** 12.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Als Aussage über den Sachgegenstand falsch, als Aussage über Staatszwecke eine offene Ausschließlichkeitsbehauptung.
 
 ## These
 

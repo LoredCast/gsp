@@ -1,6 +1,8 @@
 # 31 Organisationen mit richtigem Zweck: Gibt es Fehler, die nicht aus einem falschen Zweck kommen?
 
-**Status:** offen · **Stärke:** trifft eine Lücke im Material, keinen Satz; der GSP hat an einer Stelle selbst einen Maßstab für das Innenleben einer Partei, führt ihn aber auf eine falsche Lehre zurück · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** offene Frage · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft eine Lücke im Material, keinen Satz; der GSP hat an einer Stelle selbst einen Maßstab für das Innenleben einer Partei, führt ihn aber auf eine falsche Lehre zurück.
 
 ## These
 
@@ -48,6 +50,10 @@ Dieser Punkt ist verwandt mit [25](25-einsicht-und-handlungsfaehigkeit.md): Wenn
 - Texte zu Gewerkschaftsführung und Basis (GS 3-24, GS 3-03 IG Metall) auf Aussagen zur Verselbständigung von Führungen lesen.
 - Ob der Verlag zur Auflösung der MG 1991 eine Erklärung veröffentlicht hat, die nicht in den Sammlungen steht.
 
+## Außenstimmen aus externen Texten
+
+- **Tausend Plateaus, Zeichenregime** ([Auswertung](../extern/deleuze-tausend-plateaus-zeichenregime/auswertung.md)): Mary Barnes in Kingsley Hall, eine antipsychiatrische Gemeinschaft, in der die Deutung als kollektiver Wahn zurückkehrt (Z. 112); das signifikante Regime in »political parties« (Z. 28); die Behauptung, der Fall des Leninismus in die stalinistische Organisation sei »inevitable« gewesen (Z. 114). Das Plateau gibt für keinen der Fälle einen Grund an.
+
 ## Herkunft
 
-Vorgeschlagen in der Auswertung zu *Tausend Plateaus* (`extern/deleuze-tausend-plateaus/auswertung.md`, PR #16), Abschnitt 4, Vorschlag 2; dort Abschnitt 2.2. Vorbereitet in der [Auswertung zum Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.10 (unterworfene Gruppen, Kap. 2.2, Z. 870). Angelegt am 16.10.2026; die Stelle aus GS 4-17 ist bei der Anlage als Gegenrede gefunden worden.
+Vorgeschlagen in der Auswertung zu *Tausend Plateaus* ([Auswertung](../extern/deleuze-tausend-plateaus/auswertung.md)), Abschnitt 4, Vorschlag 2; dort Abschnitt 2.2. Vorbereitet in der [Auswertung zum Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.10 (unterworfene Gruppen, Kap. 2.2, Z. 870). Angelegt am 16.10.2026; die Stelle aus GS 4-17 ist bei der Anlage als Gegenrede gefunden worden.

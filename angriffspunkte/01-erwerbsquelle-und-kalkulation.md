@@ -1,6 +1,8 @@
 # 01 Wo beginnt der Fehler beim Gelderwerb?
 
-**Status:** in der Korrespondenz (Frage 1 im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md)) · **Stärke:** mittel · **Stand:** 12.10.2026
+**Status:** in der Korrespondenz (Frage 1 im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md)) · **Befund:** schwach · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Eine Präzisierung beantwortet den Einwand: GS 2-08 gesteht das Vergleichen von Angeboten zu. Offen ist nur, wo die Grenze zwischen dem zugestandenen Vergleich und dem bestrittenen Kalkulieren liegt. Als Frage an Stefan bleibt der Punkt sinnvoll, weil die Antwort den Begriff des notwendig falschen Bewusstseins genauer macht.
 
 ## These
 

@@ -1,6 +1,8 @@
 # 14 Ist Giralgeld nur „Geldersatz“?
 
-**Status:** offen · **Stärke:** begriffliche Frage; der GSP nennt selbst einen Fall, an dem der Unterschied sichtbar wird · **Stand:** 13.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Begriffliche Frage; der GSP nennt selbst einen Fall, an dem der Unterschied sichtbar wird.
 
 ## These
 

@@ -1,6 +1,6 @@
 # 08 Bewusstsein und Gewalt: Woran hängt der Bestand?
 
-**Status:** als Widerspruch geklärt; der Rest steckt in [02](02-alternativen-und-motivschluss.md) · **Stand:** 12.10.2026
+**Status:** abgeschlossen; der Rest steckt in [02](02-alternativen-und-motivschluss.md) · **Befund:** erledigt · **Gewicht:** – · **Stand:** 10.11.2026
 
 ## Ursprüngliche These
 
@@ -19,6 +19,11 @@ Aus „ohne verändertes Bewusstsein keine Überwindung“ folgt nicht „durch 
 ## Was davon übrig ist
 
 Der Übergang von der Einsicht zur gemeinsamen Gegenwehr: Welche Mittel, Risiken und Entscheidungsfragen entstehen dabei, und wie behandelt der GSP Fragen danach? Das ist Punkt [02](02-alternativen-und-motivschluss.md).
+
+## Außenstimmen aus externen Texten
+
+- **Haraway, Cyborg Manifesto** ([Auswertung](../extern/haraway-cyborg-manifesto/auswertung.md)): Die Marxismen sähen die Herrschaft gut und verstünden die Zustimmung schlecht (Z. 307). Der Einwand trifft Theorien, die den Bestand allein aus der Gewalt erklären; der GSP sagt, er hänge an beidem (Kern 1.5).
+- **Hegel, Rechtsphilosophie** ([Auswertung](../extern/hegel-grundlinien-rechtsphilosophie/auswertung.md)): Hegels Gegenthese lautet, Zwang sei Folge, nicht Grund des Rechts (§§ 92–94), und ein Staat, der nur auf Gehorsam beruht, sei wacklig. Sein eigener Text braucht die Gewalt aber an den entscheidenden Stellen (§ 278 Anm., § 279, § 350).
 
 ## Herkunft
 

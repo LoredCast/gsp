@@ -1,6 +1,8 @@
 # 03 Psychologie: Ist eine fortbestehende Wirkung ein Widerspruch?
 
-**Status:** offen, nicht Teil der laufenden Korrespondenz · **Stärke:** trifft einen bestimmten Schluss, eröffnet aber ein eigenes Thema · **Stand:** 16.10.2026
+**Status:** offen, nicht Teil der laufenden Korrespondenz · **Befund:** trägt, mit [24](24-gewohnheit-als-praktiziertes-urteil.md) zu lesen · **Gewicht:** hoch · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft einen bestimmten Schluss, eröffnet aber ein eigenes Thema. Die Frage nach dem Fortbestand ist in [24](24-gewohnheit-als-praktiziertes-urteil.md) genauer gefasst.
 
 ## These
 
@@ -43,6 +45,7 @@ Dass die Erklärung des Lesers stimmt, dass psychologische Kausaltheorien überh
 
 - **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.10): Der GSP sagt, der Übergang in die Verrücktheit verdanke sich Verstandes- und Willensleistungen der Person. Das ist an keinem klinischen Material geprüft. Deleuze und Guattari argumentieren ausdrücklich aus der Klinik der Schizophrenie; einer der beiden arbeitete in einer psychiatrischen Klinik. Ihre Gegenthese (das Begehren besetzt das Feld vor dem Urteil) trifft der GSP-Einwand gegen die Psychologie (Anti-Ödipus-Auswertung, 2.2), ihr Material nicht. Psychische Krankheit und Psychiatrie als Institution fehlen in den Sammlungen ([forschungsfelder.md](forschungsfelder.md)).
 - Die Frage, ob die Bindung an die Nation überhaupt als Urteil entsteht, steht jetzt in [30](30-kommt-das-interesse-danach.md).
+- **Sophia Fritz, Toxische Weiblichkeit** ([Auswertung](../extern/fritz-toxische-weiblichkeit/auswertung.md)): Ihr Kindheitsmodell (Verhalten, das als Kind gelernt wurde und sich hält) ist das der Zuschrift, auf die GS 2-18 antwortet; ein zweites Beispiel für den Fall dieser Akte.
 
 ## Herkunft
 

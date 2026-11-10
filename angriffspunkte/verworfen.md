@@ -1,6 +1,10 @@
 # Verworfene Einwände
 
-Einwände, die einer Prüfung nicht standgehalten haben, mit dem Grund. Sie stehen hier, damit sie nicht noch einmal vorgebracht werden. Fast alle stammen aus den [Ausgangsbriefen](../korrespondenz/2026-10-03-ausgangsbriefe.md) oder aus [Entwurf v1](../korrespondenz/entwuerfe/antwort-an-stefan-v1.md).
+Einwände, die einer Prüfung nicht standgehalten haben, mit dem Grund. Sie stehen hier, damit sie nicht noch einmal vorgebracht werden. Die erste Tabelle enthält Einwände aus dem Briefwechsel; fast alle stammen aus den [Ausgangsbriefen](../korrespondenz/2026-10-03-ausgangsbriefe.md) oder aus [Entwurf v1](../korrespondenz/entwuerfe/antwort-an-stefan-v1.md). Die zweite enthält Einwände aus den [Auswertungen externer Texte](../extern/README.md).
+
+Die Einwände gegen einzelne Sätze der Theorie (aus den Reviews und Prüfungen der Rekonstruktion) stehen im [Kern](../theorie/GSP-Kern.md) unter ‚Einwände, die sich nicht lohnen‘. Beide Listen zusammen sind vor einem neuen Brief und vor einer neuen Akte zu lesen.
+
+## Aus dem Briefwechsel
 
 | Einwand | Warum er nicht hält | Geprüft in |
 |---|---|---|
@@ -16,3 +20,20 @@ Einwände, die einer Prüfung nicht standgehalten haben, mit dem Grund. Sie steh
 | Der Unternehmer, der eine Gewinnschmälerung richtig erkennt, unterscheide sich vom GSP nur im Interesse, nicht im Verfahren. | Zu pauschal. Dass richtige Einzelurteile verschiedenen Interessen dienen können, widerlegt die Kritik falscher Erklärungen nicht. | [externe Prüfung v1](../korrespondenz/bewertungen/pruefung-entwurf-v1-extern.md) |
 | Der bewusst opferbereite Soldat als Grenzfall, den der GSP nicht kenne. | GS 1-06 behandelt „pure Opfer – ohne den geringsten Schein eines Lohnes“. Als Frage nach Kritikformen weiter in [06](06-interessenkritik-und-zweckkritik.md). | Thread zu Stefans Antwort (12.10.) |
 | Zwei konkrete Jobangebote vergleichen zu können widerlege die Kritik der Erwerbsquelle. | 2-08 gesteht das ausdrücklich zu. Als Frage nach der Grenze weiter in [01](01-erwerbsquelle-und-kalkulation.md). | Thread zu Stefans Antwort (12.10.) |
+
+## Aus den externen Texten
+
+Geprüft in den Auswertungen unter `extern/`; zusammengestellt mit der [Bestandskritik vom 10.11.2026](../theorie/pruefungen/2026-11-10-bestandskritik.md), Abschnitt 7. Wo eine Frage übrig bleibt, steht die Akte dabei.
+
+| Einwand | Warum er nicht hält | Geprüft in |
+|---|---|---|
+| Der Marxismus mache die Arbeit zur Natur des Menschen. | Der GSP bestimmt Arbeit unter dem Kapital als Dienst am Eigentum und kritisiert ihre Verehrung; einen proletarischen Klassenstandpunkt als Erkenntnisquelle lehnt er ab (GS 2-03, GS 2-10 Fn. 4). | [Haraway, Cyborg-Manifest](../extern/haraway-cyborg-manifesto/auswertung.md) |
+| Der Marxismus könne unbezahlte Arbeit nicht fassen. | GS 4-19 behandelt die Hausarbeit ausdrücklich; dass sie keinen Wert bildet, ist ein Befund über das Kapital, kein blinder Fleck. Offen bleibt, warum die Rolle den Frauen zufällt ([33](33-familienrolle-der-frau.md)). | [Haraway](../extern/haraway-cyborg-manifesto/auswertung.md), [Harding](../extern/harding-whose-science/auswertung.md) |
+| Die Bildung der Frauen sei das wirksamste Mittel gegen Armut; das übersehe der GSP. | GS 4-94 behandelt gerade das: Die Bildung wird dort durch ihre Wirkung auf die Zahl der Armen begründet, nicht durch ihren Nutzen für sie. | [Harding, Just add women](../extern/harding-just-add-women/auswertung.md) |
+| Das Gefängnis wachse, weil Firmen daran verdienen (‚Wem nützt das Gefängnis?‘). | Die Privatgefängnisse halten nach Davis' eigenen Zahlen einen kleinen Teil der Gefangenen, und die Kosten trägt die öffentliche Hand; für den GSP ist das Gefängnis eine „Unkost der Selbstbehauptung des Staates“ (GS 1-25). Offen bleiben Maß und Form der Strafe ([37](37-mass-und-form-der-strafe.md)). | [Davis, Are Prisons Obsolete?](../extern/davis-are-prisons-obsolete/auswertung.md) |
+| Der Rassismus bestehe fort, weil er den Kapitalisten Extraprofit bringt. | Für die Zeit rechtlicher Gleichheit erklärt die Moral der Konkurrenz und des Volks den Fortbestand besser; Davis' eigenes Material spricht dafür. Offen bleibt der Rassismus als Recht ([36](36-rassismus-als-recht.md)). | [Davis, Women, Race and Class](../extern/davis-women-race-and-class/auswertung.md) |
+| Der Sozialstaat sorge nur für das nötige Quantum rentabler Arbeitskraft; wer nicht mehr rentabel ist, müsste fallen gelassen werden. | GS 2-16 weist diese Lesart ausdrücklich zurück: Die Hilfe ist vom Gesichtspunkt der rentablen Benutzung des Einzelnen gelöst und sichert die Benutzbarkeit der Klasse im Ganzen. | [Nymoen/Dreßler](../extern/nymoen-dressler-streit-auf-gut/auswertung.md); Bestandskritik 3.1 |
+| Die Moralkritik des GSP behaupte, die Moral kenne keinen Unterschied von gut und böse. | Das wäre die starke Form von Hegels Leerheitseinwand. Der GSP vertritt die schwache: Die Moral bestimmt ihre Pflichten nicht aus sich, sie nimmt sie aus der bestehenden Ordnung. | [Hegel nach Wood](../extern/hegel-wille-wood/auswertung.md) |
+| Die Leute würden durch Werbung und Medien manipuliert; oder umgekehrt: hinter den Wirkungen stehe niemand. | Der GSP lehnt beides ab: Manipulation setzt Subjekte mit diesem Zweck voraus, und Wirkungen, die keiner will, kommen aus Zwecken, die jemand hat. Offen bleibt, wie weit die Bildung der Bedürfnisse gelingt ([38](38-bildung-der-beduerfnisse.md)). | [Baudrillard](../extern/baudrillard-ecstasy-of-communication/auswertung.md) |
+| Der GSP sei parteilich, also nicht objektiv; Betroffenheit sei eine Erkenntnisquelle, die er übergehe. | Parteilichkeit ist bei ihm Anlass und Maßstab, nicht Begründung. Die heutigen Fassungen der Standpunkttheorie vertreten das Privileg der Betroffenen selbst nicht mehr. Offen bleibt, welches Interesse das Urteil verdirbt ([32](32-interesse-und-urteil.md)). | [Wylie](../extern/wylie-standpoint-matters/auswertung.md), [Intemann](../extern/intemann-feministischer-empirismus/auswertung.md) |
+| Der Mangel werde von einer herrschenden Klasse planvoll erzeugt. | Der GSP erklärt den Mangel aus dem Zweck des Eigentums, nicht aus einer Absicht; das Geschehen ist bei ihm weder Zufall noch Machenschaft. | [Anti-Ödipus](../extern/deleuze-anti-oedipus/auswertung.md), 2.7 |

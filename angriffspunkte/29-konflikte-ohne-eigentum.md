@@ -1,6 +1,8 @@
 # 29 Konflikte ohne Eigentum: Was sagt der GSP zu Gegensätzen, die nicht aus dem Privateigentum stammen?
 
-**Status:** offen · **Stärke:** trifft die Allgemeinheit der Moralbestimmung an einer Stelle, die der GSP selbst anlegt; als Einwand gegen seine Staatstheorie schwach, weil er einen Bedingungssatz hat, den der Anarchismus teilt · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt, gegen die Moralbestimmung · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft die Allgemeinheit der Moralbestimmung an einer Stelle, die der GSP selbst anlegt; als Einwand gegen seine Staatstheorie schwach, weil er einen Bedingungssatz hat, den der Anarchismus teilt.
 
 ## These
 

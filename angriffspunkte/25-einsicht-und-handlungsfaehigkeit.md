@@ -1,6 +1,8 @@
 # 25 Einsicht und Handlungsfähigkeit: Reicht es, dass die Kritik stimmt?
 
-**Status:** offen · **Stärke:** trifft die programmatischen Texte; in den Analysen macht der GSP die Unterscheidung selbst, zieht sie aber nicht in seinen Begriff von Kritik · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt · **Gewicht:** hoch · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft die programmatischen Texte; in den Analysen macht der GSP die Unterscheidung selbst, zieht sie aber nicht in seinen Begriff von Kritik. Nach der [Bestandskritik](../theorie/pruefungen/2026-11-10-bestandskritik.md) der stärkste Punkt; [02](02-alternativen-und-motivschluss.md) ist seine Fassung im Briefwechsel.
 
 ## These
 
@@ -70,6 +72,8 @@ Dieser Punkt verallgemeinert die Frage nach den Mitteln aus [02](02-alternativen
 - **Wendy Brown** ([Auswertung](../extern/brown-undoing-the-demos/auswertung.md), Abschnitt 2.4): Marx' Kritik habe Subjekte vorausgesetzt, die eine politische Sprache der Gerechtigkeit hatten (Kap. 3, Z. 729). Wenn diese Sprache verschwindet, woraus entsteht dann noch Kritik? **Ableitung:** Für den GSP ist das der Verlust einer Illusion. Dann muss er erklären, woher die Einsicht kommt, wenn nicht aus dem Widerspruch zwischen Versprechen und Lage; das führt [28](28-ideelle-negation.md).
 - **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitt 2.8): Die Probleme seien »always of an organizational nature« (Kap. 4.5, Z. 2463), und Überzeugen ist im Buch nicht vorgesehen. Die Gegenthese zu dieser Akte, aber ohne Begriff dessen, was organisiert werden soll.
 - Was in einer Organisation schiefgeht, deren Zweck richtig ist, führt [31](31-organisationen-mit-richtigem-zweck.md) (Mikrofaschismus in Tausend Plateaus, Stalins „Waffen des Geschichtsmoralismus“ in GS 4-17).
+- **Nymoen und Dreßler im Streitgespräch** ([Auswertung](../extern/nymoen-dressler-streit-auf-gut/auswertung.md)): Die öffentliche Fassung der Frage dieser Akte. Der Einwand der Gegenseite lautet, Dreßler ziehe sich nach der Aufklärung »bequem« heraus (Z. 796); seine Antwort verweist auf eine Mehrheit, die es dann umsetzen werde (Z. 849). Dazu gehört eine Frage, die bisher fehlte: wie ein Kritiker öffentlich über sein Ziel spricht. Der GSP selbst schreibt offen vom Umsturz (GS 2-03, `sources/14-…:17600`).
+- **Baudrillard** ([Auswertung](../extern/baudrillard-ecstasy-of-communication/auswertung.md), 2.13): Wie kommt eine Aufklärung, die mit Argumenten arbeitet, in einer Öffentlichkeit an, die jede Mitteilung aufnimmt und keine beantwortet? Baudrillard hat darauf keine Antwort, der GSP stellt die Frage nicht.
 
 ## Herkunft
 

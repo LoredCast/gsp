@@ -32,4 +32,4 @@ grep -n -F "Furie des Zerst" HEGEL_TWA7_§5-7.txt
 grep -n -F "the moral law is empty because" WOOD_Emptiness_Kap9.txt
 ```
 
-Hegel-Stellen außerhalb der §§ 5–7 sind entweder sinngemäß wiedergegeben oder, wo wörtlich, aus der Hegel-Auswertung des Projekts übernommen (`extern/hegel/auswertung.md` im Projektordner, noch nicht im Repository), die nach der Ausgabe Meiner (Philosophische Bibliothek 638, Hamburg 2013) zitiert; sie sind dann mit »(Meiner)« markiert. Woods englische Übersetzungen anderer Hegel-Stellen stehen als Wood-Zitate da.
+Hegel-Stellen außerhalb der §§ 5–7 sind entweder sinngemäß wiedergegeben oder, wo wörtlich, aus der Hegel-Auswertung des Projekts übernommen ([Auswertung der Grundlinien](../hegel-grundlinien-rechtsphilosophie/auswertung.md)), die nach der Ausgabe Meiner (Philosophische Bibliothek 638, Hamburg 2013) zitiert; sie sind dann mit »(Meiner)« markiert. Woods englische Übersetzungen anderer Hegel-Stellen stehen als Wood-Zitate da.

@@ -1,6 +1,8 @@
 # 20 Ist der Wechselkurs ein „permanenter Inflationsvergleich“?
 
-**Status:** offen, enger gefasst · **Stärke:** schwächer als bisher geführt; § 11 nennt den Inflationsvergleich den „ökonomischen Inhalt“ und „letzten Grund“ der Kursverschiebung, nicht die Erklärung jeder einzelnen Bewegung, und § 17 lässt die Geldmärkte die Währungen nach ihrer Brauchbarkeit als Weltgeld auswählen · **Stand:** 14.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Schwächer als bisher geführt; § 11 nennt den Inflationsvergleich den „ökonomischen Inhalt“ und „letzten Grund“ der Kursverschiebung, nicht die Erklärung jeder einzelnen Bewegung, und § 17 lässt die Geldmärkte die Währungen nach ihrer Brauchbarkeit als Weltgeld auswählen.
 
 ## These
 
@@ -24,7 +26,7 @@ Der GSP nennt den Wechselkurs einen „permanenten Inflationsvergleich“ der na
 ## Was bleibt
 
 - Dann droht der Begriff zirkulär zu werden: Wenn jede Wechselkursbewegung per Definition ein Inflationsvergleich ist, erklärt der Ausdruck nicht, warum eine Währung zu einem bestimmten Zeitpunkt steigt oder fällt. Wenn „Inflation“ dagegen den Kaufkraftverlust im Inland meint, sind Zins- und Risikobewegungen eigene Ursachen.
-- Abgleich 14.10.2026 (Nachprüfung vom 13.10.2026, Abschnitt V): § 11 nennt den Inflationsvergleich „Inhalt“ und „letzten Grund“ der Kursverschiebung; die einzelne Bewegung stellen die Geldhändler mit Angebot und Nachfrage her, und § 17 lässt sie nach der Brauchbarkeit der Währung als Weltgeld wählen, also auch nach Anlage- und Vorratsgesichtspunkten. Damit ist die Bewegung eines Quartals (Dollar gegen Yen 2022) kein Gegenbeispiel; Zins- und Anlageströme sind beim GSP Teil der Auswahl, nicht ihr Gegenteil. Der Zirkelverdacht oben trifft den Satz deshalb nur, wenn man ihn als Erklärung jeder Bewegung liest, was er nicht beansprucht. Zu prüfen bleibt der Anspruch auf den „letzten Grund“: Über längere Zeit müssten Währungen, deren Staaten nach dem Maß aus [15](15-geldentwertung-aus-kredit.md) (Steueraufkommen gegen Staatsschuld) mehr unverwerteten Kredit anhäufen, gegenüber den anderen verlieren.
+- § 11 nennt den Inflationsvergleich „Inhalt“ und „letzten Grund“ der Kursverschiebung; die einzelne Bewegung stellen die Geldhändler mit Angebot und Nachfrage her, und § 17 lässt sie nach der Brauchbarkeit der Währung als Weltgeld wählen, also auch nach Anlage- und Vorratsgesichtspunkten. Damit ist die Bewegung eines Quartals (Dollar gegen Yen 2022) kein Gegenbeispiel; Zins- und Anlageströme sind beim GSP Teil der Auswahl, nicht ihr Gegenteil. Der Zirkelverdacht oben trifft den Satz deshalb nur, wenn man ihn als Erklärung jeder Bewegung liest, was er nicht beansprucht. Zu prüfen bleibt der Anspruch auf den „letzten Grund“: Über längere Zeit müssten Währungen, deren Staaten nach dem Maß aus [15](15-geldentwertung-aus-kredit.md) (Steueraufkommen gegen Staatsschuld) mehr unverwerteten Kredit anhäufen, gegenüber den anderen verlieren.
 - Frage an den GSP: Welche Wechselkursbewegung wäre kein Inflationsvergleich? Erfolgskriterium ist eine Antwort, die eine Bewegung ausschließt.
 - Die Währungsabschnitte GS 4-94, 2-97 und 3-06 im Ganzen gegen GS 1-18 § 11 und GS 1-19 § 17 lesen.
 

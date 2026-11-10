@@ -25,6 +25,15 @@ Die Vorschläge am Ende der Auswertungen zu Weber, Brown, der Hausarbeit, dem An
 - **Gesamtdarstellung:** Teil II, Abschnitt 6 (Proben an externen Texten), Teil III, Abschnitt 6 (Fragen aus externen Texten), Ergänzungen in Teil IV und Teil V, Abschnitt 7 und 8 (Theorien des Begehrens).
 - **Kern:** Reichweitenhinweise zu 10.2, 10.4, 18.5 und 18.10; die Moralbestimmung (15.1) hat mit Akte 29 eine Gegenstelle.
 
+Die Vorschläge der übrigen 19 Auswertungen (Fritz, Davis, Hegel, Bender und Friedrich, Nymoen und Dreßler, die feministische Wissenschaftstheorie, Zeichenregime, Baudrillard, Weasel) sind am 10.11.2026 mit der [Bestandskritik](../theorie/pruefungen/2026-11-10-bestandskritik.md) übernommen worden, wieder erst nach Prüfung an `sources/`:
+
+- **Neue Angriffspunkte** [32](../angriffspunkte/32-interesse-und-urteil.md) (Welches Interesse verdirbt das Urteil?, aus der feministischen Wissenschaftstheorie), [36](../angriffspunkte/36-rassismus-als-recht.md) (Rassismus als Recht, aus Davis), [37](../angriffspunkte/37-mass-und-form-der-strafe.md) (Maß und Form der Strafe, aus Davis und Hegel) und [38](../angriffspunkte/38-bildung-der-beduerfnisse.md) (Bildung der Bedürfnisse, aus Baudrillard). Die Akten 33 bis 35 stammen aus den Prüfungen der Rekonstruktion; [33](../angriffspunkte/33-familienrolle-der-frau.md) (Familienrolle der Frau) hat Außenstimmen aus Davis, Harding, Hegel, Fritz und Brown.
+- **Bestehende Angriffspunkte** 03, 08, 11, 13, 24 bis 27, 30 und 31 haben neue Außenstimmen. Am stärksten gewachsen ist der Komplex um [24](../angriffspunkte/24-gewohnheit-als-praktiziertes-urteil.md) und [30](../angriffspunkte/30-kommt-das-interesse-danach.md), durch Hegels Bestimmung der Gesinnung als zur Gewohnheit gewordenes Wollen (§ 268).
+- **Gescheiterte Einwände** aus den externen Texten stehen in [verworfen.md](../angriffspunkte/verworfen.md) und im Kern unter ‚Einwände, die sich nicht lohnen‘.
+- **Gesamtdarstellung:** Teil II, Abschnitt 6, Teil III (4.4, 4.5, 5.4, 6.6 und Abschnitt 7 zum zweiten Muster), Teil IV und Teil V, Abschnitte 7 bis 9.
+- **Kern:** Reichweitenhinweise zu 1.1, 1.2, 7.5, 8.1, 8.11, 10.5 und 16.2.
+- **Forschungsfelder:** eigener Abschnitt ‚Aus den Auswertungen externer Texte‘ mit den Bereichen ohne GSP-Text, den Prüfaufträgen an Belegen und den Gegenstellen, die in Zitatsammlung und Ableitung noch fehlen.
+
 Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernommen wird in einem eigenen Schritt.
 
 ## Quellen
@@ -36,8 +45,10 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Hausarbeit: Herrschaftsfreies Recht mit Habermas?](hausarbeit-anarchismus-habermas/auswertung.md) | unveröffentlichte Hausarbeit zum Anarchismus, Arbeitsversion 3 | 15.10.2026 |
 | [Gilles Deleuze, Félix Guattari: Anti-Ödipus](deleuze-anti-oedipus/auswertung.md) | Buch, 1972; englische Übersetzung | 16.10.2026 |
 | [Gilles Deleuze, Félix Guattari: Tausend Plateaus](deleuze-tausend-plateaus/auswertung.md) | Buch, 1980; englische Übersetzung | 16.10.2026 |
+| [Sophia Fritz: Toxische Weiblichkeit](fritz-toxische-weiblichkeit/auswertung.md) | Buch, Hanser Berlin 2024 | 20.10.2026 |
 | [Angela Y. Davis: Are Prisons Obsolete?](davis-are-prisons-obsolete/auswertung.md) | Buch, Seven Stories Press 2003; Textfassung der Anarchist Library | 21.10.2026 |
 | [Angela Y. Davis: Women, Race and Class](davis-women-race-and-class/auswertung.md) | Buch, 1981; Penguin Modern Classics 2019 | 21.10.2026 |
+| [Georg Wilhelm Friedrich Hegel: Grundlinien der Philosophie des Rechts](hegel-grundlinien-rechtsphilosophie/auswertung.md) | Buch, 1820; Ausgabe Meiner (PhB 638) 2013 | 21.10.2026 |
 | [Justus Bender, Sebastian Friedrich: Wie irrational ist der Aufstieg der Rechten?](bender-friedrich-aufstieg-rechte/auswertung.md) | Veranstaltungsmitschnitt, Podcast Überrechts (Literaturforum im Brechthaus, 29.09.2026) | 26.10.2026 |
 | [Ole Nymoen, Simon David Dressler: Reaction auf *Streit auf gut* mit Wyn](nymoen-dressler-streit-auf-gut/auswertung.md) | Reaction-Stream *Heißer Papa* auf ein Funk-Interview (aufgezeichnet August 2026) | 26.10.2026 |
 | [Hegel, Rechtsphilosophie §§ 5–7, und Allen Wood, Kap. 9–10](hegel-wille-wood/auswertung.md) | Seminarvorbereitung: Hegel, *Grundlinien der Philosophie des Rechts*, Einleitung (TWA 7), und Wood, *Hegel's Ethical Thought*, Cambridge 1990 | 27.10.2026 |
@@ -50,3 +61,6 @@ Bei neuen Auswertungen gilt dasselbe: Die Auswertung macht Vorschläge, übernom
 | [Sandra Harding: Whose Science? Whose Knowledge?](harding-whose-science/auswertung.md) | Buch, Cornell 1991; Kapitel 5 und 6 | 04.11.2026 |
 | [Routledge Handbook of Feminist Philosophy of Science](handbook-feminist-philosophy-of-science/auswertung.md) | Sammelband, hg. von Crasnow und Intemann, Routledge 2021; Kapitel 16, 17, 18 und 27 | 04.11.2026 |
 | [Gilles Deleuze, Félix Guattari: Über einige Zeichenregime](deleuze-tausend-plateaus-zeichenregime/auswertung.md) | Buchkapitel: Plateau 5 aus *Tausend Plateaus*, 1980; englische Übersetzung; ergänzt die Auswertung des ganzen Buches | 05.11.2026 |
+| [Jean Baudrillard: The Ecstasy of Communication](baudrillard-ecstasy-of-communication/auswertung.md) | Buch, frz. *L'Autre par lui-même*, Galilée 1987; englische Übersetzung, Semiotext(e) 1988; OCR-Fassung, nach Seiten zitiert | 06.11.2026 |
+| [Sandra Harding: Just add women and stir?](harding-just-add-women/auswertung.md) | Buchkapitel, in *Missing Links. Gender Equity in Science and Technology for Development*, IDRC 1995; schließt an *Whose Science?* an | 08.11.2026 |
+| [Lisa Weasel: Dismantling the Self/Other Dichotomy in Science](weasel-self-other-immunsystem/auswertung.md) | Aufsatz, *Hypatia* 16 (2001); feministische Erkenntnistheorie am Fall des Immunsystems | 08.11.2026 |
