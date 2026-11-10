@@ -1,6 +1,8 @@
 # 31 Organisationen mit richtigem Zweck: Gibt es Fehler, die nicht aus einem falschen Zweck kommen?
 
-**Status:** offen · **Stärke:** trifft eine Lücke im Material, keinen Satz; der GSP hat an einer Stelle selbst einen Maßstab für das Innenleben einer Partei, führt ihn aber auf eine falsche Lehre zurück · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** offene Frage · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft eine Lücke im Material, keinen Satz; der GSP hat an einer Stelle selbst einen Maßstab für das Innenleben einer Partei, führt ihn aber auf eine falsche Lehre zurück.
 
 ## These
 
@@ -47,6 +49,10 @@ Dieser Punkt ist verwandt mit [25](25-einsicht-und-handlungsfaehigkeit.md): Wenn
 - GS 4-17 im Ganzen lesen: Kritisiert der Text an Lenin und an der frühen Partei etwas, das nicht aus der Lehre kommt?
 - Texte zu Gewerkschaftsführung und Basis (GS 3-24, GS 3-03 IG Metall) auf Aussagen zur Verselbständigung von Führungen lesen.
 - Ob der Verlag zur Auflösung der MG 1991 eine Erklärung veröffentlicht hat, die nicht in den Sammlungen steht.
+
+## Außenstimmen aus externen Texten
+
+- **Tausend Plateaus, Zeichenregime** ([Auswertung](../extern/deleuze-tausend-plateaus-zeichenregime/auswertung.md)): Mary Barnes in Kingsley Hall, eine antipsychiatrische Gemeinschaft, in der die Deutung als kollektiver Wahn zurückkehrt (Z. 112); das signifikante Regime in »political parties« (Z. 28); die Behauptung, der Fall des Leninismus in die stalinistische Organisation sei »inevitable« gewesen (Z. 114). Das Plateau gibt für keinen der Fälle einen Grund an.
 
 ## Herkunft
 

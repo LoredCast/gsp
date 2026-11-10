@@ -1,6 +1,8 @@
 # 26 Wahl als Ermächtigung: Zählt der Unterschied der Programme für den, der das weiß?
 
-**Status:** offen · **Stärke:** enger als vorgeschlagen; den Unterschied zwischen der Zustimmung, die im Wahlakt liegt, und dem Motiv der Wähler macht der GSP selbst (GS 1-10). Offen ist sein Schluss, wer das verstanden habe, könne „kein Interesse mehr haben“, zu wählen, obwohl § 27 zugesteht, dass Wähler manchmal bekommen, was sie wollten · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Enger als vorgeschlagen; den Unterschied zwischen der Zustimmung, die im Wahlakt liegt, und dem Motiv der Wähler macht der GSP selbst (GS 1-10). Offen ist sein Schluss, wer das verstanden habe, könne „kein Interesse mehr haben“, zu wählen, obwohl § 27 zugesteht, dass Wähler manchmal bekommen, was sie wollten.
 
 ## These
 
@@ -65,6 +67,9 @@ Dieser Punkt hat dieselbe Form wie [22](22-nationale-befreiung.md) und [23](23-w
 
 - **Tausend Plateaus**, Plateau 13: die schärfste externe Fassung der Form, die diese Akte mit 22, 23, 26 und 28 teilt (ein Zugeständnis sei nicht bloß Vereinnahmung). Wortlaut und Bewertung stehen einmal, in [22](22-nationale-befreiung.md) unter „Außenstimmen“; das Buch begründet die Gegenthese nicht besser als diese Akten.
 - **Wendy Brown** ([Auswertung](../extern/brown-undoing-the-demos/auswertung.md), Abschnitt 2.1): Die Verschmelzung von Staat und Kapital erzeugt keine Legitimationskrise (Kap. 2, Z. 481). Das passt zur These dieser Akte, dass die Zustimmung im Akt der Wahl liegt und nicht in einem erfüllten Versprechen; die Frage nach dem Unterschied der Programme beantwortet es nicht.
+- **Dreßler im Streitgespräch** ([Auswertung](../extern/nymoen-dressler-streit-auf-gut/auswertung.md)): Er räumt ein, die AfD wäre »schlimmer für sehr viele Menschen als die Grünen« (Z. 497), und wählt nicht. Das ist der Fall dieser Akte von der Seite eines Sprechers, der dem GSP nahesteht; das Gespräch stellt die Frage und beantwortet sie nicht.
+- **Harding, Just add women and stir?** ([Auswertung](../extern/harding-just-add-women/auswertung.md)): Hardings demokratischer Grundsatz (Z. 743) ist die weitestgehende Fassung der Forderung nach Beteiligung der Betroffenen. Er will andere Entscheidungen, nicht bloß Zustimmung, und soll »might makes right« herausfordern (Z. 740). Offen ist bei ihr, ob die geforderte Mitentscheidung gegen die Träger der Projekte durchsetzbar ist; sie räumt ein, dass man nur »"in the middle"« anfangen kann (Z. 758).
+- **Bender im Streitgespräch über die Rechte** ([Auswertung](../extern/bender-friedrich-aufstieg-rechte/auswertung.md)): Sein Befund, dass bei der Wahl Nähe und Vertrauen entscheiden, deckt sich mit dem GSP, der ihn aus der Form der Wahl erklärt: In der „geballten Irrationalität eines moralischen Geschmacksurteils“ liege die Rationalität dieser Herrschaftsform (GS 4-06, `sources/6-…:20637`). Ein Beleg für die Ermächtigungsthese, kein Einwand.
 
 ## Herkunft
 

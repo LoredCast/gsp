@@ -1,6 +1,8 @@
 # 21 ‚Kapital entsteht aus der Differenz‘: Vorschuss oder Zuwachs?
 
-**Status:** offen, schwach · **Stärke:** Zuspitzung in einem tagespolitischen Text; ob die systematischen Texte Vorschuss und Zuwachs trennen, ist noch zu prüfen · **Stand:** 12.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Zuspitzung in einem tagespolitischen Text; ob die systematischen Texte Vorschuss und Zuwachs trennen, ist noch zu prüfen.
 
 ## These
 

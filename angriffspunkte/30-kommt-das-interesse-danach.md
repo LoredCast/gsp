@@ -1,6 +1,8 @@
 # 30 Kommt das Interesse danach? Ist der Nationalismus ein Urteil oder die Voraussetzung, unter der geurteilt wird?
 
-**Status:** offen · **Stärke:** trifft eine Zweideutigkeit, die der GSP selbst anlegt: Er erklärt den Fehler der Geschädigten als Urteil über das eigene Mittel und beschreibt das Volk zugleich als eines, das „nicht Stellung“ nimmt; die Gegenthese des Anti-Ödipus hält er zu Recht für unkritisierbar · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt, mit [24](24-gewohnheit-als-praktiziertes-urteil.md) zu lesen · **Gewicht:** hoch · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft eine Zweideutigkeit, die der GSP selbst anlegt: Er erklärt den Fehler der Geschädigten als Urteil über das eigene Mittel und beschreibt das Volk zugleich als eines, das „nicht Stellung“ nimmt; die Gegenthese des Anti-Ödipus hält er zu Recht für unkritisierbar.
 
 ## These
 
@@ -49,6 +51,12 @@ Der Punkt ist verwandt mit [03](03-psychologie-fortwirkung-und-entschluss.md) un
 - GS 1-06 im Ganzen lesen, besonders Abschnitt 2 („Der Ruf nach guten Herren“, ab Zeile 99628) und 4.(a): Wird die Identifikation dort als Urteil entwickelt?
 - `rg -n -o '.{0,200}(identifiziert sich|Vorurteil|zweite[nr]? Natur).{0,200}' sources/6-staat-recht-demokratie.md sources/7-nation-volk-rechte-ideologien-rassismus.md`
 - Das Buch zur Psychologie liegt nicht vor; nach Rezensionen suchen, die seine Paragraphen zur Ehre und zum Selbstbewusstsein wiedergeben.
+
+## Außenstimmen aus externen Texten
+
+- **Hegel, Rechtsphilosophie § 268** ([Auswertung](../extern/hegel-grundlinien-rechtsphilosophie/auswertung.md)): Die Gesinnung ist bei Hegel Ergebnis der Einrichtungen, nicht einer Vorstellung, und sie beginnt mit einer Rechnung (§§ 261, 289 Anm.). Das stützt die Abfolge des GSP vom Staat als Mittel zum „Wir“ und spricht zugleich dafür, dass die Identifikation nicht aus einem einzelnen Urteil besteht, das man widerlegen kann. Wortlaut in [24](24-gewohnheit-als-praktiziertes-urteil.md).
+- **Baudrillard** ([Auswertung](../extern/baudrillard-ecstasy-of-communication/auswertung.md), 2.6): Seine schweigenden Massen beschreiben dasselbe Nichtstellungnehmen wie GS 1-06, deuten es aber als Verweigerung. Die Erfahrung mit der Politikverdrossenheit spricht dafür, dass das „Wir“ ein Urteil mit Inhalt ist. Beweisen lässt sich das gegen Baudrillard nicht, weil er auch Anpassung und freiwillige Knechtschaft als Leidenschaften des Objekts fasst (S. 93).
+- **Bender im Streitgespräch über die Rechte** ([Auswertung](../extern/bender-friedrich-aufstieg-rechte/auswertung.md)): Er vertritt eine psychologische Fassung der These, dass das Interesse nachkommt. Seine Beispiele (»weil ich Deutscher bin … habe ich das anrecht«) sprechen für den GSP: Der Nationalismus tritt dort als Urteil mit Begründung auf.
 
 ## Herkunft
 

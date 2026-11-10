@@ -1,6 +1,8 @@
 # 20 Ist der Wechselkurs ein „permanenter Inflationsvergleich“?
 
-**Status:** offen, enger gefasst · **Stärke:** schwächer als bisher geführt; § 11 nennt den Inflationsvergleich den „ökonomischen Inhalt“ und „letzten Grund“ der Kursverschiebung, nicht die Erklärung jeder einzelnen Bewegung, und § 17 lässt die Geldmärkte die Währungen nach ihrer Brauchbarkeit als Weltgeld auswählen · **Stand:** 14.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Schwächer als bisher geführt; § 11 nennt den Inflationsvergleich den „ökonomischen Inhalt“ und „letzten Grund“ der Kursverschiebung, nicht die Erklärung jeder einzelnen Bewegung, und § 17 lässt die Geldmärkte die Währungen nach ihrer Brauchbarkeit als Weltgeld auswählen.
 
 ## These
 

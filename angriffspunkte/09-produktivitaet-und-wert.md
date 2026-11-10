@@ -1,6 +1,8 @@
 # 09 Produktivität und Wert: einzelnes Kapital oder gesellschaftliche Ebene?
 
-**Status:** offen · **Stärke:** Reichweitenfrage; der GSP trennt die Ebenen an anderer Stelle selbst · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Reichweitenfrage; der GSP trennt die Ebenen an anderer Stelle selbst.
 
 ## These
 

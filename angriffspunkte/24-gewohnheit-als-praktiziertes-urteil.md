@@ -1,6 +1,8 @@
 # 24 Gewohnheit als „praktiziertes Urteil“: Was wirkt, wenn das Urteil verworfen ist?
 
-**Status:** offen · **Stärke:** trifft eine Zweideutigkeit im Begriff „Urteil“, die der GSP in derselben Antwort selbst anlegt · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt · **Gewicht:** hoch · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft eine Zweideutigkeit im Begriff „Urteil“, die der GSP in derselben Antwort selbst anlegt. Gestützt durch Hegels Begriff der Gesinnung als Gewohnheit aus Einrichtungen (§ 268).
 
 ## These
 
@@ -59,6 +61,10 @@ Dieser Punkt vertieft [03](03-psychologie-fortwirkung-und-entschluss.md), der di
 - **Anti-Ödipus** ([Auswertung](../extern/deleuze-anti-oedipus/auswertung.md), Abschnitte 2.2 und 2.10): Der stärkste Befund des Buches ist, dass Menschen das System, das sie unterdrückt, mit Leidenschaft besetzen, »with passion« (Kap. 4.5, Z. 2467). Der GSP bestimmt den Inhalt dieser Bindung, aber nicht ihre Stärke, ihre Dauer und ihre Unempfindlichkeit gegen Argumente. Das ist die Frage dieser Akte, auf den Nationalismus angewandt.
 - **Tausend Plateaus** ([Auswertung](../extern/deleuze-tausend-plateaus/auswertung.md), Abschnitt 2.1): Das Begehren ist dort kein Trieb mehr, sondern »always assembled« (Plateau 9, Z. 1371), eingerichtet in Paar, Familie, Schule und Büro (Z. 1325). Das liegt nahe an der Gewohnheit als praktiziertem Urteil und an der „zweiten Natur“, zu der den Bürgern ihre Subsumtion unter die Staatsmacht wird (GS 1-06, `sources/6-staat-recht-demokratie.md:99778`). Der GSP sagt, *was* gewohnt ist; das Buch zeigt, *wo* es eingeübt wird. Wie es sich gegen die Einsicht hält, sagen beide nicht.
 - Ob die Bindung an die Nation überhaupt als Urteil entsteht, führt [30](30-kommt-das-interesse-danach.md).
+- **Hegel, Rechtsphilosophie § 268** ([Auswertung](../extern/hegel-grundlinien-rechtsphilosophie/auswertung.md)): Die Gesinnung ist »das zur Gewohnheit gewordene Wollen« und »nur Resultat der im Staate bestehenden Institutionen« (Z. 9295); wer sie aus Vorstellungen hervorgehen lässt, verwechselt sie mit der Meinung. Anders als der Anti-Ödipus erklärt Hegel die Bindung nicht aus einem Trieb, sondern aus Einrichtungen. Zugleich beginnt sie bei ihm mit einer Rechnung (§§ 261, 289 Anm.), und das stützt die Abfolge des GSP vom Staat als Mittel zum „Wir“. Für diese Akte heißt das: Es gibt einen Begriff für ein Wollen, das als Gewohnheit dauert, ohne jedes Mal als Urteil gefällt zu werden, und er schärft die Frage, wie sich ein Urteil, das zur Gewohnheit geworden ist, wieder als Urteil behandeln lässt.
+- **Hegels Lehre von der Gewohnheit** (Enzyklopädie §§ 409–410; [Seminarvorbereitung](../extern/hegel-wille-wood/auswertung.md), 11.7): Gewohnheit als Leistung des Geistes und als zweite Natur, die befreit und mechanisiert. Sie stützt die These des GSP gegen die Vorstellung einer fremden Macht und gibt zugleich eine Antwort auf die Frage nach dem Fortbestand. Nur über Allen Woods Darstellung belegt; vor jeder Verwendung an einer Ausgabe der Enzyklopädie zu prüfen.
+- **Sophia Fritz, Toxische Weiblichkeit** ([Auswertung](../extern/fritz-toxische-weiblichkeit/auswertung.md)): Fritz beschreibt an sich selbst Einsicht ohne Änderung (Z. 168, 426, 572). Der Einwand des GSP wäre, dass sie die Mittel verwirft und den Zweck der Bewährung behält. Zu prüfen ist, ob es unter ihren Fällen einen gibt, in dem das Urteil wirklich aufgegeben ist und die Gewohnheit bleibt.
+- **Tausend Plateaus, Zeichenregime** ([Auswertung](../extern/deleuze-tausend-plateaus-zeichenregime/auswertung.md)): »it is relatively easy to stop saying “I,” but that does not mean that you have gotten away from the regime of subjectification«; man glaube leicht, außerhalb zu sein, »when you are in fact still secreting them« (Z. 112). Das ist die Frage der Akte in anderer Sprache: Eine Form wirkt weiter, nachdem ihr Inhalt verworfen ist.
 
 ## Herkunft
 

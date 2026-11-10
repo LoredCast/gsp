@@ -1,6 +1,8 @@
 # 13 Popper: Kann Erfahrung Theorien prüfen?
 
-**Status:** offen · **Stärke:** Gültigkeitsfrage, keine Fehlwiedergabe; berührt die Methode insgesamt · **Stand:** 12.10.2026
+**Status:** offen · **Befund:** offene Frage · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Gültigkeitsfrage, keine Fehlwiedergabe; berührt die Methode insgesamt. Durch Longino und Wylie geschärft: Vor der Prüfung liegt die Entdeckung.
 
 ## These
 
@@ -23,6 +25,12 @@ Frage an den GSP: Bestreitet er jede Rolle der Erfahrung bei der Prüfung, oder 
 
 - `rg -n -i "Erfahrung|Empirie|empirisch|Falsifi" sources/16-wissenschaft-bildung-kultur-medien.md sources/15-ideologien-moral-religion-weltanschauung.md`
 - Abschnitt 1.6 der [Theorieschrift](../theorie/GSP-Theorie.md).
+
+## Außenstimmen aus externen Texten
+
+- **Longino** ([Auswertung](../extern/longino-subjects-power-knowledge/auswertung.md)): Sie teilt den Kern der These gegen Popper, dass Erfahrung ohne die Annahmen, die sie deuten, nicht entscheidet (Z. 499–519), gibt der Erfahrung aber eine Rolle bei der Prüfung dieser Annahmen. Damit lässt sich die offene Frage schärfen: Gehört die Prüfung der Hintergrundannahmen, die einen Befund zum Beleg machen, zum Nachvollzug des Schlusses? Wenn ja, ist der GSP mit Longino einig; wenn nein, muss er sagen, woran eine solche Annahme sonst scheitert.
+- **Wylie** ([Auswertung](../extern/wylie-standpoint-matters/auswertung.md)): Ihre Fälle stellen die Frage davor: Welche Rolle spielt die Erfahrung dabei, dass eine Theorie überhaupt geprüft wird? Der Vergleich von Erfahrungen in den Frauengruppen (Z. 95–101), die Wiederentdeckung der Sammlerinnen (Z. 252–257) und Geros Steinwerkzeuge (Z. 833) sind Fälle, in denen neue Belege eine Theorie zu Fall brachten.
+- **Wer bemerkt den Fehler?** Longino, Wylie und Intemann stellen gemeinsam eine Frage, die der GSP nicht behandelt: wie ein Fehler, den eine ganze Disziplin teilt, bemerkt wird, und von wem. Der GSP beantwortet, woran sich ein Schluss entscheidet. Seine eigene Kritik der Sozialwissenschaften deckt eine Annahme auf, die alle Fächer teilen (GS 4-13, `sources/14-…:9823`), und kommt von Leuten, die sie nicht teilen. Ob daraus eine negative These über Standorte folgt, steht in [32](32-interesse-und-urteil.md).
 
 ## Herkunft
 

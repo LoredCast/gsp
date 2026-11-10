@@ -1,6 +1,8 @@
 # 02 Wann ist die Frage nach den Mitteln ein Einwand?
 
-**Status:** in der Korrespondenz (Frage 2 im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md)) · **Stärke:** bisher der stärkste Punkt · **Stand:** 16.10.2026
+**Status:** in der Korrespondenz (Frage 2 im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md)) · **Befund:** trägt eingeschränkt · **Gewicht:** hoch · **Stand:** 10.11.2026
+
+**Einschätzung:** Die Fassung, in der das Problem aus [25](25-einsicht-und-handlungsfaehigkeit.md) im Briefwechsel aufgetreten ist. GS 1-04 kennt den Zweifel an den Ursachen und den Unwillen, nicht den Zweifel an den Kräften; der Vorwurf gilt dem Gehalt der Frage, nicht einem bewussten Motiv. Bis zur [Bestandskritik](../theorie/pruefungen/2026-11-10-bestandskritik.md) als stärkster Punkt geführt; an erster Stelle steht jetzt 25.
 
 ## These
 

@@ -1,6 +1,8 @@
 # 06 Interessenkritik und Zweckkritik: Was wird eigentlich widerlegt?
 
-**Status:** offen, aus dem Brief gestrichen · **Stärke:** philosophisch die interessanteste offene Frage, aber bisher ohne Textstelle, die den Einwand trägt · **Stand:** 12.10.2026
+**Status:** offen, aus dem Brief gestrichen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Philosophisch interessant, aber ohne Textstelle, die den Einwand trägt. Die Frage, wie Interesse und Urteil zusammenhängen, hat mit [32](32-interesse-und-urteil.md) eine belegte Fassung.
 
 ## These
 

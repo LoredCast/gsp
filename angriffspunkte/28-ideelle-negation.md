@@ -1,6 +1,8 @@
 # 28 Ideelle Negation: Zählt das Moment, das der GSP dem demokratischen Protest selbst zugesteht?
 
-**Status:** offen · **Stärke:** eng; der GSP räumt das Moment einmal ausdrücklich ein und erklärt an anderer Stelle, warum es nichts zählt, aber die Erklärung gilt dem Bekenntnis zur Demokratie, nicht dem Moment selbst · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt, eng · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Eng; der GSP räumt das Moment einmal ausdrücklich ein und erklärt an anderer Stelle, warum es nichts zählt, aber die Erklärung gilt dem Bekenntnis zur Demokratie, nicht dem Moment selbst.
 
 ## These
 

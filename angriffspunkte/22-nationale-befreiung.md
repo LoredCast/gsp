@@ -1,6 +1,8 @@
 # 22 Nationale Befreiung: Aus „nicht hinreichend“ wird „kein Nutzen“?
 
-**Status:** offen · **Stärke:** trifft teilweise; der GSP gesteht reale Verbesserungen selbst zu, bestreitet ihren Wert aber ohne eigene Begründung · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Trifft teilweise; der GSP gesteht reale Verbesserungen selbst zu, bestreitet ihren Wert aber ohne eigene Begründung.
 
 ## These
 

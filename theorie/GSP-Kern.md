@@ -1,6 +1,6 @@
 # Der feste Kern: Was an der GSP-Theorie jeder Prüfung standhält
 
-Stand: 16. Oktober 2026. Dieses Dokument sammelt die Bestimmungen, Ableitungen und Analysen des GegenStandpunkt (GSP), gegen die nach allen Prüfungen in diesem Projekt kein Einwand übrig ist. Es ist der Gegenpol zu den [Angriffspunkten](../angriffspunkte/README.md): Dort steht, wo weiterzusuchen sich lohnt, hier, wo es sich nicht mehr lohnt.
+Stand: 10. November 2026 (die Kernaussagen sind seit dem 16. Oktober 2026 unverändert; ergänzt sind Reichweitenhinweise und gescheiterte Einwände aus den externen Auswertungen). Dieses Dokument sammelt die Bestimmungen, Ableitungen und Analysen des GegenStandpunkt (GSP), gegen die nach allen Prüfungen in diesem Projekt kein Einwand übrig ist. Es ist der Gegenpol zu den [Angriffspunkten](../angriffspunkte/README.md): Dort steht, wo weiterzusuchen sich lohnt, hier, wo es sich nicht mehr lohnt.
 
 Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwachstellenliste, die Angriffsakten im Stand der Nachprüfung (mit der Akte 26), die [verworfenen Einwände](../angriffspunkte/verworfen.md), die [Forschungsfelder](../angriffspunkte/forschungsfelder.md) und alle Prüfberichte vom 11. bis 13. Oktober 2026. Seit dem 16. Oktober 2026 kommen die [Auswertungen externer Texte](../extern/README.md) und die Akten 27 bis 31 hinzu, die aus ihnen entstanden sind, seit dem 10. November 2026 die Akten 32 bis 38 und die Reichweitenhinweise aus der Bestandskritik. Die Ableitung und die Akten bleiben die Arbeitsdokumente; dieses Dokument ändert keines von beiden, sondern zieht aus ihnen das Ergebnis.
 
@@ -44,6 +44,8 @@ Grundlage sind die [Ableitung](GSP-Ableitung.md) im Stand der Prüfung der Schwa
 | NP | Nachprüfung, 13.10. | [Prüfung](pruefungen/2026-10-13-nachpruefung-pruefung.md) |
 | SL | Schwachstellenliste, 13.10. | [Prüfung](pruefungen/2026-10-13-schwachstellen-pruefung.md) |
 | VW | verworfene Einwände | [verworfen.md](../angriffspunkte/verworfen.md) |
+| BK | Bestandskritik, 10.11. | [2026-11-10-bestandskritik.md](pruefungen/2026-11-10-bestandskritik.md) |
+| EX | Auswertungen externer Texte, 16.10. bis 08.11. | [../extern/README.md](../extern/README.md) |
 
 Alle Berichte liegen in [pruefungen/](pruefungen/). Die [Bestandskritik vom 10.11.2026](pruefungen/2026-11-10-bestandskritik.md) hat den Kern nicht in seinen Aussagen geändert; sie hat Reichweitenhinweise ergänzt, die aus den Auswertungen in [../extern/](../extern/) folgen, und ist dort mit BK abgekürzt.
 
@@ -74,10 +76,11 @@ Die tragenden Ergebnisse, aus denen sich der Rest des Kerns ergibt. Die Nummern 
 **1.1 Kritik ist ein Urteil über einen Gegenstand vom Standpunkt eines Interesses, das an ihm Schaden nimmt. Sie leistet etwas, wenn sie den Grund des Schadens in der Sache benennt; das setzt Erklärung voraus.** *Bestimmung.* Daraus folgt keine Regel, Kritik müsse „objektiv“ statt „interessiert“ sein: Der Kritiker geht von seinem Interesse aus und muss an der Sache zeigen, inwiefern sie es schädigt. Wer nur „ich finde“ sagt und das „inwiefern“ offen lässt, behält die Form des Urteils und teilt doch bloß Missfallen mit.
 Stelle: GS 4-13 Kritik, 1.; GS 1-06 Volk, Fn. 2 · Abl. 1.1
 Geprüft: Der Einwand, der Text bekenne sich zu einem Maßstab (dem Interesse, dass sich das Leben lohnt), hält nicht; der Satz ist ein Bedingungssatz (VW, 1. Zeile).
+Reichweite: Das Interesse ist Anlass und Maßstab der Kritik, nicht Prämisse der Erklärung; die Bewertung einer Sache folgt aus ihrer Erklärung (GS 2-05, `sources/16-…:97`: die Erklärung der Armut „*mündet*“ in ein Urteil über die Gesellschaft, sie entspringt keiner vorgängigen Wertung). Das trennt den GSP von allen Positionen, nach denen Werte in die Begründung eingehen (EX: Intemann, Longino). Welches Interesse ein Urteil verdirbt und woran man das vor dem Nachweis des Fehlers erkennt, ist nicht ausgeführt (Akte 32).
 
 **1.2 Erklärt ist eine Sache, wenn bestimmt ist, was sie ist und welche Notwendigkeiten in ihr liegen, so dass jede weitere Bestimmung aus der vorigen hervorgeht, ohne in sie zurückzufallen. Herkunft, Chronologie und Scheitern erklären sie nicht.** *Bestimmung.* Wer den Zins auf umverteilten Mehrwert zurückführt, den Nationalstaat auf das Streben nach ihm oder eine Sache aus ihrem Scheitern, hat verfehlt, was an der Sache neu ist. Geschichte wird damit nicht verboten: abgelehnt ist, die Sache durch ihren Ursprung zu erklären (SL 2).
 Stelle: GS 2-10 Wert, II.2 und Fn. 3; GS 2-19 Geschichtswiss., 1. und 2.; GS 4-94 Popper, I.1 · Abl. 1.2
-Reichweite: Dass eine Erklärung den Zweck einer Sache bestimmt, gilt für gesellschaftliche Einrichtungen, die zu einem Zweck veranstaltet werden, nicht als allgemeine Regel des Erklärens (GK I-4). Für die Rolle der Erfahrung gilt nur die enge Lesart: Dieselbe Erfahrung erlaubt richtige und falsche Schlüsse, deshalb entscheidet sie nicht ohne Nachvollzug des Schlusses. Ob sie bei der Prüfung gar keine Rolle spielt, ist offen (Akte 13).
+Reichweite: Dass eine Erklärung den Zweck einer Sache bestimmt, gilt für gesellschaftliche Einrichtungen, die zu einem Zweck veranstaltet werden, nicht als allgemeine Regel des Erklärens (GK I-4). Für die Rolle der Erfahrung gilt nur die enge Lesart: Dieselbe Erfahrung erlaubt richtige und falsche Schlüsse, deshalb entscheidet sie nicht ohne Nachvollzug des Schlusses. Ob sie bei der Prüfung gar keine Rolle spielt, ist offen (Akte 13). Aus einem Interesse erklärt der GSP Fehler, nachdem er sie als Fehler nachgewiesen hat; die Erklärung ersetzt die Widerlegung nicht (EX: Harding). Das gilt auch umgekehrt für Lesarten, die Theorien aus ihrer Zeit erklären: Die Bilder, in denen eine naturwissenschaftliche Theorie dargestellt wird, und die Zeit, in der sie entstand, sagen nichts über ihre Geltung; wie weit ein solches Bild einer gesellschaftlichen Einrichtung gleicht, ist an der Einrichtung zu prüfen, nicht an der Ähnlichkeit (EX: Weasel, Haraway). Eine Erkenntnistheorie, die getrennt von aller Erkenntnis über deren Möglichkeit befindet, kommt nach dem GSP nur zu dem Ergebnis, dass objektives Wissen nicht geht; was sie an seine Stelle setzt (Bewährung, Konvention, Konsens der Fachleute), macht die Geltung eines Urteils von seiner Anerkennung abhängig (GS 4-13, `sources/14-…:9840`; EX: Longino).
 
 **1.3 Die Schäden, die der Kapitalismus und sein Staat anrichten, sind aus deren wirklichem Zweck zu erklären, nicht als Abweichung von einem unterstellten guten Zweck. Versagen kann etwas nur gemessen an dem, wofür es da ist.** *Bestimmung und Zurückweisung.* Ein Standort versagt nicht, wenn er Arbeitslose verelenden lässt; dafür ist er nicht da. Die erklärten Zwecke der Politik sind ernst zu nehmen, nicht als Vorwand zu entlarven.
 Stelle: GS 1-12 Wagenknecht; GS 4-13 Kritik, 3.; GS 4-99 Lohnniveau I · Abl. 1.3
@@ -309,6 +312,7 @@ Reichweite: Drei Ebenen sind zu trennen: der Souverän gegenüber den Bürgern, 
 
 **7.5 Polizei und Strafe sind keine Reaktion auf eine Kriminalität, die der Gesellschaft äußerlich wäre, sondern die laufende Bestätigung des Gewaltmonopols, das ihre Gegensätze reguliert.** *Bestimmung.*
 Stelle: GS 4-23 KdK V, § 27; GS 4-15 Stichwort Gerechtigkeit, 1.; GS 4-20 WDb Polizist · Abl. 7.5
+Reichweite: Bestimmt ist, dass gestraft wird. Wie viel und in welcher Form, folgt daraus nicht. Der Korpus hat zwei Bestimmungen nebeneinander: Der Rechtsbrecher bleibt Rechtssubjekt, die Strafe soll seine „bürgerliche Existenz“ nicht zerstören (GS 2-13, `sources/2-…:36676`); und der „Wahn einer gewaltsam vom Verbrechen befreiten Gesellschaft“ gehört zu jeder Staatsgewalt (GS 3-97, `sources/5-…:23414`). Wann welche vorherrscht, sagt der GSP nicht (Akte 37; EX: Davis, Hegel § 214). Der Einwand, das Gefängnis wachse aus dem Profitinteresse einer Branche, hält nicht (siehe unten).
 
 **7.6 Der Staat ist ideeller Gesamtkapitalist: Er sorgt für die Macht des Geldes, sie auszuüben ist Sache der Privaten. Wachstum ist dabei nicht ein Mittel für alles Mögliche, sondern der gültige Zweck, dem anderes zu dienen hat.** *Bestimmung.* Gemeint ist eine Funktion, nicht eine Instanz, die das Interesse der Kapitalisten besser kennt als diese.
 Stelle: GS 3-92 35 Jahre EG II, A.III.; GS 3-25 WDb Reiche, I.; GS 1-18 KdK II, § 9 · Abl. 7.6
@@ -334,6 +338,7 @@ Stelle: GS 3-17 KdK I, § 3 „Nach außen“ 1. bis 3. · Abl. 7.11
 
 **8.1 Der Sozialstaat ist keine Wohltat für Lohnarbeiter, sondern die notwendige Ergänzung eines Ausbeutungssystems, in dem der Lohn nicht für das Leben reicht; er stellt es auf Dauer. Die Arbeiter werden erhalten wegen ihrer Fähigkeit, Geld zu vermehren.** *Analyse.* Notwendig ist das nur unter der Voraussetzung der Eigentumsordnung, die selbst nicht notwendig ist; eine Naturnotwendigkeit ist nicht behauptet.
 Stelle: GS 2-03 Replik Proletariat; GS 2-92 Lohnarbeit; GS 1-19 KdK III, § 15.5 · Abl. 8.1
+Reichweite: Der zweite Satz ist die Formel von GS 2-92 („Erhalten werden sie wegen ihrer Fähigkeit, das Geld zu vermehren“). Er nennt den letzten Grund, nicht den leitenden Gesichtspunkt der Sozialpolitik. GS 2-16 weist die Lesart zurück, der Sozialstaat sorge für das nötige Quantum rentabler Arbeitskraft: Er ist „zuallererst eine *Hilfe*“, erhält auch und gerade die nicht Angewandten und sichert so die „*Benutzbarkeit* der Klasse in ihrer Gesamtheit“; wie viel und in welcher Form, ist „weder ausgemacht noch aus ihr deduzierbar“ (`sources/5-…:8571` bis `:8585`; BK 3.1).
 
 **8.2 Der Arbeitsschutz setzt dem Verschleiß der Arbeitskraft eine Schranke, damit der Verschleiß weitergehen kann.** *Analyse.* Abgeleitet ist, dass und aus welchem Interesse der Staat Schranken setzt; wie hoch sie ausfallen, entscheiden Interessenkonkurrenz und Abwägung im Einzelfall.
 Stelle: GS 1-19 KdK III, § 15.3 · Abl. 8.2
@@ -364,7 +369,7 @@ Stelle: GS 4-19 Frau im Kapitalismus, II., „Die Familie“ · Abl. 8.10
 
 **8.11 Ein Haushalt mit knappem Lohn braucht eine Arbeitsteilung, und die Unternehmen nutzen und verstärken eine bestehende: Wer weniger verdient, bleibt eher zu Hause, und wer eher zu Hause bleibt, wird schlechter bezahlt. Die Doppelbelastung zeigt, dass Lohnarbeit für beide Geschlechter kein Mittel für ein gutes Leben ist.** *Analyse.*
 Stelle: GS 4-19 Frau im Kapitalismus, I., „Der ‚Gender-Pay-Gap‘“ · Abl. 8.11
-Reichweite: Erklärt ist, wie sich eine vorgefundene Verteilung unter Lohnarbeit fortsetzt, nicht, warum sie in der Regel der Frau zufällt (SL 11; siehe unten).
+Reichweite: Erklärt ist, wie sich eine vorgefundene Verteilung unter Lohnarbeit fortsetzt, nicht, warum sie in der Regel der Frau zufällt (SL 11; siehe unten; Akte 33). Ein Suchansatz, der zur Methode des GSP passt, ist die Geschichte: die Veränderungen, durch die eine bestimmte Verteilung erst entstand, etwa im Familienrecht (EX: Harding, Hegel § 166) und in der Geschichte von Familienlohn, Sozialstaat und Zuverdienst (EX: Haraway). Der GSP hat mehr Texte zum Thema als GS 4-19 (BK 3.2), aber keine Ableitung.
 
 ## 9. Demokratie, Wahl, Faschismus
 
@@ -406,7 +411,7 @@ Reichweite: Erklärt ist die Richtung des Schlusses, nicht, warum finanziell Uns
 
 **10.5 Rassismus ist der moralische Blick auf die staatlich sortierte Menschheit und selbst ein Produkt der politischen Zwangsvereinigung, von der er nichts wissen will. Auch rassistische Brutalität in einem freiheitlichen Staat hat ihren Ausgangspunkt nicht in einer Rassentheorie, sondern in der Liebe zur eigenen Ordnung und zum Volk, das sie lebt.** *Analyse.* Das Gegenteil ist selbst ein Fehler: Wer die Koexistenz der Nationalcharaktere wegen ihrer Andersartigkeit lobt, glaubt ebenso an völkische Identität.
 Stelle: GS 1-95 Rassismus, I. und III.; GS 3-20 George Floyd · Abl. 10.5
-Reichweite: Für den Rassismus der Staatsbürger in Nationalstaaten bestimmt, nicht für jede Form (SP-Register 10.5.5).
+Reichweite: Für den Rassismus der Staatsbürger in Nationalstaaten bestimmt, nicht für jede Form (SP-Register 10.5.5). Wo der Staat selbst nach Rassen sortiert, urteilt der GSP anders: Die Apartheid war „Instrument einer besonderen kapitalistischen Klassenherrschaft“ (GS 1-94, `sources/6-…:118646`), während es Rassismus als Rechtslage „im modernen bürgerlichen Gemeinwesen nicht mehr“ gibt (GS 1-21, `sources/6-…:6495`). Was dazwischen liegt, der Rassismus als Recht in einer bürgerlichen Demokratie (Süden der USA bis 1965), ist nicht erklärt; GS 1-15 und GS 3-20 erklären die heutige Lage der Schwarzen in den USA verschieden, einmal aus den Sitten der Konkurrenz, einmal aus einem Volk, dem sie fremd sind (Akte 36; EX: Davis).
 
 ## 11. Imperialismus, Diplomatie, Krieg
 
@@ -473,7 +478,7 @@ Stelle: GS 3-20 Schule der Konkurrenz; GS 1-19 KdK III, § 15, Im Innern 4. · A
 
 **16.2 Der Staat organisiert Wissenschaft als Mittel der Konkurrenz und setzt sie dafür ausdrücklich als autonom. Ratschläge, die als objektiv haltbare Richtlinien an alle Konkurrenten gehen, können keinen allgemeinen Vorsprung garantieren, weil Vorsprung relativ ist.** *Analyse.*
 Stelle: GS 1-19 KdK III, § 15, Im Innern 2.; GS 3-25 Nachtrag, „Inwiefern falsch“ · Abl. 16.2
-Reichweite: Dass ein Rat einem einzelnen Unternehmen nützen kann, ist nicht bestritten (Akte 12, enge Lesart).
+Reichweite: Dass ein Rat einem einzelnen Unternehmen nützen kann, ist nicht bestritten (Akte 12, enge Lesart). Für die Naturwissenschaften gilt die Kritik aus 1.6 nicht: Sie lösen nach dem GSP ein, was sie versprechen, und Fehldeutungen entstehen dort „aus sachfremden Gründen“ wie Auftragslage und privatem Ehrgeiz (GS 4-13, `sources/14-…:9649`). Fälle, in denen ein Vorurteil in den Inhalt einer Naturwissenschaft eingeht, das weder kommerziell noch privat ist, behandelt er nicht (Akte 32; EX: Haraway, Harding, Weasel).
 
 **16.3 Die demokratische Öffentlichkeit ist frei und dient gerade so der Herrschaft: Sie informiert vom nationalen Standpunkt aus, kontrolliert die Machthaber im Interesse funktionierender Macht und verwandelt den Gegensatz von Herrschaft und Volk in eine Frage von Vertrauen, Verantwortung und Personal.** *Analyse.*
 Stelle: GS 4-23 KdK V, § 27, „Gewaltmonopol, Volk, Leitkultur“; GS 1-11 Öffentlichkeit; GS 3-18 Öffentliche Meinung, II. · Abl. 16.3
@@ -571,6 +576,14 @@ Die folgenden Einwände sind an den Primärtexten gescheitert. Wer sie wieder vo
 | Der bewusst opferbereite Soldat sei ein Fall, den der GSP nicht kenne. | GS 1-06 behandelt „pure Opfer“. | VW |
 | Zwei Jobangebote vergleichen zu können widerlege die Kritik der Erwerbsquelle. | GS 2-08 gesteht das ausdrücklich zu. | VW |
 | Iran: Das „Generalexempel“ von 3-25 habe nicht getragen. | Ein Exempel für einen Machtanspruch ist keine Erfolgsgarantie. | VW |
+| Der Sozialstaat sorge für das nötige Quantum rentabler Arbeitskraft; wer nicht mehr rentabel ist, müsste fallen gelassen werden. | GS 2-16 weist diese Lesart ausdrücklich zurück: Hilfe, die vom Gesichtspunkt der rentablen Benutzung emanzipiert ist und die Benutzbarkeit der Klasse im Ganzen sichert. | BK 3.1; EX: Nymoen/Dreßler |
+| Der Marxismus mache die Arbeit zur Natur des Menschen. | Der GSP bestimmt Arbeit unter dem Kapital als Dienst am Eigentum und kritisiert ihre Verehrung; einen proletarischen Klassenstandpunkt als Erkenntnisquelle lehnt er ab (GS 2-03, GS 2-10 Fn. 4). | EX: Haraway (Cyborg) |
+| Der Marxismus könne unbezahlte Arbeit nicht fassen. | GS 4-19 behandelt die Hausarbeit ausdrücklich; dass sie keinen Wert bildet, ist ein Befund über das Kapital, kein blinder Fleck. | EX: Haraway, Harding |
+| Die Bildung der Frauen sei das wirksamste Mittel gegen Armut; das übersehe der GSP. | GS 4-94 behandelt gerade das: Die Bildung wird dort durch ihre Wirkung auf die Zahl der Armen begründet, nicht durch ihren Nutzen für sie. | EX: Harding (Just add women) |
+| Das Gefängnis wachse, weil Firmen daran verdienen. | Die Privatgefängnisse halten nach Davis' eigenen Zahlen einen kleinen Teil der Gefangenen, die übrigen Gewinne stammen aus dem Staatshaushalt; für den GSP eine „Unkost der Selbstbehauptung des Staates“ (GS 1-25). Offen bleibt Maß und Form der Strafe (Akte 37). | EX: Davis (Prisons) |
+| Der Rassismus bestehe fort, weil er den Kapitalisten Extraprofit bringt. | Für die Zeit rechtlicher Gleichheit erklärt die Moral der Konkurrenz und des Volks den Fortbestand besser; Davis' eigenes Material spricht dafür. Offen bleibt der Rassismus als Recht (Akte 36). | EX: Davis (Women, Race and Class) |
+| Die Moralkritik des GSP behaupte, die Moral kenne keinen Unterschied von gut und böse. | Er vertritt die schwache Form des Leerheitseinwands: Die Moral bestimmt ihre Pflichten nicht aus sich, sie nimmt sie aus der bestehenden Ordnung. | EX: Hegel/Wood |
+| Die Leute würden durch Werbung und Medien manipuliert; oder umgekehrt: hinter den Wirkungen stehe niemand. | Der GSP lehnt beides ab: Manipulation setzt Subjekte mit diesem Zweck voraus, und Wirkungen, die keiner will, kommen aus Zwecken, die jemand hat. Offen bleibt, wie weit die Bildung der Bedürfnisse gelingt (Akte 38). | EX: Baudrillard |
 
 ## Was nicht im Kern steht, und warum
 
@@ -581,13 +594,13 @@ Diese Aussagen der Ableitung sind nicht widerlegt. Sie sind nur nicht entschiede
 | Aussage | Was offen ist | Geführt in |
 |---|---|---|
 | Kapital existiert für das einzelne Unternehmen „nur“ als Wachstum (3.1) | ob dauerhaft rentable Betriebe ohne Erweiterung ausgeschlossen sind | Akte 16; Abl. B.2 |
-| Der Erlös ist die „einzig gültige Art“, das Wertquantum zu beziffern (2.3) | ob damit die Unterscheidung von Wertgröße und Preis aufgegeben ist | Abl. 2.3, B.2 |
+| Der Erlös ist die „einzig gültige Art“, das Wertquantum zu beziffern (2.3) | ob damit die Unterscheidung von Wertgröße und Preis aufgegeben ist | Akte 34; Abl. 2.3, B.2 |
 | Relativer Mehrwert als betriebliche Kostensenkung (3.3) | die Verbilligung der Arbeiterkonsumgüter als Mittelglied | Akte 09; Abl. B.2 |
 | Fall der Profitrate als Größe (3.3, 6.2) | eine Rechnung, die die Tendenz zeigt; ob sie wirklich vorliegt | Akte 17 |
 | Aus unverwertetem Kredit folgt „allemal“ Geldentwertung (2.8) | der Verlauf am eigenen Maß des GSP (etwa Japan, die Jahre nach 2009) | Akte 15 |
 | Der Wechselkurs als Inflationsvergleich ist der „letzte Grund“ der Kurse (6.7) | der Verlauf über längere Zeit, am Maß aus 15 | Akte 20 |
 | Bankguthaben sind Geldersatz; Geldschöpfung ist Sache des Staates (4.6) | ob die Unterscheidung mehr erklärt als die übliche Geldhierarchie; der GSP gebraucht sie selbst nicht einheitlich | Akte 14 |
-| Jeder Staatskredit ist Geldschöpfung (7.8) | ob eine garantierte Anleihe dasselbe ist wie zusätzliches Geld im Umlauf | Abl. 7.8; Akten 14, 15 |
+| Jeder Staatskredit ist Geldschöpfung (7.8) | ob eine garantierte Anleihe dasselbe ist wie zusätzliches Geld im Umlauf | Akte 35; Abl. 7.8; Akten 14, 15 |
 | Krisen treten periodisch und allgemein ein (4.7, 6.2) | „Fest steht nur“: festgesetzt, nicht abgeleitet; der nächste Text wäre „Das Finanzkapital II“ | Akte 19 |
 | Löhne fallen bei Überangebot „schrankenlos“ (5.3) | Untergrenzen aus Reproduktion und Bedarf der Kapitale | Akte 10 |
 | Der Staat ändert sein Recht, statt ein Vorhaben aufzugeben (7.4) | ob Verfassungsgerichtsurteile das einschränken | Akte 11; Abl. B.2 |
@@ -600,10 +613,15 @@ Diese Aussagen der Ableitung sind nicht widerlegt. Sie sind nur nicht entschiede
 | Gewohnheit ist ein „praktiziertes Urteil“ (15.4) | was wirkt, wenn das Urteil verworfen ist; Fortbestand und Abbau | Akten 03, 24 |
 | Moral ist allgemein die affirmative Stellung zu den Interessengegensätzen (15.1) | ob jedes moralische Urteil diese Gestalt hat; was Rücksicht bei Gegensätzen ist, die nicht aus dem Eigentum stammen und die GS 1-11 selbst einräumt | Akte 29; Abl. 15.1 |
 | Klimapolitik ist auf der Ebene der Staatszwecke Energiepolitik (17.3) | Fälle, in denen Klimaziel und Konkurrenzvorteil auseinanderfallen | Akte 18 |
-| Die Lage der Frau hat ihren Grund nicht in der Biologie (8.11) | warum die Familienrolle der Frau zufällt; ob die Schwangerschaft Vorwand oder eigener Grund ist | Abl. 8.11, B.2 |
+| Die Lage der Frau hat ihren Grund nicht in der Biologie (8.11) | warum die Familienrolle der Frau zufällt; ob die Schwangerschaft Vorwand oder eigener Grund ist | Akte 33; Abl. 8.11, B.2 |
 | Erfahrung spielt bei der Prüfung von Theorien keine Rolle (1.2); Popper ist getroffen (1.6) | wie weit der Satz reicht; ob die Kritik Popper trifft | Akte 13 |
 | Wann eine Lageanalyse falsch war | woran der GSP selbst eine frühere Diagnose korrigiert | Akten 04, 07 |
 | „in Wahrheit gar nicht kalkulieren können“ (GS 2-03) | ob jedes Urteil über den Nutzen der Erwerbsquelle falsch ist | Akte 01 |
+| Der Wille zur Anpassung verdirbt die Sachlichkeit; die Gesellschaftswissenschaften teilen das Interesse am Funktionieren (1.1, 1.6) | welches Interesse ein Urteil verdirbt und welches es braucht; Fälle aus den Naturwissenschaften | Akte 32 |
+| Der Klassenstaat ist einer, „der erklärten Rassismus weder braucht noch gebrauchen kann“ (10.5) | Rassismus als Recht in einer bürgerlichen Demokratie; Verhältnis von GS 1-15 und GS 3-20 | Akte 36 |
+| Die Strafe bestätigt das Gewaltmonopol (7.5) | Maß und Form der Strafe; Verhältnis von Wiederherstellung des Rechtssubjekts und Säuberung | Akte 37 |
+| Das Kapital bildet die Bedürfnisse nach seinen Verkaufsbedürfnissen (GS 3-19), Manipulation ist keine Erklärung (15.4) | wie weit die Bildung gelingt und was am gebildeten Bedürfnis Urteil ist | Akte 38 |
+| Die Gesinnung des Volks ist ein Urteil (10.1, 15.4) | ob die Identifikation dem Urteil über das Interesse vorausgeht; Hegels Gesinnung als Gewohnheit aus Einrichtungen | Akte 30 |
 
 **Zeitgebundene Lagebeurteilungen.** 10.6 (Nachkriegsordnung, Holocaust-Gedenken und Israel), 11.4 (amerikanische Weltordnung seit 1945), 12.5 (deutsche Führung in Europa 1993 bis 2018), 13.1 bis 13.5 (USA, Dollar, „America first“, Japan und China, Russland), 14.4 bis 14.7 (politischer Kredit, Zerfall, Naher Osten, Israel). Sie wenden die allgemeinen Bestimmungen auf eine Lage an und gelten für deren Zeitraum (Abl. B.4). Ob sie getroffen haben, ist eine eigene Prüfung (Akte 07).
 

@@ -1,6 +1,8 @@
 # 15 Folgt Geldentwertung notwendig aus nicht verwertetem Kredit?
 
-**Status:** offen, enger gefasst · **Stärke:** ernste Notwendigkeitsbehauptung von 1997, 2018 abgeschwächt; der GSP nennt selbst ein Maß für „nicht verwerteten Kredit“ (Steueraufkommen gegen Staatsschuld), an dem sie prüfbar ist · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Ernste Notwendigkeitsbehauptung von 1997, 2018 abgeschwächt; der GSP nennt selbst ein Maß für „nicht verwerteten Kredit“ (Steueraufkommen gegen Staatsschuld), an dem sie prüfbar ist.
 
 ## These
 

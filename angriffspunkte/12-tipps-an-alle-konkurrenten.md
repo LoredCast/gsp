@@ -1,6 +1,8 @@
 # 12 Tipps, die an alle gehen: ‚nicht funktionieren‘ oder ‚kein Vorsprung für alle‘?
 
-**Status:** offen · **Stärke:** Reichweitenfrage; die engere Lesart liegt beim GSP nahe · **Stand:** 12.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Reichweitenfrage; die engere Lesart liegt beim GSP nahe.
 
 ## These
 

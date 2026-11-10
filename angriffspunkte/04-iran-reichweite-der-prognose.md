@@ -1,6 +1,8 @@
 # 04 Iran: Wie weit reicht der Ausschluss von 2020?
 
-**Status:** zurückgestellt (im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md) für eine spätere, gesonderte Frage vorgemerkt) · **Stärke:** konkret und belegt, aber als Widerlegung bisher nicht tragfähig · **Stand:** 12.10.2026
+**Status:** zurückgestellt (im [aktuellen Entwurf](../korrespondenz/entwuerfe/antwort-an-stefan-aktuell.md) für eine spätere, gesonderte Frage vorgemerkt) · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Konkret und belegt, aber als Widerlegung bisher nicht tragfähig.
 
 ## These
 

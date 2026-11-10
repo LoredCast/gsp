@@ -1,6 +1,8 @@
 # 16 Gibt es Kapitalverwertung ohne Wachstum?
 
-**Status:** offen · **Stärke:** begrifflicher Einwand gegen ein „nur“; § 7 begründet das Wachstum aus dem maßlosen Zweck und aus dem Vorgriff der Erweiterung, nicht aus der Konkurrenz. Beide Gründe gelten erst, wenn erweitert wird · **Stand:** 14.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Begrifflicher Einwand gegen ein „nur“; § 7 begründet das Wachstum aus dem maßlosen Zweck und aus dem Vorgriff der Erweiterung, nicht aus der Konkurrenz. Beide Gründe gelten erst, wenn erweitert wird.
 
 ## These
 

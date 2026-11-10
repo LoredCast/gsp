@@ -1,6 +1,8 @@
 # 10 „Schrankenloser“ Verfall des Lohns?
 
-**Status:** offen · **Stärke:** laut Review einer der stärksten Einwände gegen eine Einzelaussage · **Stand:** 12.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Der Satz ist an das Überangebot gebunden; als Hauptangriff zu schwach. Ein Beispiel für die zweite Leitfrage ([README](README.md)): Begründet ist, dass ein Überangebot den Lohn drückt, nicht das „schrankenlos“.
 
 ## These
 

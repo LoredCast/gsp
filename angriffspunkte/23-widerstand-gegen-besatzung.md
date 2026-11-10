@@ -1,6 +1,8 @@
 # 23 Widerstand gegen Besatzung: Ist jede Gegenwehr „opferbereiter Nationalismus“?
 
-**Status:** offen, enger gefasst · **Stärke:** schwächer als bisher geführt; GS 4-23 trennt selbst das Überlebensmotiv von der Staatsfunktion, „Unsere Ukrainer“ urteilt über die n-tv-Figuren, die sich mit Hymne und „Ruhm der Ukraine!“ zur Nation bekennen. Offen bleibt der freiwillige Schutz, der kein Opfer für die Nation ist · **Stand:** 16.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt, eng · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Schwächer als bisher geführt; GS 4-23 trennt selbst das Überlebensmotiv von der Staatsfunktion, „Unsere Ukrainer“ urteilt über die n-tv-Figuren, die sich mit Hymne und „Ruhm der Ukraine!“ zur Nation bekennen. Offen bleibt der freiwillige Schutz, der kein Opfer für die Nation ist.
 
 ## These
 

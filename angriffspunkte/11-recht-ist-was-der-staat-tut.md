@@ -1,6 +1,8 @@
 # 11 „Recht ist, was der Staat tut“: Rechtsetzung oder jedes Amtshandeln?
 
-**Status:** offen · **Stärke:** Präzisierungsfrage; der GSP kennt die Bindung der Organe selbst · **Stand:** 12.10.2026
+**Status:** offen · **Befund:** schwach · **Gewicht:** gering · **Stand:** 10.11.2026
+
+**Einschätzung:** Präzisierungsfrage; der GSP kennt die Bindung der Organe selbst.
 
 ## These
 
@@ -25,6 +27,10 @@ Dann ist der Satz auf die Rechtsetzung einzuschränken. Frage an den GSP: Gilt e
 
 - `rg -n -i "verfassungswidrig|rechtswidrig|Bundesverfassungsgericht" sources/6-staat-recht-demokratie.md`
 - Abschnitt 7.4 der [Theorieschrift](../theorie/GSP-Theorie.md) (Gewaltenteilung) gegenlesen.
+
+## Außenstimmen aus externen Texten
+
+- **Hegel, Rechtsphilosophie § 214** ([Auswertung](../extern/hegel-grundlinien-rechtsphilosophie/auswertung.md)): Hegel räumt ein, dass das Recht bei der Anwendung in eine Entscheidung übergeht, die sich nicht aus dem Begriff ergibt. Das stützt die enge Lesart dieser Akte: Was der Staat setzt, ist Recht; damit ist nicht gesagt, dass jede Amtshandlung es ist.
 
 ## Herkunft
 

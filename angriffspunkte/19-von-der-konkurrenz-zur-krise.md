@@ -1,6 +1,8 @@
 # 19 Wie wird aus der Konkurrenz die allgemeine Krise?
 
-**Status:** offen, enger gefasst · **Stärke:** offene Ableitungsfrage, aber nur noch am Übergang von „beständig“ zu „periodisch“; der Einwand über die Lohnsumme trifft nur den Wortlaut von 1998 · **Stand:** 13.10.2026
+**Status:** offen · **Befund:** trägt eingeschränkt · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Offene Ableitungsfrage, aber nur noch am Übergang von „beständig“ zu „periodisch“; der Einwand über die Lohnsumme trifft nur den Wortlaut von 1998.
 
 ## These
 

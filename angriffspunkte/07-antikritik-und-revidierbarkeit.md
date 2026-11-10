@@ -1,6 +1,8 @@
 # 07 Antikritik und Revidierbarkeit: Woran könnte eine GSP-Bestimmung scheitern?
 
-**Status:** als Vorwurf zurückgenommen, als methodische Frage offen · **Stärke:** schwach, solange kein Beispiel vorliegt · **Stand:** 12.10.2026
+**Status:** offen als Frage, als Vorwurf zurückgenommen · **Befund:** offene Frage · **Gewicht:** mittel · **Stand:** 10.11.2026
+
+**Einschätzung:** Schwach, solange kein Beispiel vorliegt.
 
 ## These
 

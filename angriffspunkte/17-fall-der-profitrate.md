@@ -1,6 +1,8 @@
 # 17 Senkt die Rationalisierung notwendig die Profitrate?
 
-**Status:** für GS 2-10 geklärt, offen nur für die Formulierung von 1996 · **Stärke:** schwach; der GSP schränkt die Aussage selbst ein · **Stand:** 12.10.2026
+**Status:** abgeschlossen für GS 2-10, offen nur für die Formulierung von 1996 · **Befund:** erledigt · **Gewicht:** – · **Stand:** 10.11.2026
+
+**Einschätzung:** Schwach; der GSP schränkt die Aussage selbst ein.
 
 ## These
 
