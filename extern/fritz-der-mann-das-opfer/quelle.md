@@ -23,6 +23,8 @@ Das Buch setzt Zitate in »…«. In der Auswertung stehen Anführungen innerhal
 - **Erkennungsfehler** sind häufig. Gemeint sind unter anderem Susan Faludi (»Susan Verludi«), Virginie Despentes (»Virginie de Pond«), Incel (»Insel«), Robert Briffault (»Prifos«), Philipp Hübl (»Philipp Hübel«), Bundesrat Beat Jans (»Beatianz«), Manosphere (»Menosphe«, »Manusphere«), Andrew Tate (»Android Tate«), Leerstelle (»Lehrstelle«), Klaus Theweleit (»TV Light«), Gen Z (»GenC«). Zitiert wird nur, wo der Wortlaut verständlich ist; sonst gibt die Auswertung den Inhalt wieder.
 - **Julia Ebner** stellt sich als Radikalisierungsforscherin und Mutter zweier Söhne vor (SRF Z. 17–27). Ihr Buch wird nur in verstümmelter Form angesprochen (SRF Z. 248–250) und ist nicht ausgewertet.
 
+**Davis.** Für die zweite Nachprüfung (Abschnitt 5 der Auswertung) ist Angela Y. Davis, *Women, Race and Class*, herangezogen, in derselben Textfassung (4023 Zeilen), die der [Davis-Auswertung](../davis-women-race-and-class/quelle.md) zugrunde liegt; manuel hat sie am 16.11.2026 noch einmal hochgeladen. »Davis Z.« bezieht sich auf diese Datei.
+
 ## Gliederung des Buchs mit Zeilen der Textfassung
 
 Das Buch ist ein Essay in vier Teilen, gerahmt von zwei Abschnitten über den Tod von Fritz' Bruder. Die Teile haben kurze Abschnitte mit Zwischentiteln.
