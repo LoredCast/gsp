@@ -9,7 +9,7 @@ Hegels Text von 1820, die Zusätze, die Eduard Gans 1833 aus Vorlesungsnachschri
 **Rekonstruierte Stellen.** Mit **†** beginnen die Stücke, die in der Seminarvorlage verstümmelt sind oder fehlen und hier nach der vollständigen Abschrift stehen:
 
 - † Schluss des Zusatzes zu § 158 (S. 307 f.), in der Vorlage zu Silbensalat zerschossen;
-- † S. 311 und der Anfang von S. 312 (Schluss von § 162, die Anmerkung zu § 162, die Randnotizen zu § 162 und der Anfang der Randnotizen zu § 162 Anm.), die in der Vorlage fehlen;
+- † S. 311 und 312 (Schluss von § 162, die Anmerkung zu § 162, die Randnotizen zu § 162 und der Anfang der Randnotizen zu § 162 Anm.), die in der Vorlage fehlen;
 - † der letzte Satz des Zusatzes zu § 164 (S. 318), mit dem die Vorlage abbricht;
 - † § 157 und der Anfang seiner Randnotizen (S. 306), die vor dem Beginn der Vorlage stehen.
 
@@ -141,7 +141,7 @@ Die Ehe ist wesentlich ein sittliches Verhältnis. Früher ist, besonders in den
 
 Als subjektiver Ausgangspunkt der Ehe kann mehr die besondere Neigung der beiden Personen, die in dies Verhältnis treten, oder die Vorsorge und Veranstaltung der Eltern usf. erscheinen; der objektive Ausgangspunkt aber ist die freie Einwilligung der Personen, und zwar dazu, eine Person auszumachen, ihre natürliche und einzelne Persönlichkeit in jener Einheit aufzugeben, welche nach dieser Rücksicht eine **[S. 311]** † Selbstbeschränkung, aber eben, indem sie in ihr ihr substantielles Selbstbewußtsein gewinnen, ihre Befreiung ist.
 
-[Lesefassung: In der Vorlage fehlen S. 311 und der Anfang von S. 312. Alles bis zur Markierung »Ende der Lücke« steht nach der vollständigen Abschrift. Die Ausgabe sperrt »eine« in »eine Person auszumachen«.]
+[Lesefassung: In der Vorlage fehlen S. 311 und 312; sie springt vom Ende von S. 310 zum Anfang von S. 313. Alles bis zur Markierung »Ende der Lücke« steht nach der vollständigen Abschrift. Die Ausgabe sperrt »eine« in »eine Person auszumachen«.]
 
 ### Anmerkung zu § 162
 
