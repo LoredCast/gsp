@@ -1,6 +1,6 @@
 # Spickzettel: Hegel, Rechtsphilosophie §§ 158–164: Familie, Liebe, Ehe (TWA 7, S. 306–318), und Knowles, S. 242–252
 
-Einseitige Kurzfassung der [Seminarvorbereitung](seminarvorbereitung.md). Zahlen in Klammern verweisen auf ihre Abschnitte, »S.« auf TWA 7. † = in der Vorlage verstümmelt oder fehlend (ganz fehlen S. 306, 311, 312), im Buch nachsehen. § 162 fehlt im Dateinamen, ist also wohl nicht Pflichtlektüre: Belege daraus als solche ausweisen.
+Einseitige Kurzfassung der [Seminarvorbereitung](seminarvorbereitung.md). Zahlen in Klammern verweisen auf ihre Abschnitte, »S.« auf TWA 7. † = in der Vorlage verstümmelt oder fehlend (ganz fehlen S. 306, 311, 312; in § 159 ist »über« verrutscht: »übergeht«, nicht »geht«), im Buch nachsehen. § 162 fehlt im Dateinamen, ist also wohl nicht Pflichtlektüre: Belege daraus als solche ausweisen.
 
 ## Der Gang (2, 4.17)
 
@@ -9,7 +9,7 @@ Einseitige Kurzfassung der [Seminarvorbereitung](seminarvorbereitung.md). Zahlen
 | 306–307 | § 157, Randn. † | Familie, bürgerliche Gesellschaft, Staat; Liebe gilt nicht im Staat | »Achtung für das Gesetz – nicht Liebe oder Furcht« |
 | 307 | § 158 | Liebe als empfundene Einheit | »nicht als eine Person für sich, sondern als Mitglied« |
 | 307–308 | Zusatz zu § 158 † | zwei Momente; Widerspruch und Auflösung | »der ungeheuerste Widerspruch, den der Verstand nicht lösen kann« |
-| 308–309 | § 159, Randn., Zusatz | Form des Personenrechts erst bei der Auflösung | »Recht [kann] nicht an Liebe geltend gemacht werden« |
+| 308–309 | § 159 †, Randn., Zusatz | Form des Personenrechts erst bei der Auflösung | »Recht [kann] nicht an Liebe geltend gemacht werden« |
 | 309–310 | §§ 160–161 | Ehe, Vermögen, Erziehung; Natur wird geistige Liebe | »in eine geistige, in selbstbewußte Liebe, umgewandelt« |
 | 310 | Zusatz zu § 161 | nicht Geschlechtsverhältnis, nicht Vertrag (Kant), nicht bloße Liebe | »die rechtlich sittliche Liebe« |
 | 310–311 | § 162 † | freie Einwilligung, eine Person auszumachen | »Selbstbeschränkung«, aber »ihre Befreiung« |
@@ -21,12 +21,12 @@ Einseitige Kurzfassung der [Seminarvorbereitung](seminarvorbereitung.md). Zahlen
 
 - **Schichten (1.3):** Haupttext und Anm. 1820; Randnotizen = Hegels Handexemplar; Zusätze = Gans 1833. Die schärfsten Sätze über Frauen stehen in Randnotizen und Zusätzen; Knowles zieht die Randnotizen nicht heran.
 - **Vorausgesetzt (1.2):** Person (§§ 35 f.); Vertrag und Stipulation (§§ 75, 78 f.); Subjektivität als Prinzip der modernen Welt, »die Liebe, das Romantische« (§ 124 Anm., S. 233); Pflicht als Befreiung (§ 149); Freiheit »in der Form der Empfindung« (§ 7 Zusatz, S. 57).
-- **Ableitung (4.17):** Wiederholung von Eigentum und Vertrag auf höherer Stufe: zwei Willen werden eins, bewusst als Empfindung, nicht als Gesetz. Gegen die Zufälligkeit setzt Hegel die Form: Erklärung, Anerkennung durch »Familie und Gemeinde« (§ 164). Dass die Familie den Staat voraussetzt, begründet erst § 256 Anm.
+- **Ableitung (4.17):** Die Ehe nimmt den Vertrag auf höherer Stufe auf (§ 163 Anm., § 164): zwei Willen werden eins, bewusst als Empfindung, nicht als Gesetz. Gegen die Zufälligkeit setzt Hegel die Form: Erklärung, Anerkennung durch »Familie und Gemeinde« (§ 164). Dass die Familie den Staat voraussetzt, begründet erst § 256 Anm.
 
 ## Kernbegriffe (5)
 
-- **Widerspruch der Liebe (5.1):** Ich muss für mich sein, um mich zu geben (»was schon vereint ist, gibt sich nicht«, Randn. zu § 168, S. 322), und mich geben, um ich zu sein. Die Liebe löst das als Empfindung, die Ehe hält es fest. Im Zusatz zu § 158 symmetrisch; im Entwurf behält nur der Mann sein Fürsichsein draußen (§ 166): Diagnose, nicht Definition (These 2).
-- **Eine Person (5.2):** holistisch; deflationär (Knowles: »metaphysical construction«, die Rechtsperson nach § 170 erst getrennt davon, S. 252); relational (Substanz als »das Verhältnis zu ihr selbst von Akzidenzen«, § 163 Anm.). Rechtsfolge: Vermögen (§ 170), der Mann als Vertreter (§ 171, S. 324), Einheit erst in den Kindern gegenständlich (§ 173, S. 325).
+- **Widerspruch der Liebe (5.1):** Ich muss für mich sein, um mich zu geben (»was schon vereint ist, gibt sich nicht«, Randn. zu § 168, S. 322), und mich geben, um ich zu sein. Die Liebe löst das als Empfindung, die Ehe hält es fest. Im Zusatz zu § 158 symmetrisch; im Entwurf durchlebt der Mann beide Seiten (Entzweiung draußen, Einheit drinnen, § 166), die Frau bleibt in der Unmittelbarkeit: asymmetrisch, nicht komplementär; Diagnose, nicht Definition (These 2).
+- **Eine Person (5.2):** holistisch; deflationär (Knowles: »metaphysical construction«, S. 245; verflacht § 163 Anm.); relational (Substanz als »das Verhältnis zu ihr selbst von Akzidenzen«, § 163 Anm.). Rechtsfolge: Vermögen (§ 170), der Mann als Vertreter (§ 171, S. 324), Einheit erst in den Kindern gegenständlich (§ 173, S. 325).
 - **Gefühl, Recht, Form (5.3):** Geboten ist die Ehe, nicht die Liebe; geschützt ist die Einheit, nicht der Anspruch. Rechtlos sind die Glieder vorher nicht: Ihr Recht am Gemeinsamen und die Disposition des Hauptes »können aber in Kollision kommen« (§ 171).
 - **Asymmetrie (5.4):** schon in §§ 162–164: »Was will der Mann, das Mädchen?«, »Selbständigkeit außer der Ehe«, »Grund und Boden«, »Wissenschaft, Staat, Kunst«, »Mädchen gibt ihre Ehre auf«. Ablösbar (Knowles) oder tragend (verteilt den Widerspruch)?
 
@@ -42,7 +42,7 @@ Einseitige Kurzfassung der [Seminarvorbereitung](seminarvorbereitung.md). Zahlen
 - **Liebe:** drei Dimensionen; das ‚Wir‘ jenseits von Egoismus und Altruismus; »I think these things are true« (S. 246). Frage: warum in der PhG Kampf statt Liebe?
 - **Ehe:** Zeremonie befreit von den »contingencies of passion« (S. 249); »Love is easy; it is sex that is hard« (S. 249); »They perplex me, too« (S. 250).
 - **Frauen, Homo-Ehe, Monogamie, Inzest:** Arbeitsteilung den Familien überlassen; Homo-Ehe nach Hegels Gründen vernünftig (S. 251); »voyage of discovery« (S. 252).
-- **Schwächen (7.4):** »coy« (S. 247) zu pauschal: Entschluss vor Neigung »kann selbst als der sittlichere Weg angesehen werden« (§ 162 Anm.); Kantstelle ist Zusatz zu § 161, nicht § 162A; eigene Bereiche »for the partners« lässt Hegel nicht zu (S. 246): für beide richtig; die Rollenverteilung verwirft er (S. 250 f.), folgert aber nicht, dass Hegel Selbständigkeit draußen beim Mann mit der Einheit vereinbar findet (These 7); »Love is easy« verkehrt Hegels Problem; »only joke« (S. 250), aber Randn. zu § 166 ernst; Zeugung widerlegt, Differenzargument nicht (§ 165; Randn. zu §§ 162, 168); keine Randnotizen.
+- **Schwächen (7.4):** »coy« (S. 247) zu pauschal, der Fehler ist, dass er § 162 Anm. nicht heranzieht (»kann selbst als der sittlichere Weg angesehen werden«); Kantstelle ist Zusatz zu § 161, nicht § 162A; »Love is easy« verkehrt Hegels Problem; »only joke« (S. 250), aber Randn. zu § 166 ernst; Zeugung widerlegt, Differenzargument nicht (§ 165; Randn. zu §§ 162, 168); keine Randnotizen.
 
 ## Fragen (8)
 

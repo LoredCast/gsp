@@ -9,6 +9,7 @@ Hegels Text von 1820, die Zusätze, die Eduard Gans 1833 aus Vorlesungsnachschri
 **Rekonstruierte Stellen.** Mit **†** beginnen die Stücke, die in der Seminarvorlage verstümmelt sind oder fehlen und hier nach der vollständigen Abschrift stehen:
 
 - † Schluss des Zusatzes zu § 158 (S. 307 f.), in der Vorlage zu Silbensalat zerschossen;
+- † § 159 (S. 308), in der Vorlage mit Nachbarzeilen vermischt (das »über« von »übergeht« ist in die Zeile darüber gerutscht);
 - † S. 311 und 312 (Schluss von § 162, die Anmerkung zu § 162, die Randnotizen zu § 162 und der Anfang der Randnotizen zu § 162 Anm.), die in der Vorlage fehlen;
 - † der letzte Satz des Zusatzes zu § 164 (S. 318), mit dem die Vorlage abbricht;
 - † § 157 und der Anfang seiner Randnotizen (S. 306), die vor dem Beginn der Vorlage stehen.
@@ -76,7 +77,7 @@ Liebe heißt überhaupt das Bewußtsein meiner Einheit mit einem anderen, so da�
 
 ### § 159
 
-Das Recht, welches dem Einzelnen auf dem Grund der Familieneinheit zukommt und was zunächst sein Leben in dieser Einheit selbst ist, tritt nur insofern in die Form Rechtens als des abstrakten Moments der bestimmten Einzelheit hervor, als die Familie in die Auflösung übergeht und die, welche als Glieder sein sollen, in ihrer Gesinnung und Wirklichkeit als selbständige Personen werden und, was sie in der Familie für ein bestimmtes Moment ausmachten, nun in der Absonderung, also nur nach äußerlichen Seiten (Vermögen, Alimentation, Kosten der Erziehung u. dgl.) erhalten.
+† Das Recht, welches dem Einzelnen auf dem Grund der Familieneinheit zukommt und was zunächst sein Leben in dieser Einheit selbst ist, tritt nur insofern in die Form Rechtens als des abstrakten Moments der bestimmten Einzelheit hervor, als die Familie in die Auflösung übergeht und die, welche als Glieder sein sollen, in ihrer Gesinnung und Wirklichkeit als selbständige Personen werden und, was sie in der Familie für ein bestimmtes Moment ausmachten, nun in der Absonderung, also nur nach äußerlichen Seiten (Vermögen, Alimentation, Kosten der Erziehung u. dgl.) erhalten.
 
 [Lesefassung: Die ersten Zeilen des Paragraphen sind in der Vorlage mit Wörtern der Nachbarzeilen vermischt (»Das Recht, welches dem eatin aufächstdemseinGruLebnden derin«). Die Meiner-Ausgabe (nach GW 14) liest »auf den Grund der Familien-Einheit«.]
 
